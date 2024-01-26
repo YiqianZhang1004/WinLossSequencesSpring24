@@ -12,3 +12,8 @@ overUnder: over under for each game
 overUnderOpen: ?
 homeMoneyline: home money line.
 awayMoneyline: away moneyline.
+
+
+seasons prior to 2013 do not have betting line data.
+some games are missing certain betting data.
+some games have multiple sources with different betting data, so the betting data is averaged.
