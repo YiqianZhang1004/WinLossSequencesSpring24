@@ -1,0 +1,1435 @@
+data,season,team1,team2,score1,score2,result,spread,spreadOpen,overUnder,overUnderOpen,homeMoneyLine,awayMoneyLine
+2009-08-27,2009,indiana state,quincy,20,26,0
+2009-09-03,2009,bowling green,troy,31,14,1
+2009-09-03,2009,nc state,south carolina,3,7,0
+2009-09-03,2009,southeast missouri state,quincy,72,3,1
+2009-09-03,2009,maine,st. cloud state,34,27,1
+2009-09-03,2009,kent state,coastal carolina,18,0,1
+2009-09-03,2009,chattanooga,glenville state,30,13,1
+2009-09-03,2009,temple,villanova,24,27,0
+2009-09-03,2009,sam houston state,western illinois,28,35,0
+2009-09-03,2009,ut martin,iowa wesleyan,56,0,1
+2009-09-03,2009,ball state,north texas,10,20,0
+2009-09-04,2009,southern utah,utah tech,36,7,1
+2009-09-04,2009,iowa state,north dakota state,34,17,1
+2009-09-04,2009,murray state,kentucky wesleyan,66,10,1
+2009-09-04,2009,eastern illinois,illinois state,31,6,1
+2009-09-04,2009,indiana,eastern kentucky,19,13,1
+2009-09-04,2009,south dakota,william penn,52,0,1
+2009-09-04,2009,utah,utah state,35,17,1
+2009-09-04,2009,boise state,oregon,19,8,1
+2009-09-04,2009,delaware,west chester,35,0,1
+2009-09-05,2009,tulane,tulsa,13,37,0
+2009-09-05,2009,hawai'i,central arkansas,25,20,1
+2009-09-05,2009,miami (oh),kentucky,0,42,0
+2009-09-05,2009,new hampshire,st francis (pa),24,14,1
+2009-09-05,2009,purdue,toledo,52,31,1
+2009-09-05,2009,michigan state,montana state,44,3,1
+2009-09-05,2009,east carolina,appalachian state,29,24,1
+2009-09-05,2009,ohio state,navy,31,27,1
+2009-09-05,2009,penn state,akron,31,7,1
+2009-09-05,2009,syracuse,minnesota,20,23,0
+2009-09-05,2009,northwestern,towson,47,14,1
+2009-09-05,2009,west virginia,liberty,33,20,1
+2009-09-05,2009,iowa,northern iowa,17,16,1
+2009-09-05,2009,tennessee,western kentucky,63,7,1
+2009-09-05,2009,lehigh,central connecticut,21,28,0
+2009-09-05,2009,pittsburgh,youngstown state,38,3,1
+2009-09-05,2009,holy cross,georgetown,20,7,1
+2009-09-05,2009,butler,albion,42,3,1
+2009-09-05,2009,georgia tech,jacksonville state,37,17,1
+2009-09-05,2009,rhode island,fordham,41,28,1
+2009-09-05,2009,wagner,stonehill,42,45,0
+2009-09-05,2009,campbell,methodist,48,28,1
+2009-09-05,2009,st. joseph's (in),valparaiso,31,6,1
+2009-09-05,2009,vmi,robert morris,14,13,1
+2009-09-05,2009,boston college,northeastern,54,0,1
+2009-09-05,2009,air force,nicholls,72,0,1
+2009-09-05,2009,oregon state,portland state,34,7,1
+2009-09-05,2009,wyoming,weber state,29,22,1
+2009-09-05,2009,bryant,southern connecticut state,19,10,1
+2009-09-05,2009,eastern washington,western oregon,35,14,1
+2009-09-05,2009,montana,western state,38,0,1
+2009-09-05,2009,mississippi state,jackson state,45,7,1
+2009-09-05,2009,michigan,western michigan,31,7,1
+2009-09-05,2009,wake forest,baylor,21,24,0
+2009-09-05,2009,usc,san josé state,56,3,1
+2009-09-05,2009,oklahoma state,georgia,24,10,1
+2009-09-05,2009,notre dame,nevada,35,0,1
+2009-09-05,2009,illinois,missouri,9,37,0
+2009-09-05,2009,bethune-cookman,shaw,6,20,0
+2009-09-05,2009,uab,rice,44,24,1
+2009-09-05,2009,marshall,southern illinois,31,28,1
+2009-09-05,2009,furman,presbyterian college,45,21,1
+2009-09-05,2009,webber international,jacksonville,24,40,0
+2009-09-05,2009,arkansas-pine bluff,arkansas-monticello,3,27,0
+2009-09-05,2009,virginia,william & mary,14,26,0
+2009-09-05,2009,washington state,stanford,13,39,0
+2009-09-05,2009,clemson,middle tennessee,37,14,1
+2009-09-05,2009,sacred heart,marist,12,31,0
+2009-09-05,2009,colgate,monmouth,35,23,1
+2009-09-05,2009,duquesne,bucknell,24,19,1
+2009-09-05,2009,gardner-webb,mars hill,58,14,1
+2009-09-05,2009,north carolina,the citadel,40,6,1
+2009-09-05,2009,georgia southern,albany,29,26,1
+2009-09-05,2009,winston-salem,north carolina a&t,10,19,0
+2009-09-05,2009,hampton,north carolina central,31,24,1
+2009-09-05,2009,livingstone,savannah state,12,34,0
+2009-09-05,2009,norfolk state,virginia state,28,10,1
+2009-09-05,2009,florida a&m,delaware state,21,12,1
+2009-09-05,2009,old dominion,chowan,36,21,1
+2009-09-05,2009,wisconsin,northern illinois,28,20,1
+2009-09-05,2009,texas a&m,new mexico,41,6,1
+2009-09-05,2009,auburn,louisiana tech,37,13,1
+2009-09-05,2009,drake,grand view,22,0,1
+2009-09-05,2009,southern mississippi,alcorn state,52,0,1
+2009-09-05,2009,nebraska,florida atlantic,49,3,1
+2009-09-05,2009,louisiana,southern,42,19,1
+2009-09-05,2009,texas tech,north dakota,38,13,1
+2009-09-05,2009,florida,charleston southern,62,3,1
+2009-09-05,2009,austin peay,newberry,34,23,1
+2009-09-05,2009,oklahoma,byu,13,14,0
+2009-09-05,2009,texas,louisiana monroe,59,20,1
+2009-09-05,2009,arkansas,missouri state,48,10,1
+2009-09-05,2009,houston,northwestern state,55,7,1
+2009-09-05,2009,ohio,connecticut,16,23,0
+2009-09-05,2009,southeastern louisiana,texas a&m-commerce,41,7,1
+2009-09-05,2009,eastern michigan,army,14,27,0
+2009-09-05,2009,texas state,angelo state,48,28,1
+2009-09-05,2009,duke,richmond,16,24,0
+2009-09-05,2009,elon,davidson,56,0,1
+2009-09-05,2009,tennessee state,alabama a&m,7,24,0
+2009-09-05,2009,hofstra,stony brook,17,10,1
+2009-09-05,2009,kansas,northern colorado,49,3,1
+2009-09-05,2009,morehead state,southern virginia,61,10,1
+2009-09-05,2009,arkansas state,mississippi valley state,61,0,1
+2009-09-05,2009,kansas state,umass,21,17,1
+2009-09-05,2009,louisville,indiana state,30,10,1
+2009-09-05,2009,south florida,wofford,40,7,1
+2009-09-05,2009,vanderbilt,western carolina,45,0,1
+2009-09-05,2009,ucla,san diego state,33,14,1
+2009-09-05,2009,ucf,samford,28,24,1
+2009-09-06,2009,new mexico state,idaho,6,21,0
+2009-09-06,2009,virginia tech,alabama,24,34,0
+2009-09-06,2009,mcneese,henderson state,27,24,1
+2009-09-06,2009,prairie view,texas southern,17,7,1
+2009-09-06,2009,smu,stephen f. austin,31,23,1
+2009-09-06,2009,alabama state,concordia (al),38,33,1
+2009-09-06,2009,utep,buffalo,17,23,0
+2009-09-06,2009,azusa pacific,san diego,12,24,0
+2009-09-06,2009,unlv,sacramento state,38,3,1
+2009-09-06,2009,arizona state,idaho state,50,3,1
+2009-09-06,2009,california,maryland,52,13,1
+2009-09-06,2009,arizona,central michigan,19,6,1
+2009-09-06,2009,fresno state,uc davis,51,0,1
+2009-09-06,2009,washington,lsu,23,31,0
+2009-09-06,2009,south carolina state,grambling,34,31,1
+2009-09-06,2009,memphis,ole miss,14,45,0
+2009-09-06,2009,colorado,colorado state,17,23,0
+2009-09-07,2009,rutgers,cincinnati,15,47,0
+2009-09-08,2009,florida state,miami,34,38,0
+2009-09-10,2009,suny maritime,wagner,10,41,0
+2009-09-10,2009,winston-salem,florida a&m,10,34,0
+2009-09-10,2009,georgia tech,clemson,30,27,1
+2009-09-11,2009,tennessee tech,pikeville,51,10,1
+2009-09-11,2009,southeastern louisiana,union college,69,20,1
+2009-09-12,2009,toledo,colorado,54,38,1
+2009-09-12,2009,wake forest,stanford,24,17,1
+2009-09-12,2009,wisconsin,fresno state,34,31,1
+2009-09-12,2009,army,duke,19,35,0
+2009-09-12,2009,buffalo,pittsburgh,27,54,0
+2009-09-12,2009,indiana state,eastern illinois,0,31,0
+2009-09-12,2009,penn state,syracuse,28,7,1
+2009-09-12,2009,connecticut,north carolina,10,12,0
+2009-09-12,2009,northwestern,eastern michigan,27,24,1
+2009-09-12,2009,indiana,western michigan,23,19,1
+2009-09-12,2009,michigan state,central michigan,27,29,0
+2009-09-12,2009,iowa state,iowa,3,35,0
+2009-09-12,2009,florida,troy,56,6,1
+2009-09-12,2009,birmingham-southern,campbell,35,28,1
+2009-09-12,2009,holy cross,sacred heart,52,21,1
+2009-09-12,2009,davidson,lenoir-rhyne,0,42,0
+2009-09-12,2009,dayton,urbana,10,13,0
+2009-09-12,2009,marist,drake,6,34,0
+2009-09-12,2009,northeastern,maine,7,17,0
+2009-09-12,2009,st francis (pa),morehead state,31,0,1
+2009-09-12,2009,bryant,hofstra,24,40,0
+2009-09-12,2009,virginia tech,marshall,52,10,1
+2009-09-12,2009,presbyterian college,elon,7,41,0
+2009-09-12,2009,franklin,butler,19,49,0
+2009-09-12,2009,concordia (wi),valparaiso,17,20,0
+2009-09-12,2009,nebraska,arkansas state,38,9,1
+2009-09-12,2009,akron,morgan state,41,0,1
+2009-09-12,2009,nicholls,duquesne,14,7,1
+2009-09-12,2009,boston college,kent state,34,7,1
+2009-09-12,2009,montana state,utah tech,23,20,1
+2009-09-12,2009,tulane,byu,3,54,0
+2009-09-12,2009,appalachian state,mcneese,35,40,0
+2009-09-12,2009,wyoming,texas,10,41,0
+2009-09-12,2009,west virginia,east carolina,35,20,1
+2009-09-12,2009,virginia,tcu,14,30,0
+2009-09-12,2009,oklahoma state,houston,35,45,0
+2009-09-12,2009,washington,idaho,42,23,1
+2009-09-12,2009,navy,louisiana tech,32,14,1
+2009-09-12,2009,michigan,notre dame,38,34,1
+2009-09-12,2009,delaware,richmond,15,16,0
+2009-09-12,2009,rutgers,howard,45,7,1
+2009-09-12,2009,northern colorado,san diego,31,12,1
+2009-09-12,2009,youngstown state,austin peay,38,21,1
+2009-09-12,2009,uab,smu,33,35,0
+2009-09-12,2009,tennessee,ucla,15,19,0
+2009-09-12,2009,bethune-cookman,south carolina state,3,24,0
+2009-09-12,2009,missouri state,ut martin,24,14,1
+2009-09-12,2009,portland state,southern oregon,34,10,1
+2009-09-12,2009,colorado state,weber state,24,23,1
+2009-09-12,2009,savannah state,alabama state,17,20,0
+2009-09-12,2009,arkansas-pine bluff,langston,45,30,1
+2009-09-12,2009,northern iowa,south dakota,66,7,1
+2009-09-12,2009,california,eastern washington,59,7,1
+2009-09-12,2009,maryland,james madison,38,35,1
+2009-09-12,2009,colgate,stony brook,23,13,1
+2009-09-12,2009,north carolina a&t,norfolk state,17,13,1
+2009-09-12,2009,georgetown,lafayette,3,28,0
+2009-09-12,2009,florida state,jacksonville state,19,9,1
+2009-09-12,2009,nc state,murray state,65,7,1
+2009-09-12,2009,western carolina,gardner-webb,20,27,0
+2009-09-12,2009,umass,albany,44,7,1
+2009-09-12,2009,old dominion,virginia union,49,17,1
+2009-09-12,2009,chattanooga,furman,20,38,0
+2009-09-12,2009,bucknell,robert morris,26,23,1
+2009-09-12,2009,georgia,south carolina,41,37,1
+2009-09-12,2009,alabama,florida international,40,14,1
+2009-09-12,2009,liberty,north carolina central,35,10,1
+2009-09-12,2009,william & mary,central connecticut,33,14,1
+2009-09-12,2009,ball state,new hampshire,16,23,0
+2009-09-12,2009,oklahoma,idaho state,64,0,1
+2009-09-12,2009,sam houston state,north dakota state,48,45,1
+2009-09-12,2009,stephen f. austin,texas college,92,0,1
+2009-09-12,2009,louisiana monroe,texas southern,58,0,1
+2009-09-12,2009,grambling,northwestern state,38,17,1
+2009-09-12,2009,texas tech,rice,55,10,1
+2009-09-12,2009,southern,central state,68,0,1
+2009-09-12,2009,missouri,bowling green,27,20,1
+2009-09-12,2009,illinois,illinois state,45,17,1
+2009-09-12,2009,lsu,vanderbilt,23,9,1
+2009-09-12,2009,villanova,lehigh,38,17,1
+2009-09-12,2009,coastal carolina,monmouth,24,17,1
+2009-09-12,2009,samford,jacksonville,27,0,1
+2009-09-12,2009,middle tennessee,memphis,31,14,1
+2009-09-12,2009,south dakota state,georgia southern,44,6,1
+2009-09-12,2009,washington state,hawai'i,20,38,0
+2009-09-12,2009,alabama a&m,hampton,31,24,1
+2009-09-12,2009,wofford,charleston southern,42,14,1
+2009-09-12,2009,jackson state,tennessee state,7,14,0
+2009-09-12,2009,minnesota,air force,20,13,1
+2009-09-12,2009,north texas,ohio,30,31,0
+2009-09-12,2009,louisiana,kansas state,17,15,1
+2009-09-12,2009,southern mississippi,ucf,26,19,1
+2009-09-12,2009,auburn,mississippi state,49,24,1
+2009-09-12,2009,cal poly,sacramento state,38,19,1
+2009-09-12,2009,northern illinois,western illinois,41,7,1
+2009-09-12,2009,cincinnati,southeast missouri state,70,3,1
+2009-09-12,2009,utep,kansas,7,34,0
+2009-09-12,2009,western kentucky,south florida,13,35,0
+2009-09-13,2009,new mexico,tulsa,10,44,0
+2009-09-13,2009,new mexico state,prairie view,21,18,1
+2009-09-13,2009,ohio state,usc,15,18,0
+2009-09-13,2009,boise state,miami (oh),48,0,1
+2009-09-13,2009,san diego state,southern utah,35,19,1
+2009-09-13,2009,uc davis,montana,10,17,0
+2009-09-13,2009,arizona,northern arizona,34,17,1
+2009-09-13,2009,oregon,purdue,38,36,1
+2009-09-13,2009,san josé state,utah,14,24,0
+2009-09-13,2009,unlv,oregon state,21,23,0
+2009-09-17,2009,florida a&m,howard,48,10,1
+2009-09-17,2009,miami,georgia tech,33,17,1
+2009-09-19,2009,fresno state,boise state,34,51,0
+2009-09-19,2009,minnesota,california,21,35,0
+2009-09-19,2009,penn state,temple,31,6,1
+2009-09-19,2009,toledo,ohio state,0,38,0
+2009-09-19,2009,kentucky,louisville,31,27,1
+2009-09-19,2009,robert morris,dayton,14,21,0
+2009-09-19,2009,kansas,duke,44,16,1
+2009-09-19,2009,monmouth,duquesne,17,10,1
+2009-09-19,2009,purdue,northern illinois,21,28,0
+2009-09-19,2009,clemson,boston college,25,7,1
+2009-09-19,2009,wisconsin,wofford,44,14,1
+2009-09-19,2009,north carolina,east carolina,31,17,1
+2009-09-19,2009,michigan,eastern michigan,45,17,1
+2009-09-19,2009,army,ball state,24,17,1
+2009-09-19,2009,delaware,delaware state,27,17,1
+2009-09-19,2009,alabama,north texas,53,7,1
+2009-09-19,2009,cornell,bucknell,33,9,1
+2009-09-19,2009,jacksonville,old dominion,27,28,0
+2009-09-19,2009,butler,hanover,42,21,1
+2009-09-19,2009,texas southern,texas college,75,6,1
+2009-09-19,2009,northeastern,youngstown state,21,38,0
+2009-09-19,2009,holy cross,harvard,27,20,1
+2009-09-19,2009,georgetown,yale,10,31,0
+2009-09-19,2009,dartmouth,colgate,15,34,0
+2009-09-19,2009,presbyterian college,chattanooga,13,29,0
+2009-09-19,2009,north carolina central,morehead state,10,13,0
+2009-09-19,2009,missouri,furman,52,12,1
+2009-09-19,2009,morgan state,winston-salem,16,10,1
+2009-09-19,2009,samford,miles,31,12,1
+2009-09-19,2009,princeton,the citadel,7,38,0
+2009-09-19,2009,montana,portland state,49,17,1
+2009-09-19,2009,washington,usc,16,13,1
+2009-09-19,2009,maryland,middle tennessee,31,32,0
+2009-09-19,2009,southern mississippi,virginia,37,34,1
+2009-09-19,2009,akron,indiana,21,38,0
+2009-09-19,2009,notre dame,michigan state,33,30,1
+2009-09-19,2009,oklahoma,tulsa,45,0,1
+2009-09-19,2009,virginia tech,nebraska,16,15,1
+2009-09-19,2009,colorado,wyoming,24,0,1
+2009-09-19,2009,oregon,utah,31,24,1
+2009-09-19,2009,central michigan,alcorn state,48,0,1
+2009-09-19,2009,richmond,hofstra,47,0,1
+2009-09-19,2009,umass,rhode island,30,10,1
+2009-09-19,2009,florida,tennessee,23,13,1
+2009-09-19,2009,troy,uab,27,14,1
+2009-09-19,2009,iowa,arizona,27,17,1
+2009-09-19,2009,san diego,marist,17,10,1
+2009-09-19,2009,missouri state,murray state,35,10,1
+2009-09-19,2009,albany,maine,20,16,1
+2009-09-19,2009,eastern washington,northern colorado,16,0,1
+2009-09-19,2009,jackson state,grambling,17,27,0
+2009-09-19,2009,idaho,san diego state,34,20,1
+2009-09-19,2009,baylor,connecticut,22,30,0
+2009-09-19,2009,washington state,smu,30,27,1
+2009-09-19,2009,rutgers,florida international,23,15,1
+2009-09-19,2009,colorado state,nevada,35,20,1
+2009-09-19,2009,south dakota,drake,51,21,1
+2009-09-19,2009,northern iowa,st francis (pa),30,0,1
+2009-09-19,2009,north carolina a&t,hampton,14,24,0
+2009-09-19,2009,lafayette,liberty,13,19,0
+2009-09-19,2009,james madison,vmi,44,16,1
+2009-09-19,2009,norfolk state,william & mary,15,27,0
+2009-09-19,2009,davidson,campbell,24,7,1
+2009-09-19,2009,mississippi valley state,arkansas-pine bluff,7,27,0
+2009-09-19,2009,stony brook,brown,21,20,1
+2009-09-19,2009,pittsburgh,navy,27,14,1
+2009-09-19,2009,nc state,gardner-webb,45,14,1
+2009-09-19,2009,fordham,columbia,28,40,0
+2009-09-19,2009,northern arizona,southern utah,42,39,1
+2009-09-19,2009,wake forest,elon,35,7,1
+2009-09-19,2009,oregon state,cincinnati,18,28,0
+2009-09-19,2009,pennsylvania,villanova,3,14,0
+2009-09-19,2009,southeast missouri state,eastern illinois,14,23,0
+2009-09-19,2009,southern,tennessee state,21,17,1
+2009-09-19,2009,byu,florida state,28,54,0
+2009-09-19,2009,lsu,louisiana,31,3,1
+2009-09-19,2009,oklahoma state,rice,41,24,1
+2009-09-19,2009,northwestern state,north dakota,20,27,0
+2009-09-19,2009,eastern kentucky,tennessee tech,17,7,1
+2009-09-19,2009,south florida,charleston southern,59,0,1
+2009-09-19,2009,louisiana tech,nicholls,48,13,1
+2009-09-19,2009,western kentucky,central arkansas,7,28,0
+2009-09-19,2009,tcu,texas state,56,21,1
+2009-09-19,2009,southern illinois,southwest baptist,59,7,1
+2009-09-19,2009,alabama a&m,jacksonville state,13,45,0
+2009-09-19,2009,ohio,cal poly,28,10,1
+2009-09-19,2009,south dakota state,indiana state,41,0,1
+2009-09-19,2009,north dakota state,wagner,59,28,1
+2009-09-19,2009,georgia southern,western carolina,27,3,1
+2009-09-19,2009,western michigan,miami (oh),48,26,1
+2009-09-19,2009,south carolina,florida atlantic,38,16,1
+2009-09-19,2009,kent state,iowa state,14,34,0
+2009-09-19,2009,marshall,bowling green,17,10,1
+2009-09-19,2009,vanderbilt,mississippi state,3,15,0
+2009-09-19,2009,texas a&m,utah state,38,30,1
+2009-09-19,2009,towson,coastal carolina,21,17,1
+2009-09-19,2009,syracuse,northwestern,37,34,1
+2009-09-19,2009,western illinois,stephen f. austin,30,40,0
+2009-09-19,2009,ucf,buffalo,23,17,1
+2009-09-19,2009,new mexico,air force,13,37,0
+2009-09-19,2009,illinois state,austin peay,38,7,1
+2009-09-19,2009,ole miss,southeastern louisiana,52,6,1
+2009-09-19,2009,arkansas,georgia,41,52,0
+2009-09-19,2009,auburn,west virginia,41,30,1
+2009-09-20,2009,alabama state,edward waters,38,6,1
+2009-09-20,2009,memphis,ut martin,41,14,1
+2009-09-20,2009,new mexico state,utep,12,38,0
+2009-09-20,2009,texas,texas tech,34,24,1
+2009-09-20,2009,weber state,idaho state,44,17,1
+2009-09-20,2009,mcneese,savannah state,56,0,1
+2009-09-20,2009,stanford,san josé state,42,17,1
+2009-09-20,2009,arizona state,louisiana monroe,38,14,1
+2009-09-20,2009,ucla,kansas state,23,9,1
+2009-09-20,2009,unlv,hawai'i,34,33,1
+2009-09-24,2009,south carolina,ole miss,16,10,1
+2009-09-25,2009,harvard,brown,24,21,1
+2009-09-26,2009,nevada,missouri,21,31,0
+2009-09-26,2009,northwestern,minnesota,24,35,0
+2009-09-26,2009,florida state,south florida,7,17,0
+2009-09-26,2009,wisconsin,michigan state,38,30,1
+2009-09-26,2009,robert morris,bryant,13,20,0
+2009-09-26,2009,new hampshire,dartmouth,44,14,1
+2009-09-26,2009,michigan,indiana,36,33,1
+2009-09-26,2009,yale,cornell,12,14,0
+2009-09-26,2009,cincinnati,fresno state,28,20,1
+2009-09-26,2009,temple,buffalo,37,13,1
+2009-09-26,2009,mississippi state,lsu,26,30,0
+2009-09-26,2009,georgia tech,north carolina,24,7,1
+2009-09-26,2009,connecticut,rhode island,52,10,1
+2009-09-26,2009,kansas,southern mississippi,35,28,1
+2009-09-26,2009,indiana state,youngstown state,0,28,0
+2009-09-26,2009,lehigh,princeton,14,17,0
+2009-09-26,2009,columbia,central connecticut,13,22,0
+2009-09-26,2009,bucknell,marist,17,16,1
+2009-09-26,2009,wagner,st francis (pa),56,48,1
+2009-09-26,2009,morehead state,butler,21,28,0
+2009-09-26,2009,dayton,duquesne,24,17,1
+2009-09-26,2009,memphis,marshall,16,27,0
+2009-09-26,2009,elon,georgia southern,28,14,1
+2009-09-26,2009,charleston southern,north greenville,34,0,1
+2009-09-26,2009,air force,san diego state,26,14,1
+2009-09-26,2009,valparaiso,carthage,24,34,0
+2009-09-26,2009,boston college,wake forest,27,24,1
+2009-09-26,2009,missouri state,northern iowa,7,35,0
+2009-09-26,2009,georgetown,howard,11,14,0
+2009-09-26,2009,kansas state,tennessee tech,49,7,1
+2009-09-26,2009,wyoming,unlv,30,27,1
+2009-09-26,2009,ohio state,illinois,30,0,1
+2009-09-26,2009,northern illinois,idaho,31,34,0
+2009-09-26,2009,navy,western kentucky,38,22,1
+2009-09-26,2009,villanova,northeastern,56,7,1
+2009-09-26,2009,richmond,vmi,38,28,1
+2009-09-26,2009,appalachian state,samford,20,7,1
+2009-09-26,2009,florida a&m,tennessee state,31,12,1
+2009-09-26,2009,oregon,california,42,3,1
+2009-09-26,2009,tulane,mcneese,42,32,1
+2009-09-26,2009,virginia tech,miami,31,7,1
+2009-09-26,2009,clemson,tcu,10,14,0
+2009-09-26,2009,nc state,pittsburgh,38,31,1
+2009-09-26,2009,east carolina,ucf,19,14,1
+2009-09-26,2009,alabama,arkansas,35,7,1
+2009-09-26,2009,texas,utep,64,7,1
+2009-09-26,2009,maryland,rutgers,13,34,0
+2009-09-26,2009,central michigan,akron,48,21,1
+2009-09-26,2009,northern colorado,montana state,7,25,0
+2009-09-26,2009,nicholls,jacksonville state,10,60,0
+2009-09-26,2009,alabama a&m,arkansas-pine bluff,28,7,1
+2009-09-26,2009,concordia (al),savannah state,23,21,1
+2009-09-26,2009,morgan state,towson,12,9,1
+2009-09-26,2009,norfolk state,bethune-cookman,40,14,1
+2009-09-26,2009,florida atlantic,louisiana monroe,25,27,0
+2009-09-26,2009,albany,sacred heart,22,9,1
+2009-09-26,2009,portland state,weber state,29,36,0
+2009-09-26,2009,arkansas state,troy,27,30,0
+2009-09-26,2009,mississippi valley state,alabama state,10,3,1
+2009-09-26,2009,south dakota,southeastern louisiana,44,13,1
+2009-09-26,2009,idaho state,central washington,22,33,0
+2009-09-26,2009,lafayette,pennsylvania,20,17,1
+2009-09-26,2009,umass,stony brook,44,17,1
+2009-09-26,2009,byu,colorado state,42,23,1
+2009-09-26,2009,south carolina state,winston-salem,27,10,1
+2009-09-26,2009,hampton,delaware state,6,21,0
+2009-09-26,2009,chattanooga,wofford,38,9,1
+2009-09-26,2009,colgate,fordham,20,12,1
+2009-09-26,2009,kentucky,florida,7,41,0
+2009-09-26,2009,old dominion,monmouth,28,31,0
+2009-09-26,2009,northern arizona,montana,34,41,0
+2009-09-26,2009,coastal carolina,north carolina a&t,28,7,1
+2009-09-26,2009,duke,north carolina central,49,14,1
+2009-09-26,2009,tulsa,sam houston state,56,3,1
+2009-09-26,2009,baylor,northwestern state,68,13,1
+2009-09-26,2009,liberty,james madison,10,24,0
+2009-09-26,2009,tennessee,ohio,34,23,1
+2009-09-26,2009,kent state,miami (oh),29,19,1
+2009-09-26,2009,the citadel,presbyterian college,46,21,1
+2009-09-26,2009,syracuse,maine,41,24,1
+2009-09-26,2009,western michigan,hofstra,24,10,1
+2009-09-26,2009,william & mary,delaware,30,20,1
+2009-09-26,2009,oklahoma state,grambling,56,6,1
+2009-09-26,2009,texas a&m,uab,56,19,1
+2009-09-26,2009,iowa state,army,31,10,1
+2009-09-26,2009,southern,alcorn state,48,42,1
+2009-09-26,2009,stephen f. austin,north dakota,65,31,1
+2009-09-26,2009,southern illinois,north dakota state,24,14,1
+2009-09-26,2009,bowling green,boise state,14,49,0
+2009-09-26,2009,central arkansas,glenville state,24,10,1
+2009-09-26,2009,texas state,texas southern,52,18,1
+2009-09-26,2009,nebraska,louisiana,55,0,1
+2009-09-26,2009,georgia,arizona state,20,17,1
+2009-09-26,2009,north texas,middle tennessee,21,37,0
+2009-09-26,2009,florida international,toledo,31,41,0
+2009-09-26,2009,western carolina,furman,14,33,0
+2009-09-26,2009,ut martin,southeast missouri state,29,22,1
+2009-09-26,2009,austin peay,eastern illinois,20,30,0
+2009-09-26,2009,auburn,ball state,54,30,1
+2009-09-26,2009,utah,louisville,30,14,1
+2009-09-26,2009,oregon state,arizona,32,37,0
+2009-09-27,2009,murray state,eastern kentucky,13,23,0
+2009-09-27,2009,utah state,southern utah,53,34,1
+2009-09-27,2009,rice,vanderbilt,17,36,0
+2009-09-27,2009,san josé state,cal poly,19,9,1
+2009-09-27,2009,illinois state,south dakota state,17,38,0
+2009-09-27,2009,purdue,notre dame,21,24,0
+2009-09-27,2009,penn state,iowa,10,21,0
+2009-09-27,2009,stanford,washington,34,14,1
+2009-09-27,2009,uc davis,western oregon,29,13,1
+2009-09-27,2009,sacramento state,eastern washington,30,56,0
+2009-09-27,2009,houston,texas tech,29,28,1
+2009-09-27,2009,new mexico,new mexico state,17,20,0
+2009-09-27,2009,usc,washington state,27,6,1
+2009-10-01,2009,louisiana tech,hawai'i,27,6,1
+2009-10-01,2009,west virginia,colorado,35,24,1
+2009-10-02,2009,uab,southern mississippi,30,17,1
+2009-10-03,2009,louisville,pittsburgh,10,35,0
+2009-10-03,2009,byu,utah state,35,17,1
+2009-10-03,2009,yale,lafayette,14,31,0
+2009-10-03,2009,minnesota,wisconsin,28,31,0
+2009-10-03,2009,maryland,clemson,24,21,1
+2009-10-03,2009,michigan state,michigan,26,20,1
+2009-10-03,2009,dartmouth,pennsylvania,24,30,0
+2009-10-03,2009,central connecticut,sacred heart,24,12,1
+2009-10-03,2009,army,tulane,16,17,0
+2009-10-03,2009,marshall,east carolina,17,21,0
+2009-10-03,2009,syracuse,south florida,20,34,0
+2009-10-03,2009,north carolina,virginia,3,16,0
+2009-10-03,2009,purdue,northwestern,21,27,0
+2009-10-03,2009,duke,virginia tech,26,34,0
+2009-10-03,2009,ball state,toledo,30,37,0
+2009-10-03,2009,iowa,arkansas state,24,21,1
+2009-10-03,2009,kentucky,alabama,20,38,0
+2009-10-03,2009,lehigh,harvard,14,28,0
+2009-10-03,2009,brown,rhode island,28,20,1
+2009-10-03,2009,the citadel,appalachian state,27,30,0
+2009-10-03,2009,colgate,cornell,45,23,1
+2009-10-03,2009,howard,winston-salem,7,3,1
+2009-10-03,2009,fordham,old dominion,34,29,1
+2009-10-03,2009,bucknell,georgetown,14,6,1
+2009-10-03,2009,miami (oh),cincinnati,13,37,0
+2009-10-03,2009,morehead state,dayton,15,30,0
+2009-10-03,2009,marist,campbell,34,13,1
+2009-10-03,2009,butler,san diego,25,24,1
+2009-10-03,2009,jacksonville,davidson,27,21,1
+2009-10-03,2009,eastern michigan,temple,12,24,0
+2009-10-03,2009,northeastern,holy cross,21,42,0
+2009-10-03,2009,bryant,wagner,6,2,1
+2009-10-03,2009,st francis (pa),albany,6,27,0
+2009-10-03,2009,duquesne,robert morris,34,20,1
+2009-10-03,2009,vmi,gardner-webb,23,27,0
+2009-10-03,2009,wofford,georgia southern,21,26,0
+2009-10-03,2009,charleston southern,savannah state,47,10,1
+2009-10-03,2009,north dakota state,illinois state,24,27,0
+2009-10-03,2009,jacksonville state,ut martin,52,7,1
+2009-10-03,2009,drake,valparaiso,34,14,1
+2009-10-03,2009,eastern illinois,eastern kentucky,31,36,0
+2009-10-03,2009,furman,elon,12,19,0
+2009-10-03,2009,sam houston state,st. joseph's (in),41,0,1
+2009-10-03,2009,mississippi valley state,texas college,61,6,1
+2009-10-03,2009,hofstra,james madison,24,17,1
+2009-10-03,2009,samford,western carolina,16,3,1
+2009-10-03,2009,stony brook,presbyterian college,52,14,1
+2009-10-03,2009,iowa state,kansas state,23,24,0
+2009-10-03,2009,princeton,columbia,0,38,0
+2009-10-03,2009,southern utah,texas state,38,16,1
+2009-10-03,2009,texas tech,new mexico,48,28,1
+2009-10-03,2009,georgia,lsu,13,20,0
+2009-10-03,2009,stanford,ucla,24,16,1
+2009-10-03,2009,boston college,florida state,28,21,1
+2009-10-03,2009,wake forest,nc state,30,24,1
+2009-10-03,2009,buffalo,central michigan,13,20,0
+2009-10-03,2009,ucf,memphis,32,14,1
+2009-10-03,2009,navy,air force,16,13,1
+2009-10-03,2009,towson,new hampshire,7,57,0
+2009-10-03,2009,villanova,william & mary,28,17,1
+2009-10-03,2009,northern illinois,western michigan,38,3,1
+2009-10-03,2009,liberty,wv wesleyan,45,7,1
+2009-10-03,2009,notre dame,washington,37,30,1
+2009-10-03,2009,illinois,penn state,17,35,0
+2009-10-03,2009,weber state,montana state,21,26,0
+2009-10-03,2009,louisiana monroe,florida international,48,35,1
+2009-10-03,2009,tuskegee,alabama a&m,15,35,0
+2009-10-03,2009,florida atlantic,wyoming,28,30,0
+2009-10-03,2009,bethune-cookman,morgan state,13,24,0
+2009-10-03,2009,bowling green,ohio,37,44,0
+2009-10-03,2009,portland state,sacramento state,14,31,0
+2009-10-03,2009,nevada,unlv,63,28,1
+2009-10-03,2009,north dakota,south dakota,27,12,1
+2009-10-03,2009,northern iowa,indiana state,62,7,1
+2009-10-03,2009,idaho state,eastern washington,3,38,0
+2009-10-03,2009,north carolina a&t,north carolina central,23,17,1
+2009-10-03,2009,maine,delaware,17,27,0
+2009-10-03,2009,youngstown state,missouri state,7,17,0
+2009-10-03,2009,northern arizona,northern colorado,35,27,1
+2009-10-03,2009,south carolina,south carolina state,38,14,1
+2009-10-03,2009,central arkansas,missouri s&t,45,10,1
+2009-10-03,2009,indiana,ohio state,14,33,0
+2009-10-03,2009,vanderbilt,ole miss,7,23,0
+2009-10-03,2009,tennessee state,southeast missouri state,23,17,1
+2009-10-03,2009,southern,jackson state,14,22,0
+2009-10-03,2009,prairie view,grambling,35,32,1
+2009-10-03,2009,baylor,kent state,31,15,1
+2009-10-03,2009,arizona state,oregon state,17,28,0
+2009-10-03,2009,western illinois,southern illinois,10,30,0
+2009-10-03,2009,rice,tulsa,10,27,0
+2009-10-03,2009,arkansas,texas a&m,47,19,1
+2009-10-03,2009,mississippi state,georgia tech,31,42,0
+2009-10-03,2009,tennessee,auburn,22,26,0
+2009-10-04,2009,boise state,uc davis,34,16,1
+2009-10-04,2009,miami,oklahoma,21,20,1
+2009-10-04,2009,tennessee tech,austin peay,31,23,1
+2009-10-04,2009,tcu,smu,39,14,1
+2009-10-04,2009,san diego state,new mexico state,34,17,1
+2009-10-04,2009,california,usc,3,30,0
+2009-10-04,2009,utep,houston,58,41,1
+2009-10-04,2009,cal poly,south dakota state,21,14,1
+2009-10-04,2009,oregon,washington state,52,6,1
+2009-10-04,2009,idaho,colorado state,31,29,1
+2009-10-07,2009,troy,middle tennessee,31,7,1
+2009-10-08,2009,princeton,colgate,14,21,0
+2009-10-09,2009,missouri,nebraska,12,27,0
+2009-10-10,2009,nevada,louisiana tech,37,14,1
+2009-10-10,2009,minnesota,purdue,35,20,1
+2009-10-10,2009,syracuse,west virginia,13,34,0
+2009-10-10,2009,army,vanderbilt,16,13,1
+2009-10-10,2009,illinois,michigan state,14,24,0
+2009-10-10,2009,central michigan,eastern michigan,56,8,1
+2009-10-10,2009,virginia tech,boston college,48,14,1
+2009-10-10,2009,yale,dartmouth,38,7,1
+2009-10-10,2009,central connecticut,robert morris,42,21,1
+2009-10-10,2009,sacred heart,st francis (pa),29,7,1
+2009-10-10,2009,james madison,richmond,17,21,0
+2009-10-10,2009,new hampshire,villanova,28,24,1
+2009-10-10,2009,penn state,eastern illinois,52,3,1
+2009-10-10,2009,arkansas,auburn,44,23,1
+2009-10-10,2009,northwestern,miami (oh),16,6,1
+2009-10-10,2009,tennessee,georgia,45,19,1
+2009-10-10,2009,brown,holy cross,34,31,1
+2009-10-10,2009,cornell,harvard,10,28,0
+2009-10-10,2009,lehigh,georgetown,27,0,1
+2009-10-10,2009,south carolina,kentucky,28,26,1
+2009-10-10,2009,kansas,iowa state,41,36,1
+2009-10-10,2009,texas a&m,oklahoma state,31,36,0
+2009-10-10,2009,mississippi state,houston,24,31,0
+2009-10-10,2009,pennsylvania,bucknell,21,3,1
+2009-10-10,2009,hofstra,maine,14,16,0
+2009-10-10,2009,temple,ball state,24,19,1
+2009-10-10,2009,northeastern,william & mary,14,34,0
+2009-10-10,2009,rhode island,towson,28,36,0
+2009-10-10,2009,albany,duquesne,55,10,1
+2009-10-10,2009,campbell,dayton,17,35,0
+2009-10-10,2009,monmouth,wagner,24,27,0
+2009-10-10,2009,marist,jacksonville,31,27,1
+2009-10-10,2009,morgan state,north carolina a&t,7,6,1
+2009-10-10,2009,norfolk state,south carolina state,10,37,0
+2009-10-10,2009,davidson,morehead state,16,10,1
+2009-10-10,2009,elon,the citadel,43,7,1
+2009-10-10,2009,north dakota,stony brook,31,24,1
+2009-10-10,2009,valparaiso,san diego,7,48,0
+2009-10-10,2009,drake,missouri s&t,19,0,1
+2009-10-10,2009,alabama state,prairie view,10,24,0
+2009-10-10,2009,wyoming,new mexico,37,13,1
+2009-10-10,2009,southeast missouri state,austin peay,14,24,0
+2009-10-10,2009,sam houston state,nicholls,44,21,1
+2009-10-10,2009,south dakota,uc davis,23,24,0
+2009-10-10,2009,texas state,southeastern louisiana,50,51,0
+2009-10-10,2009,missouri state,south dakota state,17,24,0
+2009-10-10,2009,southern illinois,illinois state,43,23,1
+2009-10-10,2009,ut martin,tennessee tech,28,35,0
+2009-10-10,2009,montana,cal poly,35,23,1
+2009-10-10,2009,kent state,bowling green,35,36,0
+2009-10-10,2009,ole miss,alabama,3,22,0
+2009-10-10,2009,tulane,marshall,10,31,0
+2009-10-10,2009,ucla,oregon,10,24,0
+2009-10-10,2009,appalachian state,north carolina central,55,21,1
+2009-10-10,2009,ohio state,wisconsin,31,13,1
+2009-10-10,2009,pittsburgh,connecticut,24,21,1
+2009-10-10,2009,buffalo,gardner-webb,40,3,1
+2009-10-10,2009,north carolina,georgia southern,42,12,1
+2009-10-10,2009,oklahoma,baylor,33,7,1
+2009-10-10,2009,rutgers,texas southern,42,0,1
+2009-10-10,2009,rice,navy,14,63,0
+2009-10-10,2009,virginia,indiana,47,7,1
+2009-10-10,2009,eastern washington,weber state,13,31,0
+2009-10-10,2009,northern colorado,portland state,18,23,0
+2009-10-10,2009,montana state,northern arizona,10,23,0
+2009-10-10,2009,murray state,jacksonville state,7,41,0
+2009-10-10,2009,samford,chattanooga,7,14,0
+2009-10-10,2009,grambling,alabama a&m,41,20,1
+2009-10-10,2009,nc state,duke,28,49,0
+2009-10-10,2009,north dakota state,northern iowa,27,42,0
+2009-10-10,2009,jackson state,arkansas-pine bluff,13,20,0
+2009-10-10,2009,washington state,arizona state,14,27,0
+2009-10-10,2009,alcorn state,mississippi valley state,32,10,1
+2009-10-10,2009,sacramento state,idaho state,38,17,1
+2009-10-10,2009,old dominion,presbyterian college,34,16,1
+2009-10-10,2009,hampton,howard,37,0,1
+2009-10-10,2009,fordham,bryant,35,7,1
+2009-10-10,2009,youngstown state,western illinois,31,21,1
+2009-10-10,2009,akron,ohio,7,19,0
+2009-10-10,2009,colorado state,utah,17,24,0
+2009-10-10,2009,eastern kentucky,tennessee state,17,20,0
+2009-10-10,2009,lafayette,columbia,24,21,1
+2009-10-10,2009,delaware,umass,43,27,1
+2009-10-10,2009,wake forest,maryland,42,32,1
+2009-10-10,2009,delaware state,bethune-cookman,7,9,0
+2009-10-10,2009,miami,florida a&m,48,16,1
+2009-10-10,2009,coastal carolina,vmi,20,6,1
+2009-10-10,2009,toledo,western michigan,26,58,0
+2009-10-10,2009,texas tech,kansas state,66,14,1
+2009-10-10,2009,oregon state,stanford,38,28,1
+2009-10-10,2009,stephen f. austin,mcneese,16,13,1
+2009-10-10,2009,louisiana,north texas,38,34,1
+2009-10-10,2009,western kentucky,florida international,20,37,0
+2009-10-10,2009,texas,colorado,38,14,1
+2009-10-10,2009,air force,tcu,17,20,0
+2009-10-10,2009,louisville,southern mississippi,25,23,1
+2009-10-11,2009,lsu,florida,3,13,0
+2009-10-11,2009,smu,east carolina,28,21,1
+2009-10-11,2009,san josé state,idaho,25,29,0
+2009-10-11,2009,northwestern state,central arkansas,0,34,0
+2009-10-11,2009,new mexico state,utah state,20,17,1
+2009-10-11,2009,memphis,utep,35,20,1
+2009-10-11,2009,florida state,georgia tech,44,49,0
+2009-10-11,2009,iowa,michigan,30,28,1
+2009-10-11,2009,washington,arizona,36,33,1
+2009-10-11,2009,unlv,byu,21,59,0
+2009-10-11,2009,hawai'i,fresno state,17,42,0
+2009-10-14,2009,louisiana monroe,arkansas state,16,10,1
+2009-10-15,2009,tulsa,boise state,21,28,0
+2009-10-15,2009,morgan state,howard,14,7,1
+2009-10-15,2009,south florida,cincinnati,17,34,0
+2009-10-17,2009,rutgers,pittsburgh,17,24,0
+2009-10-17,2009,gardner-webb,charleston southern,27,20,1
+2009-10-17,2009,ball state,bowling green,17,31,0
+2009-10-17,2009,clemson,wake forest,38,3,1
+2009-10-17,2009,rhode island,hofstra,16,28,0
+2009-10-17,2009,texas,oklahoma,16,13,1
+2009-10-17,2009,maine,richmond,21,38,0
+2009-10-17,2009,michigan state,northwestern,24,14,1
+2009-10-17,2009,duquesne,central connecticut,24,31,0
+2009-10-17,2009,connecticut,louisville,38,25,1
+2009-10-17,2009,michigan,delaware state,63,6,1
+2009-10-17,2009,purdue,ohio state,26,18,1
+2009-10-17,2009,wisconsin,iowa,10,20,0
+2009-10-17,2009,harvard,lafayette,18,35,0
+2009-10-17,2009,robert morris,st francis (pa),28,0,1
+2009-10-17,2009,vanderbilt,georgia,10,34,0
+2009-10-17,2009,cornell,fordham,27,39,0
+2009-10-17,2009,brown,princeton,34,17,1
+2009-10-17,2009,lehigh,yale,0,7,0
+2009-10-17,2009,middle tennessee,mississippi state,6,27,0
+2009-10-17,2009,temple,army,27,13,1
+2009-10-17,2009,albany,bryant,20,17,1
+2009-10-17,2009,georgetown,colgate,14,31,0
+2009-10-17,2009,sacred heart,monmouth,20,42,0
+2009-10-17,2009,norfolk state,hampton,46,6,1
+2009-10-17,2009,holy cross,dartmouth,34,14,1
+2009-10-17,2009,columbia,pennsylvania,13,27,0
+2009-10-17,2009,vmi,stony brook,20,27,0
+2009-10-17,2009,north carolina central,central methodist,52,7,1
+2009-10-17,2009,furman,samford,26,24,1
+2009-10-17,2009,nicholls,texas state,28,34,0
+2009-10-17,2009,ohio,miami (oh),28,7,1
+2009-10-17,2009,north dakota,sioux falls,13,28,0
+2009-10-17,2009,air force,wyoming,10,0,1
+2009-10-17,2009,south carolina state,florida a&m,35,20,1
+2009-10-17,2009,alabama state,grambling,12,23,0
+2009-10-17,2009,illinois state,indiana state,38,21,1
+2009-10-17,2009,prairie view,mississippi valley state,38,0,1
+2009-10-17,2009,utah state,nevada,32,35,0
+2009-10-17,2009,alcorn state,alabama a&m,34,16,1
+2009-10-17,2009,wofford,appalachian state,34,44,0
+2009-10-17,2009,montana,eastern washington,41,34,1
+2009-10-17,2009,montana state,south dakota,31,24,1
+2009-10-17,2009,boston college,nc state,52,20,1
+2009-10-17,2009,florida,arkansas,23,20,1
+2009-10-17,2009,james madison,villanova,0,27,0
+2009-10-17,2009,towson,delaware,21,49,0
+2009-10-17,2009,umass,new hampshire,23,17,1
+2009-10-17,2009,notre dame,usc,27,34,0
+2009-10-17,2009,penn state,minnesota,20,0,1
+2009-10-17,2009,nebraska,texas tech,10,31,0
+2009-10-17,2009,liberty,coastal carolina,58,13,1
+2009-10-17,2009,tulane,houston,16,44,0
+2009-10-17,2009,buffalo,akron,21,17,1
+2009-10-17,2009,western michigan,central michigan,23,34,0
+2009-10-17,2009,east carolina,rice,49,13,1
+2009-10-17,2009,west virginia,marshall,24,7,1
+2009-10-17,2009,ucla,california,26,45,0
+2009-10-17,2009,weber state,sacramento state,49,10,1
+2009-10-17,2009,western illinois,missouri state,16,17,0
+2009-10-17,2009,tcu,colorado state,44,6,1
+2009-10-17,2009,eastern michigan,kent state,6,28,0
+2009-10-17,2009,louisiana tech,new mexico state,45,7,1
+2009-10-17,2009,maryland,virginia,9,20,0
+2009-10-17,2009,western carolina,the citadel,14,10,1
+2009-10-17,2009,portland state,northern arizona,23,44,0
+2009-10-17,2009,savannah state,bethune-cookman,24,34,0
+2009-10-17,2009,jackson state,texas southern,17,19,0
+2009-10-17,2009,idaho,hawai'i,35,23,1
+2009-10-17,2009,northern iowa,southern illinois,20,27,0
+2009-10-17,2009,idaho state,northern colorado,7,30,0
+2009-10-17,2009,georgia tech,virginia tech,28,23,1
+2009-10-17,2009,old dominion,campbell,28,17,1
+2009-10-17,2009,georgia southern,chattanooga,30,20,1
+2009-10-17,2009,san diego state,byu,28,38,0
+2009-10-17,2009,southern,fort valley state,55,23,1
+2009-10-17,2009,kansas state,texas a&m,62,14,1
+2009-10-17,2009,southern mississippi,memphis,36,16,1
+2009-10-17,2009,south dakota state,north dakota state,28,13,1
+2009-10-17,2009,toledo,northern illinois,20,19,1
+2009-10-17,2009,central arkansas,stephen f. austin,30,33,0
+2009-10-17,2009,western kentucky,louisiana,22,30,0
+2009-10-17,2009,florida international,troy,33,42,0
+2009-10-17,2009,southeastern louisiana,sam houston state,37,21,1
+2009-10-17,2009,ole miss,uab,48,13,1
+2009-10-17,2009,iowa state,baylor,24,10,1
+2009-10-17,2009,indiana,illinois,27,14,1
+2009-10-17,2009,colorado,kansas,34,30,1
+2009-10-17,2009,arizona,stanford,43,38,1
+2009-10-17,2009,ucf,miami,7,27,0
+2009-10-17,2009,auburn,kentucky,14,21,0
+2009-10-17,2009,alabama,south carolina,20,6,1
+2009-10-18,2009,smu,navy,35,38,0
+2009-10-18,2009,north texas,florida atlantic,40,44,0
+2009-10-18,2009,mcneese,northwestern state,51,23,1
+2009-10-18,2009,uc davis,winston-salem,45,14,1
+2009-10-18,2009,cal poly,southern utah,24,23,1
+2009-10-18,2009,oklahoma state,missouri,33,17,1
+2009-10-18,2009,unlv,utah,15,35,0
+2009-10-18,2009,fresno state,san josé state,41,21,1
+2009-10-18,2009,arizona state,washington,24,17,1
+2009-10-22,2009,utep,tulsa,28,24,1
+2009-10-22,2009,southern,prairie view,14,16,0
+2009-10-23,2009,north carolina,florida state,27,30,0
+2009-10-24,2009,army,rutgers,10,27,0
+2009-10-24,2009,marshall,uab,27,7,1
+2009-10-24,2009,purdue,illinois,24,14,1
+2009-10-24,2009,william & mary,james madison,24,3,1
+2009-10-24,2009,virginia,georgia tech,9,34,0
+2009-10-24,2009,west virginia,connecticut,28,24,1
+2009-10-24,2009,pittsburgh,south florida,41,14,1
+2009-10-24,2009,ohio state,minnesota,38,7,1
+2009-10-24,2009,harvard,princeton,37,3,1
+2009-10-24,2009,northwestern,indiana,29,28,1
+2009-10-24,2009,bowling green,central michigan,10,24,0
+2009-10-24,2009,ole miss,arkansas,30,17,1
+2009-10-24,2009,baylor,oklahoma state,7,34,0
+2009-10-24,2009,kansas state,colorado,20,6,1
+2009-10-24,2009,nebraska,iowa state,7,9,0
+2009-10-24,2009,cornell,brown,14,34,0
+2009-10-24,2009,delaware state,morgan state,35,22,1
+2009-10-24,2009,eastern michigan,ball state,27,29,0
+2009-10-24,2009,miami (oh),northern illinois,22,27,0
+2009-10-24,2009,holy cross,colgate,42,28,1
+2009-10-24,2009,lafayette,fordham,26,21,1
+2009-10-24,2009,northeastern,towson,27,7,1
+2009-10-24,2009,bryant,central connecticut,23,24,0
+2009-10-24,2009,howard,north carolina a&t,19,30,0
+2009-10-24,2009,bucknell,lehigh,16,35,0
+2009-10-24,2009,monmouth,albany,10,35,0
+2009-10-24,2009,morehead state,marist,14,24,0
+2009-10-24,2009,davidson,drake,16,21,0
+2009-10-24,2009,campbell,butler,16,23,0
+2009-10-24,2009,wagner,sacred heart,49,28,1
+2009-10-24,2009,charleston southern,liberty,13,20,0
+2009-10-24,2009,elon,chattanooga,45,10,1
+2009-10-24,2009,dartmouth,columbia,28,6,1
+2009-10-24,2009,duke,maryland,17,13,1
+2009-10-24,2009,mississippi valley state,jackson state,16,25,0
+2009-10-24,2009,valparaiso,dayton,7,38,0
+2009-10-24,2009,western michigan,buffalo,34,31,1
+2009-10-24,2009,hampton,south carolina state,9,21,0
+2009-10-24,2009,ohio,kent state,11,20,0
+2009-10-24,2009,presbyterian college,vmi,20,31,0
+2009-10-24,2009,alabama state,alcorn state,24,17,1
+2009-10-24,2009,the citadel,furman,38,28,1
+2009-10-24,2009,hofstra,new hampshire,10,18,0
+2009-10-24,2009,appalachian state,georgia southern,52,16,1
+2009-10-24,2009,florida a&m,norfolk state,34,20,1
+2009-10-24,2009,stephen f. austin,sam houston state,42,3,1
+2009-10-24,2009,south dakota state,northern iowa,24,14,1
+2009-10-24,2009,utah state,louisiana tech,23,21,1
+2009-10-24,2009,indiana state,western illinois,17,14,1
+2009-10-24,2009,villanova,rhode island,36,7,1
+2009-10-24,2009,alabama,tennessee,12,10,1
+2009-10-24,2009,cincinnati,louisville,41,10,1
+2009-10-24,2009,miami,clemson,37,40,0
+2009-10-24,2009,washington,oregon,19,43,0
+2009-10-24,2009,stony brook,coastal carolina,16,10,1
+2009-10-24,2009,michigan,penn state,10,35,0
+2009-10-24,2009,arkansas-pine bluff,edward waters,38,12,1
+2009-10-24,2009,richmond,umass,34,12,1
+2009-10-24,2009,kansas,oklahoma,13,35,0
+2009-10-24,2009,middle tennessee,western kentucky,62,24,1
+2009-10-24,2009,navy,wake forest,13,10,1
+2009-10-24,2009,troy,north texas,50,26,1
+2009-10-24,2009,rice,ucf,7,49,0
+2009-10-24,2009,syracuse,akron,28,14,1
+2009-10-24,2009,notre dame,boston college,20,16,1
+2009-10-24,2009,pennsylvania,yale,9,0,1
+2009-10-24,2009,northern colorado,weber state,20,28,0
+2009-10-24,2009,southern utah,north dakota,35,10,1
+2009-10-24,2009,bethune-cookman,winston-salem,10,16,0
+2009-10-24,2009,utah,air force,23,16,1
+2009-10-24,2009,southern illinois,youngstown state,27,8,1
+2009-10-24,2009,western carolina,wofford,26,35,0
+2009-10-24,2009,colorado state,san diego state,28,42,0
+2009-10-24,2009,portland state,uc davis,31,34,0
+2009-10-24,2009,nevada,idaho,70,45,1
+2009-10-24,2009,eastern washington,montana state,35,24,1
+2009-10-24,2009,san diego,jacksonville,16,34,0
+2009-10-24,2009,california,washington state,49,17,1
+2009-10-24,2009,savannah state,old dominion,17,38,0
+2009-10-24,2009,louisiana,florida atlantic,29,51,0
+2009-10-24,2009,sacramento state,montana,30,45,0
+2009-10-24,2009,gardner-webb,southern virginia,65,0,1
+2009-10-24,2009,northern arizona,idaho state,40,12,1
+2009-10-24,2009,arizona,ucla,27,13,1
+2009-10-24,2009,st francis (pa),duquesne,31,14,1
+2009-10-24,2009,central arkansas,nicholls,42,13,1
+2009-10-24,2009,michigan state,iowa,13,15,0
+2009-10-24,2009,toledo,temple,24,40,0
+2009-10-24,2009,southern mississippi,tulane,43,6,1
+2009-10-24,2009,texas tech,texas a&m,30,52,0
+2009-10-24,2009,arkansas state,florida international,27,10,1
+2009-10-24,2009,kentucky,louisiana monroe,36,13,1
+2009-10-24,2009,south carolina,vanderbilt,14,10,1
+2009-10-24,2009,mcneese,southeastern louisiana,36,35,1
+2009-10-24,2009,north dakota state,missouri state,17,21,0
+2009-10-24,2009,houston,smu,38,15,1
+2009-10-24,2009,lsu,auburn,31,10,1
+2009-10-24,2009,mississippi state,florida,19,29,0
+2009-10-24,2009,byu,tcu,7,38,0
+2009-10-25,2009,new mexico,unlv,17,34,0
+2009-10-25,2009,northwestern state,texas state,17,20,0
+2009-10-25,2009,usc,oregon state,42,36,1
+2009-10-25,2009,missouri,texas,7,41,0
+2009-10-25,2009,cal poly,utah tech,44,14,1
+2009-10-25,2009,new mexico state,fresno state,3,34,0
+2009-10-25,2009,stanford,arizona state,33,14,1
+2009-10-25,2009,hawai'i,boise state,9,54,0
+2009-10-28,2009,memphis,east carolina,19,38,0
+2009-10-29,2009,virginia tech,north carolina,17,20,0
+2009-10-31,2009,south florida,west virginia,30,19,1
+2009-10-31,2009,harvard,dartmouth,42,21,1
+2009-10-31,2009,central connecticut,albany,31,29,1
+2009-10-31,2009,butler,davidson,14,7,1
+2009-10-31,2009,ball state,ohio,17,20,0
+2009-10-31,2009,marist,valparaiso,24,0,1
+2009-10-31,2009,wisconsin,purdue,37,0,1
+2009-10-31,2009,florida state,nc state,45,42,1
+2009-10-31,2009,connecticut,rutgers,24,28,0
+2009-10-31,2009,ohio state,new mexico state,45,0,1
+2009-10-31,2009,iowa,indiana,42,24,1
+2009-10-31,2009,syracuse,cincinnati,7,28,0
+2009-10-31,2009,florida international,louisiana,20,17,1
+2009-10-31,2009,furman,appalachian state,27,52,0
+2009-10-31,2009,robert morris,sacred heart,9,7,1
+2009-10-31,2009,new hampshire,northeastern,48,21,1
+2009-10-31,2009,delaware,james madison,8,20,0
+2009-10-31,2009,duquesne,wagner,17,23,0
+2009-10-31,2009,northern illinois,akron,27,10,1
+2009-10-31,2009,indiana state,southern illinois,0,33,0
+2009-10-31,2009,auburn,ole miss,33,20,1
+2009-10-31,2009,baylor,nebraska,10,20,0
+2009-10-31,2009,brown,pennsylvania,7,14,0
+2009-10-31,2009,towson,richmond,14,42,0
+2009-10-31,2009,the citadel,samford,28,16,1
+2009-10-31,2009,princeton,cornell,17,13,1
+2009-10-31,2009,columbia,yale,22,23,0
+2009-10-31,2009,norfolk state,howard,41,6,1
+2009-10-31,2009,rhode island,william & mary,14,39,0
+2009-10-31,2009,lafayette,bucknell,35,14,1
+2009-10-31,2009,colgate,lehigh,27,20,1
+2009-10-31,2009,fordham,holy cross,27,41,0
+2009-10-31,2009,houston,southern mississippi,50,43,1
+2009-10-31,2009,campbell,morehead state,31,22,1
+2009-10-31,2009,dayton,san diego,21,14,1
+2009-10-31,2009,monmouth,bryant,10,6,1
+2009-10-31,2009,clemson,coastal carolina,49,3,1
+2009-10-31,2009,wofford,elon,6,34,0
+2009-10-31,2009,vmi,charleston southern,21,31,0
+2009-10-31,2009,north carolina central,central state,53,22,1
+2009-10-31,2009,north carolina a&t,bethune-cookman,13,31,0
+2009-10-31,2009,colorado,missouri,17,36,0
+2009-10-31,2009,south carolina state,delaware state,52,10,1
+2009-10-31,2009,gardner-webb,stony brook,14,24,0
+2009-10-31,2009,winston-salem,hampton,13,16,0
+2009-10-31,2009,chattanooga,western carolina,24,20,1
+2009-10-31,2009,missouri state,illinois state,14,24,0
+2009-10-31,2009,kent state,western michigan,26,14,1
+2009-10-31,2009,tulsa,smu,13,27,0
+2009-10-31,2009,drake,jacksonville,45,38,1
+2009-10-31,2009,nicholls,mcneese,17,38,0
+2009-10-31,2009,savannah state,edward waters,45,24,1
+2009-10-31,2009,western illinois,north dakota state,7,14,0
+2009-10-31,2009,boise state,san josé state,45,7,1
+2009-10-31,2009,southeastern louisiana,central arkansas,25,21,1
+2009-10-31,2009,grambling,mississippi valley state,50,7,1
+2009-10-31,2009,texas southern,alcorn state,51,21,1
+2009-10-31,2009,utep,uab,33,38,0
+2009-10-31,2009,southern utah,uc davis,56,35,1
+2009-10-31,2009,texas state,stephen f. austin,28,7,1
+2009-10-31,2009,montana,weber state,31,10,1
+2009-10-31,2009,boston college,central michigan,31,10,1
+2009-10-31,2009,florida,georgia,41,17,1
+2009-10-31,2009,wake forest,miami,27,28,0
+2009-10-31,2009,arizona state,california,21,23,0
+2009-10-31,2009,illinois,michigan,38,13,1
+2009-10-31,2009,liberty,presbyterian college,55,19,1
+2009-10-31,2009,louisville,arkansas state,21,13,1
+2009-10-31,2009,texas tech,kansas,42,21,1
+2009-10-31,2009,navy,temple,24,27,0
+2009-10-31,2009,virginia,duke,17,28,0
+2009-10-31,2009,texas a&m,iowa state,35,10,1
+2009-10-31,2009,miami (oh),toledo,31,24,1
+2009-10-31,2009,alabama state,alabama a&m,7,21,0
+2009-10-31,2009,arkansas-pine bluff,southern,10,24,0
+2009-10-31,2009,maine,umass,19,9,1
+2009-10-31,2009,northern colorado,south dakota,21,17,1
+2009-10-31,2009,montana state,idaho state,41,10,1
+2009-10-31,2009,oregon state,ucla,26,19,1
+2009-10-31,2009,florida atlantic,middle tennessee,20,27,0
+2009-10-31,2009,tcu,unlv,41,0,1
+2009-10-31,2009,morgan state,florida a&m,28,31,0
+2009-10-31,2009,youngstown state,south dakota state,3,17,0
+2009-10-31,2009,colorado state,air force,16,34,0
+2009-10-31,2009,eastern washington,portland state,47,10,1
+2009-10-31,2009,nevada,hawai'i,31,21,1
+2009-10-31,2009,north texas,western kentucky,68,49,1
+2009-10-31,2009,northwestern,penn state,13,34,0
+2009-10-31,2009,north dakota,cal poly,31,17,1
+2009-10-31,2009,fresno state,utah state,31,27,1
+2009-10-31,2009,idaho,louisiana tech,35,34,1
+2009-10-31,2009,sacramento state,northern arizona,27,24,1
+2009-10-31,2009,old dominion,georgetown,31,10,1
+2009-10-31,2009,troy,louisiana monroe,42,21,1
+2009-10-31,2009,oklahoma,kansas state,42,30,1
+2009-10-31,2009,sam houston state,northwestern state,34,30,1
+2009-10-31,2009,kentucky,mississippi state,24,31,0
+2009-10-31,2009,arkansas,eastern michigan,63,27,1
+2009-10-31,2009,notre dame,washington state,40,14,1
+2009-10-31,2009,vanderbilt,georgia tech,31,56,0
+2009-10-31,2009,san diego state,new mexico,23,20,1
+2009-10-31,2009,tennessee,south carolina,31,13,1
+2009-11-01,2009,oklahoma state,texas,14,41,0
+2009-11-01,2009,minnesota,michigan state,42,34,1
+2009-11-01,2009,utah,wyoming,22,10,1
+2009-11-01,2009,oregon,usc,47,20,1
+2009-11-01,2009,lsu,tulane,42,0,1
+2009-11-02,2009,ucf,marshall,21,20,1
+2009-11-04,2009,buffalo,bowling green,29,30,0
+2009-11-06,2009,east carolina,virginia tech,3,16,0
+2009-11-06,2009,temple,miami (oh),34,32,1
+2009-11-06,2009,northern illinois,eastern michigan,50,6,1
+2009-11-07,2009,louisiana tech,boise state,35,45,0
+2009-11-07,2009,delaware,hofstra,28,24,1
+2009-11-07,2009,pittsburgh,syracuse,37,10,1
+2009-11-07,2009,new hampshire,rhode island,55,42,1
+2009-11-07,2009,michigan,purdue,36,38,0
+2009-11-07,2009,miami,virginia,52,17,1
+2009-11-07,2009,minnesota,illinois,32,35,0
+2009-11-07,2009,michigan state,western michigan,49,14,1
+2009-11-07,2009,indiana,wisconsin,28,31,0
+2009-11-07,2009,west virginia,louisville,17,9,1
+2009-11-07,2009,texas,ucf,35,3,1
+2009-11-07,2009,iowa,northwestern,10,17,0
+2009-11-07,2009,umass,northeastern,37,7,1
+2009-11-07,2009,arkansas,south carolina,33,16,1
+2009-11-07,2009,lehigh,holy cross,20,24,0
+2009-11-07,2009,coastal carolina,gardner-webb,26,21,1
+2009-11-07,2009,kansas state,kansas,17,10,1
+2009-11-07,2009,dartmouth,cornell,20,17,1
+2009-11-07,2009,columbia,harvard,14,34,0
+2009-11-07,2009,winston-salem,delaware state,21,24,0
+2009-11-07,2009,fordham,bucknell,21,7,1
+2009-11-07,2009,lafayette,colgate,56,49,1
+2009-11-07,2009,nc state,maryland,38,31,1
+2009-11-07,2009,kentucky,eastern kentucky,37,12,1
+2009-11-07,2009,georgia,tennessee tech,38,0,1
+2009-11-07,2009,albany,robert morris,10,13,0
+2009-11-07,2009,sacred heart,bryant,24,14,1
+2009-11-07,2009,marist,georgetown,23,21,1
+2009-11-07,2009,st francis (pa),monmouth,10,24,0
+2009-11-07,2009,dayton,butler,28,31,0
+2009-11-07,2009,jacksonville,valparaiso,49,20,1
+2009-11-07,2009,wagner,central connecticut,32,27,1
+2009-11-07,2009,western carolina,elon,17,42,0
+2009-11-07,2009,yale,brown,21,35,0
+2009-11-07,2009,howard,south carolina state,13,43,0
+2009-11-07,2009,william & mary,towson,31,0,1
+2009-11-07,2009,presbyterian college,charleston southern,32,46,0
+2009-11-07,2009,auburn,furman,63,31,1
+2009-11-07,2009,colorado,texas a&m,35,34,1
+2009-11-07,2009,south dakota state,southern illinois,15,34,0
+2009-11-07,2009,illinois state,western illinois,25,7,1
+2009-11-07,2009,wyoming,byu,0,52,0
+2009-11-07,2009,drake,campbell,49,6,1
+2009-11-07,2009,old dominion,north carolina central,42,28,1
+2009-11-07,2009,missouri,baylor,32,40,0
+2009-11-07,2009,uab,florida atlantic,56,29,1
+2009-11-07,2009,missouri state,indiana state,31,7,1
+2009-11-07,2009,mississippi valley state,texas southern,7,30,0
+2009-11-07,2009,northern colorado,sacramento state,35,38,0
+2009-11-07,2009,notre dame,navy,21,23,0
+2009-11-07,2009,arkansas-pine bluff,grambling,49,42,1
+2009-11-07,2009,northwestern state,southeastern louisiana,0,27,0
+2009-11-07,2009,james madison,maine,22,14,1
+2009-11-07,2009,florida a&m,north carolina a&t,31,27,1
+2009-11-07,2009,smu,rice,31,28,1
+2009-11-07,2009,the citadel,wofford,17,43,0
+2009-11-07,2009,prairie view,alabama a&m,33,27,1
+2009-11-07,2009,pennsylvania,princeton,42,7,1
+2009-11-07,2009,arizona,washington state,48,7,1
+2009-11-07,2009,iowa state,oklahoma state,8,34,0
+2009-11-07,2009,penn state,ohio state,7,24,0
+2009-11-07,2009,georgia tech,wake forest,30,27,1
+2009-11-07,2009,stanford,oregon,51,42,1
+2009-11-07,2009,richmond,villanova,20,21,0
+2009-11-07,2009,alabama,lsu,24,15,1
+2009-11-07,2009,samford,georgia southern,31,10,1
+2009-11-07,2009,appalachian state,chattanooga,35,20,1
+2009-11-07,2009,tulane,utep,45,38,1
+2009-11-07,2009,air force,army,35,7,1
+2009-11-07,2009,akron,kent state,28,20,1
+2009-11-07,2009,arkansas state,louisiana,18,21,0
+2009-11-07,2009,north carolina,duke,19,6,1
+2009-11-07,2009,ucla,washington,24,23,1
+2009-11-07,2009,bethune-cookman,hampton,27,24,1
+2009-11-07,2009,san diego state,tcu,12,55,0
+2009-11-07,2009,uc davis,cal poly,23,10,1
+2009-11-07,2009,san diego,davidson,27,34,0
+2009-11-07,2009,north texas,louisiana monroe,6,33,0
+2009-11-07,2009,morgan state,norfolk state,23,31,0
+2009-11-07,2009,portland state,montana state,10,28,0
+2009-11-07,2009,middle tennessee,florida international,48,21,1
+2009-11-07,2009,jackson state,alabama state,19,7,1
+2009-11-07,2009,western kentucky,troy,20,40,0
+2009-11-07,2009,north dakota,southern oregon,30,24,1
+2009-11-07,2009,south dakota,southern utah,45,21,1
+2009-11-07,2009,northern iowa,youngstown state,28,7,1
+2009-11-07,2009,idaho state,montana,10,12,0
+2009-11-07,2009,utah,new mexico,45,14,1
+2009-11-08,2009,stephen f. austin,nicholls,31,27,1
+2009-11-08,2009,tennessee,memphis,56,28,1
+2009-11-08,2009,central arkansas,texas state,24,27,0
+2009-11-08,2009,california,oregon state,14,31,0
+2009-11-08,2009,liberty,vmi,54,14,1
+2009-11-08,2009,florida,vanderbilt,27,3,1
+2009-11-08,2009,tulsa,houston,45,46,0
+2009-11-08,2009,ole miss,northern arizona,38,14,1
+2009-11-08,2009,clemson,florida state,40,24,1
+2009-11-08,2009,arizona state,usc,9,14,0
+2009-11-08,2009,mcneese,sam houston state,63,42,1
+2009-11-08,2009,nebraska,oklahoma,10,3,1
+2009-11-08,2009,cincinnati,connecticut,47,45,1
+2009-11-08,2009,unlv,colorado state,35,16,1
+2009-11-08,2009,hawai'i,utah state,49,36,1
+2009-11-08,2009,idaho,fresno state,21,31,0
+2009-11-09,2009,san josé state,nevada,7,62,0
+2009-11-11,2009,buffalo,ohio,24,27,0
+2009-11-12,2009,central michigan,toledo,56,28,1
+2009-11-12,2009,miami (oh),bowling green,14,35,0
+2009-11-12,2009,northern illinois,ball state,26,20,1
+2009-11-13,2009,rutgers,south florida,31,0,1
+2009-11-13,2009,grambling,texas southern,47,33,1
+2009-11-14,2009,cincinnati,west virginia,24,21,1
+2009-11-14,2009,akron,temple,17,56,0
+2009-11-14,2009,wisconsin,michigan,45,24,1
+2009-11-14,2009,army,vmi,22,17,1
+2009-11-14,2009,wake forest,florida state,28,41,0
+2009-11-14,2009,nc state,clemson,23,43,0
+2009-11-14,2009,harvard,pennsylvania,7,17,0
+2009-11-14,2009,ole miss,tennessee,42,17,1
+2009-11-14,2009,duke,georgia tech,10,49,0
+2009-11-14,2009,baylor,texas,14,47,0
+2009-11-14,2009,bryant,st francis (pa),35,12,1
+2009-11-14,2009,sacred heart,duquesne,42,45,0
+2009-11-14,2009,robert morris,wagner,37,10,1
+2009-11-14,2009,central connecticut,monmouth,20,19,1
+2009-11-14,2009,louisville,syracuse,10,9,1
+2009-11-14,2009,jacksonville,butler,36,7,1
+2009-11-14,2009,minnesota,south dakota state,16,13,1
+2009-11-14,2009,penn state,indiana,31,20,1
+2009-11-14,2009,ucf,houston,37,32,1
+2009-11-14,2009,umass,james madison,14,17,0
+2009-11-14,2009,maine,rhode island,41,17,1
+2009-11-14,2009,illinois,northwestern,16,21,0
+2009-11-14,2009,purdue,michigan state,37,40,0
+2009-11-14,2009,indiana state,north dakota state,17,56,0
+2009-11-14,2009,vanderbilt,kentucky,13,24,0
+2009-11-14,2009,cornell,columbia,20,30,0
+2009-11-14,2009,holy cross,lafayette,28,26,1
+2009-11-14,2009,brown,dartmouth,14,7,1
+2009-11-14,2009,kansas state,missouri,12,38,0
+2009-11-14,2009,winston-salem,north carolina central,10,18,0
+2009-11-14,2009,memphis,uab,21,31,0
+2009-11-14,2009,eastern michigan,western michigan,14,35,0
+2009-11-14,2009,morehead state,san diego,7,13,0
+2009-11-14,2009,davidson,marist,6,14,0
+2009-11-14,2009,delaware state,norfolk state,16,21,0
+2009-11-14,2009,howard,bethune-cookman,10,21,0
+2009-11-14,2009,hampton,florida a&m,25,0,1
+2009-11-14,2009,princeton,yale,24,17,1
+2009-11-14,2009,northeastern,hofstra,14,13,1
+2009-11-14,2009,towson,villanova,7,49,0
+2009-11-14,2009,eastern kentucky,western carolina,7,24,0
+2009-11-14,2009,jacksonville state,tennessee tech,55,28,1
+2009-11-14,2009,youngstown state,illinois state,30,18,1
+2009-11-14,2009,maryland,virginia tech,9,36,0
+2009-11-14,2009,georgetown,richmond,10,49,0
+2009-11-14,2009,colgate,bucknell,29,14,1
+2009-11-14,2009,fordham,lehigh,28,35,0
+2009-11-14,2009,wofford,samford,24,27,0
+2009-11-14,2009,south carolina state,morgan state,37,13,1
+2009-11-14,2009,william & mary,new hampshire,20,17,1
+2009-11-14,2009,nicholls,northwestern state,28,21,1
+2009-11-14,2009,chattanooga,the citadel,31,28,1
+2009-11-14,2009,georgia southern,furman,22,30,0
+2009-11-14,2009,alabama a&m,jackson state,13,5,1
+2009-11-14,2009,valparaiso,campbell,3,17,0
+2009-11-14,2009,southeast missouri state,murray state,49,13,1
+2009-11-14,2009,new mexico,byu,19,24,0
+2009-11-14,2009,mississippi valley state,lincoln (mo),16,6,1
+2009-11-14,2009,iowa state,colorado,17,10,1
+2009-11-14,2009,montana,northern colorado,38,10,1
+2009-11-14,2009,weber state,northern arizona,27,9,1
+2009-11-14,2009,montana state,sacramento state,27,17,1
+2009-11-14,2009,eastern illinois,ut martin,49,13,1
+2009-11-14,2009,elon,appalachian state,10,27,0
+2009-11-14,2009,southern illinois,missouri state,44,24,1
+2009-11-14,2009,smu,utep,35,31,1
+2009-11-14,2009,alcorn state,prairie view,14,34,0
+2009-11-14,2009,sam houston state,central arkansas,17,14,1
+2009-11-14,2009,southern utah,eastern washington,28,41,0
+2009-11-14,2009,southeastern louisiana,stephen f. austin,10,41,0
+2009-11-14,2009,utah state,san josé state,24,9,1
+2009-11-14,2009,ohio state,iowa,27,24,1
+2009-11-14,2009,alabama state,southern,24,34,0
+2009-11-14,2009,oregon state,washington,48,21,1
+2009-11-14,2009,north carolina,miami,33,24,1
+2009-11-14,2009,south carolina,florida,14,24,0
+2009-11-14,2009,kansas,nebraska,17,31,0
+2009-11-14,2009,boise state,idaho,63,25,1
+2009-11-14,2009,usc,stanford,21,55,0
+2009-11-14,2009,rice,tulane,28,20,1
+2009-11-14,2009,virginia,boston college,10,14,0
+2009-11-14,2009,navy,delaware,35,18,1
+2009-11-14,2009,nevada,fresno state,52,14,1
+2009-11-14,2009,louisiana monroe,western kentucky,21,18,1
+2009-11-14,2009,uc davis,north dakota,28,20,1
+2009-11-14,2009,florida atlantic,arkansas state,35,18,1
+2009-11-14,2009,drake,dayton,6,23,0
+2009-11-14,2009,middle tennessee,louisiana,34,17,1
+2009-11-14,2009,marshall,southern mississippi,20,27,0
+2009-11-14,2009,washington state,ucla,7,43,0
+2009-11-14,2009,austin peay,tennessee state,24,21,1
+2009-11-14,2009,savannah state,webber international,20,35,0
+2009-11-14,2009,idaho state,portland state,41,34,1
+2009-11-14,2009,air force,unlv,45,17,1
+2009-11-15,2009,oklahoma,texas a&m,65,10,1
+2009-11-15,2009,georgia,auburn,31,24,1
+2009-11-15,2009,texas state,mcneese,27,30,0
+2009-11-15,2009,mississippi state,alabama,3,31,0
+2009-11-15,2009,lsu,louisiana tech,24,16,1
+2009-11-15,2009,california,arizona,24,16,1
+2009-11-15,2009,florida international,north texas,35,28,1
+2009-11-15,2009,arkansas,troy,56,20,1
+2009-11-15,2009,tcu,utah,55,28,1
+2009-11-15,2009,northern iowa,western illinois,34,0,1
+2009-11-15,2009,oklahoma state,texas tech,24,17,1
+2009-11-15,2009,pittsburgh,notre dame,27,22,1
+2009-11-15,2009,cal poly,south dakota,48,50,0
+2009-11-15,2009,san diego state,wyoming,27,30,0
+2009-11-15,2009,hawai'i,new mexico state,24,6,1
+2009-11-15,2009,oregon,arizona state,44,21,1
+2009-11-16,2009,tulsa,east carolina,17,44,0
+2009-11-18,2009,miami (oh),buffalo,17,42,0
+2009-11-19,2009,ball state,central michigan,3,35,0
+2009-11-19,2009,eastern illinois,tennessee state,10,21,0
+2009-11-20,2009,southeastern louisiana,nicholls,30,45,0
+2009-11-20,2009,oklahoma state,colorado,31,28,1
+2009-11-20,2009,bowling green,akron,36,20,1
+2009-11-21,2009,toledo,eastern michigan,47,21,1
+2009-11-21,2009,utah state,boise state,21,52,0
+2009-11-21,2009,monmouth,robert morris,9,23,0
+2009-11-21,2009,st francis (pa),central connecticut,13,14,0
+2009-11-21,2009,miami,duke,34,16,1
+2009-11-21,2009,richmond,william & mary,13,10,1
+2009-11-21,2009,new hampshire,maine,27,24,1
+2009-11-21,2009,florida state,maryland,29,26,1
+2009-11-21,2009,south florida,louisville,34,22,1
+2009-11-21,2009,boston college,north carolina,13,31,0
+2009-11-21,2009,yale,harvard,10,14,0
+2009-11-21,2009,iowa,minnesota,12,0,1
+2009-11-21,2009,michigan,ohio state,10,21,0
+2009-11-21,2009,duquesne,bryant,0,20,0
+2009-11-21,2009,alabama,chattanooga,45,0,1
+2009-11-21,2009,arkansas,mississippi state,42,21,1
+2009-11-21,2009,rhode island,northeastern,27,33,0
+2009-11-21,2009,texas tech,oklahoma,41,13,1
+2009-11-21,2009,columbia,brown,28,14,1
+2009-11-21,2009,florida,florida international,62,3,1
+2009-11-21,2009,dartmouth,princeton,11,23,0
+2009-11-21,2009,lehigh,lafayette,27,21,1
+2009-11-21,2009,dayton,marist,27,16,1
+2009-11-21,2009,houston,memphis,55,14,1
+2009-11-21,2009,valparaiso,morehead state,6,29,0
+2009-11-21,2009,bucknell,holy cross,23,17,1
+2009-11-21,2009,georgetown,fordham,14,41,0
+2009-11-21,2009,wagner,albany,28,41,0
+2009-11-21,2009,delaware state,howard,30,20,1
+2009-11-21,2009,hampton,morgan state,13,16,0
+2009-11-21,2009,campbell,jacksonville,14,34,0
+2009-11-21,2009,illinois state,northern iowa,22,20,1
+2009-11-21,2009,butler,drake,20,17,1
+2009-11-21,2009,stony brook,liberty,36,33,1
+2009-11-21,2009,presbyterian college,gardner-webb,14,21,0
+2009-11-21,2009,pennsylvania,cornell,34,0,1
+2009-11-21,2009,jacksonville state,eastern kentucky,34,26,1
+2009-11-21,2009,norfolk state,winston-salem,28,21,1
+2009-11-21,2009,hofstra,umass,52,38,1
+2009-11-21,2009,temple,kent state,47,13,1
+2009-11-21,2009,south carolina state,north carolina a&t,28,10,1
+2009-11-21,2009,north carolina central,savannah state,35,14,1
+2009-11-21,2009,charleston southern,coastal carolina,30,23,1
+2009-11-21,2009,vmi,old dominion,35,42,0
+2009-11-21,2009,ut martin,austin peay,48,38,1
+2009-11-21,2009,ucf,tulane,49,0,1
+2009-11-21,2009,wyoming,tcu,10,45,0
+2009-11-21,2009,ohio,northern illinois,38,31,1
+2009-11-21,2009,southeast missouri state,southern illinois,24,42,0
+2009-11-21,2009,north dakota state,youngstown state,35,39,0
+2009-11-21,2009,prairie view,arkansas-pine bluff,49,17,1
+2009-11-21,2009,missouri,iowa state,34,24,1
+2009-11-21,2009,jackson state,alcorn state,7,14,0
+2009-11-21,2009,georgia southern,the citadel,13,6,1
+2009-11-21,2009,montana state,montana,19,33,0
+2009-11-21,2009,western illinois,south dakota state,7,27,0
+2009-11-21,2009,weber state,cal poly,47,14,1
+2009-11-21,2009,notre dame,connecticut,30,33,0
+2009-11-21,2009,tennessee tech,murray state,45,14,1
+2009-11-21,2009,bethune-cookman,florida a&m,6,42,0
+2009-11-21,2009,samford,elon,7,27,0
+2009-11-21,2009,james madison,towson,43,12,1
+2009-11-21,2009,furman,wofford,58,21,1
+2009-11-21,2009,northwestern state,stephen f. austin,10,19,0
+2009-11-21,2009,texas state,sam houston state,28,20,1
+2009-11-21,2009,alabama a&m,mississippi valley state,17,12,1
+2009-11-21,2009,syracuse,rutgers,31,13,1
+2009-11-21,2009,northwestern,wisconsin,33,31,1
+2009-11-21,2009,virginia tech,nc state,38,10,1
+2009-11-21,2009,michigan state,penn state,14,42,0
+2009-11-21,2009,villanova,delaware,30,12,1
+2009-11-21,2009,appalachian state,western carolina,19,14,1
+2009-11-21,2009,ole miss,lsu,25,23,1
+2009-11-21,2009,byu,air force,38,21,1
+2009-11-21,2009,clemson,virginia,34,21,1
+2009-11-21,2009,indiana,purdue,21,38,0
+2009-11-21,2009,texas a&m,baylor,38,3,1
+2009-11-21,2009,rice,utep,30,29,1
+2009-11-21,2009,east carolina,uab,37,21,1
+2009-11-21,2009,north texas,army,13,17,0
+2009-11-21,2009,utah,san diego state,38,7,1
+2009-11-21,2009,ucla,arizona state,23,13,1
+2009-11-21,2009,troy,florida atlantic,47,21,1
+2009-11-21,2009,marshall,smu,34,31,1
+2009-11-21,2009,middle tennessee,arkansas state,38,14,1
+2009-11-21,2009,washington state,oregon state,10,42,0
+2009-11-21,2009,fresno state,louisiana tech,30,28,1
+2009-11-21,2009,northern arizona,eastern washington,45,49,0
+2009-11-21,2009,sacramento state,uc davis,31,28,1
+2009-11-21,2009,new mexico,colorado state,29,27,1
+2009-11-22,2009,mcneese,central arkansas,21,17,1
+2009-11-22,2009,tennessee,vanderbilt,31,16,1
+2009-11-22,2009,louisiana,louisiana monroe,21,17,1
+2009-11-22,2009,stanford,california,28,34,0
+2009-11-22,2009,southern mississippi,tulsa,44,34,1
+2009-11-22,2009,nebraska,kansas state,17,3,1
+2009-11-22,2009,georgia,kentucky,27,34,0
+2009-11-22,2009,san josé state,hawai'i,10,17,0
+2009-11-22,2009,arizona,oregon,41,44,0
+2009-11-22,2009,texas,kansas,51,20,1
+2009-11-22,2009,san diego,southern utah,32,37,0
+2009-11-22,2009,new mexico state,nevada,20,63,0
+2009-11-25,2009,western michigan,ball state,17,22,0
+2009-11-26,2009,alabama state,tuskegee,0,21,0
+2009-11-27,2009,texas a&m,texas,39,49,0
+2009-11-27,2009,ohio,temple,35,17,1
+2009-11-27,2009,louisville,rutgers,14,34,0
+2009-11-27,2009,cincinnati,illinois,49,36,1
+2009-11-27,2009,central michigan,northern illinois,45,31,1
+2009-11-27,2009,akron,eastern michigan,28,21,1
+2009-11-27,2009,colorado state,wyoming,16,17,0
+2009-11-27,2009,bowling green,toledo,38,24,1
+2009-11-27,2009,kent state,buffalo,6,9,0
+2009-11-27,2009,auburn,alabama,21,26,0
+2009-11-27,2009,colorado,nebraska,20,28,0
+2009-11-27,2009,tulsa,memphis,33,30,1
+2009-11-28,2009,west virginia,pittsburgh,19,16,1
+2009-11-28,2009,boise state,nevada,44,33,1
+2009-11-28,2009,south carolina,clemson,34,17,1
+2009-11-28,2009,appalachian state,south carolina state,20,13,1
+2009-11-28,2009,nc state,north carolina,28,27,1
+2009-11-28,2009,connecticut,syracuse,56,31,1
+2009-11-28,2009,duke,wake forest,34,45,0
+2009-11-28,2009,villanova,holy cross,38,28,1
+2009-11-28,2009,mississippi state,ole miss,41,27,1
+2009-11-28,2009,oklahoma,oklahoma state,27,0,1
+2009-11-28,2009,william & mary,weber state,38,0,1
+2009-11-28,2009,richmond,elon,16,13,1
+2009-11-28,2009,tcu,new mexico,51,10,1
+2009-11-28,2009,east carolina,southern mississippi,25,20,1
+2009-11-28,2009,uab,ucf,27,34,0
+2009-11-28,2009,montana,south dakota state,61,48,1
+2009-11-28,2009,grambling,southern,31,13,1
+2009-11-28,2009,central arkansas,north dakota,16,17,0
+2009-11-28,2009,southern illinois,eastern illinois,48,7,1
+2009-11-28,2009,mcneese,new hampshire,13,49,0
+2009-11-28,2009,smu,tulane,26,21,1
+2009-11-28,2009,stephen f. austin,eastern washington,44,33,1
+2009-11-28,2009,arkansas state,north texas,30,26,1
+2009-11-28,2009,utep,marshall,52,21,1
+2009-11-28,2009,texas southern,arkansas-pine bluff,14,10,1
+2009-11-28,2009,maryland,boston college,17,19,0
+2009-11-28,2009,florida,florida state,37,10,1
+2009-11-28,2009,kansas,missouri,39,41,0
+2009-11-28,2009,arizona state,arizona,17,20,0
+2009-11-28,2009,south florida,miami,10,31,0
+2009-11-28,2009,virginia,virginia tech,13,42,0
+2009-11-28,2009,florida atlantic,western kentucky,29,23,1
+2009-11-28,2009,louisiana monroe,middle tennessee,19,38,0
+2009-11-28,2009,idaho,utah state,49,52,0
+2009-11-28,2009,byu,utah,26,23,1
+2009-11-28,2009,baylor,texas tech,13,20,0
+2009-11-28,2009,washington,washington state,30,0,1
+2009-11-29,2009,louisiana,troy,31,48,0
+2009-11-29,2009,kentucky,tennessee,24,30,0
+2009-11-29,2009,lsu,arkansas,33,30,1
+2009-11-29,2009,houston,rice,73,14,1
+2009-11-29,2009,georgia tech,georgia,24,30,0
+2009-11-29,2009,san josé state,new mexico state,13,10,1
+2009-11-29,2009,stanford,notre dame,45,38,1
+2009-11-29,2009,unlv,san diego state,28,24,1
+2009-11-29,2009,usc,ucla,28,7,1
+2009-11-29,2009,hawai'i,navy,24,17,1
+2009-12-04,2009,western kentucky,arkansas state,20,24,0
+2009-12-04,2009,oregon,oregon state,37,33,1
+2009-12-05,2009,central michigan,ohio,20,10,1
+2009-12-05,2009,east carolina,houston,38,32,1
+2009-12-05,2009,butler,central connecticut,28,23,1
+2009-12-05,2009,southern illinois,william & mary,3,24,0
+2009-12-05,2009,pittsburgh,cincinnati,44,45,0
+2009-12-05,2009,rutgers,west virginia,21,24,0
+2009-12-05,2009,illinois,fresno state,52,53,0
+2009-12-05,2009,montana,stephen f. austin,51,0,1
+2009-12-05,2009,texas southern,southern,30,25,1
+2009-12-05,2009,louisiana tech,san josé state,55,20,1
+2009-12-05,2009,boise state,new mexico state,42,7,1
+2009-12-05,2009,villanova,new hampshire,46,7,1
+2009-12-05,2009,usc,arizona,17,21,0
+2009-12-05,2009,alabama,florida,32,13,1
+2009-12-05,2009,washington,california,42,10,1
+2009-12-06,2009,florida international,florida atlantic,21,28,0
+2009-12-06,2009,richmond,appalachian state,31,35,0
+2009-12-06,2009,nebraska,texas,12,13,0
+2009-12-06,2009,connecticut,south florida,29,27,1
+2009-12-06,2009,clemson,georgia tech,34,39,0
+2009-12-06,2009,hawai'i,wisconsin,10,51,0
+2009-12-12,2009,navy,army,17,3,1

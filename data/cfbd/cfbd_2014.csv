@@ -1,0 +1,1543 @@
+data,season,team1,team2,score1,score2,result,spread,spreadOpen,overUnder,overUnderOpen,homeMoneyLine,awayMoneyLine
+2014-08-23,2014,eastern washington,sam houston state,56,35,1
+2014-08-27,2014,georgia state,abilene christian,38,37,1
+2014-08-28,2014,south carolina,texas a&m,28,52,0,-9.5,,-9.5,,,
+2014-08-28,2014,northwestern state,missouri state,27,34,0
+2014-08-28,2014,mercer,reinhardt,45,42,1
+2014-08-28,2014,louisiana monroe,wake forest,17,10,1,0.667,,0.667,,,
+2014-08-28,2014,robert morris,eastern kentucky,10,29,0
+2014-08-28,2014,campbell,charlotte,9,33,0
+2014-08-28,2014,stony brook,bryant,7,13,0
+2014-08-28,2014,charleston southern,point university,61,9,1
+2014-08-28,2014,akron,howard,41,0,1,-21.0,,-21.0,,,
+2014-08-28,2014,central michigan,chattanooga,20,16,1,-11.5,,-11.5,,,
+2014-08-28,2014,minnesota,eastern illinois,42,20,1
+2014-08-28,2014,northern illinois,presbyterian college,55,3,1,-38.0,,-38.0,,,
+2014-08-28,2014,utah,idaho state,56,14,1,-41.0,,-41.0,,,
+2014-08-28,2014,southeast missouri state,missouri baptist,77,0,1
+2014-08-28,2014,western illinois,valparaiso,45,6,1
+2014-08-29,2014,ole miss,boise state,35,13,1,-9.5,,-9.5,,,
+2014-08-29,2014,tulsa,tulane,38,31,1,-4.5,,-4.5,,,
+2014-08-29,2014,murray state,union college,73,26,1
+2014-08-29,2014,southern illinois,taylor,45,0,1
+2014-08-29,2014,tennessee tech,kentucky christian,33,7,1
+2014-08-29,2014,new mexico state,cal poly,28,10,1,7.0,,7.0,,,
+2014-08-29,2014,washington state,rutgers,38,41,0,-7.5,,-7.5,,,
+2014-08-29,2014,san josé state,north dakota,42,10,1,-27.0,,-27.0,,,
+2014-08-29,2014,arizona state,weber state,45,14,1,-45.5,,-45.5,,,
+2014-08-29,2014,vanderbilt,temple,7,37,0,-8.5,,-8.5,,,
+2014-08-29,2014,connecticut,byu,10,35,0,15.5,,15.5,,,
+2014-08-29,2014,western kentucky,bowling green,59,31,1,7.167,,7.167,,,
+2014-08-29,2014,syracuse,villanova,27,26,1,-14.0,,-14.0,,,
+2014-08-29,2014,michigan state,jacksonville state,45,7,1,-27.5,,-27.5,,,
+2014-08-30,2014,colorado,colorado state,17,31,0,-2.667,,-2.667,,,
+2014-08-30,2014,houston,ut san antonio,7,27,0,-9.833,,-9.833,,,
+2014-08-30,2014,arizona,unlv,58,13,1,-22.0,,-22.0,,,
+2014-08-30,2014,ucf,penn state,24,26,0,-1.75,,-1.75,,,
+2014-08-30,2014,purdue,western michigan,43,34,1,-7.5,,-7.5,,,
+2014-08-30,2014,uab,troy,48,10,1,0.833,,0.833,,,
+2014-08-30,2014,michigan,appalachian state,52,14,1,-30.75,,-30.75,,,
+2014-08-30,2014,navy,ohio state,17,34,0,15.5,,15.5,,,
+2014-08-30,2014,virginia,ucla,20,28,0,18.0,,18.0,,,
+2014-08-30,2014,kentucky,ut martin,59,14,1,-20.0,,-20.0,,,
+2014-08-30,2014,indiana,indiana state,28,10,1,-27.0,,-27.0,,,
+2014-08-30,2014,pittsburgh,delaware,62,0,1,-20.0,,-20.0,,,
+2014-08-30,2014,georgetown,wagner,3,21,0
+2014-08-30,2014,iowa state,north dakota state,14,34,0
+2014-08-30,2014,illinois,youngstown state,28,17,1,-9.0,,-9.0,,,
+2014-08-30,2014,iowa,northern iowa,31,23,1,-19.0,,-19.0,,,
+2014-08-30,2014,georgia tech,wofford,38,19,1,-28.0,,-28.0,,,
+2014-08-30,2014,nc state,georgia southern,24,23,1,-21.75,,-21.75,,,
+2014-08-30,2014,monmouth,delaware state,52,21,1
+2014-08-30,2014,ball state,colgate,30,10,1,-27.0,,-27.0,,,
+2014-08-30,2014,air force,nicholls,44,16,1,-14.0,,-14.0,,,
+2014-08-30,2014,umass,boston college,7,30,0,15.5,,15.5,,,
+2014-08-30,2014,nevada,southern utah,28,19,1,-18.0,,-18.0,,,
+2014-08-30,2014,missouri,south dakota state,38,18,1,-14.0,,-14.0,,,
+2014-08-30,2014,old dominion,hampton,41,28,1,-22.0,,-22.0,,,
+2014-08-30,2014,miami (oh),marshall,27,42,0,24.0,,24.0,,,
+2014-08-30,2014,alabama,west virginia,33,23,1,-22.25,,-22.25,,,
+2014-08-30,2014,northwestern,california,24,31,0,-8.75,,-8.75,,,
+2014-08-30,2014,notre dame,rice,48,17,1,-19.75,,-19.75,,,
+2014-08-30,2014,maryland,james madison,52,7,1,-21.5,,-21.5,,,
+2014-08-30,2014,buffalo,duquesne,38,28,1,-28.0,,-28.0,,,
+2014-08-30,2014,nebraska,florida atlantic,55,7,1,-20.25,,-20.25,,,
+2014-08-30,2014,auburn,arkansas,45,21,1,-18.5,,-18.5,,,
+2014-08-30,2014,oregon state,portland state,29,14,1,-35.0,,-35.0,,,
+2014-08-30,2014,wyoming,montana,17,12,1,-3.5,,-3.5,,,
+2014-08-30,2014,stanford,uc davis,45,0,1,-47.0,,-47.0,,,
+2014-08-30,2014,virginia tech,william & mary,34,9,1,-23.0,,-23.0,,,
+2014-08-30,2014,mississippi valley state,university of faith,32,7,1
+2014-08-30,2014,alcorn state,virginia lynchburg,55,7,1
+2014-08-30,2014,benedict college,south carolina state,0,63,0
+2014-08-30,2014,georgia,clemson,45,21,1,-10.0,,-10.0,,,
+2014-08-30,2014,kent state,ohio,14,17,0,-2.5,,-2.5,,,
+2014-08-30,2014,the citadel,coastal carolina,16,31,0
+2014-08-30,2014,eastern michigan,morgan state,31,28,1,-20.0,,-20.0,,,
+2014-08-30,2014,towson,central connecticut,27,31,0
+2014-08-30,2014,sacred heart,marist,28,7,1
+2014-08-30,2014,fordham,st francis (pa),52,23,1
+2014-08-30,2014,bucknell,vmi,42,38,1
+2014-08-30,2014,albany,holy cross,14,13,1
+2014-08-30,2014,duke,elon,52,13,1,-38.0,,-38.0,,,
+2014-08-30,2014,richmond,morehead state,55,10,1
+2014-08-30,2014,maine,norfolk state,10,6,1
+2014-08-30,2014,north carolina,liberty,56,29,1,-26.0,,-26.0,,,
+2014-08-30,2014,texas tech,central arkansas,42,35,1,-28.0,,-28.0,,,
+2014-08-30,2014,tcu,samford,48,14,1,-34.5,,-34.5,,,
+2014-08-30,2014,florida international,bethune-cookman,12,14,0,-1.0,,-1.0,,,
+2014-08-30,2014,middle tennessee,savannah state,61,7,1,-41.0,,-41.0,,,
+2014-08-30,2014,toledo,new hampshire,54,20,1,-10.5,,-10.5,,,
+2014-08-30,2014,san diego state,northern arizona,38,7,1,-17.5,,-17.5,,,
+2014-08-30,2014,arkansas state,montana state,37,10,1,-8.5,,-8.5,,,
+2014-08-30,2014,louisiana,southern,45,6,1,-38.0,,-38.0,,,
+2014-08-30,2014,texas state,arkansas-pine bluff,65,0,1,-28.0,,-28.0,,,
+2014-08-30,2014,jackson state,florida a&m,22,17,1
+2014-08-30,2014,furman,gardner-webb,13,3,1
+2014-08-30,2014,incarnate word,sacramento state,13,49,0
+2014-08-30,2014,south florida,western carolina,36,31,1,-26.0,,-26.0,,,
+2014-08-30,2014,memphis,austin peay,63,0,1,-31.0,,-31.0,,,
+2014-08-30,2014,davidson,college of faith - charlotte,56,0,1
+2014-08-30,2014,tennessee state,edward waters,58,6,1
+2014-08-30,2014,warner,stetson,16,35,0
+2014-08-30,2014,drake,grand view,22,45,0
+2014-08-30,2014,oklahoma,louisiana tech,48,16,1,-35.167,,-35.167,,,
+2014-08-30,2014,kansas state,stephen f. austin,55,16,1,-43.0,,-43.0,,,
+2014-08-30,2014,mississippi state,southern mississippi,49,0,1,-29.333,,-29.333,,,
+2014-08-30,2014,usc,fresno state,52,13,1,-18.5,,-18.5,,,
+2014-08-30,2014,sam houston state,alabama state,51,20,1
+2014-08-31,2014,new mexico,utep,24,31,0,-8.833,,-8.833,,,
+2014-08-31,2014,oklahoma state,florida state,31,37,0,18.0,,18.0,,,
+2014-08-31,2014,texas,north texas,38,7,1,-22.667,,-22.667,,,
+2014-08-31,2014,lamar,grambling,42,27,1
+2014-08-31,2014,southeastern louisiana,jacksonville,44,3,1
+2014-08-31,2014,east carolina,north carolina central,52,7,1,-39.0,,-39.0,,,
+2014-08-31,2014,lsu,wisconsin,28,24,1,-3.0,,-3.0,,,
+2014-08-31,2014,eastern washington,montana-western,41,9,1
+2014-08-31,2014,oregon,south dakota,62,13,1,-51.0,,-51.0,,,
+2014-08-31,2014,hawai'i,washington,16,17,0,17.25,,17.25,,,
+2014-08-31,2014,north carolina a&t,alabama a&m,47,13,1
+2014-08-31,2014,prairie view,texas southern,35,37,0
+2014-08-31,2014,tennessee,utah state,38,7,1,-3.5,,-3.5,,,
+2014-08-31,2014,baylor,smu,45,0,1,-32.5,,-32.5,,,
+2014-09-02,2014,louisville,miami,31,13,1,-5.5,,-5.5,,,
+2014-09-05,2014,ut san antonio,arizona,23,26,0,7.667,,7.667,,,
+2014-09-05,2014,texas southern,texas college,52,14,1
+2014-09-05,2014,boston college,pittsburgh,20,30,0,3.0,,3.0,,,
+2014-09-06,2014,nevada,washington state,24,13,1,3.0,,3.0,,,
+2014-09-06,2014,north texas,smu,43,6,1,-3.0,,-3.0,,,
+2014-09-06,2014,connecticut,stony brook,19,16,1,-16.0,,-16.0,,,
+2014-09-06,2014,rutgers,howard,38,25,1,-36.5,,-36.5,,,
+2014-09-06,2014,toledo,missouri,24,49,0,4.167,,4.167,,,
+2014-09-06,2014,iowa state,kansas state,28,32,0,13.167,,13.167,,,
+2014-09-06,2014,alabama,florida atlantic,41,0,1,-41.0,,-41.0,,,
+2014-09-06,2014,tulsa,oklahoma,7,52,0,23.667,,23.667,,,
+2014-09-06,2014,army,buffalo,47,39,1,-1.667,,-1.667,,,
+2014-09-06,2014,wisconsin,western illinois,37,3,1,-38.5,,-38.5,,,
+2014-09-06,2014,penn state,akron,21,3,1,-15.5,,-15.5,,,
+2014-09-06,2014,nebraska,mcneese,31,24,1,-25.0,,-25.0,,,
+2014-09-06,2014,purdue,central michigan,17,38,0,-2.833,,-2.833,,,
+2014-09-06,2014,charlotte,johnson c smith,56,0,1
+2014-09-06,2014,tennessee,arkansas state,34,19,1,-15.5,,-15.5,,,
+2014-09-06,2014,illinois,western kentucky,42,34,1,-2.833,,-2.833,,,
+2014-09-06,2014,clemson,south carolina state,73,7,1,-29.5,,-29.5,,,
+2014-09-06,2014,lehigh,james madison,28,31,0
+2014-09-06,2014,dayton,georgetown,23,14,1
+2014-09-06,2014,st francis (pa),clarion,27,13,1
+2014-09-06,2014,bryant,merrimack,40,14,1
+2014-09-06,2014,temple,navy,24,31,0,3.333,,3.333,,,
+2014-09-06,2014,holy cross,morgan state,29,26,1
+2014-09-06,2014,tuskegee,alabama a&m,17,30,0
+2014-09-06,2014,mississippi state,uab,47,34,1,-28.833,,-28.833,,,
+2014-09-06,2014,georgia state,new mexico state,31,34,0,-3.0,,-3.0,,,
+2014-09-06,2014,kent state,south alabama,13,23,0,1.5,,1.5,,,
+2014-09-06,2014,indiana state,tennessee tech,49,14,1
+2014-09-06,2014,california,sacramento state,55,14,1,-25.5,,-25.5,,,
+2014-09-06,2014,umass,colorado,38,41,0,17.333,,17.333,,,
+2014-09-06,2014,utah,fresno state,59,27,1,-11.167,,-11.167,,,
+2014-09-06,2014,south dakota,william penn,41,16,1
+2014-09-06,2014,washington,eastern washington,59,52,1,-14.0,,-14.0,,,
+2014-09-06,2014,minnesota,middle tennessee,35,24,1,-13.833,,-13.833,,,
+2014-09-06,2014,iowa,ball state,17,13,1,-17.5,,-17.5,,,
+2014-09-06,2014,south florida,maryland,17,24,0,10.5,,10.5,,,
+2014-09-06,2014,stanford,usc,10,13,0,-3.333,,-3.333,,,
+2014-09-06,2014,virginia,richmond,45,13,1,-18.5,,-18.5,,,
+2014-09-06,2014,bowling green,vmi,48,7,1,-38.0,,-38.0,,,
+2014-09-06,2014,oklahoma state,missouri state,40,23,1,-32.5,,-32.5,,,
+2014-09-06,2014,kentucky,ohio,20,3,1,-10.833,,-10.833,,,
+2014-09-06,2014,northwestern,northern illinois,15,23,0,-5.5,,-5.5,,,
+2014-09-06,2014,miami (oh),eastern kentucky,10,17,0,-3.0,,-3.0,,,
+2014-09-06,2014,western carolina,brevard college,45,21,1
+2014-09-06,2014,villanova,fordham,50,6,1
+2014-09-06,2014,florida,eastern michigan,65,0,1,-39.667,,-39.667,,,
+2014-09-06,2014,arkansas,nicholls,73,7,1,-40.5,,-40.5,,,
+2014-09-06,2014,norfolk state,liberty,0,17,0
+2014-09-06,2014,tulane,georgia tech,21,38,0,8.5,,8.5,,,
+2014-09-06,2014,youngstown state,duquesne,34,23,1
+2014-09-06,2014,vanderbilt,ole miss,3,41,0,16.333,,16.333,,,
+2014-09-06,2014,alabama state,tennessee state,27,21,1
+2014-09-06,2014,north carolina central,elizabeth city state,34,7,1
+2014-09-06,2014,montana,central washington,48,14,1
+2014-09-06,2014,florida international,wagner,34,3,1,-11.0,,-11.0,,,
+2014-09-06,2014,georgia southern,savannah state,83,9,1,-42.0,,-42.0,,,
+2014-09-06,2014,morehead state,pikeville,49,36,1
+2014-09-06,2014,sacred heart,lafayette,27,14,1
+2014-09-06,2014,marist,bucknell,0,22,0
+2014-09-06,2014,charleston southern,newberry,16,10,1
+2014-09-06,2014,appalachian state,campbell,66,0,1,-37.0,,-37.0,,,
+2014-09-06,2014,nc state,old dominion,46,34,1,-16.25,,-16.25,,,
+2014-09-06,2014,north carolina a&t,coastal carolina,30,31,0
+2014-09-06,2014,hampton,william & mary,14,42,0
+2014-09-06,2014,central connecticut,albany,0,19,0
+2014-09-06,2014,mercer,furman,20,25,0
+2014-09-06,2014,chattanooga,jacksonville state,23,26,0
+2014-09-06,2014,wake forest,gardner-webb,23,7,1,-21.5,,-21.5,,,
+2014-09-06,2014,oregon,michigan state,46,27,1,-12.833,,-12.833,,,
+2014-09-06,2014,miami,florida a&m,41,7,1,-46.5,,-46.5,,,
+2014-09-06,2014,eastern illinois,southern illinois,21,38,0
+2014-09-06,2014,southern mississippi,alcorn state,26,20,1,-18.0,,-18.0,,,
+2014-09-06,2014,kansas,southeast missouri state,34,28,1,-25.0,,-25.0,,,
+2014-09-06,2014,wittenberg,butler,16,22,0
+2014-09-06,2014,stephen f. austin,incarnate word,38,3,1
+2014-09-06,2014,south dakota state,cal poly,44,18,1
+2014-09-06,2014,north dakota,robert morris,16,13,1
+2014-09-06,2014,abilene christian,northern arizona,21,27,0
+2014-09-06,2014,stetson,florida tech,12,54,0
+2014-09-06,2014,drake,truman state,13,7,1
+2014-09-06,2014,davidson,catawba,7,35,0
+2014-09-06,2014,louisville,murray state,66,21,1,-37.5,,-37.5,,,
+2014-09-06,2014,central arkansas,ut martin,26,24,1
+2014-09-06,2014,auburn,san josé state,59,13,1,-31.667,,-31.667,,,
+2014-09-06,2014,arkansas-pine bluff,concordia (al),31,0,1
+2014-09-06,2014,southern,central methodist,56,14,1
+2014-09-06,2014,jackson state,virginia lynchburg,59,0,1
+2014-09-06,2014,new mexico,arizona state,23,58,0,25.0,,25.0,,,
+2014-09-06,2014,south carolina,east carolina,33,23,1,-14.5,,-14.5,,,
+2014-09-06,2014,troy,duke,17,34,0,17.667,,17.667,,,
+2014-09-06,2014,louisiana,louisiana tech,20,48,0,-16.0,,-16.0,,,
+2014-09-06,2014,louisiana monroe,idaho,38,31,1,-12.0,,-12.0,,,
+2014-09-06,2014,presbyterian college,bluefield college,69,14,1
+2014-09-06,2014,marshall,rhode island,48,7,1,-41.0,,-41.0,,,
+2014-09-06,2014,texas,byu,7,41,0,-2.167,,-2.167,,,
+2014-09-06,2014,illinois state,mississippi valley state,62,0,1
+2014-09-06,2014,notre dame,michigan,31,0,1,-4.667,,-4.667,,,
+2014-09-06,2014,west virginia,towson,54,0,1,-28.5,,-28.5,,,
+2014-09-06,2014,lsu,sam houston state,56,0,1,-33.0,,-33.0,,,
+2014-09-06,2014,florida state,the citadel,37,12,1,-58.5,,-58.5,,,
+2014-09-06,2014,baylor,northwestern state,70,6,1,-47.5,,-47.5,,,
+2014-09-06,2014,texas a&m,lamar,73,3,1,-44.5,,-44.5,,,
+2014-09-07,2014,weber state,north dakota state,7,24,0
+2014-09-07,2014,valparaiso,st. joseph's (in),10,31,0
+2014-09-07,2014,houston christian,mcmurry,17,26,0
+2014-09-07,2014,southeastern louisiana,southern utah,41,14,1
+2014-09-07,2014,ohio state,virginia tech,21,35,0,-10.667,,-10.667,,,
+2014-09-07,2014,houston,grambling,47,0,1,-47.5,,-47.5,,,
+2014-09-07,2014,utah state,idaho state,40,20,1,-35.0,,-35.0,,,
+2014-09-07,2014,north carolina,san diego state,31,27,1,-14.167,,-14.167,,,
+2014-09-07,2014,uc davis,fort lewis,52,17,1
+2014-09-07,2014,san diego,western new mexico,23,17,1
+2014-09-07,2014,montana state,black hills state,57,10,1
+2014-09-07,2014,unlv,northern colorado,13,12,1,-28.0,,-28.0,,,
+2014-09-07,2014,ucla,memphis,42,35,1,-22.333,,-22.333,,,
+2014-09-07,2014,portland state,western oregon,45,38,1
+2014-09-07,2014,boise state,colorado state,37,24,1,-7.667,,-7.667,,,
+2014-09-07,2014,wyoming,air force,17,13,1,0.333,,0.333,,,
+2014-09-07,2014,hawai'i,oregon state,30,38,0,9.667,,9.667,,,
+2014-09-07,2014,utep,texas tech,26,30,0,20.0,,20.0,,,
+2014-09-07,2014,delaware,delaware state,27,9,1
+2014-09-11,2014,charleston southern,campbell,34,10,1
+2014-09-11,2014,samford,stillman,52,0,1
+2014-09-11,2014,ut martin,cumberland,63,7,1
+2014-09-12,2014,north texas,louisiana tech,21,42,0,-3.333,,-3.333,,,
+2014-09-12,2014,byu,houston,33,25,1,-16.0,,-16.0,,,
+2014-09-12,2014,cincinnati,toledo,58,34,1,-10.333,,-10.333,,,
+2014-09-13,2014,buffalo,baylor,21,63,0,31.333,,31.333,,,
+2014-09-13,2014,vanderbilt,umass,34,31,1,-16.5,,-16.5,,,
+2014-09-13,2014,florida international,pittsburgh,25,42,0,25.667,,25.667,,,
+2014-09-13,2014,marshall,ohio,44,14,1,-20.167,,-20.167,,,
+2014-09-13,2014,bowling green,indiana,45,42,1,4.333,,4.333,,,
+2014-09-13,2014,maryland,west virginia,37,40,0,-3.5,,-3.5,,,
+2014-09-13,2014,central michigan,syracuse,3,40,0,5.333,,5.333,,,
+2014-09-13,2014,georgia tech,georgia southern,42,38,1,-19.75,,-19.75,,,
+2014-09-13,2014,connecticut,boise state,21,38,0,15.667,,15.667,,,
+2014-09-13,2014,ohio state,kent state,66,0,1,-30.0,,-30.0,,,
+2014-09-13,2014,duquesne,dayton,33,13,1
+2014-09-13,2014,missouri,ucf,38,10,1,-10.0,,-10.0,,,
+2014-09-13,2014,virginia tech,east carolina,21,28,0,-10.167,,-10.167,,,
+2014-09-13,2014,virginia,louisville,23,21,1,6.833,,6.833,,,
+2014-09-13,2014,illinois state,eastern illinois,34,15,1
+2014-09-13,2014,fordham,rhode island,54,7,1
+2014-09-13,2014,bryant,maine,13,10,1
+2014-09-13,2014,monmouth,wagner,21,16,1
+2014-09-13,2014,morgan state,bowie state,28,3,1
+2014-09-13,2014,jacksonville,san diego,35,18,1
+2014-09-13,2014,holy cross,central connecticut,20,7,1
+2014-09-13,2014,vmi,davidson,52,24,1
+2014-09-13,2014,oregon,wyoming,48,14,1,-42.667,,-42.667,,,
+2014-09-13,2014,georgia state,air force,38,48,0,11.167,,11.167,,,
+2014-09-13,2014,delaware state,towson,7,21,0
+2014-09-13,2014,colorado state,uc davis,49,21,1,-27.5,,-27.5,,,
+2014-09-13,2014,alcorn state,louisiana college,52,10,1
+2014-09-13,2014,ball state,indiana state,20,27,0,-20.0,,-20.0,,,
+2014-09-13,2014,new hampshire,lehigh,45,27,1
+2014-09-13,2014,northern colorado,houston christian,28,20,1
+2014-09-13,2014,michigan,miami (oh),34,10,1,-32.333,,-32.333,,,
+2014-09-13,2014,uab,alabama a&m,41,14,1,-39.5,,-39.5,,,
+2014-09-13,2014,howard,morehouse,35,17,1
+2014-09-13,2014,south carolina,georgia,38,35,1,5.333,,5.333,,,
+2014-09-13,2014,south florida,nc state,17,49,0,1.833,,1.833,,,
+2014-09-13,2014,duke,kansas,41,3,1,-15.0,,-15.0,,,
+2014-09-13,2014,miami,arkansas state,41,20,1,-15.833,,-15.833,,,
+2014-09-13,2014,texas tech,arkansas,28,49,0,nan,,nan,,,
+2014-09-13,2014,western carolina,catawba,35,17,1
+2014-09-13,2014,iowa,iowa state,17,20,0,-13.667,,-13.667,,,
+2014-09-13,2014,north dakota state,incarnate word,58,0,1
+2014-09-13,2014,bethune-cookman,grambling,36,23,1
+2014-09-13,2014,james madison,st francis (pa),38,22,1
+2014-09-13,2014,south alabama,mississippi state,3,35,0,13.333,,13.333,,,
+2014-09-13,2014,washington,illinois,44,19,1,-13.667,,-13.667,,,
+2014-09-13,2014,youngstown state,butler,44,13,1
+2014-09-13,2014,tcu,minnesota,30,7,1,-13.833,,-13.833,,,
+2014-09-13,2014,western illinois,drake,38,13,1
+2014-09-13,2014,ole miss,louisiana,56,15,1,-27.0,,-27.0,,,
+2014-09-13,2014,idaho state,chadron state,39,34,1
+2014-09-13,2014,stanford,army,35,0,1,-28.0,,-28.0,,,
+2014-09-13,2014,austin peay,chattanooga,6,42,0
+2014-09-13,2014,idaho,western michigan,33,45,0,-2.833,,-2.833,,,
+2014-09-13,2014,north carolina central,charlotte,28,40,0
+2014-09-13,2014,montana state,central arkansas,43,33,1
+2014-09-13,2014,eastern kentucky,morehead state,55,13,1
+2014-09-13,2014,savannah state,fort valley state,28,42,0
+2014-09-13,2014,stetson,mercer,0,49,0
+2014-09-13,2014,alabama,southern mississippi,52,12,1,-47.667,,-47.667,,,
+2014-09-13,2014,delaware,colgate,28,25,1
+2014-09-13,2014,lafayette,robert morris,50,3,1
+2014-09-13,2014,marist,georgetown,7,27,0
+2014-09-13,2014,elon,north carolina a&t,12,17,0
+2014-09-13,2014,richmond,hampton,42,17,1
+2014-09-13,2014,stony brook,american international,20,3,1
+2014-09-13,2014,old dominion,eastern michigan,17,3,1,-16.0,,-16.0,,,
+2014-09-13,2014,sacred heart,assumption,44,14,1
+2014-09-13,2014,texas southern,central state,30,16,1
+2014-09-13,2014,alabama state,mississippi valley state,47,22,1
+2014-09-13,2014,coastal carolina,south carolina state,30,3,1
+2014-09-13,2014,gardner-webb,virginia lynchburg,34,0,1
+2014-09-13,2014,william & mary,norfolk state,29,14,1
+2014-09-13,2014,missouri state,north dakota,38,0,1
+2014-09-13,2014,northern arizona,new mexico highlands,62,23,1
+2014-09-13,2014,liberty,brevard college,56,31,1
+2014-09-13,2014,unlv,northern illinois,34,48,0,10.667,,10.667,,,
+2014-09-13,2014,middle tennessee,western kentucky,50,47,1,-1.75,,-1.75,,,
+2014-09-13,2014,mcneese,prairie view,48,16,1
+2014-09-13,2014,lsu,louisiana monroe,31,0,1,-29.833,,-29.833,,,
+2014-09-13,2014,southern illinois,southeast missouri state,50,23,1
+2014-09-13,2014,tennessee state,jackson state,35,7,1
+2014-09-13,2014,florida atlantic,tulsa,50,21,1,1.333,,1.333,,,
+2014-09-13,2014,utah state,wake forest,36,24,1,-14.667,,-14.667,,,
+2014-09-13,2014,oklahoma state,ut san antonio,43,13,1,-13.0,,-13.0,,,
+2014-09-13,2014,troy,abilene christian,35,38,0,-14.0,,-14.0,,,
+2014-09-13,2014,presbyterian college,furman,10,7,1
+2014-09-13,2014,wofford,north greenville,42,27,1
+2014-09-13,2014,southern,northwestern state,27,51,0
+2014-09-13,2014,notre dame,purdue,30,14,1,-29.333,,-29.333,,,
+2014-09-13,2014,florida,kentucky,36,30,1,-17.667,,-17.667,,,
+2014-09-14,2014,oklahoma,tennessee,34,10,1,-21.0,,-21.0,,,
+2014-09-14,2014,boston college,usc,37,31,1,17.833,,17.833,,,
+2014-09-14,2014,tulane,southeastern louisiana,35,20,1,-4.5,,-4.5,,,
+2014-09-14,2014,rutgers,penn state,10,13,0,3.667,,3.667,,,
+2014-09-14,2014,utep,new mexico state,42,24,1,-10.5,,-10.5,,,
+2014-09-14,2014,washington state,portland state,59,21,1,-23.5,,-23.5,,,
+2014-09-14,2014,texas state,navy,21,35,0,9.5,,9.5,,,
+2014-09-14,2014,southern utah,south dakota state,6,26,0
+2014-09-14,2014,texas,ucla,17,20,0,7.333,,7.333,,,
+2014-09-14,2014,montana,south dakota,28,20,1
+2014-09-14,2014,sacramento state,weber state,42,31,1
+2014-09-14,2014,texas a&m,rice,38,10,1,-30.833,,-30.833,,,
+2014-09-14,2014,colorado,arizona state,24,38,0,14.667,,14.667,,,
+2014-09-14,2014,fresno state,nebraska,19,55,0,11.5,,11.5,,,
+2014-09-14,2014,arizona,nevada,35,28,1,-18.0,,-18.0,,,
+2014-09-14,2014,hawai'i,northern iowa,27,24,1,-1.0,,-1.0,,,
+2014-09-18,2014,alabama state,arkansas-pine bluff,42,7,1
+2014-09-18,2014,kansas state,auburn,14,20,0,6.833,,6.833,,,
+2014-09-19,2014,harvard,holy cross,41,18,1
+2014-09-20,2014,south florida,connecticut,17,14,1,-1.833,,-1.833,,,
+2014-09-20,2014,duquesne,monmouth,30,21,1
+2014-09-20,2014,wisconsin,bowling green,68,17,1,-23.167,,-23.167,,,
+2014-09-20,2014,purdue,southern illinois,35,13,1,-1.5,,-1.5,,,
+2014-09-20,2014,northwestern,western illinois,24,7,1,-23.0,,-23.0,,,
+2014-09-20,2014,georgetown,brown,17,3,1
+2014-09-20,2014,rice,old dominion,42,45,0,-8.25,,-8.25,,,
+2014-09-20,2014,pittsburgh,iowa,20,24,0,-5.833,,-5.833,,,
+2014-09-20,2014,virginia tech,georgia tech,24,27,0,-7.0,,-7.0,,,
+2014-09-20,2014,michigan state,eastern michigan,73,14,1,-44.5,,-44.5,,,
+2014-09-20,2014,georgia,troy,66,0,1,-39.333,,-39.333,,,
+2014-09-20,2014,duke,tulane,47,13,1,-16.833,,-16.833,,,
+2014-09-20,2014,villanova,james madison,49,31,1
+2014-09-20,2014,columbia,fordham,7,49,0
+2014-09-20,2014,syracuse,maryland,20,34,0,-1.833,,-1.833,,,
+2014-09-20,2014,boston college,maine,40,10,1,-24.0,,-24.0,,,
+2014-09-20,2014,rhode island,albany,20,37,0
+2014-09-20,2014,yale,lehigh,54,43,1
+2014-09-20,2014,colgate,cornell,27,12,1
+2014-09-20,2014,davidson,morehead state,32,40,0
+2014-09-20,2014,dayton,robert morris,31,7,1
+2014-09-20,2014,jacksonville,pennsylvania,34,31,1
+2014-09-20,2014,ut martin,eastern kentucky,24,49,0
+2014-09-20,2014,sacred heart,bucknell,20,36,0
+2014-09-20,2014,temple,delaware state,59,0,1,-39.5,,-39.5,,,
+2014-09-20,2014,birmingham-southern,stetson,19,37,0
+2014-09-20,2014,drake,marist,21,6,1
+2014-09-20,2014,colorado,hawai'i,21,12,1,-7.833,,-7.833,,,
+2014-09-20,2014,william jewell college,valparaiso,30,39,0
+2014-09-20,2014,akron,marshall,17,48,0,11.0,,11.0,,,
+2014-09-20,2014,eastern illinois,austin peay,63,7,1
+2014-09-20,2014,tennessee state,tennessee tech,10,7,1
+2014-09-20,2014,south dakota,northern arizona,28,21,1
+2014-09-20,2014,samford,vmi,63,21,1
+2014-09-20,2014,montana state,eastern washington,51,52,0
+2014-09-20,2014,north dakota state,montana,22,10,1
+2014-09-20,2014,wake forest,army,24,21,1,0.667,,0.667,,,
+2014-09-20,2014,florida international,louisville,3,34,0,26.0,,26.0,,,
+2014-09-20,2014,east carolina,north carolina,70,41,1,0.667,,0.667,,,
+2014-09-20,2014,smu,texas a&m,6,58,0,31.833,,31.833,,,
+2014-09-20,2014,morgan state,howard,38,35,1
+2014-09-20,2014,buffalo,norfolk state,36,7,1,-26.0,,-26.0,,,
+2014-09-20,2014,north texas,nicholls,77,3,1,-38.5,,-38.5,,,
+2014-09-20,2014,navy,rutgers,24,31,0,-6.0,,-6.0,,,
+2014-09-20,2014,michigan,utah,10,26,0,-4.333,,-4.333,,,
+2014-09-20,2014,kansas,central michigan,24,10,1,-3.833,,-3.833,,,
+2014-09-20,2014,byu,virginia,41,33,1,-14.167,,-14.167,,,
+2014-09-20,2014,alabama,florida,42,21,1,-14.667,,-14.667,,,
+2014-09-20,2014,wyoming,florida atlantic,20,19,1,-3.167,,-3.167,,,
+2014-09-20,2014,penn state,umass,48,7,1,-28.0,,-28.0,,,
+2014-09-20,2014,richmond,new hampshire,26,29,0
+2014-09-20,2014,jacksonville state,west alabama,45,34,1
+2014-09-20,2014,missouri,indiana,27,31,0,-14.667,,-14.667,,,
+2014-09-20,2014,san diego,princeton,39,29,1
+2014-09-20,2014,illinois,texas state,42,35,1,-12.0,,-12.0,,,
+2014-09-20,2014,minnesota,san josé state,24,7,1,-8.0,,-8.0,,,
+2014-09-20,2014,florida a&m,coastal carolina,3,48,0
+2014-09-20,2014,mississippi valley state,alcorn state,9,52,0
+2014-09-20,2014,northern iowa,northern colorado,46,7,1
+2014-09-20,2014,mercer,ave maria,42,21,1
+2014-09-20,2014,charleston southern,the citadel,20,18,1
+2014-09-20,2014,south carolina state,furman,17,7,1
+2014-09-20,2014,towson,north carolina central,31,20,1
+2014-09-20,2014,gardner-webb,wofford,43,36,1
+2014-09-20,2014,north carolina a&t,chowan,59,0,1
+2014-09-20,2014,hampton,miles,34,30,1
+2014-09-20,2014,ucf,bethune-cookman,41,7,1,-27.5,,-27.5,,,
+2014-09-20,2014,washington,georgia state,45,14,1,-35.167,,-35.167,,,
+2014-09-20,2014,nc state,presbyterian college,42,0,1,-40.5,,-40.5,,,
+2014-09-20,2014,butler,taylor,38,3,1
+2014-09-20,2014,south dakota state,uw-oshkosh,41,3,1
+2014-09-20,2014,southern mississippi,appalachian state,21,20,1,-0.5,,-0.5,,,
+2014-09-20,2014,ohio,idaho,36,24,1,-11.333,,-11.333,,,
+2014-09-20,2014,western michigan,murray state,45,14,1,-15.0,,-15.0,,,
+2014-09-20,2014,lsu,mississippi state,29,34,0,-7.0,,-7.0,,,
+2014-09-20,2014,louisiana tech,northwestern state,27,30,0,-24.0,,-24.0,,,
+2014-09-20,2014,memphis,middle tennessee,36,17,1,-10.167,,-10.167,,,
+2014-09-20,2014,prairie view,southern,24,34,0
+2014-09-20,2014,jackson state,grambling,35,40,0
+2014-09-20,2014,arkansas state,utah state,21,14,1,-2.5,,-2.5,,,
+2014-09-20,2014,arkansas,northern illinois,52,14,1,-11.667,,-11.667,,,
+2014-09-20,2014,elon,charlotte,20,13,1
+2014-09-20,2014,william & mary,lafayette,33,19,1
+2014-09-20,2014,cincinnati,miami (oh),31,24,1,-30.833,,-30.833,,,
+2014-09-20,2014,youngstown state,st francis (pa),52,23,1
+2014-09-20,2014,central arkansas,missouri state,31,33,0
+2014-09-20,2014,toledo,ball state,34,23,1,-12.333,,-12.333,,,
+2014-09-20,2014,liberty,bryant,38,21,1
+2014-09-20,2014,dartmouth,central connecticut,35,25,1
+2014-09-20,2014,southeast missouri state,southeastern louisiana,24,23,1
+2014-09-20,2014,stephen f. austin,weber state,35,20,1
+2014-09-20,2014,north dakota,stony brook,13,3,1
+2014-09-20,2014,west virginia,oklahoma,33,45,0,8.667,,8.667,,,
+2014-09-20,2014,south alabama,georgia southern,6,28,0,-0.75,,-0.75,,,
+2014-09-20,2014,vanderbilt,south carolina,34,48,0,22.167,,22.167,,,
+2014-09-21,2014,nebraska,miami,41,31,1,-7.667,,-7.667,,,
+2014-09-21,2014,florida state,clemson,23,17,1,-13.5,,-13.5,,,
+2014-09-21,2014,texas southern,alabama a&m,45,23,1
+2014-09-21,2014,houston,unlv,47,14,1,-20.5,,-20.5,,,
+2014-09-21,2014,new mexico state,new mexico,35,38,0,3.5,,3.5,,,
+2014-09-21,2014,sacramento state,menlo,59,14,1
+2014-09-21,2014,cal poly,portland state,42,14,1
+2014-09-21,2014,arizona,california,49,45,1,-10.5,,-10.5,,,
+2014-09-21,2014,fresno state,southern utah,56,16,1,-16.5,,-16.5,,,
+2014-09-21,2014,washington state,oregon,31,38,0,21.333,,21.333,,,
+2014-09-21,2014,oregon state,san diego state,28,7,1,-9.5,,-9.5,,,
+2014-09-21,2014,boise state,louisiana,34,9,1,-18.0,,-18.0,,,
+2014-09-25,2014,georgia southern,appalachian state,34,14,1,-17.0,,-17.0,,,
+2014-09-25,2014,oklahoma state,texas tech,45,35,1,-14.333,,-14.333,,,
+2014-09-26,2014,arizona state,ucla,27,62,0,3.0,,3.0,,,
+2014-09-27,2014,new mexico,fresno state,24,35,0,5.0,,5.0,,,
+2014-09-27,2014,old dominion,middle tennessee,28,41,0,-1.0,,-1.0,,,
+2014-09-27,2014,butler,jacksonville,7,35,0
+2014-09-27,2014,colgate,georgetown,19,0,1
+2014-09-27,2014,rutgers,tulane,31,6,1,-12.667,,-12.667,,,
+2014-09-27,2014,purdue,iowa,10,24,0,9.833,,9.833,,,
+2014-09-27,2014,penn state,northwestern,6,29,0,-10.0,,-10.0,,,
+2014-09-27,2014,kentucky,vanderbilt,17,7,1,-16.0,,-16.0,,,
+2014-09-27,2014,georgia,tennessee,35,32,1,-18.167,,-18.167,,,
+2014-09-27,2014,charlotte,charleston southern,41,47,0
+2014-09-27,2014,wisconsin,south florida,27,10,1,-33.0,,-33.0,,,
+2014-09-27,2014,kansas state,utep,58,28,1,-28.667,,-28.667,,,
+2014-09-27,2014,smu,tcu,0,56,0,31.333,,31.333,,,
+2014-09-27,2014,michigan state,wyoming,56,14,1,-29.5,,-29.5,,,
+2014-09-27,2014,boston college,colorado state,21,24,0,-6.0,,-6.0,,,
+2014-09-27,2014,lehigh,monmouth,21,28,0
+2014-09-27,2014,virginia tech,western michigan,35,17,1,-23.0,,-23.0,,,
+2014-09-27,2014,yale,army,49,43,1,14.5,,14.5,,,
+2014-09-27,2014,marist,san diego,16,20,0
+2014-09-27,2014,howard,north carolina a&t,22,38,0
+2014-09-27,2014,holy cross,fordham,16,45,0
+2014-09-27,2014,indiana,maryland,15,37,0,-3.0,,-3.0,,,
+2014-09-27,2014,pittsburgh,akron,10,21,0,-19.833,,-19.833,,,
+2014-09-27,2014,vmi,mercer,24,27,0
+2014-09-27,2014,ohio,eastern illinois,34,19,1,-8.0,,-8.0,,,
+2014-09-27,2014,hampton,south carolina state,10,17,0
+2014-09-27,2014,pennsylvania,villanova,7,41,0
+2014-09-27,2014,indiana state,liberty,38,19,1
+2014-09-27,2014,umass,bowling green,42,47,0,7.667,,7.667,,,
+2014-09-27,2014,michigan,minnesota,14,30,0,-10.0,,-10.0,,,
+2014-09-27,2014,virginia,kent state,45,13,1,-24.667,,-24.667,,,
+2014-09-27,2014,nc state,florida state,41,56,0,18.833,,18.833,,,
+2014-09-27,2014,buffalo,miami (oh),35,27,1,-6.5,,-6.5,,,
+2014-09-27,2014,navy,western kentucky,27,36,0,-7.333,,-7.333,,,
+2014-09-27,2014,louisville,wake forest,20,10,1,-21.167,,-21.167,,,
+2014-09-27,2014,texas a&m,arkansas,35,28,1,-10.167,,-10.167,,,
+2014-09-27,2014,uab,florida international,20,34,0,-14.0,,-14.0,,,
+2014-09-27,2014,furman,western carolina,17,35,0
+2014-09-27,2014,montana,northern colorado,38,13,1
+2014-09-27,2014,norfolk state,morgan state,15,14,1
+2014-09-27,2014,california,colorado,59,56,1,-13.5,,-13.5,,,
+2014-09-27,2014,connecticut,temple,10,36,0,5.333,,5.333,,,
+2014-09-27,2014,central arkansas,nicholls,52,18,1
+2014-09-27,2014,auburn,louisiana tech,45,17,1,-32.667,,-32.667,,,
+2014-09-27,2014,james madison,delaware,23,30,0
+2014-09-27,2014,central connecticut,rhode island,38,14,1
+2014-09-27,2014,bethune-cookman,florida tech,34,33,1
+2014-09-27,2014,montana state,north dakota,29,18,1
+2014-09-27,2014,idaho state,sacramento state,44,24,1
+2014-09-27,2014,kansas,texas,0,23,0,11.667,,11.667,,,
+2014-09-27,2014,washington,stanford,13,20,0,6.833,,6.833,,,
+2014-09-27,2014,alcorn state,southern,56,16,1
+2014-09-27,2014,mississippi valley state,alabama a&m,20,42,0
+2014-09-27,2014,idaho,south alabama,10,34,0,4.333,,4.333,,,
+2014-09-27,2014,grambling,prairie view,26,20,1
+2014-09-27,2014,florida atlantic,ut san antonio,41,37,1,4.333,,4.333,,,
+2014-09-27,2014,northern iowa,tennessee tech,50,7,1
+2014-09-27,2014,princeton,davidson,56,17,1
+2014-09-27,2014,lafayette,wagner,35,23,1
+2014-09-27,2014,bucknell,cornell,20,7,1
+2014-09-27,2014,campbell,valparaiso,34,24,1
+2014-09-27,2014,the citadel,gardner-webb,37,14,1
+2014-09-27,2014,new hampshire,dartmouth,52,19,1
+2014-09-27,2014,ohio state,cincinnati,50,28,1,-15.5,,-15.5,,,
+2014-09-27,2014,stony brook,william & mary,21,27,0
+2014-09-27,2014,delaware state,savannah state,35,10,1
+2014-09-27,2014,albany,columbia,42,7,1
+2014-09-27,2014,alabama state,texas southern,38,3,1
+2014-09-27,2014,brown,harvard,14,22,0
+2014-09-27,2014,mcneese,arkansas tech,61,7,1
+2014-09-27,2014,coastal carolina,elon,31,3,1
+2014-09-27,2014,towson,maine,24,27,0
+2014-09-27,2014,southern illinois,western illinois,34,17,1
+2014-09-27,2014,incarnate word,southeastern louisiana,7,63,0
+2014-09-27,2014,south carolina,missouri,20,21,0,-5.5,,-5.5,,,
+2014-09-27,2014,arkansas-pine bluff,jackson state,30,33,0
+2014-09-27,2014,clemson,north carolina,50,35,1,-12.667,,-12.667,,,
+2014-09-27,2014,southern mississippi,rice,23,41,0,9.0,,9.0,,,
+2014-09-27,2014,toledo,central michigan,42,28,1,-12.5,,-12.5,,,
+2014-09-27,2014,air force,boise state,28,14,1,13.667,,13.667,,,
+2014-09-27,2014,louisiana monroe,troy,22,20,1,-12.667,,-12.667,,,
+2014-09-27,2014,northern arizona,cal poly,38,35,1
+2014-09-27,2014,chattanooga,samford,38,24,1
+2014-09-27,2014,wofford,uva-wise,49,15,1
+2014-09-27,2014,tennessee state,florida a&m,27,7,1
+2014-09-27,2014,murray state,jacksonville state,28,52,0
+2014-09-27,2014,ut martin,southeast missouri state,27,31,0
+2014-09-27,2014,illinois state,austin peay,55,6,1
+2014-09-27,2014,miami,duke,22,10,1,-4.667,,-4.667,,,
+2014-09-27,2014,lsu,new mexico state,63,7,1,-42.5,,-42.5,,,
+2014-09-27,2014,ole miss,memphis,24,3,1,-21.0,,-21.0,,,
+2014-09-28,2014,lamar,sam houston state,10,42,0
+2014-09-28,2014,tulsa,texas state,34,37,0,-3.833,,-3.833,,,
+2014-09-28,2014,san diego state,unlv,34,17,1,-17.833,,-17.833,,,
+2014-09-28,2014,utah,washington state,27,28,0,-11.667,,-11.667,,,
+2014-09-28,2014,syracuse,notre dame,15,31,0,10.5,,10.5,,,
+2014-09-28,2014,houston christian,abilene christian,14,59,0
+2014-09-28,2014,southern utah,weber state,31,28,1
+2014-09-28,2014,iowa state,baylor,28,49,0,21.333,,21.333,,,
+2014-09-28,2014,nebraska,illinois,45,14,1,-20.333,,-20.333,,,
+2014-09-28,2014,uc davis,eastern washington,14,37,0
+2014-09-28,2014,usc,oregon state,35,10,1,-9.333,,-9.333,,,
+2014-09-28,2014,san josé state,nevada,10,21,0,5.333,,5.333,,,
+2014-10-02,2014,florida international,florida atlantic,38,10,1,7.333,,7.333,,,
+2014-10-02,2014,houston,ucf,12,17,0,-2.167,,-2.167,,,
+2014-10-02,2014,alcorn state,alabama state,33,7,1
+2014-10-03,2014,oregon,arizona,24,31,0,-21.5,,-21.5,,,
+2014-10-03,2014,fordham,lafayette,42,18,1
+2014-10-03,2014,syracuse,louisville,6,28,0,2.333,,2.333,,,
+2014-10-04,2014,fresno state,san diego state,24,13,1,-1.667,,-1.667,,,
+2014-10-04,2014,byu,utah state,20,35,0,-21.0,,-21.0,,,
+2014-10-04,2014,illinois,purdue,27,38,0,-10.167,,-10.167,,,
+2014-10-04,2014,tennessee,florida,9,10,0,nan,,nan,,,
+2014-10-04,2014,east carolina,smu,45,24,1,-38.833,,-38.833,,,
+2014-10-04,2014,middle tennessee,southern mississippi,37,31,1,-16.75,,-16.75,,,
+2014-10-04,2014,army,ball state,33,24,1,-2.833,,-2.833,,,
+2014-10-04,2014,oklahoma state,iowa state,37,20,1,-16.833,,-16.833,,,
+2014-10-04,2014,maryland,ohio state,24,52,0,7.333,,7.333,,,
+2014-10-04,2014,old dominion,marshall,14,56,0,17.75,,17.75,,,
+2014-10-04,2014,mississippi state,texas a&m,48,31,1,-1.333,,-1.333,,,
+2014-10-04,2014,georgetown,harvard,3,34,0
+2014-10-04,2014,cornell,yale,13,51,0
+2014-10-04,2014,columbia,princeton,6,38,0
+2014-10-04,2014,maine,villanova,20,41,0
+2014-10-04,2014,north carolina,virginia tech,17,34,0,2.167,,2.167,,,
+2014-10-04,2014,valparaiso,marist,7,35,0
+2014-10-04,2014,davidson,dayton,48,54,0
+2014-10-04,2014,bryant,bucknell,34,15,1
+2014-10-04,2014,colgate,holy cross,20,17,1
+2014-10-04,2014,morehead state,campbell,24,31,0
+2014-10-04,2014,jacksonville,drake,29,14,1
+2014-10-04,2014,rhode island,brown,13,20,0
+2014-10-04,2014,duquesne,west liberty,39,13,1
+2014-10-04,2014,elon,new hampshire,14,48,0
+2014-10-04,2014,wofford,the citadel,17,13,1
+2014-10-04,2014,dartmouth,pennsylvania,31,13,1
+2014-10-04,2014,gardner-webb,charlotte,27,24,1
+2014-10-04,2014,north carolina central,howard,27,22,1
+2014-10-04,2014,savannah state,norfolk state,7,14,0
+2014-10-04,2014,southeast missouri state,tennessee state,28,21,1
+2014-10-04,2014,presbyterian college,western carolina,19,14,1
+2014-10-04,2014,akron,eastern michigan,31,6,1,-24.333,,-24.333,,,
+2014-10-04,2014,indiana,north texas,49,24,1,-12.167,,-12.167,,,
+2014-10-04,2014,miami (oh),umass,42,41,1,-5.167,,-5.167,,,
+2014-10-04,2014,north dakota,montana,15,18,0
+2014-10-04,2014,robert morris,monmouth,20,51,0
+2014-10-04,2014,illinois state,south dakota state,45,10,1
+2014-10-04,2014,colorado state,tulsa,42,17,1,-16.833,,-16.833,,,
+2014-10-04,2014,alabama a&m,grambling,28,38,0
+2014-10-04,2014,samford,mercer,21,18,1
+2014-10-04,2014,missouri state,youngstown state,7,14,0
+2014-10-04,2014,indiana state,northern iowa,20,19,1
+2014-10-04,2014,ole miss,alabama,23,17,1,4.667,,4.667,,,
+2014-10-04,2014,northern colorado,northern arizona,24,17,1
+2014-10-04,2014,delaware,sacred heart,7,10,0
+2014-10-04,2014,florida state,wake forest,43,3,1,-37.667,,-37.667,,,
+2014-10-04,2014,tcu,oklahoma,37,33,1,3.833,,3.833,,,
+2014-10-04,2014,texas,baylor,7,28,0,13.5,,13.5,,,
+2014-10-04,2014,notre dame,stanford,17,14,1,2.5,,2.5,,,
+2014-10-04,2014,northwestern,wisconsin,20,14,1,8.167,,8.167,,,
+2014-10-04,2014,clemson,nc state,41,0,1,-14.0,,-14.0,,,
+2014-10-04,2014,ut san antonio,new mexico,9,21,0,-17.167,,-17.167,,,
+2014-10-04,2014,bowling green,buffalo,36,35,1,-3.667,,-3.667,,,
+2014-10-04,2014,central michigan,ohio,28,10,1,-4.0,,-4.0,,,
+2014-10-04,2014,air force,navy,30,21,1,3.5,,3.5,,,
+2014-10-04,2014,north carolina a&t,south carolina state,0,13,0
+2014-10-04,2014,towson,stony brook,3,14,0
+2014-10-04,2014,chattanooga,vmi,55,7,1
+2014-10-04,2014,western illinois,north dakota state,10,17,0
+2014-10-04,2014,southeastern louisiana,northwestern state,30,22,1
+2014-10-04,2014,jacksonville state,ut martin,38,14,1
+2014-10-04,2014,west virginia,kansas,33,14,1,-25.833,,-25.833,,,
+2014-10-04,2014,colorado,oregon state,31,36,0,5.5,,5.5,,,
+2014-10-04,2014,bethune-cookman,delaware state,27,7,1
+2014-10-04,2014,georgia,vanderbilt,44,17,1,-32.667,,-32.667,,,
+2014-10-04,2014,eastern washington,idaho state,56,53,1
+2014-10-04,2014,northern illinois,kent state,17,14,1,-24.667,,-24.667,,,
+2014-10-04,2014,florida a&m,morgan state,9,24,0
+2014-10-04,2014,appalachian state,south alabama,21,47,0,4.5,,4.5,,,
+2014-10-04,2014,stetson,butler,41,49,0
+2014-10-04,2014,albany,james madison,28,31,0
+2014-10-04,2014,wagner,alderson-broaddus,26,0,1
+2014-10-04,2014,southern,arkansas-pine bluff,51,36,1
+2014-10-04,2014,incarnate word,houston christian,31,8,1
+2014-10-04,2014,stephen f. austin,central arkansas,39,49,0
+2014-10-04,2014,abilene christian,lamar,21,24,0
+2014-10-04,2014,southern illinois,south dakota,41,10,1
+2014-10-04,2014,kansas state,texas tech,45,13,1,-13.5,,-13.5,,,
+2014-10-04,2014,furman,coastal carolina,31,37,0
+2014-10-04,2014,liberty,richmond,39,46,0
+2014-10-04,2014,auburn,lsu,41,7,1,-7.667,,-7.667,,,
+2014-10-04,2014,arkansas state,louisiana monroe,28,14,1,-10.333,,-10.333,,,
+2014-10-04,2014,rice,hawai'i,28,14,1,-5.833,,-5.833,,,
+2014-10-04,2014,western michigan,toledo,19,20,0,7.0,,7.0,,,
+2014-10-04,2014,western kentucky,uab,39,42,0,-11.0,,-11.0,,,
+2014-10-04,2014,louisiana tech,utep,55,3,1,-12.333,,-12.333,,,
+2014-10-04,2014,rutgers,michigan,26,24,1,-3.167,,-3.167,,,
+2014-10-04,2014,cincinnati,memphis,14,41,0,-4.167,,-4.167,,,
+2014-10-04,2014,austin peay,eastern kentucky,0,31,0
+2014-10-04,2014,jackson state,prairie view,30,48,0
+2014-10-04,2014,mcneese,nicholls,45,3,1
+2014-10-04,2014,texas state,idaho,35,30,1,-15.0,,-15.0,,,
+2014-10-04,2014,louisiana,georgia state,34,31,1,-16.0,,-16.0,,,
+2014-10-04,2014,virginia,pittsburgh,24,19,1,-4.5,,-4.5,,,
+2014-10-04,2014,kentucky,south carolina,45,38,1,5.333,,5.333,,,
+2014-10-04,2014,georgia tech,miami,28,17,1,-1.333,,-1.333,,,
+2014-10-04,2014,usc,arizona state,34,38,0,-11.667,,-11.667,,,
+2014-10-04,2014,portland state,uc davis,23,14,1
+2014-10-05,2014,tennessee tech,murray state,30,27,1
+2014-10-05,2014,texas southern,mississippi valley state,20,16,1
+2014-10-05,2014,michigan state,nebraska,27,22,1,-7.0,,-7.0,,,
+2014-10-05,2014,new mexico state,georgia southern,28,36,0,17.0,,17.0,,,
+2014-10-05,2014,san josé state,unlv,33,10,1,-9.667,,-9.667,,,
+2014-10-05,2014,sacramento state,montana state,56,59,0
+2014-10-05,2014,cal poly,southern utah,42,39,1
+2014-10-05,2014,ucla,utah,28,30,0,-12.833,,-12.833,,,
+2014-10-05,2014,washington state,california,59,60,0,-3.833,,-3.833,,,
+2014-10-05,2014,nevada,boise state,46,51,0,2.5,,2.5,,,
+2014-10-09,2014,ut martin,tennessee tech,17,10,1
+2014-10-09,2014,ucf,byu,31,24,1,-2.833,,-2.833,,,
+2014-10-09,2014,north carolina a&t,hampton,31,14,1
+2014-10-11,2014,stanford,washington state,34,17,1,-17.0,,-17.0,,,
+2014-10-11,2014,new mexico,san diego state,14,24,0,4.0,,4.0,,,
+2014-10-11,2014,unlv,fresno state,30,27,1,9.333,,9.333,,,
+2014-10-11,2014,oklahoma,texas,31,26,1,-15.833,,-15.833,,,
+2014-10-11,2014,missouri,georgia,0,34,0,2.5,,2.5,,,
+2014-10-11,2014,miami,cincinnati,55,34,1,-14.667,,-14.667,,,
+2014-10-11,2014,temple,tulsa,35,24,1,-15.667,,-15.667,,,
+2014-10-11,2014,texas tech,west virginia,34,37,0,4.667,,4.667,,,
+2014-10-11,2014,wisconsin,illinois,38,28,1,-26.0,,-26.0,,,
+2014-10-11,2014,iowa,indiana,45,29,1,-4.5,,-4.5,,,
+2014-10-11,2014,minnesota,northwestern,24,17,1,-3.5,,-3.5,,,
+2014-10-11,2014,marshall,middle tennessee,49,24,1,-22.833,,-22.833,,,
+2014-10-11,2014,army,rice,21,41,0,1.333,,1.333,,,
+2014-10-11,2014,syracuse,florida state,20,38,0,22.0,,22.0,,,
+2014-10-11,2014,kentucky,louisiana monroe,48,14,1,-19.667,,-19.667,,,
+2014-10-11,2014,sacred heart,robert morris,52,13,1
+2014-10-11,2014,wagner,st francis (pa),46,39,1
+2014-10-11,2014,james madison,towson,62,7,1
+2014-10-11,2014,brown,holy cross,27,24,1
+2014-10-11,2014,lehigh,bucknell,24,45,0
+2014-10-11,2014,georgia tech,duke,25,31,0,-4.667,,-4.667,,,
+2014-10-11,2014,harvard,cornell,24,7,1
+2014-10-11,2014,eastern michigan,buffalo,37,27,1,14.333,,14.333,,,
+2014-10-11,2014,fordham,pennsylvania,60,22,1
+2014-10-11,2014,yale,dartmouth,31,38,0
+2014-10-11,2014,villanova,rhode island,44,21,1
+2014-10-11,2014,colgate,princeton,31,30,1
+2014-10-11,2014,central connecticut,duquesne,20,28,0
+2014-10-11,2014,monmouth,columbia,61,28,1
+2014-10-11,2014,north dakota state,southern illinois,38,10,1
+2014-10-11,2014,presbyterian college,coastal carolina,28,40,0
+2014-10-11,2014,alabama a&m,southern,34,35,0
+2014-10-11,2014,the citadel,charlotte,63,56,1
+2014-10-11,2014,norfolk state,delaware state,10,13,0
+2014-10-11,2014,south carolina state,north carolina central,35,48,0
+2014-10-11,2014,akron,miami (oh),29,19,1,-14.167,,-14.167,,,
+2014-10-11,2014,georgia state,arkansas state,10,52,0,11.333,,11.333,,,
+2014-10-11,2014,kent state,umass,17,40,0,-2.5,,-2.5,,,
+2014-10-11,2014,ohio,bowling green,13,31,0,0.0,,0.0,,,
+2014-10-11,2014,north dakota,portland state,24,16,1
+2014-10-11,2014,troy,new mexico state,41,24,1,-7.667,,-7.667,,,
+2014-10-11,2014,ball state,western michigan,38,42,0,-2.667,,-2.667,,,
+2014-10-11,2014,weber state,cal poly,24,30,0
+2014-10-11,2014,tennessee state,jacksonville state,20,27,0
+2014-10-11,2014,abilene christian,ave maria,55,14,1
+2014-10-11,2014,prairie view,alabama state,34,24,1
+2014-10-11,2014,indiana state,illinois state,18,20,0
+2014-10-11,2014,grambling,alcorn state,28,21,1
+2014-10-11,2014,jackson state,mississippi valley state,23,27,0
+2014-10-11,2014,southern utah,eastern washington,30,42,0
+2014-10-11,2014,nc state,boston college,14,30,0,-2.833,,-2.833,,,
+2014-10-11,2014,lafayette,georgetown,24,21,1
+2014-10-11,2014,navy,vmi,51,14,1,-38.5,,-38.5,,,
+2014-10-11,2014,uab,north texas,56,21,1,-5.167,,-5.167,,,
+2014-10-11,2014,iowa state,toledo,37,30,1,-4.333,,-4.333,,,
+2014-10-11,2014,clemson,louisville,23,17,1,-8.167,,-8.167,,,
+2014-10-11,2014,delaware,elon,34,24,1
+2014-10-11,2014,new hampshire,william & mary,32,3,1
+2014-10-11,2014,albany,richmond,28,41,0
+2014-10-11,2014,western carolina,wofford,26,14,1
+2014-10-11,2014,ucla,oregon,30,42,0,2.0,,2.0,,,
+2014-10-11,2014,purdue,michigan state,31,45,0,21.5,,21.5,,,
+2014-10-11,2014,notre dame,north carolina,50,43,1,-16.333,,-16.333,,,
+2014-10-11,2014,baylor,tcu,61,58,1,-8.333,,-8.333,,,
+2014-10-11,2014,mississippi state,auburn,38,23,1,2.5,,2.5,,,
+2014-10-11,2014,northern colorado,sacramento state,38,43,0
+2014-10-11,2014,appalachian state,liberty,48,55,0,-1.0,,-1.0,,,
+2014-10-11,2014,tennessee,chattanooga,45,10,1,-24.5,,-24.5,,,
+2014-10-11,2014,bethune-cookman,howard,49,12,1
+2014-10-11,2014,south dakota,northern iowa,16,27,0
+2014-10-11,2014,sam houston state,mcneese,38,22,1
+2014-10-11,2014,mercer,austin peay,49,21,1
+2014-10-11,2014,kansas,oklahoma state,20,27,0,20.0,,20.0,,,
+2014-10-11,2014,murray state,southeast missouri state,44,41,1
+2014-10-11,2014,idaho state,simon fraser,66,14,1
+2014-10-11,2014,northern illinois,central michigan,17,34,0,-9.333,,-9.333,,,
+2014-10-11,2014,florida a&m,savannah state,24,14,1
+2014-10-11,2014,california,washington,7,31,0,-2.667,,-2.667,,,
+2014-10-11,2014,eastern kentucky,eastern illinois,36,33,1
+2014-10-11,2014,georgia southern,idaho,47,24,1,-21.25,,-21.25,,,
+2014-10-11,2014,arkansas,alabama,13,14,0,9.0,,9.0,,,
+2014-10-11,2014,memphis,houston,24,28,0,-6.333,,-6.333,,,
+2014-10-11,2014,ut san antonio,florida international,16,13,1,-10.5,,-10.5,,,
+2014-10-11,2014,stony brook,maine,19,7,1
+2014-10-11,2014,michigan,penn state,18,13,1,-1.0,,-1.0,,,
+2014-10-11,2014,south florida,east carolina,17,28,0,16.0,,16.0,,,
+2014-10-11,2014,lamar,southeastern louisiana,34,61,0
+2014-10-11,2014,nicholls,stephen f. austin,20,42,0
+2014-10-11,2014,central arkansas,houston christian,70,0,1
+2014-10-11,2014,northwestern state,incarnate word,49,12,1
+2014-10-11,2014,south dakota state,missouri state,32,28,1
+2014-10-11,2014,youngstown state,western illinois,24,30,0
+2014-10-11,2014,uc davis,montana state,37,77,0
+2014-10-11,2014,florida,lsu,27,30,0,1.5,,1.5,,,
+2014-10-11,2014,vanderbilt,charleston southern,21,20,1,-14.5,,-14.5,,,
+2014-10-12,2014,utep,old dominion,42,35,1,-2.0,,-2.0,,,
+2014-10-12,2014,tulane,connecticut,12,3,1,-3.667,,-3.667,,,
+2014-10-12,2014,texas a&m,ole miss,20,35,0,-2.0,,-2.0,,,
+2014-10-12,2014,utah state,air force,34,16,1,-7.0,,-7.0,,,
+2014-10-12,2014,nevada,colorado state,24,31,0,2.0,,2.0,,,
+2014-10-12,2014,arizona,usc,26,28,0,0.667,,0.667,,,
+2014-10-12,2014,hawai'i,wyoming,38,28,1,-5.0,,-5.0,,,
+2014-10-15,2014,texas state,louisiana,10,34,0,-2.75,,-2.75,,,
+2014-10-16,2014,pittsburgh,virginia tech,21,16,1,1.5,,1.5,,,
+2014-10-17,2014,oregon state,utah,23,29,0,0.5,,0.5,,,
+2014-10-18,2014,boise state,fresno state,37,27,1,-17.0,,-17.0,,,
+2014-10-18,2014,houston,temple,31,10,1,-9.333,,-9.333,,,
+2014-10-18,2014,louisiana tech,ut san antonio,27,20,1,-9.5,,-9.5,,,
+2014-10-18,2014,oklahoma,kansas state,30,31,0,-8.667,,-8.667,,,
+2014-10-18,2014,wake forest,syracuse,7,30,0,5.333,,5.333,,,
+2014-10-18,2014,tulsa,south florida,30,38,0,2.0,,2.0,,,
+2014-10-18,2014,minnesota,purdue,39,38,1,-13.0,,-13.0,,,
+2014-10-18,2014,west virginia,baylor,41,27,1,8.667,,8.667,,,
+2014-10-18,2014,ucf,tulane,20,13,1,-18.167,,-18.167,,,
+2014-10-18,2014,florida atlantic,western kentucky,45,38,1,3.0,,3.0,,,
+2014-10-18,2014,maryland,iowa,38,31,1,-3.5,,-3.5,,,
+2014-10-18,2014,butler,san diego,21,27,0
+2014-10-18,2014,st francis (pa),bryant,27,42,0
+2014-10-18,2014,robert morris,central connecticut,27,24,1
+2014-10-18,2014,the citadel,chattanooga,14,34,0
+2014-10-18,2014,duquesne,sacred heart,20,23,0
+2014-10-18,2014,south carolina,furman,41,10,1,-37.5,,-37.5,,,
+2014-10-18,2014,delaware,towson,17,24,0
+2014-10-18,2014,maine,albany,7,20,0
+2014-10-18,2014,duke,virginia,20,13,1,-3.667,,-3.667,,,
+2014-10-18,2014,yale,colgate,45,31,1
+2014-10-18,2014,howard,florida a&m,28,31,0
+2014-10-18,2014,hampton,norfolk state,13,21,0
+2014-10-18,2014,dayton,morehead state,41,7,1
+2014-10-18,2014,morgan state,north carolina central,21,20,1
+2014-10-18,2014,harvard,lafayette,24,14,1
+2014-10-18,2014,pennsylvania,columbia,31,7,1
+2014-10-18,2014,vmi,gardner-webb,41,47,0
+2014-10-18,2014,elon,stony brook,3,20,0
+2014-10-18,2014,dartmouth,holy cross,24,21,1
+2014-10-18,2014,southeast missouri state,eastern illinois,13,52,0
+2014-10-18,2014,valparaiso,drake,9,17,0
+2014-10-18,2014,delaware state,north carolina a&t,20,33,0
+2014-10-18,2014,bowling green,western michigan,14,26,0,-2.833,,-2.833,,,
+2014-10-18,2014,montana,uc davis,42,28,1
+2014-10-18,2014,ohio,akron,23,20,1,3.333,,3.333,,,
+2014-10-18,2014,troy,appalachian state,14,53,0,-6.75,,-6.75,,,
+2014-10-18,2014,umass,eastern michigan,36,14,1,-13.833,,-13.833,,,
+2014-10-18,2014,samford,wofford,20,24,0
+2014-10-18,2014,mississippi valley state,prairie view,19,52,0
+2014-10-18,2014,missouri state,south dakota,31,12,1
+2014-10-18,2014,charleston southern,presbyterian college,3,7,0
+2014-10-18,2014,cornell,lehigh,14,31,0
+2014-10-18,2014,alcorn state,texas southern,40,25,1
+2014-10-18,2014,grambling,arkansas-pine bluff,63,39,1
+2014-10-18,2014,tennessee state,ut martin,16,21,0
+2014-10-18,2014,richmond,rhode island,37,0,1
+2014-10-18,2014,william & mary,villanova,31,35,0
+2014-10-18,2014,air force,new mexico,35,31,1,-8.667,,-8.667,,,
+2014-10-18,2014,princeton,brown,27,16,1
+2014-10-18,2014,north dakota state,indiana state,34,17,1
+2014-10-18,2014,indiana,michigan state,17,56,0,15.333,,15.333,,,
+2014-10-18,2014,boston college,clemson,13,17,0,6.0,,6.0,,,
+2014-10-18,2014,ohio state,rutgers,56,17,1,-20.167,,-20.167,,,
+2014-10-18,2014,alabama,texas a&m,59,0,1,-11.833,,-11.833,,,
+2014-10-18,2014,california,ucla,34,36,0,7.0,,7.0,,,
+2014-10-18,2014,central michigan,ball state,29,32,0,-9.333,,-9.333,,,
+2014-10-18,2014,kent state,army,39,17,1,3.833,,3.833,,,
+2014-10-18,2014,middle tennessee,uab,34,22,1,-2.0,,-2.0,,,
+2014-10-18,2014,texas tech,kansas,34,21,1,-12.667,,-12.667,,,
+2014-10-18,2014,louisville,nc state,30,18,1,-17.667,,-17.667,,,
+2014-10-18,2014,smu,cincinnati,3,41,0,13.333,,13.333,,,
+2014-10-18,2014,tcu,oklahoma state,42,9,1,-10.333,,-10.333,,,
+2014-10-18,2014,arkansas,georgia,32,45,0,3.0,,3.0,,,
+2014-10-18,2014,youngstown state,southern illinois,26,14,1
+2014-10-18,2014,northwestern state,sam houston state,31,27,1
+2014-10-18,2014,mercer,western carolina,21,35,0
+2014-10-18,2014,wyoming,san josé state,20,27,0,1.667,,1.667,,,
+2014-10-18,2014,western illinois,illinois state,34,37,0
+2014-10-18,2014,campbell,davidson,28,27,1
+2014-10-18,2014,nicholls,lamar,21,63,0
+2014-10-18,2014,eastern washington,northern colorado,26,18,1
+2014-10-18,2014,idaho state,southern utah,56,28,1
+2014-10-18,2014,northern iowa,south dakota state,28,31,0
+2014-10-18,2014,idaho,new mexico state,29,17,1,-5.333,,-5.333,,,
+2014-10-18,2014,northern illinois,miami (oh),51,41,1,-13.833,,-13.833,,,
+2014-10-18,2014,montana state,weber state,23,13,1
+2014-10-18,2014,savannah state,bethune-cookman,20,48,0
+2014-10-18,2014,stetson,jacksonville,7,30,0
+2014-10-18,2014,florida international,marshall,13,45,0,21.0,,21.0,,,
+2014-10-18,2014,usc,colorado,56,28,1,-19.5,,-19.5,,,
+2014-10-18,2014,ole miss,tennessee,34,3,1,-16.333,,-16.333,,,
+2014-10-18,2014,florida,missouri,13,42,0,-5.333,,-5.333,,,
+2014-10-18,2014,colorado state,utah state,16,13,1,-5.333,,-5.333,,,
+2014-10-18,2014,north texas,southern mississippi,20,30,0,-8.5,,-8.5,,,
+2014-10-18,2014,north carolina,georgia tech,48,43,1,-2.25,,-2.25,,,
+2014-10-18,2014,portland state,northern arizona,17,21,0
+2014-10-18,2014,mcneese,abilene christian,31,20,1
+2014-10-18,2014,austin peay,murray state,20,13,1
+2014-10-18,2014,south alabama,georgia state,30,27,1,-18.667,,-18.667,,,
+2014-10-18,2014,northwestern,nebraska,17,38,0,6.5,,6.5,,,
+2014-10-18,2014,lsu,kentucky,41,3,1,-11.333,,-11.333,,,
+2014-10-19,2014,texas,iowa state,48,45,1,-10.667,,-10.667,,,
+2014-10-19,2014,florida state,notre dame,31,27,1,-10.833,,-10.833,,,
+2014-10-19,2014,oregon,washington,45,20,1,-20.5,,-20.5,,,
+2014-10-19,2014,southeastern louisiana,central arkansas,41,24,1
+2014-10-19,2014,houston christian,stephen f. austin,27,59,0
+2014-10-19,2014,tennessee tech,eastern kentucky,39,31,1
+2014-10-19,2014,sacramento state,cal poly,27,56,0
+2014-10-19,2014,byu,nevada,35,42,0,-10.667,,-10.667,,,
+2014-10-19,2014,arizona state,stanford,26,10,1,3.833,,3.833,,,
+2014-10-19,2014,san diego state,hawai'i,20,10,1,-10.167,,-10.167,,,
+2014-10-22,2014,louisiana,arkansas state,55,40,1,3.0,,3.0,,,
+2014-10-23,2014,east carolina,connecticut,31,21,1,-26.333,,-26.333,,,
+2014-10-24,2014,virginia tech,miami,6,30,0,1.0,,1.0,,,
+2014-10-24,2014,cincinnati,south florida,34,17,1,-10.0,,-10.0,,,
+2014-10-24,2014,south alabama,troy,27,13,1,-14.167,,-14.167,,,
+2014-10-25,2014,boise state,byu,55,30,1,-6.5,,-6.5,,,
+2014-10-25,2014,california,oregon,41,59,0,16.833,,16.833,,,
+2014-10-25,2014,rice,north texas,41,21,1,-14.833,,-14.833,,,
+2014-10-25,2014,kansas state,texas,23,0,1,-10.667,,-10.667,,,
+2014-10-25,2014,nebraska,rutgers,42,24,1,-18.333,,-18.333,,,
+2014-10-25,2014,smu,memphis,10,48,0,22.667,,22.667,,,
+2014-10-25,2014,illinois,minnesota,28,24,1,4.5,,4.5,,,
+2014-10-25,2014,wisconsin,maryland,52,7,1,-9.833,,-9.833,,,
+2014-10-25,2014,arkansas,uab,45,17,1,-23.333,,-23.333,,,
+2014-10-25,2014,chattanooga,mercer,38,31,1
+2014-10-25,2014,duquesne,alderson-broaddus,48,27,1
+2014-10-25,2014,rhode island,maine,14,20,0
+2014-10-25,2014,charlotte,james madison,40,48,0
+2014-10-25,2014,marist,campbell,27,20,1
+2014-10-25,2014,lehigh,fordham,27,48,0
+2014-10-25,2014,brown,cornell,42,16,1
+2014-10-25,2014,william & mary,delaware,31,17,1
+2014-10-25,2014,virginia,north carolina,27,28,0,-7.167,,-7.167,,,
+2014-10-25,2014,navy,san josé state,41,31,1,-9.0,,-9.0,,,
+2014-10-25,2014,eastern michigan,northern illinois,17,28,0,18.5,,18.5,,,
+2014-10-25,2014,sacred heart,st francis (pa),27,30,0
+2014-10-25,2014,bryant,robert morris,42,9,1
+2014-10-25,2014,princeton,harvard,7,49,0
+2014-10-25,2014,central connecticut,wagner,10,20,0
+2014-10-25,2014,morehead state,valparaiso,48,47,1
+2014-10-25,2014,davidson,stetson,34,40,0
+2014-10-25,2014,north carolina a&t,florida a&m,40,21,1
+2014-10-25,2014,limestone,jacksonville,10,61,0
+2014-10-25,2014,wofford,vmi,38,3,1
+2014-10-25,2014,yale,pennsylvania,43,21,1
+2014-10-25,2014,south carolina state,bethune-cookman,20,14,1
+2014-10-25,2014,columbia,dartmouth,7,27,0
+2014-10-25,2014,furman,samford,0,45,0
+2014-10-25,2014,north carolina central,savannah state,42,14,1
+2014-10-25,2014,delaware state,hampton,0,23,0
+2014-10-25,2014,drake,butler,21,19,1
+2014-10-25,2014,georgetown,bucknell,17,22,0
+2014-10-25,2014,presbyterian college,monmouth,18,12,1
+2014-10-25,2014,western michigan,ohio,42,21,1,-8.333,,-8.333,,,
+2014-10-25,2014,western carolina,the citadel,29,15,1
+2014-10-25,2014,prairie view,alcorn state,48,77,0
+2014-10-25,2014,georgia state,georgia southern,31,69,0,16.0,,16.0,,,
+2014-10-25,2014,toledo,umass,42,35,1,-17.333,,-17.333,,,
+2014-10-25,2014,colorado,ucla,37,40,0,13.5,,13.5,,,
+2014-10-25,2014,western illinois,northern iowa,13,27,0
+2014-10-25,2014,ball state,akron,35,21,1,2.667,,2.667,,,
+2014-10-25,2014,miami (oh),kent state,10,3,1,-4.833,,-4.833,,,
+2014-10-25,2014,eastern illinois,tennessee state,28,3,1
+2014-10-25,2014,ut martin,austin peay,37,7,1
+2014-10-25,2014,eastern kentucky,southeast missouri state,33,21,1
+2014-10-25,2014,new hampshire,stony brook,28,20,1
+2014-10-25,2014,south dakota state,youngstown state,27,30,0
+2014-10-25,2014,south dakota,north dakota state,7,47,0
+2014-10-25,2014,weber state,portland state,17,30,0
+2014-10-25,2014,elon,richmond,10,30,0
+2014-10-25,2014,texas southern,arkansas-pine bluff,37,38,0
+2014-10-25,2014,southern utah,north dakota,35,17,1
+2014-10-25,2014,alabama a&m,alabama state,37,36,1
+2014-10-25,2014,liberty,gardner-webb,34,0,1
+2014-10-25,2014,coastal carolina,charleston southern,43,22,1
+2014-10-25,2014,villanova,morgan state,48,28,1
+2014-10-25,2014,pittsburgh,georgia tech,28,56,0,-3.667,,-3.667,,,
+2014-10-25,2014,wake forest,boston college,17,23,0,13.0,,13.0,,,
+2014-10-25,2014,lafayette,holy cross,14,24,0
+2014-10-25,2014,northern colorado,idaho state,12,46,0
+2014-10-25,2014,oklahoma state,west virginia,10,34,0,0.333,,0.333,,,
+2014-10-25,2014,marshall,florida atlantic,35,16,1,-27.167,,-27.167,,,
+2014-10-25,2014,albany,colgate,24,17,1
+2014-10-25,2014,kentucky,mississippi state,31,45,0,14.0,,14.0,,,
+2014-10-25,2014,stanford,oregon state,38,14,1,-12.667,,-12.667,,,
+2014-10-25,2014,buffalo,central michigan,14,20,0,2.833,,2.833,,,
+2014-10-25,2014,southern mississippi,louisiana tech,20,31,0,9.833,,9.833,,,
+2014-10-25,2014,tcu,texas tech,82,27,1,-22.5,,-22.5,,,
+2014-10-25,2014,michigan state,michigan,35,11,1,-16.5,,-16.5,,,
+2014-10-25,2014,northern arizona,eastern washington,28,27,1
+2014-10-25,2014,western kentucky,old dominion,66,51,1,-11.75,,-11.75,,,
+2014-10-25,2014,missouri,vanderbilt,24,14,1,-22.667,,-22.667,,,
+2014-10-25,2014,utah state,unlv,34,20,1,-17.667,,-17.667,,,
+2014-10-25,2014,sam houston state,abilene christian,38,21,1
+2014-10-25,2014,jacksonville state,tennessee tech,49,3,1
+2014-10-25,2014,murray state,kentucky wesleyan,86,29,1
+2014-10-25,2014,stephen f. austin,southeastern louisiana,27,17,1
+2014-10-25,2014,ucf,temple,34,14,1,-8.0,,-8.0,,,
+2014-10-25,2014,washington state,arizona,37,59,0,3.0,,3.0,,,
+2014-10-25,2014,clemson,syracuse,16,6,1,-16.5,,-16.5,,,
+2014-10-25,2014,ut san antonio,utep,0,34,0,-12.5,,-12.5,,,
+2014-10-25,2014,colorado state,wyoming,45,31,1,-19.833,,-19.833,,,
+2014-10-25,2014,incarnate word,mcneese,21,41,0
+2014-10-25,2014,southern illinois,indiana state,26,41,0
+2014-10-25,2014,jackson state,southern,28,42,0
+2014-10-25,2014,central arkansas,northwestern state,58,35,1
+2014-10-25,2014,illinois state,missouri state,21,7,1
+2014-10-25,2014,louisiana monroe,texas state,18,22,0,-2.667,,-2.667,,,
+2014-10-25,2014,lsu,ole miss,10,7,1,3.5,,3.5,,,
+2014-10-25,2014,auburn,south carolina,42,35,1,-17.0,,-17.0,,,
+2014-10-25,2014,tennessee,alabama,20,34,0,18.333,,18.333,,,
+2014-10-26,2014,penn state,ohio state,24,31,0,13.167,,13.167,,,
+2014-10-26,2014,houston christian,nicholls,31,21,1
+2014-10-26,2014,san diego,dayton,40,29,1
+2014-10-26,2014,cal poly,montana,41,21,1
+2014-10-26,2014,utah,usc,24,21,1,0.0,,0.0,,,
+2014-10-26,2014,washington,arizona state,10,24,0,3.5,,3.5,,,
+2014-10-26,2014,hawai'i,nevada,18,26,0,3.5,,3.5,,,
+2014-10-30,2014,georgia southern,troy,42,10,1,-9.333,,-9.333,,,
+2014-10-30,2014,louisville,florida state,31,42,0,5.167,,5.167,,,
+2014-11-01,2014,memphis,tulsa,40,20,1,-23.0,,-23.0,,,
+2014-11-01,2014,tulane,cincinnati,14,38,0,3.5,,3.5,,,
+2014-11-01,2014,army,air force,6,23,0,4.0,,4.0,,,
+2014-11-01,2014,iowa state,oklahoma,14,59,0,15.833,,15.833,,,
+2014-11-01,2014,texas a&m,louisiana monroe,21,16,1,-31.167,,-31.167,,,
+2014-11-01,2014,florida international,rice,17,31,0,6.667,,6.667,,,
+2014-11-01,2014,rutgers,wisconsin,0,37,0,12.0,,12.0,,,
+2014-11-01,2014,penn state,maryland,19,20,0,-2.833,,-2.833,,,
+2014-11-01,2014,iowa,northwestern,48,7,1,-4.0,,-4.0,,,
+2014-11-01,2014,connecticut,ucf,37,29,1,9.667,,9.667,,,
+2014-11-01,2014,pittsburgh,duke,48,51,0,-2.833,,-2.833,,,
+2014-11-01,2014,temple,east carolina,20,10,1,8.833,,8.833,,,
+2014-11-01,2014,butler,morehead state,62,52,1
+2014-11-01,2014,georgetown,lehigh,19,27,0
+2014-11-01,2014,richmond,villanova,10,9,1
+2014-11-01,2014,bryant,central connecticut,31,3,1
+2014-11-01,2014,delaware,rhode island,28,13,1
+2014-11-01,2014,marist,jacksonville,17,16,1
+2014-11-01,2014,cornell,princeton,27,38,0
+2014-11-01,2014,columbia,yale,7,25,0
+2014-11-01,2014,virginia tech,boston college,31,33,0,-3.667,,-3.667,,,
+2014-11-01,2014,miami,north carolina,47,20,1,-14.833,,-14.833,,,
+2014-11-01,2014,colorado,washington,23,38,0,3.333,,3.333,,,
+2014-11-01,2014,fordham,colgate,37,13,1
+2014-11-01,2014,bucknell,lafayette,27,24,1
+2014-11-01,2014,dayton,valparaiso,42,19,1
+2014-11-01,2014,campbell,stetson,24,28,0
+2014-11-01,2014,howard,delaware state,17,10,1
+2014-11-01,2014,st francis (pa),duquesne,26,16,1
+2014-11-01,2014,indiana state,missouri state,20,18,1
+2014-11-01,2014,pennsylvania,brown,13,21,0
+2014-11-01,2014,eastern michigan,central michigan,7,38,0,14.333,,14.333,,,
+2014-11-01,2014,monmouth,charleston southern,0,27,0
+2014-11-01,2014,drake,san diego,14,17,0
+2014-11-01,2014,south carolina state,savannah state,59,7,1
+2014-11-01,2014,vmi,furman,31,15,1
+2014-11-01,2014,murray state,ut martin,38,62,0
+2014-11-01,2014,western carolina,chattanooga,0,51,0
+2014-11-01,2014,youngstown state,south dakota,28,17,1
+2014-11-01,2014,presbyterian college,liberty,7,28,0
+2014-11-01,2014,montana,sacramento state,31,13,1
+2014-11-01,2014,hampton,morgan state,35,38,0
+2014-11-01,2014,miami (oh),western michigan,10,41,0,6.0,,6.0,,,
+2014-11-01,2014,tennessee tech,eastern illinois,10,41,0
+2014-11-01,2014,weber state,northern arizona,22,29,0
+2014-11-01,2014,tennessee state,eastern kentucky,42,56,0
+2014-11-01,2014,louisiana tech,western kentucky,59,10,1,-6.0,,-6.0,,,
+2014-11-01,2014,syracuse,nc state,17,24,0,-3.333,,-3.333,,,
+2014-11-01,2014,florida a&m,norfolk state,10,12,0
+2014-11-01,2014,abilene christian,central arkansas,52,35,1
+2014-11-01,2014,north dakota state,south dakota state,37,17,1
+2014-11-01,2014,gardner-webb,coastal carolina,14,38,0
+2014-11-01,2014,middle tennessee,byu,7,27,0,5.75,,5.75,,,
+2014-11-01,2014,wagner,sacred heart,7,23,0
+2014-11-01,2014,arkansas-pine bluff,mississippi valley state,24,14,1
+2014-11-01,2014,georgia tech,virginia,35,10,1,-3.5,,-3.5,,,
+2014-11-01,2014,michigan,indiana,34,10,1,-8.0,,-8.0,,,
+2014-11-01,2014,appalachian state,georgia state,44,0,1,-9.5,,-9.5,,,
+2014-11-01,2014,nebraska,purdue,35,14,1,-22.5,,-22.5,,,
+2014-11-01,2014,georgia,florida,20,38,0,-11.167,,-11.167,,,
+2014-11-01,2014,west virginia,tcu,30,31,0,3.667,,3.667,,,
+2014-11-01,2014,dartmouth,harvard,12,23,0
+2014-11-01,2014,james madison,william & mary,31,24,1
+2014-11-01,2014,towson,elon,21,19,1
+2014-11-01,2014,jacksonville state,austin peay,56,0,1
+2014-11-01,2014,baylor,kansas,60,14,1,-34.5,,-34.5,,,
+2014-11-01,2014,sam houston state,stephen f. austin,42,28,1
+2014-11-01,2014,south florida,houston,3,27,0,8.667,,8.667,,,
+2014-11-01,2014,bethune-cookman,north carolina central,34,20,1
+2014-11-01,2014,missouri,kentucky,20,10,1,-7.167,,-7.167,,,
+2014-11-01,2014,new mexico state,texas state,29,37,0,8.167,,8.167,,,
+2014-11-01,2014,washington state,usc,17,44,0,7.333,,7.333,,,
+2014-11-01,2014,louisiana,south alabama,19,9,1,-7.0,,-7.0,,,
+2014-11-01,2014,idaho,arkansas state,28,44,0,15.333,,15.333,,,
+2014-11-01,2014,northern iowa,illinois state,42,28,1
+2014-11-01,2014,eastern washington,north dakota,54,3,1
+2014-11-01,2014,unlv,new mexico,28,31,0,-1.0,,-1.0,,,
+2014-11-01,2014,new hampshire,albany,49,24,1
+2014-11-01,2014,texas southern,grambling,7,35,0
+2014-11-01,2014,lamar,houston christian,72,14,1
+2014-11-01,2014,northwestern state,mcneese,28,35,0
+2014-11-01,2014,vanderbilt,old dominion,42,28,1,-8.0,,-8.0,,,
+2014-11-01,2014,florida atlantic,uab,28,31,0,-3.667,,-3.667,,,
+2014-11-01,2014,southern,alabama state,28,21,1
+2014-11-01,2014,san josé state,colorado state,31,38,0,6.5,,6.5,,,
+2014-11-01,2014,nicholls,incarnate word,20,38,0
+2014-11-01,2014,jackson state,alabama a&m,14,25,0
+2014-11-01,2014,ole miss,auburn,31,35,0,-1.833,,-1.833,,,
+2014-11-01,2014,uc davis,northern colorado,21,27,0
+2014-11-01,2014,mississippi state,arkansas,17,10,1,-11.333,,-11.333,,,
+2014-11-01,2014,texas tech,texas,13,34,0,4.0,,4.0,,,
+2014-11-01,2014,south carolina,tennessee,42,45,0,-6.0,,-6.0,,,
+2014-11-01,2014,oregon,stanford,45,16,1,-8.833,,-8.833,,,
+2014-11-01,2014,portland state,idaho state,13,31,0
+2014-11-02,2014,kansas state,oklahoma state,48,14,1,-12.833,,-12.833,,,
+2014-11-02,2014,ohio state,illinois,55,14,1,-28.167,,-28.167,,,
+2014-11-02,2014,navy,notre dame,39,49,0,13.833,,13.833,,,
+2014-11-02,2014,utep,southern mississippi,35,14,1,-7.333,,-7.333,,,
+2014-11-02,2014,cal poly,montana state,35,27,1
+2014-11-02,2014,ucla,arizona,17,7,1,-5.833,,-5.833,,,
+2014-11-02,2014,oregon state,california,31,45,0,-3.833,,-3.833,,,
+2014-11-02,2014,nevada,san diego state,30,14,1,-3.5,,-3.5,,,
+2014-11-02,2014,fresno state,wyoming,17,45,0,-14.0,,-14.0,,,
+2014-11-02,2014,hawai'i,utah state,14,35,0,3.0,,3.0,,,
+2014-11-02,2014,arizona state,utah,19,16,1,-5.167,,-5.167,,,
+2014-11-05,2014,kent state,toledo,20,30,0,13.0,,13.0,,,
+2014-11-05,2014,akron,bowling green,10,27,0,-3.667,,-3.667,,,
+2014-11-06,2014,ball state,northern illinois,21,35,0,2.5,,2.5,,,
+2014-11-06,2014,ohio,buffalo,37,14,1,-3.333,,-3.333,,,
+2014-11-07,2014,mississippi valley state,grambling,23,38,0
+2014-11-07,2014,wake forest,clemson,20,34,0,20.333,,20.333,,,
+2014-11-07,2014,norfolk state,bethune-cookman,7,13,0
+2014-11-07,2014,bucknell,fordham,27,30,0
+2014-11-08,2014,temple,memphis,13,16,0,6.333,,6.333,,,
+2014-11-08,2014,wyoming,utah state,3,20,0,6.5,,6.5,,,
+2014-11-08,2014,charleston southern,gardner-webb,44,14,1
+2014-11-08,2014,robert morris,wagner,0,20,0
+2014-11-08,2014,charlotte,coastal carolina,34,59,0
+2014-11-08,2014,duquesne,bryant,17,20,0
+2014-11-08,2014,rice,ut san antonio,17,7,1,-8.0,,-8.0,,,
+2014-11-08,2014,kentucky,georgia,31,63,0,11.0,,11.0,,,
+2014-11-08,2014,purdue,wisconsin,16,34,0,16.333,,16.333,,,
+2014-11-08,2014,tulsa,smu,38,28,1,-12.5,,-12.5,,,
+2014-11-08,2014,indiana,penn state,7,13,0,5.333,,5.333,,,
+2014-11-08,2014,minnesota,iowa,51,14,1,0.667,,0.667,,,
+2014-11-08,2014,uab,louisiana tech,24,40,0,4.5,,4.5,,,
+2014-11-08,2014,ole miss,presbyterian college,48,0,1,-48.5,,-48.5,,,
+2014-11-08,2014,oklahoma,baylor,14,48,0,-4.667,,-4.667,,,
+2014-11-08,2014,syracuse,duke,10,27,0,3.833,,3.833,,,
+2014-11-08,2014,nc state,georgia tech,23,56,0,3.0,,3.0,,,
+2014-11-08,2014,cornell,dartmouth,7,42,0
+2014-11-08,2014,rhode island,new hampshire,14,41,0
+2014-11-08,2014,maine,richmond,33,20,1
+2014-11-08,2014,brown,yale,42,45,0
+2014-11-08,2014,holy cross,lehigh,27,20,1
+2014-11-08,2014,dayton,drake,30,34,0
+2014-11-08,2014,north dakota,weber state,12,24,0
+2014-11-08,2014,campbell,missouri baptist,66,7,1
+2014-11-08,2014,eastern illinois,murray state,48,26,1
+2014-11-08,2014,colgate,lafayette,16,19,0
+2014-11-08,2014,chattanooga,wofford,31,13,1
+2014-11-08,2014,harvard,columbia,45,0,1
+2014-11-08,2014,central connecticut,sacred heart,27,35,0
+2014-11-08,2014,stony brook,james madison,24,27,0
+2014-11-08,2014,north carolina a&t,morgan state,45,0,1
+2014-11-08,2014,davidson,jacksonville,0,56,0
+2014-11-08,2014,eastern kentucky,jacksonville state,6,20,0
+2014-11-08,2014,indiana state,south dakota state,17,32,0
+2014-11-08,2014,alabama a&m,alcorn state,14,41,0
+2014-11-08,2014,valparaiso,butler,17,3,1
+2014-11-08,2014,north carolina central,hampton,47,13,1
+2014-11-08,2014,alabama state,jackson state,26,10,1
+2014-11-08,2014,illinois state,youngstown state,35,21,1
+2014-11-08,2014,the citadel,furman,42,35,1
+2014-11-08,2014,tennessee tech,southeast missouri state,27,26,1
+2014-11-08,2014,missouri state,southern illinois,22,32,0
+2014-11-08,2014,florida a&m,south carolina state,17,34,0
+2014-11-08,2014,abilene christian,northwestern state,10,34,0
+2014-11-08,2014,arkansas state,south alabama,45,10,1,-10.333,,-10.333,,,
+2014-11-08,2014,troy,georgia state,45,21,1,-7.333,,-7.333,,,
+2014-11-08,2014,stetson,marist,22,14,1
+2014-11-08,2014,eastern washington,montana,36,26,1
+2014-11-08,2014,samford,western carolina,34,20,1
+2014-11-08,2014,auburn,texas a&m,38,41,0,-20.5,,-20.5,,,
+2014-11-08,2014,arizona state,notre dame,55,31,1,-2.333,,-2.333,,,
+2014-11-08,2014,texas,west virginia,33,16,1,3.833,,3.833,,,
+2014-11-08,2014,army,connecticut,35,21,1,3.333,,3.333,,,
+2014-11-08,2014,houston,tulane,24,31,0,-16.667,,-16.667,,,
+2014-11-08,2014,kansas,iowa state,34,14,1,2.5,,2.5,,,
+2014-11-08,2014,northwestern,michigan,9,10,0,0.667,,0.667,,,
+2014-11-08,2014,old dominion,florida international,38,35,1,-4.167,,-4.167,,,
+2014-11-08,2014,appalachian state,louisiana monroe,31,29,1,-3.333,,-3.333,,,
+2014-11-08,2014,arkansas-pine bluff,prairie view,23,51,0
+2014-11-08,2014,princeton,pennsylvania,22,17,1
+2014-11-08,2014,albany,delaware,28,31,0
+2014-11-08,2014,william & mary,elon,17,7,1
+2014-11-08,2014,liberty,monmouth,34,24,1
+2014-11-08,2014,northern arizona,uc davis,23,21,1
+2014-11-08,2014,oregon state,washington state,32,39,0,-8.833,,-8.833,,,
+2014-11-08,2014,unlv,air force,21,48,0,4.5,,4.5,,,
+2014-11-08,2014,western kentucky,utep,35,27,1,-9.167,,-9.167,,,
+2014-11-08,2014,mississippi state,ut martin,45,16,1,-41.0,,-41.0,,,
+2014-11-08,2014,central arkansas,lamar,44,41,1
+2014-11-08,2014,san diego,morehead state,49,28,1
+2014-11-08,2014,southeastern louisiana,houston christian,76,7,1
+2014-11-08,2014,texas state,georgia southern,25,28,0,10.667,,10.667,,,
+2014-11-08,2014,montana state,portland state,29,22,1
+2014-11-08,2014,idaho state,cal poly,30,28,1
+2014-11-08,2014,austin peay,tennessee state,27,31,0
+2014-11-08,2014,sacramento state,southern utah,42,21,1
+2014-11-08,2014,northern iowa,north dakota state,23,3,1
+2014-11-08,2014,south dakota,western illinois,29,44,0
+2014-11-08,2014,savannah state,howard,21,51,0
+2014-11-08,2014,san diego state,idaho,35,21,1,-20.667,,-20.667,,,
+2014-11-08,2014,florida state,virginia,34,20,1,-21.167,,-21.167,,,
+2014-11-09,2014,north texas,florida atlantic,31,10,1,2.833,,2.833,,,
+2014-11-09,2014,incarnate word,sam houston state,19,40,0
+2014-11-09,2014,mcneese,stephen f. austin,16,31,0
+2014-11-09,2014,villanova,towson,42,14,1
+2014-11-09,2014,southern,texas southern,30,20,1
+2014-11-09,2014,washington,ucla,30,44,0,5.5,,5.5,,,
+2014-11-09,2014,southern mississippi,marshall,17,63,0,26.167,,26.167,,,
+2014-11-09,2014,new mexico,boise state,49,60,0,16.5,,16.5,,,
+2014-11-09,2014,colorado state,hawai'i,49,22,1,-19.5,,-19.5,,,
+2014-11-09,2014,boston college,louisville,19,38,0,2.667,,2.667,,,
+2014-11-09,2014,tcu,kansas state,41,20,1,-6.333,,-6.333,,,
+2014-11-09,2014,vanderbilt,florida,10,34,0,14.0,,14.0,,,
+2014-11-09,2014,arizona,colorado,38,20,1,-17.5,,-17.5,,,
+2014-11-09,2014,lsu,alabama,13,20,0,6.333,,6.333,,,
+2014-11-09,2014,new mexico state,louisiana,16,44,0,16.5,,16.5,,,
+2014-11-09,2014,michigan state,ohio state,37,49,0,-3.0,,-3.0,,,
+2014-11-09,2014,utah,oregon,27,51,0,9.5,,9.5,,,
+2014-11-09,2014,fresno state,san josé state,38,24,1,-1.333,,-1.333,,,
+2014-11-12,2014,buffalo,akron,55,24,1,3.167,,3.167,,,
+2014-11-12,2014,northern illinois,toledo,27,24,1,-3.5,,-3.5,,,
+2014-11-13,2014,umass,ball state,24,10,1,-3.0,,-3.0,,,
+2014-11-13,2014,bowling green,kent state,30,20,1,-13.667,,-13.667,,,
+2014-11-14,2014,cincinnati,east carolina,54,46,1,1.5,,1.5,,,
+2014-11-14,2014,hampton,bethune-cookman,40,35,1
+2014-11-14,2014,ut san antonio,southern mississippi,12,10,1,-8.5,,-8.5,,,
+2014-11-14,2014,usc,california,38,30,1,-13.333,,-13.333,,,
+2014-11-15,2014,ucf,tulsa,31,7,1,-19.0,,-19.0,,,
+2014-11-15,2014,duke,virginia tech,16,17,0,-4.667,,-4.667,,,
+2014-11-15,2014,georgia tech,clemson,28,6,1,1.833,,1.833,,,
+2014-11-15,2014,charlotte,wesley college,38,33,1
+2014-11-15,2014,illinois,iowa,14,30,0,4.5,,4.5,,,
+2014-11-15,2014,florida,south carolina,20,23,0,-5.5,,-5.5,,,
+2014-11-15,2014,western kentucky,army,52,24,1,-8.333,,-8.333,,,
+2014-11-15,2014,minnesota,ohio state,24,31,0,12.5,,12.5,,,
+2014-11-15,2014,penn state,temple,30,13,1,-11.0,,-11.0,,,
+2014-11-15,2014,furman,wofford,31,14,1
+2014-11-15,2014,gardner-webb,presbyterian college,7,14,0
+2014-11-15,2014,butler,dayton,14,21,0
+2014-11-15,2014,wagner,duquesne,23,13,1
+2014-11-15,2014,sacred heart,bryant,14,7,1
+2014-11-15,2014,robert morris,st francis (pa),7,40,0
+2014-11-15,2014,dartmouth,brown,44,21,1
+2014-11-15,2014,richmond,james madison,20,55,0
+2014-11-15,2014,columbia,cornell,27,30,0
+2014-11-15,2014,yale,princeton,44,30,1
+2014-11-15,2014,lehigh,colgate,30,27,1
+2014-11-15,2014,north carolina,pittsburgh,40,35,1,-1.833,,-1.833,,,
+2014-11-15,2014,holy cross,bucknell,24,31,0
+2014-11-15,2014,north dakota,northern arizona,30,28,1
+2014-11-15,2014,jacksonville,campbell,45,19,1
+2014-11-15,2014,eastern kentucky,murray state,43,36,1
+2014-11-15,2014,morgan state,south carolina state,24,21,1
+2014-11-15,2014,central connecticut,howard,25,28,0
+2014-11-15,2014,pennsylvania,harvard,24,34,0
+2014-11-15,2014,the citadel,samford,17,20,0
+2014-11-15,2014,stony brook,rhode island,35,14,1
+2014-11-15,2014,new hampshire,delaware,43,14,1
+2014-11-15,2014,morehead state,stetson,41,18,1
+2014-11-15,2014,marist,davidson,38,7,1
+2014-11-15,2014,central michigan,miami (oh),34,27,1,-16.667,,-16.667,,,
+2014-11-15,2014,fordham,georgetown,52,7,1
+2014-11-15,2014,norfolk state,north carolina central,14,19,0
+2014-11-15,2014,savannah state,north carolina a&t,0,34,0
+2014-11-15,2014,western carolina,vmi,42,27,1
+2014-11-15,2014,alabama a&m,prairie view,35,38,0
+2014-11-15,2014,southeast missouri state,austin peay,42,7,1
+2014-11-15,2014,western michigan,eastern michigan,51,7,1,-25.833,,-25.833,,,
+2014-11-15,2014,air force,nevada,45,38,1,-1.167,,-1.167,,,
+2014-11-15,2014,youngstown state,indiana state,24,27,0
+2014-11-15,2014,south dakota,illinois state,26,45,0
+2014-11-15,2014,delaware state,florida a&m,7,41,0
+2014-11-15,2014,mercer,warner,56,0,1
+2014-11-15,2014,tennessee tech,chattanooga,17,38,0
+2014-11-15,2014,marshall,rice,41,14,1,-20.5,,-20.5,,,
+2014-11-15,2014,elon,maine,17,24,0
+2014-11-15,2014,weber state,northern colorado,34,21,1
+2014-11-15,2014,grambling,alabama state,23,37,0
+2014-11-15,2014,south dakota state,western illinois,59,24,1
+2014-11-15,2014,southern illinois,northern iowa,21,40,0
+2014-11-15,2014,missouri state,north dakota state,10,45,0
+2014-11-15,2014,nc state,wake forest,42,13,1,-14.667,,-14.667,,,
+2014-11-15,2014,arkansas state,appalachian state,32,37,0,-15.167,,-15.167,,,
+2014-11-15,2014,coastal carolina,monmouth,52,21,1
+2014-11-15,2014,kansas,tcu,30,34,0,26.833,,26.833,,,
+2014-11-15,2014,towson,william & mary,14,37,0
+2014-11-15,2014,southern utah,montana,17,35,0
+2014-11-15,2014,tulane,memphis,7,38,0,8.667,,8.667,,,
+2014-11-15,2014,wisconsin,nebraska,59,24,1,-4.333,,-4.333,,,
+2014-11-15,2014,liberty,charleston southern,36,38,0
+2014-11-15,2014,alabama,mississippi state,25,20,1,-8.833,,-8.833,,,
+2014-11-15,2014,navy,georgia southern,52,19,1,-3.167,,-3.167,,,
+2014-11-15,2014,florida international,middle tennessee,38,28,1,4.333,,4.333,,,
+2014-11-15,2014,rutgers,indiana,45,23,1,-8.167,,-8.167,,,
+2014-11-15,2014,texas tech,oklahoma,30,42,0,13.5,,13.5,,,
+2014-11-15,2014,notre dame,northwestern,40,43,0,-16.833,,-16.833,,,
+2014-11-15,2014,arizona,washington,27,26,1,-8.667,,-8.667,,,
+2014-11-15,2014,montana state,idaho state,44,39,1
+2014-11-15,2014,tennessee,kentucky,50,16,1,-9.833,,-9.833,,,
+2014-11-15,2014,utah state,new mexico,28,21,1,-18.667,,-18.667,,,
+2014-11-15,2014,jacksonville state,eastern illinois,27,20,1
+2014-11-15,2014,san diego,valparaiso,32,27,1
+2014-11-15,2014,houston christian,sam houston state,0,76,0
+2014-11-15,2014,stephen f. austin,abilene christian,35,37,0
+2014-11-15,2014,southeastern louisiana,mcneese,28,9,1
+2014-11-15,2014,san josé state,hawai'i,0,13,0,-10.0,,-10.0,,,
+2014-11-15,2014,alcorn state,arkansas-pine bluff,56,6,1
+2014-11-15,2014,idaho,troy,17,34,0,-4.833,,-4.833,,,
+2014-11-15,2014,sacramento state,portland state,48,41,1
+2014-11-15,2014,stanford,utah,17,20,0,-9.167,,-9.167,,,
+2014-11-15,2014,texas southern,jackson state,10,15,0
+2014-11-16,2014,louisiana monroe,louisiana,27,34,0,7.0,,7.0,,,
+2014-11-16,2014,southern,mississippi valley state,44,13,1
+2014-11-16,2014,villanova,albany,48,31,1
+2014-11-16,2014,byu,unlv,42,23,1,-24.333,,-24.333,,,
+2014-11-16,2014,northwestern state,nicholls,48,21,1
+2014-11-16,2014,lamar,incarnate word,31,20,1
+2014-11-16,2014,georgia,auburn,34,7,1,-2.333,,-2.333,,,
+2014-11-16,2014,texas a&m,missouri,27,34,0,-4.5,,-4.5,,,
+2014-11-16,2014,south alabama,texas state,24,20,1,-5.5,,-5.5,,,
+2014-11-16,2014,oklahoma state,texas,7,28,0,0.5,,0.5,,,
+2014-11-16,2014,arkansas,lsu,17,0,1,-1.167,,-1.167,,,
+2014-11-16,2014,smu,south florida,13,14,0,10.333,,10.333,,,
+2014-11-16,2014,miami,florida state,26,30,0,1.833,,1.833,,,
+2014-11-16,2014,maryland,michigan state,15,37,0,10.5,,10.5,,,
+2014-11-16,2014,cal poly,uc davis,35,48,0
+2014-11-16,2014,utep,north texas,35,17,1,-7.167,,-7.167,,,
+2014-11-16,2014,boise state,san diego state,38,29,1,-14.333,,-14.333,,,
+2014-11-16,2014,oregon state,arizona state,35,27,1,6.833,,6.833,,,
+2014-11-19,2014,akron,umass,30,6,1,-8.333,,-8.333,,,
+2014-11-19,2014,ohio,northern illinois,14,21,0,1.5,,1.5,,,
+2014-11-20,2014,toledo,bowling green,27,20,1,-6.833,,-6.833,,,
+2014-11-21,2014,nicholls,southeastern louisiana,3,62,0
+2014-11-21,2014,west virginia,kansas state,20,26,0,-2.5,,-2.5,,,
+2014-11-21,2014,duke,north carolina,20,45,0,-5.167,,-5.167,,,
+2014-11-21,2014,texas state,arkansas state,45,27,1,6.5,,6.5,,,
+2014-11-22,2014,rice,utep,31,13,1,-8.667,,-8.667,,,
+2014-11-22,2014,utah state,san josé state,41,7,1,-12.833,,-12.833,,,
+2014-11-22,2014,san diego state,air force,30,14,1,-4.333,,-4.333,,,
+2014-11-22,2014,portland state,eastern washington,34,56,0
+2014-11-22,2014,james madison,elon,59,27,1
+2014-11-22,2014,bryant,wagner,20,23,0
+2014-11-22,2014,duquesne,robert morris,22,0,1
+2014-11-22,2014,st francis (pa),central connecticut,17,22,0
+2014-11-22,2014,georgetown,holy cross,21,16,1
+2014-11-22,2014,delaware,villanova,28,35,0
+2014-11-22,2014,houston,tulsa,38,28,1,-20.5,,-20.5,,,
+2014-11-22,2014,monmouth,gardner-webb,31,15,1
+2014-11-22,2014,south carolina,south alabama,37,12,1,-24.333,,-24.333,,,
+2014-11-22,2014,charlotte,morehead state,52,14,1
+2014-11-22,2014,georgia,charleston southern,55,9,1,-45.0,,-45.0,,,
+2014-11-22,2014,florida,eastern kentucky,52,3,1,-30.0,,-30.0,,,
+2014-11-22,2014,ucf,smu,53,7,1,-27.667,,-27.667,,,
+2014-11-22,2014,army,fordham,42,31,1,9.5,,9.5,,,
+2014-11-22,2014,ohio state,indiana,42,27,1,-34.167,,-34.167,,,
+2014-11-22,2014,michigan state,rutgers,45,3,1,-23.333,,-23.333,,,
+2014-11-22,2014,nebraska,minnesota,24,28,0,-9.0,,-9.0,,,
+2014-11-22,2014,western kentucky,ut san antonio,45,7,1,-8.833,,-8.833,,,
+2014-11-22,2014,uab,marshall,18,23,0,18.5,,18.5,,,
+2014-11-22,2014,purdue,northwestern,14,38,0,0.667,,0.667,,,
+2014-11-22,2014,illinois,penn state,16,14,1,4.833,,4.833,,,
+2014-11-22,2014,wake forest,virginia tech,6,3,1,13.667,,13.667,,,
+2014-11-22,2014,rhode island,towson,13,7,1
+2014-11-22,2014,brown,columbia,41,7,1
+2014-11-22,2014,cornell,pennsylvania,26,34,0
+2014-11-22,2014,harvard,yale,31,24,1
+2014-11-22,2014,morgan state,delaware state,69,7,1
+2014-11-22,2014,princeton,dartmouth,10,41,0
+2014-11-22,2014,eastern illinois,ut martin,16,37,0
+2014-11-22,2014,arizona state,washington state,52,31,1,-15.333,,-15.333,,,
+2014-11-22,2014,howard,hampton,30,29,1
+2014-11-22,2014,stetson,drake,15,27,0
+2014-11-22,2014,bucknell,colgate,6,21,0
+2014-11-22,2014,coastal carolina,liberty,14,15,0
+2014-11-22,2014,old dominion,louisiana tech,30,27,1,12.167,,12.167,,,
+2014-11-22,2014,dayton,campbell,19,14,1
+2014-11-22,2014,central michigan,western michigan,20,32,0,nan,,nan,,,
+2014-11-22,2014,colorado state,new mexico,58,20,1,-20.667,,-20.667,,,
+2014-11-22,2014,vmi,the citadel,25,45,0
+2014-11-22,2014,oklahoma,kansas,44,7,1,-25.0,,-25.0,,,
+2014-11-22,2014,south carolina state,norfolk state,30,20,1
+2014-11-22,2014,wofford,mercer,34,6,1
+2014-11-22,2014,sam houston state,central arkansas,38,31,1
+2014-11-22,2014,northern colorado,north dakota,14,33,0
+2014-11-22,2014,north carolina central,north carolina a&t,21,14,1
+2014-11-22,2014,louisiana,appalachian state,16,35,0,-8.0,,-8.0,,,
+2014-11-22,2014,ball state,eastern michigan,45,30,1,-18.0,,-18.0,,,
+2014-11-22,2014,alabama state,stillman,30,27,1
+2014-11-22,2014,murray state,tennessee state,33,48,0
+2014-11-22,2014,florida a&m,bethune-cookman,17,18,0
+2014-11-22,2014,western illinois,indiana state,34,20,1
+2014-11-22,2014,illinois state,southern illinois,44,29,1
+2014-11-22,2014,southeast missouri state,jacksonville state,30,49,0
+2014-11-22,2014,valparaiso,davidson,27,13,1
+2014-11-22,2014,byu,savannah state,64,0,1,-59.0,,-59.0,,,
+2014-11-22,2014,alcorn state,jackson state,31,34,0
+2014-11-22,2014,south dakota state,south dakota,37,14,1
+2014-11-22,2014,mcneese,lamar,24,27,0
+2014-11-22,2014,stephen f. austin,northwestern state,27,24,1
+2014-11-22,2014,albany,stony brook,27,17,1
+2014-11-22,2014,utah,arizona,10,42,0,-4.5,,-4.5,,,
+2014-11-22,2014,florida state,boston college,20,17,1,-18.0,,-18.0,,,
+2014-11-22,2014,maine,new hampshire,12,20,0
+2014-11-22,2014,furman,chattanooga,19,45,0
+2014-11-22,2014,arkansas-pine bluff,alabama a&m,20,19,1
+2014-11-22,2014,lafayette,lehigh,27,7,1
+2014-11-22,2014,iowa,wisconsin,24,26,0,8.5,,8.5,,,
+2014-11-22,2014,clemson,georgia state,28,0,1,-39.667,,-39.667,,,
+2014-11-22,2014,notre dame,louisville,28,31,0,-5.0,,-5.0,,,
+2014-11-22,2014,east carolina,tulane,34,6,1,-19.0,,-19.0,,,
+2014-11-22,2014,pittsburgh,syracuse,30,7,1,-7.333,,-7.333,,,
+2014-11-22,2014,iowa state,texas tech,31,34,0,nan,,nan,,,
+2014-11-22,2014,michigan,maryland,16,23,0,-5.167,,-5.167,,,
+2014-11-22,2014,arkansas,ole miss,30,0,1,2.667,,2.667,,,
+2014-11-22,2014,north texas,florida international,17,14,1,-2.167,,-2.167,,,
+2014-11-22,2014,north dakota state,youngstown state,38,14,1
+2014-11-22,2014,memphis,south florida,31,20,1,-19.333,,-19.333,,,
+2014-11-22,2014,new mexico state,louisiana monroe,17,30,0,6.667,,6.667,,,
+2014-11-22,2014,california,stanford,17,38,0,6.0,,6.0,,,
+2014-11-22,2014,uc davis,sacramento state,30,41,0
+2014-11-22,2014,northern arizona,southern utah,14,22,0
+2014-11-22,2014,alabama,western carolina,48,14,1,-49.0,,-49.0,,,
+2014-11-22,2014,oregon,colorado,44,10,1,-33.0,,-33.0,,,
+2014-11-22,2014,idaho state,weber state,46,28,1
+2014-11-22,2014,austin peay,tennessee tech,15,41,0
+2014-11-22,2014,northern iowa,missouri state,38,24,1
+2014-11-22,2014,montana,montana state,34,7,1
+2014-11-23,2014,san diego,cal poly,3,34,0
+2014-11-23,2014,middle tennessee,florida atlantic,35,34,1,-7.0,,-7.0,,,
+2014-11-23,2014,auburn,samford,31,7,1,-38.5,,-38.5,,,
+2014-11-23,2014,virginia,miami,30,13,1,5.167,,5.167,,,
+2014-11-23,2014,william & mary,richmond,20,34,0
+2014-11-23,2014,mississippi state,vanderbilt,51,0,1,-30.0,,-30.0,,,
+2014-11-23,2014,baylor,oklahoma state,49,28,1,-30.167,,-30.167,,,
+2014-11-23,2014,tennessee,missouri,21,29,0,-4.167,,-4.167,,,
+2014-11-23,2014,ucla,usc,38,20,1,-3.333,,-3.333,,,
+2014-11-23,2014,connecticut,cincinnati,0,41,0,9.667,,9.667,,,
+2014-11-23,2014,wyoming,boise state,14,63,0,14.667,,14.667,,,
+2014-11-23,2014,nevada,fresno state,20,40,0,-6.833,,-6.833,,,
+2014-11-23,2014,washington,oregon state,37,13,1,-5.667,,-5.667,,,
+2014-11-23,2014,hawai'i,unlv,37,35,1,-9.667,,-9.667,,,
+2014-11-26,2014,miami (oh),ohio,21,24,0,3.0,,3.0,,,
+2014-11-28,2014,texas,tcu,10,48,0,5.667,,5.667,,,
+2014-11-28,2014,texas a&m,lsu,17,23,0,2.667,,2.667,,,
+2014-11-28,2014,western michigan,northern illinois,21,31,0,-7.667,,-7.667,,,
+2014-11-28,2014,south florida,ucf,0,16,0,9.833,,9.833,,,
+2014-11-28,2014,iowa,nebraska,34,37,0,-1.25,,-1.25,,,
+2014-11-28,2014,smu,houston,9,35,0,21.667,,21.667,,,
+2014-11-28,2014,marshall,western kentucky,66,67,0,-23.5,,-23.5,,,
+2014-11-28,2014,umass,buffalo,21,41,0,2.667,,2.667,,,
+2014-11-28,2014,kent state,akron,27,24,1,4.5,,4.5,,,
+2014-11-28,2014,bowling green,ball state,24,41,0,-9.667,,-9.667,,,
+2014-11-28,2014,eastern michigan,toledo,16,52,0,22.5,,22.5,,,
+2014-11-28,2014,missouri,arkansas,21,14,1,1.833,,1.833,,,
+2014-11-28,2014,south alabama,navy,40,42,0,7.167,,7.167,,,
+2014-11-28,2014,air force,colorado state,27,24,1,7.333,,7.333,,,
+2014-11-28,2014,arizona,arizona state,42,35,1,-2.167,,-2.167,,,
+2014-11-28,2014,ucla,stanford,10,31,0,-5.667,,-5.667,,,
+2014-11-29,2014,virginia tech,virginia,24,20,1,2.25,,2.25,,,
+2014-11-29,2014,tulsa,east carolina,32,49,0,18.167,,18.167,,,
+2014-11-29,2014,temple,cincinnati,6,14,0,5.833,,5.833,,,
+2014-11-29,2014,ut san antonio,north texas,34,27,1,-5.833,,-5.833,,,
+2014-11-29,2014,louisiana tech,rice,76,31,1,-7.0,,-7.0,,,
+2014-11-29,2014,florida atlantic,old dominion,28,31,0,-4.0,,-4.0,,,
+2014-11-29,2014,indiana,purdue,23,16,1,-2.5,,-2.5,,,
+2014-11-29,2014,northwestern,illinois,33,47,0,-7.833,,-7.833,,,
+2014-11-29,2014,iowa state,west virginia,24,37,0,11.0,,11.0,,,
+2014-11-29,2014,louisville,kentucky,44,40,1,-13.667,,-13.667,,,
+2014-11-29,2014,clemson,south carolina,35,17,1,-4.5,,-4.5,,,
+2014-11-29,2014,georgia,georgia tech,24,30,0,-11.833,,-11.833,,,
+2014-11-29,2014,ohio state,michigan,42,28,1,-20.833,,-20.833,,,
+2014-11-29,2014,fordham,sacred heart,44,22,1
+2014-11-29,2014,boston college,syracuse,28,7,1,-10.333,,-10.333,,,
+2014-11-29,2014,north carolina,nc state,7,35,0,-6.333,,-6.333,,,
+2014-11-29,2014,troy,louisiana,23,42,0,9.5,,9.5,,,
+2014-11-29,2014,colorado,utah,34,38,0,8.5,,8.5,,,
+2014-11-29,2014,richmond,morgan state,46,24,1
+2014-11-29,2014,eastern kentucky,indiana state,16,36,0
+2014-11-29,2014,appalachian state,idaho,45,28,1,-16.0,,-16.0,,,
+2014-11-29,2014,georgia state,texas state,31,54,0,12.333,,12.333,,,
+2014-11-29,2014,sam houston state,southeastern louisiana,21,17,1
+2014-11-29,2014,southern,grambling,52,45,1
+2014-11-29,2014,arkansas state,new mexico state,68,35,1,-23.5,,-23.5,,,
+2014-11-29,2014,new mexico,wyoming,36,30,1,-4.333,,-4.333,,,
+2014-11-29,2014,florida state,florida,24,19,1,-8.0,,-8.0,,,
+2014-11-29,2014,maryland,rutgers,38,41,0,-8.0,,-8.0,,,
+2014-11-29,2014,southern mississippi,uab,24,45,0,2.833,,2.833,,,
+2014-11-29,2014,san diego state,san josé state,38,7,1,-14.167,,-14.167,,,
+2014-11-29,2014,usc,notre dame,49,14,1,-5.833,,-5.833,,,
+2014-11-29,2014,wisconsin,minnesota,34,24,1,-15.333,,-15.333,,,
+2014-11-29,2014,penn state,michigan state,10,34,0,12.5,,12.5,,,
+2014-11-29,2014,texas tech,baylor,46,48,0,24.833,,24.833,,,
+2014-11-29,2014,ole miss,mississippi state,31,17,1,2.5,,2.5,,,
+2014-11-29,2014,montana,san diego,52,14,1
+2014-11-29,2014,kansas state,kansas,51,13,1,-27.333,,-27.333,,,
+2014-11-29,2014,james madison,liberty,21,26,0
+2014-11-29,2014,memphis,connecticut,41,10,1,-21.833,,-21.833,,,
+2014-11-29,2014,vanderbilt,tennessee,17,24,0,15.333,,15.333,,,
+2014-11-29,2014,montana state,south dakota state,40,47,0
+2014-11-29,2014,california,byu,35,42,0,-3.167,,-3.167,,,
+2014-11-29,2014,georgia southern,louisiana monroe,22,16,1,-14.0,,-14.0,,,
+2014-11-30,2014,fresno state,hawai'i,28,21,1,-10.0,,-10.0,,,
+2014-11-30,2014,duke,wake forest,41,21,1,-18.0,,-18.0,,,
+2014-11-30,2014,utep,middle tennessee,24,21,1,-2.667,,-2.667,,,
+2014-11-30,2014,miami,pittsburgh,23,35,0,-10.0,,-10.0,,,
+2014-11-30,2014,alabama,auburn,55,44,1,-8.667,,-8.667,,,
+2014-11-30,2014,northern iowa,stephen f. austin,44,10,1
+2014-11-30,2014,oregon state,oregon,19,47,0,19.5,,19.5,,,
+2014-11-30,2014,boise state,utah state,50,19,1,-9.667,,-9.667,,,
+2014-11-30,2014,unlv,nevada,27,49,0,8.333,,8.333,,,
+2014-11-30,2014,washington state,washington,13,31,0,4.0,,4.0,,,
+2014-12-05,2014,east carolina,ucf,30,32,0,-6.5,,-6.5,,,
+2014-12-06,2014,bowling green,northern illinois,17,51,0,0.833,,0.833,,,
+2014-12-06,2014,oregon,arizona,51,13,1,-14.333,,-14.333,,,
+2014-12-06,2014,marshall,louisiana tech,26,23,1,-10.667,,-10.667,,,
+2014-12-06,2014,cincinnati,houston,38,31,1,-7.0,,-7.0,,,
+2014-12-06,2014,connecticut,smu,20,27,0,-12.5,,-12.5,,,
+2014-12-06,2014,tcu,iowa state,55,3,1,-34.167,,-34.167,,,
+2014-12-06,2014,new hampshire,fordham,44,19,1
+2014-12-06,2014,coastal carolina,richmond,36,15,1
+2014-12-06,2014,chattanooga,indiana state,35,14,1
+2014-12-06,2014,illinois state,northern iowa,41,21,1
+2014-12-06,2014,jacksonville state,sam houston state,26,37,0
+2014-12-06,2014,north dakota state,south dakota state,27,24,1
+2014-12-06,2014,oklahoma,oklahoma state,35,38,0,-19.667,,-19.667,,,
+2014-12-06,2014,missouri,alabama,13,42,0,10.333,,10.333,,,
+2014-12-06,2014,southern,alcorn state,24,38,0
+2014-12-06,2014,villanova,liberty,29,22,1
+2014-12-06,2014,eastern washington,montana,37,20,1
+2014-12-07,2014,tulane,temple,3,10,0,2.333,,2.333,,,
+2014-12-07,2014,baylor,kansas state,38,27,1,-7.667,,-7.667,,,
+2014-12-07,2014,georgia tech,florida state,35,37,0,3.5,,3.5,,,
+2014-12-07,2014,ohio state,wisconsin,59,0,1,3.667,,3.667,,,
+2014-12-07,2014,boise state,fresno state,28,14,1,-21.0,,-21.0,,,
+2014-12-13,2014,new hampshire,chattanooga,35,30,1
+2014-12-13,2014,north dakota state,coastal carolina,39,32,1
+2014-12-13,2014,villanova,sam houston state,31,34,0
+2014-12-13,2014,army,navy,10,17,0,16.0,,16.0,,,
+2014-12-13,2014,eastern washington,illinois state,46,59,0

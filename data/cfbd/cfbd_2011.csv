@@ -1,0 +1,1464 @@
+data,season,team1,team2,score1,score2,result,spread,spreadOpen,overUnder,overUnderOpen,homeMoneyLine,awayMoneyLine
+2011-09-01,2011,louisville,murray state,21,9,1
+2011-09-01,2011,jacksonville state,ut martin,24,23,1
+2011-09-01,2011,northwestern state,delta state,24,23,1
+2011-09-01,2011,morehead state,kentucky christian,67,0,1
+2011-09-01,2011,temple,villanova,42,7,1
+2011-09-01,2011,central michigan,south carolina state,21,6,1
+2011-09-01,2011,florida international,north texas,41,16,1
+2011-09-01,2011,stephen f. austin,mcmurry,82,6,1
+2011-09-01,2011,sam houston state,western illinois,20,6,1
+2011-09-01,2011,toledo,new hampshire,58,22,1
+2011-09-01,2011,rutgers,north carolina central,48,0,1
+2011-09-01,2011,georgia tech,western carolina,63,21,1
+2011-09-01,2011,eastern illinois,illinois state,33,26,1
+2011-09-01,2011,nicholls,evangel,42,0,1
+2011-09-02,2011,central arkansas,henderson state,38,14,1
+2011-09-02,2011,memphis,mississippi state,14,59,0
+2011-09-02,2011,wisconsin,unlv,51,17,1
+2011-09-02,2011,holy cross,umass,16,24,0
+2011-09-02,2011,syracuse,wake forest,36,29,1
+2011-09-02,2011,utah,montana state,27,10,1
+2011-09-02,2011,north dakota,drake,16,0,1
+2011-09-02,2011,idaho,bowling green,15,32,0
+2011-09-02,2011,western kentucky,kentucky,3,14,0
+2011-09-02,2011,arizona state,uc davis,48,14,1
+2011-09-02,2011,michigan state,youngstown state,28,6,1
+2011-09-02,2011,georgia state,clark atlanta,41,7,1
+2011-09-03,2011,baylor,tcu,50,48,1
+2011-09-03,2011,auburn,utah state,42,38,1
+2011-09-03,2011,purdue,middle tennessee,27,24,1
+2011-09-03,2011,boston college,northwestern,17,24,0
+2011-09-03,2011,penn state,indiana state,41,7,1
+2011-09-03,2011,missouri,miami (oh),17,6,1
+2011-09-03,2011,ohio state,akron,42,0,1
+2011-09-03,2011,robert morris,dayton,13,19,0
+2011-09-03,2011,iowa,tennessee tech,34,7,1
+2011-09-03,2011,central connecticut,southern connecticut state,35,21,1
+2011-09-03,2011,connecticut,fordham,35,3,1
+2011-09-03,2011,alabama,kent state,48,7,1
+2011-09-03,2011,virginia tech,appalachian state,66,13,1
+2011-09-03,2011,monmouth,lehigh,24,49,0
+2011-09-03,2011,wagner,st francis (pa),38,28,1
+2011-09-03,2011,butler,albion,31,17,1
+2011-09-03,2011,tulane,southeastern louisiana,47,33,1
+2011-09-03,2011,vmi,delaware state,21,24,0
+2011-09-03,2011,presbyterian college,wofford,28,35,0
+2011-09-03,2011,air force,south dakota,37,20,1
+2011-09-03,2011,ut san antonio,northeastern state,31,3,1
+2011-09-03,2011,jackson state,concordia (al),42,2,1
+2011-09-03,2011,notre dame,south florida,20,23,0
+2011-09-03,2011,navy,delaware,40,17,1
+2011-09-03,2011,nebraska,chattanooga,40,7,1
+2011-09-03,2011,north carolina,james madison,42,10,1
+2011-09-03,2011,usc,minnesota,19,17,1
+2011-09-03,2011,florida state,louisiana monroe,34,0,1
+2011-09-03,2011,clemson,troy,43,19,1
+2011-09-03,2011,houston,ucla,38,34,1
+2011-09-03,2011,illinois,arkansas state,33,15,1
+2011-09-03,2011,michigan,western michigan,34,10,1
+2011-09-03,2011,northern colorado,lindenwood,20,22,0
+2011-09-03,2011,oregon state,sacramento state,28,29,0
+2011-09-03,2011,north carolina a&t,virginia lynchburg,38,7,1
+2011-09-03,2011,portland state,southern oregon,52,0,1
+2011-09-03,2011,ole miss,byu,13,14,0
+2011-09-03,2011,washington state,idaho state,64,21,1
+2011-09-03,2011,stanford,san josé state,57,3,1
+2011-09-03,2011,maine,bryant,28,13,1
+2011-09-03,2011,hampton,alabama a&m,21,20,1
+2011-09-03,2011,albany state (ga),savannah state,37,34,1
+2011-09-03,2011,the citadel,jacksonville,31,9,1
+2011-09-03,2011,norfolk state,virginia state,37,3,1
+2011-09-03,2011,colgate,albany,37,34,1
+2011-09-03,2011,bucknell,duquesne,27,26,1
+2011-09-03,2011,mississippi valley state,alabama state,9,41,0
+2011-09-03,2011,arkansas-pine bluff,langston,12,19,0
+2011-09-03,2011,gardner-webb,brevard college,34,17,1
+2011-09-03,2011,nc state,liberty,43,21,1
+2011-09-03,2011,new mexico,colorado state,10,14,0
+2011-09-03,2011,tennessee,montana,42,16,1
+2011-09-03,2011,pittsburgh,buffalo,35,16,1
+2011-09-03,2011,coastal carolina,furman,30,23,1
+2011-09-03,2011,florida a&m,fort valley state,28,22,1
+2011-09-03,2011,virginia,william & mary,40,3,1
+2011-09-03,2011,georgetown,davidson,40,16,1
+2011-09-03,2011,old dominion,campbell,41,14,1
+2011-09-03,2011,kansas,mcneese,42,24,1
+2011-09-03,2011,texas tech,texas state,50,10,1
+2011-09-03,2011,towson,morgan state,42,3,1
+2011-09-03,2011,ball state,indiana,27,20,1
+2011-09-03,2011,northern illinois,army,49,26,1
+2011-09-03,2011,sacred heart,marist,7,20,0
+2011-09-03,2011,valparaiso,franklin,35,49,0
+2011-09-03,2011,florida,florida atlantic,41,3,1
+2011-09-03,2011,arkansas,missouri state,51,7,1
+2011-09-03,2011,tennessee state,southern,33,7,1
+2011-09-03,2011,southeast missouri state,southern illinois,10,38,0
+2011-09-03,2011,california,fresno state,36,21,1
+2011-09-03,2011,oklahoma state,louisiana,61,34,1
+2011-09-03,2011,samford,georgia southern,17,31,0
+2011-09-03,2011,cincinnati,austin peay,72,10,1
+2011-09-03,2011,duke,richmond,21,23,0
+2011-09-03,2011,washington,eastern washington,30,27,1
+2011-09-03,2011,ucf,charleston southern,62,0,1
+2011-09-03,2011,south dakota state,southern utah,29,28,1
+2011-09-03,2011,alcorn state,grambling,14,21,0
+2011-09-03,2011,north dakota state,lafayette,42,6,1
+2011-09-03,2011,iowa state,northern iowa,20,19,1
+2011-09-03,2011,kansas state,eastern kentucky,10,7,1
+2011-09-03,2011,south carolina,east carolina,56,37,1
+2011-09-03,2011,vanderbilt,elon,45,14,1
+2011-09-04,2011,oklahoma,tulsa,47,14,1
+2011-09-04,2011,lsu,oregon,40,27,1
+2011-09-04,2011,georgia,boise state,21,35,0
+2011-09-04,2011,new mexico state,ohio,24,44,0
+2011-09-04,2011,texas,rice,34,9,1
+2011-09-04,2011,lamar,texas college,58,0,1
+2011-09-04,2011,wyoming,weber state,35,32,1
+2011-09-04,2011,utep,stony brook,31,24,1
+2011-09-04,2011,azusa pacific,san diego,40,42,0
+2011-09-04,2011,southern mississippi,louisiana tech,19,17,1
+2011-09-04,2011,arizona,northern arizona,41,10,1
+2011-09-04,2011,san diego state,cal poly,49,21,1
+2011-09-04,2011,hawai'i,colorado,34,17,1
+2011-09-04,2011,eastern michigan,howard,41,9,1
+2011-09-04,2011,bethune-cookman,prairie view,63,14,1
+2011-09-04,2011,west virginia,marshall,34,13,1
+2011-09-04,2011,texas a&m,smu,46,14,1
+2011-09-06,2011,maryland,miami,32,24,1
+2011-09-08,2011,hampton,florida a&m,23,17,1
+2011-09-09,2011,oklahoma state,arizona,37,14,1
+2011-09-09,2011,tennessee tech,maryville tn,56,7,1
+2011-09-09,2011,louisville,florida international,17,24,0
+2011-09-10,2011,arizona state,missouri,37,30,1
+2011-09-10,2011,georgia state,old dominion,17,40,0
+2011-09-10,2011,north carolina central,central state,42,3,1
+2011-09-10,2011,illinois,south dakota state,56,3,1
+2011-09-10,2011,army,san diego state,20,23,0
+2011-09-10,2011,kentucky,central michigan,27,13,1
+2011-09-10,2011,iowa state,iowa,44,41,1
+2011-09-10,2011,michigan state,florida atlantic,44,0,1
+2011-09-10,2011,ohio state,toledo,27,22,1
+2011-09-10,2011,wisconsin,oregon state,35,0,1
+2011-09-10,2011,auburn,mississippi state,41,34,1
+2011-09-10,2011,north carolina,rutgers,24,22,1
+2011-09-10,2011,lehigh,new hampshire,41,48,0
+2011-09-10,2011,pittsburgh,maine,35,29,1
+2011-09-10,2011,campbell,apprentice school,76,0,1
+2011-09-10,2011,eastern michigan,alabama state,14,7,1
+2011-09-10,2011,west virginia,norfolk state,55,12,1
+2011-09-10,2011,holy cross,colgate,37,7,1
+2011-09-10,2011,dayton,duquesne,13,22,0
+2011-09-10,2011,bryant,american international,27,16,1
+2011-09-10,2011,presbyterian college,north greenville,38,21,1
+2011-09-10,2011,vmi,william & mary,7,24,0
+2011-09-10,2011,indiana state,butler,48,34,1
+2011-09-10,2011,ut san antonio,mcmurry,21,24,0
+2011-09-10,2011,colorado state,northern colorado,33,14,1
+2011-09-10,2011,montana state,uc davis,38,14,1
+2011-09-10,2011,montana,cal poly,37,23,1
+2011-09-10,2011,southern utah,sacramento state,35,14,1
+2011-09-10,2011,northwestern,eastern illinois,42,21,1
+2011-09-10,2011,rice,purdue,24,22,1
+2011-09-10,2011,washington,hawai'i,40,32,1
+2011-09-10,2011,tennessee,cincinnati,45,23,1
+2011-09-10,2011,air force,tcu,19,35,0
+2011-09-10,2011,oregon,nevada,69,20,1
+2011-09-10,2011,east carolina,virginia tech,10,17,0
+2011-09-10,2011,duke,stanford,14,44,0
+2011-09-10,2011,penn state,alabama,11,27,0
+2011-09-10,2011,morehouse,howard,27,30,0
+2011-09-10,2011,clemson,wofford,35,27,1
+2011-09-10,2011,appalachian state,north carolina a&t,58,6,1
+2011-09-10,2011,tulane,tulsa,3,31,0
+2011-09-10,2011,colorado,california,33,36,0
+2011-09-10,2011,wake forest,nc state,34,27,1
+2011-09-10,2011,minnesota,new mexico state,21,28,0
+2011-09-10,2011,marshall,southern mississippi,26,20,1
+2011-09-10,2011,bethune-cookman,south carolina state,18,26,0
+2011-09-10,2011,western illinois,jacksonville,35,21,1
+2011-09-10,2011,youngstown state,valparaiso,77,13,1
+2011-09-10,2011,syracuse,rhode island,21,14,1
+2011-09-10,2011,georgia,south carolina,42,45,0
+2011-09-10,2011,idaho,north dakota,44,14,1
+2011-09-10,2011,south alabama,lamar,30,8,1
+2011-09-10,2011,south dakota,eastern washington,30,17,1
+2011-09-10,2011,washington state,unlv,59,7,1
+2011-09-10,2011,mississippi valley state,murray state,0,39,0
+2011-09-10,2011,the citadel,furman,6,16,0
+2011-09-10,2011,richmond,wagner,21,6,1
+2011-09-10,2011,james madison,central connecticut,14,9,1
+2011-09-10,2011,akron,temple,3,41,0
+2011-09-10,2011,bucknell,marist,28,14,1
+2011-09-10,2011,ole miss,southern illinois,42,24,1
+2011-09-10,2011,georgetown,lafayette,14,13,1
+2011-09-10,2011,delaware,west chester,28,17,1
+2011-09-10,2011,coastal carolina,catawba,20,3,1
+2011-09-10,2011,florida state,charleston southern,62,10,1
+2011-09-10,2011,buffalo,stony brook,35,7,1
+2011-09-10,2011,delaware state,shaw,31,27,1
+2011-09-10,2011,chattanooga,jacksonville state,38,17,1
+2011-09-10,2011,eastern kentucky,missouri state,28,24,1
+2011-09-10,2011,wyoming,texas state,45,10,1
+2011-09-10,2011,idaho state,western state,44,7,1
+2011-09-10,2011,georgia southern,tusculum,62,21,1
+2011-09-10,2011,western carolina,mars hill,52,31,1
+2011-09-10,2011,northern arizona,fort lewis,58,13,1
+2011-09-10,2011,nebraska,fresno state,42,29,1
+2011-09-10,2011,jackson state,tennessee state,35,29,1
+2011-09-10,2011,north dakota state,st francis (pa),56,3,1
+2011-09-10,2011,towson,villanova,31,10,1
+2011-09-10,2011,arkansas state,memphis,47,3,1
+2011-09-10,2011,florida,uab,39,0,1
+2011-09-10,2011,south florida,ball state,37,7,1
+2011-09-10,2011,texas,byu,17,16,1
+2011-09-10,2011,stephen f. austin,northern iowa,23,34,0
+2011-09-10,2011,smu,utep,28,17,1
+2011-09-10,2011,liberty,robert morris,38,7,1
+2011-09-10,2011,indiana,virginia,31,34,0
+2011-09-10,2011,western kentucky,navy,14,40,0
+2011-09-10,2011,arkansas,new mexico,52,3,1
+2011-09-10,2011,southern,alabama a&m,21,6,1
+2011-09-10,2011,arkansas-pine bluff,alcorn state,27,20,1
+2011-09-10,2011,samford,stillman,48,6,1
+2011-09-10,2011,davidson,lenoir-rhyne,28,10,1
+2011-09-10,2011,elon,concord,42,10,1
+2011-09-10,2011,north texas,houston,23,48,0
+2011-09-10,2011,middle tennessee,georgia tech,21,49,0
+2011-09-10,2011,kent state,louisiana,12,20,0
+2011-09-10,2011,kansas,northern illinois,45,42,1
+2011-09-10,2011,drake,grand view,28,21,1
+2011-09-10,2011,ohio,gardner-webb,30,3,1
+2011-09-10,2011,bowling green,morgan state,58,13,1
+2011-09-10,2011,louisiana monroe,grambling,35,7,1
+2011-09-10,2011,western michigan,nicholls,38,7,1
+2011-09-10,2011,louisiana tech,central arkansas,48,42,1
+2011-09-10,2011,illinois state,morehead state,52,21,1
+2011-09-10,2011,usc,utah,23,14,1
+2011-09-10,2011,vanderbilt,connecticut,24,21,1
+2011-09-11,2011,michigan,notre dame,35,31,1
+2011-09-11,2011,ucf,boston college,30,3,1
+2011-09-11,2011,southeastern louisiana,savannah state,63,6,1
+2011-09-11,2011,lsu,northwestern state,49,3,1
+2011-09-11,2011,utah state,weber state,54,17,1
+2011-09-11,2011,texas southern,prairie view,34,37,0
+2011-09-11,2011,san diego,western new mexico,30,10,1
+2011-09-11,2011,ucla,san josé state,27,17,1
+2011-09-15,2011,ut martin,union college,63,0,1
+2011-09-16,2011,mississippi state,lsu,6,19,0
+2011-09-16,2011,sacred heart,bryant,6,26,0
+2011-09-17,2011,connecticut,iowa state,20,24,0
+2011-09-17,2011,toledo,boise state,15,40,0
+2011-09-17,2011,western michigan,central michigan,44,14,1
+2011-09-17,2011,clemson,auburn,38,24,1
+2011-09-17,2011,temple,penn state,10,14,0
+2011-09-17,2011,iowa,pittsburgh,31,27,1
+2011-09-17,2011,maryland,west virginia,31,37,0
+2011-09-17,2011,bowling green,wyoming,27,28,0
+2011-09-17,2011,purdue,southeast missouri state,59,0,1
+2011-09-17,2011,yale,georgetown,37,27,1
+2011-09-17,2011,duquesne,valparaiso,49,14,1
+2011-09-17,2011,michigan,eastern michigan,31,3,1
+2011-09-17,2011,vanderbilt,ole miss,30,7,1
+2011-09-17,2011,georgia tech,kansas,66,24,1
+2011-09-17,2011,boston college,duke,19,20,0
+2011-09-17,2011,georgia,coastal carolina,59,0,1
+2011-09-17,2011,jacksonville,charleston southern,37,30,1
+2011-09-17,2011,st francis (pa),morehead state,50,49,1
+2011-09-17,2011,dayton,marist,24,10,1
+2011-09-17,2011,taylor,butler,6,23,0
+2011-09-17,2011,morgan state,robert morris,13,12,1
+2011-09-17,2011,wagner,central connecticut,24,28,0
+2011-09-17,2011,fordham,columbia,21,14,1
+2011-09-17,2011,holy cross,harvard,30,22,1
+2011-09-17,2011,howard,norfolk state,9,23,0
+2011-09-17,2011,dartmouth,colgate,37,20,1
+2011-09-17,2011,colorado,colorado state,28,14,1
+2011-09-17,2011,tcu,louisiana monroe,38,17,1
+2011-09-17,2011,montana,eastern washington,17,14,1
+2011-09-17,2011,oregon,missouri state,56,7,1
+2011-09-17,2011,notre dame,michigan state,31,13,1
+2011-09-17,2011,nebraska,washington,51,38,1
+2011-09-17,2011,minnesota,miami (oh),29,23,1
+2011-09-17,2011,northern illinois,wisconsin,7,49,0
+2011-09-17,2011,jacksonville state,georgia state,37,21,1
+2011-09-17,2011,florida,tennessee,33,23,1
+2011-09-17,2011,indiana,south carolina state,38,21,1
+2011-09-17,2011,new mexico,texas tech,13,59,0
+2011-09-17,2011,ucla,texas,20,49,0
+2011-09-17,2011,army,northwestern,21,14,1
+2011-09-17,2011,villanova,monmouth,9,20,0
+2011-09-17,2011,cincinnati,akron,59,14,1
+2011-09-17,2011,north carolina,virginia,28,17,1
+2011-09-17,2011,montana state,minot state,43,7,1
+2011-09-17,2011,youngstown state,illinois state,34,27,1
+2011-09-17,2011,san josé state,nevada,14,17,0
+2011-09-17,2011,virginia tech,arkansas state,26,7,1
+2011-09-17,2011,uab,tulane,10,49,0
+2011-09-17,2011,south dakota,northwestern oklahoma state,48,10,1
+2011-09-17,2011,alcorn state,mississippi valley state,39,14,1
+2011-09-17,2011,california,presbyterian college,63,12,1
+2011-09-17,2011,idaho state,northern colorado,50,20,1
+2011-09-17,2011,delaware,delaware state,45,0,1
+2011-09-17,2011,albany,maine,15,31,0
+2011-09-17,2011,south carolina,navy,24,21,1
+2011-09-17,2011,princeton,lehigh,22,34,0
+2011-09-17,2011,cornell,bucknell,24,13,1
+2011-09-17,2011,florida international,ucf,17,10,1
+2011-09-17,2011,appalachian state,savannah state,41,6,1
+2011-09-17,2011,north carolina central,elon,22,23,0
+2011-09-17,2011,nc state,south alabama,35,13,1
+2011-09-17,2011,eastern kentucky,chattanooga,14,23,0
+2011-09-17,2011,pennsylvania,lafayette,12,37,0
+2011-09-17,2011,stony brook,brown,20,21,0
+2011-09-17,2011,richmond,vmi,34,19,1
+2011-09-17,2011,old dominion,hampton,45,42,1
+2011-09-17,2011,umass,rhode island,36,27,1
+2011-09-17,2011,san diego state,washington state,42,24,1
+2011-09-17,2011,wake forest,gardner-webb,48,5,1
+2011-09-17,2011,missouri,western illinois,69,0,1
+2011-09-17,2011,liberty,james madison,24,27,0
+2011-09-17,2011,louisiana tech,houston,34,35,0
+2011-09-17,2011,murray state,tennessee state,58,27,1
+2011-09-17,2011,william & mary,new haven,13,10,1
+2011-09-17,2011,kentucky,louisville,17,24,0
+2011-09-17,2011,texas southern,texas college,49,6,1
+2011-09-17,2011,baylor,stephen f. austin,48,0,1
+2011-09-17,2011,louisiana,nicholls,38,21,1
+2011-09-17,2011,kansas state,kent state,37,0,1
+2011-09-17,2011,southern mississippi,southeastern louisiana,52,6,1
+2011-09-17,2011,memphis,austin peay,27,6,1
+2011-09-17,2011,sam houston state,central arkansas,31,10,1
+2011-09-17,2011,alabama a&m,tuskegee,21,6,1
+2011-09-17,2011,prairie view,arkansas-pine bluff,29,36,0
+2011-09-17,2011,southern,jackson state,24,28,0
+2011-09-17,2011,western kentucky,indiana state,16,44,0
+2011-09-17,2011,ohio,marshall,44,7,1
+2011-09-17,2011,south florida,florida a&m,70,17,1
+2011-09-17,2011,texas state,tarleton state,38,28,1
+2011-09-17,2011,texas a&m,idaho,37,7,1
+2011-09-17,2011,ball state,buffalo,28,25,1
+2011-09-17,2011,illinois,arizona state,17,14,1
+2011-09-17,2011,drake,missouri s&t,27,23,1
+2011-09-17,2011,cal poly,south dakota state,48,14,1
+2011-09-17,2011,eastern illinois,tennessee tech,20,31,0
+2011-09-17,2011,miami,ohio state,24,6,1
+2011-09-17,2011,alabama,north texas,41,0,1
+2011-09-17,2011,arkansas,troy,38,28,1
+2011-09-18,2011,new mexico state,utep,10,16,0
+2011-09-18,2011,weber state,sacramento state,49,17,1
+2011-09-18,2011,florida state,oklahoma,13,23,0
+2011-09-18,2011,usc,syracuse,38,17,1
+2011-09-18,2011,lamar,incarnate word,45,35,1
+2011-09-18,2011,mcneese,sioux falls,31,17,1
+2011-09-18,2011,southern utah,ut san antonio,45,22,1
+2011-09-18,2011,smu,northwestern state,40,7,1
+2011-09-18,2011,alabama state,grambling,31,17,1
+2011-09-18,2011,portland state,northern arizona,31,29,1
+2011-09-18,2011,uc davis,san diego,31,3,1
+2011-09-18,2011,byu,utah,10,54,0
+2011-09-18,2011,unlv,hawai'i,40,20,1
+2011-09-18,2011,tulsa,oklahoma state,33,59,0
+2011-09-18,2011,fresno state,north dakota,27,22,1
+2011-09-18,2011,arizona,stanford,10,37,0
+2011-09-22,2011,ut martin,murray state,48,26,1
+2011-09-22,2011,bethune-cookman,hampton,35,31,1
+2011-09-23,2011,cincinnati,nc state,44,14,1
+2011-09-23,2011,harvard,brown,24,7,1
+2011-09-24,2011,byu,ucf,24,17,1
+2011-09-24,2011,delaware,old dominion,27,17,1
+2011-09-24,2011,yale,cornell,37,17,1
+2011-09-24,2011,penn state,eastern michigan,34,6,1
+2011-09-24,2011,syracuse,toledo,33,30,1
+2011-09-24,2011,michigan state,central michigan,45,7,1
+2011-09-24,2011,georgia tech,north carolina,35,28,1
+2011-09-24,2011,michigan,san diego state,28,7,1
+2011-09-24,2011,butler,drake,14,24,0
+2011-09-24,2011,central connecticut,monmouth,12,24,0
+2011-09-24,2011,memphis,smu,0,42,0
+2011-09-24,2011,pittsburgh,notre dame,12,15,0
+2011-09-24,2011,iowa,louisiana monroe,45,17,1
+2011-09-24,2011,ole miss,georgia,13,27,0
+2011-09-24,2011,columbia,albany,21,44,0
+2011-09-24,2011,morehead state,san diego,44,48,0
+2011-09-24,2011,maryland,temple,7,38,0
+2011-09-24,2011,lehigh,liberty,27,24,1
+2011-09-24,2011,marist,georgetown,28,52,0
+2011-09-24,2011,rhode island,fordham,21,17,1
+2011-09-24,2011,boston college,umass,45,17,1
+2011-09-24,2011,bryant,wagner,30,28,1
+2011-09-24,2011,miami (oh),bowling green,23,37,0
+2011-09-24,2011,furman,presbyterian college,62,21,1
+2011-09-24,2011,campbell,jacksonville,21,57,0
+2011-09-24,2011,sacred heart,dartmouth,24,21,1
+2011-09-24,2011,central state,dayton,7,17,0
+2011-09-24,2011,charleston southern,norfolk state,3,33,0
+2011-09-24,2011,elon,the citadel,18,15,1
+2011-09-24,2011,akron,vmi,36,13,1
+2011-09-24,2011,south carolina state,delaware state,69,0,1
+2011-09-24,2011,tcu,portland state,55,13,1
+2011-09-24,2011,ut san antonio,bacone college,54,7,1
+2011-09-24,2011,rutgers,ohio,38,26,1
+2011-09-24,2011,ball state,army,48,21,1
+2011-09-24,2011,texas southern,alcorn state,14,7,1
+2011-09-24,2011,indiana state,youngstown state,37,35,1
+2011-09-24,2011,air force,tennessee state,63,24,1
+2011-09-24,2011,ohio state,colorado,37,17,1
+2011-09-24,2011,richmond,new hampshire,43,45,0
+2011-09-24,2011,clemson,florida state,35,30,1
+2011-09-24,2011,wisconsin,south dakota,59,10,1
+2011-09-24,2011,marshall,virginia tech,10,30,0
+2011-09-24,2011,kent state,south alabama,33,25,1
+2011-09-24,2011,morgan state,howard,14,9,1
+2011-09-24,2011,northern illinois,cal poly,47,30,1
+2011-09-24,2011,alabama,arkansas,38,14,1
+2011-09-24,2011,texas a&m,oklahoma state,29,30,0
+2011-09-24,2011,illinois,western michigan,23,20,1
+2011-09-24,2011,oregon state,ucla,19,27,0
+2011-09-24,2011,virginia,southern mississippi,24,30,0
+2011-09-24,2011,washington,california,31,23,1
+2011-09-24,2011,northern colorado,weber state,21,45,0
+2011-09-24,2011,duke,tulane,48,27,1
+2011-09-24,2011,florida a&m,southern,38,33,1
+2011-09-24,2011,east carolina,uab,28,23,1
+2011-09-24,2011,appalachian state,chattanooga,14,12,1
+2011-09-24,2011,miami,kansas state,24,28,0
+2011-09-24,2011,nicholls,northwestern state,0,34,0
+2011-09-24,2011,north carolina a&t,coastal carolina,14,31,0
+2011-09-24,2011,san josé state,new mexico state,34,24,1
+2011-09-24,2011,arkansas-pine bluff,clark atlanta,9,7,1
+2011-09-24,2011,troy,middle tennessee,38,35,1
+2011-09-24,2011,northern iowa,western illinois,38,10,1
+2011-09-24,2011,idaho,fresno state,24,48,0
+2011-09-24,2011,jackson state,alabama state,14,21,0
+2011-09-24,2011,stony brook,lafayette,37,20,1
+2011-09-24,2011,north carolina central,savannah state,30,33,0
+2011-09-24,2011,new mexico,sam houston state,45,48,0
+2011-09-24,2011,georgia southern,western carolina,52,20,1
+2011-09-24,2011,princeton,bucknell,9,34,0
+2011-09-24,2011,florida international,louisiana,31,36,0
+2011-09-24,2011,buffalo,connecticut,3,17,0
+2011-09-24,2011,northern arizona,idaho state,20,3,1
+2011-09-24,2011,auburn,florida atlantic,30,14,1
+2011-09-24,2011,davidson,johnson c smith,35,7,1
+2011-09-24,2011,william & mary,james madison,14,20,0
+2011-09-24,2011,villanova,pennsylvania,30,21,1
+2011-09-24,2011,stephen f. austin,texas state,26,35,0
+2011-09-24,2011,north dakota,black hills state,53,19,1
+2011-09-24,2011,wofford,samford,38,23,1
+2011-09-24,2011,jacksonville state,eastern illinois,28,21,1
+2011-09-24,2011,austin peay,eastern kentucky,23,17,1
+2011-09-24,2011,southern illinois,missouri state,20,18,1
+2011-09-24,2011,illinois state,south dakota state,20,13,1
+2011-09-24,2011,st francis (pa),duquesne,14,41,0
+2011-09-24,2011,grambling,alabama a&m,14,20,0
+2011-09-24,2011,prairie view,mississippi valley state,43,34,1
+2011-09-24,2011,towson,colgate,42,17,1
+2011-09-24,2011,texas tech,nevada,35,34,1
+2011-09-24,2011,north texas,indiana,24,21,1
+2011-09-24,2011,mississippi state,louisiana tech,26,20,1
+2011-09-24,2011,south carolina,vanderbilt,21,3,1
+2011-09-24,2011,kentucky,florida,10,48,0
+2011-09-24,2011,baylor,rice,56,31,1
+2011-09-24,2011,minnesota,north dakota state,24,37,0
+2011-09-24,2011,south florida,utep,52,24,1
+2011-09-24,2011,eastern washington,montana state,21,36,0
+2011-09-24,2011,wyoming,nebraska,14,38,0
+2011-09-25,2011,west virginia,lsu,21,47,0
+2011-09-25,2011,utah state,colorado state,34,35,0
+2011-09-25,2011,arkansas state,central arkansas,53,24,1
+2011-09-25,2011,mcneese,southeastern louisiana,48,27,1
+2011-09-25,2011,houston,georgia state,56,0,1
+2011-09-25,2011,tennessee tech,southeast missouri state,38,31,1
+2011-09-25,2011,oklahoma,missouri,38,28,1
+2011-09-25,2011,boise state,tulsa,41,21,1
+2011-09-25,2011,unlv,southern utah,16,41,0
+2011-09-25,2011,sacramento state,montana,42,28,1
+2011-09-25,2011,arizona,oregon,31,56,0
+2011-09-25,2011,arizona state,usc,43,22,1
+2011-09-25,2011,hawai'i,uc davis,56,14,1
+2011-09-29,2011,jackson state,texas southern,58,13,1
+2011-09-30,2011,utep,houston,42,49,0
+2011-09-30,2011,pittsburgh,south florida,44,17,1
+2011-10-01,2011,byu,utah state,27,24,1
+2011-10-01,2011,temple,toledo,13,36,0
+2011-10-01,2011,villanova,william & mary,16,20,0
+2011-10-01,2011,syracuse,rutgers,16,19,0
+2011-10-01,2011,arkansas,texas a&m,42,38,1
+2011-10-01,2011,indiana,penn state,10,16,0
+2011-10-01,2011,georgia,mississippi state,24,10,1
+2011-10-01,2011,illinois,northwestern,38,35,1
+2011-10-01,2011,michigan,minnesota,58,0,1
+2011-10-01,2011,army,tulane,45,6,1
+2011-10-01,2011,navy,air force,34,35,0
+2011-10-01,2011,kansas,texas tech,34,45,0
+2011-10-01,2011,new hampshire,holy cross,39,32,1
+2011-10-01,2011,central connecticut,sacred heart,24,37,0
+2011-10-01,2011,marist,jacksonville,9,21,0
+2011-10-01,2011,monmouth,robert morris,20,23,0
+2011-10-01,2011,lsu,kentucky,35,7,1
+2011-10-01,2011,boston college,wake forest,19,27,0
+2011-10-01,2011,tennessee,buffalo,41,10,1
+2011-10-01,2011,lehigh,yale,37,7,1
+2011-10-01,2011,cornell,wagner,31,7,1
+2011-10-01,2011,bucknell,georgetown,35,18,1
+2011-10-01,2011,dayton,butler,27,29,0
+2011-10-01,2011,miami (oh),cincinnati,0,27,0
+2011-10-01,2011,morgan state,north carolina a&t,3,24,0
+2011-10-01,2011,st francis (pa),albany,20,41,0
+2011-10-01,2011,lafayette,harvard,3,31,0
+2011-10-01,2011,eastern michigan,akron,31,23,1
+2011-10-01,2011,colgate,fordham,38,14,1
+2011-10-01,2011,duquesne,bryant,31,28,1
+2011-10-01,2011,elon,georgia southern,14,41,0
+2011-10-01,2011,charleston southern,wesley college,20,32,0
+2011-10-01,2011,missouri state,northern iowa,7,42,0
+2011-10-01,2011,valparaiso,morehead state,14,38,0
+2011-10-01,2011,drake,campbell,31,14,1
+2011-10-01,2011,ohio,kent state,17,10,1
+2011-10-01,2011,north dakota state,illinois state,20,10,1
+2011-10-01,2011,boise state,nevada,30,10,1
+2011-10-01,2011,wofford,appalachian state,28,14,1
+2011-10-01,2011,samford,gardner-webb,41,14,1
+2011-10-01,2011,mississippi valley state,southern,21,28,0
+2011-10-01,2011,southern utah,north dakota,20,26,0
+2011-10-01,2011,maine,delaware,31,17,1
+2011-10-01,2011,montana,northern colorado,55,28,1
+2011-10-01,2011,connecticut,western michigan,31,38,0
+2011-10-01,2011,usc,arizona,48,41,1
+2011-10-01,2011,west virginia,bowling green,55,10,1
+2011-10-01,2011,ohio state,michigan state,7,10,0
+2011-10-01,2011,virginia,idaho,21,20,1
+2011-10-01,2011,louisville,marshall,13,17,0
+2011-10-01,2011,james madison,richmond,31,7,1
+2011-10-01,2011,maryland,towson,28,3,1
+2011-10-01,2011,colorado,washington state,27,31,0
+2011-10-01,2011,central michigan,northern illinois,48,41,1
+2011-10-01,2011,miami,bethune-cookman,45,14,1
+2011-10-01,2011,eastern washington,weber state,27,21,1
+2011-10-01,2011,idaho state,portland state,35,42,0
+2011-10-01,2011,nc state,georgia tech,35,45,0
+2011-10-01,2011,south carolina,auburn,13,16,0
+2011-10-01,2011,kansas state,baylor,36,35,1
+2011-10-01,2011,tcu,smu,33,40,0
+2011-10-01,2011,montana state,sacramento state,31,21,1
+2011-10-01,2011,norfolk state,south carolina state,17,14,1
+2011-10-01,2011,western kentucky,arkansas state,22,26,0
+2011-10-01,2011,southeastern louisiana,lamar,38,48,0
+2011-10-01,2011,western illinois,southern illinois,27,21,1
+2011-10-01,2011,colorado state,san josé state,31,38,0
+2011-10-01,2011,south dakota,lindenwood,30,0,1
+2011-10-01,2011,princeton,columbia,24,21,1
+2011-10-01,2011,san diego,davidson,42,0,1
+2011-10-01,2011,virginia tech,clemson,3,23,0
+2011-10-01,2011,brown,rhode island,35,21,1
+2011-10-01,2011,florida a&m,delaware state,34,7,1
+2011-10-01,2011,western carolina,furman,21,47,0
+2011-10-01,2011,chattanooga,the citadel,27,28,0
+2011-10-01,2011,dartmouth,pennsylvania,20,22,0
+2011-10-01,2011,texas state,nicholls,38,12,1
+2011-10-01,2011,northwestern state,mcneese,18,20,0
+2011-10-01,2011,southeast missouri state,eastern illinois,37,30,1
+2011-10-01,2011,austin peay,tennessee state,37,34,1
+2011-10-01,2011,louisiana tech,hawai'i,26,44,0
+2011-10-01,2011,florida international,duke,27,31,0
+2011-10-01,2011,middle tennessee,memphis,38,31,1
+2011-10-01,2011,louisiana,florida atlantic,37,34,1
+2011-10-01,2011,tulsa,north texas,41,24,1
+2011-10-01,2011,troy,uab,24,23,1
+2011-10-01,2011,liberty,kentucky wesleyan,57,0,1
+2011-10-01,2011,murray state,jacksonville state,30,38,0
+2011-10-01,2011,south dakota state,indiana state,28,38,0
+2011-10-01,2011,grambling,prairie view,23,31,0
+2011-10-01,2011,alabama a&m,arkansas-pine bluff,28,27,1
+2011-10-01,2011,old dominion,umass,48,33,1
+2011-10-01,2011,savannah state,howard,14,34,0
+2011-10-01,2011,central arkansas,stephen f. austin,38,28,1
+2011-10-01,2011,oklahoma,ball state,62,6,1
+2011-10-01,2011,iowa state,texas,14,37,0
+2011-10-01,2011,utah,washington,14,31,0
+2011-10-01,2011,sam houston state,ut san antonio,22,7,1
+2011-10-01,2011,ut martin,tennessee tech,31,34,0
+2011-10-01,2011,southern mississippi,rice,48,24,1
+2011-10-02,2011,florida,alabama,10,38,0
+2011-10-02,2011,wisconsin,nebraska,48,17,1
+2011-10-02,2011,east carolina,north carolina,20,35,0
+2011-10-02,2011,purdue,notre dame,10,38,0
+2011-10-02,2011,alabama state,alcorn state,31,23,1
+2011-10-02,2011,new mexico,new mexico state,28,42,0
+2011-10-02,2011,fresno state,ole miss,28,38,0
+2011-10-02,2011,stanford,ucla,45,19,1
+2011-10-02,2011,arizona state,oregon state,35,20,1
+2011-10-06,2011,middle tennessee,western kentucky,33,36,0
+2011-10-07,2011,oregon,california,43,15,1
+2011-10-08,2011,fresno state,boise state,7,57,0
+2011-10-08,2011,yale,dartmouth,30,0,1
+2011-10-08,2011,new hampshire,villanova,47,17,1
+2011-10-08,2011,campbell,butler,38,23,1
+2011-10-08,2011,texas,oklahoma,17,55,0
+2011-10-08,2011,georgia tech,maryland,21,16,1
+2011-10-08,2011,west virginia,connecticut,43,16,1
+2011-10-08,2011,north carolina,louisville,14,7,1
+2011-10-08,2011,purdue,minnesota,45,17,1
+2011-10-08,2011,uab,mississippi state,3,21,0
+2011-10-08,2011,south carolina,kentucky,54,3,1
+2011-10-08,2011,cornell,harvard,31,41,0
+2011-10-08,2011,rice,memphis,28,6,1
+2011-10-08,2011,wake forest,florida state,35,30,1
+2011-10-08,2011,brown,holy cross,20,13,1
+2011-10-08,2011,columbia,sacred heart,25,34,0
+2011-10-08,2011,wagner,georgetown,10,24,0
+2011-10-08,2011,bryant,stonehill,42,7,1
+2011-10-08,2011,the citadel,wofford,14,43,0
+2011-10-08,2011,morgan state,savannah state,44,17,1
+2011-10-08,2011,albany,duquesne,38,10,1
+2011-10-08,2011,bucknell,lehigh,6,30,0
+2011-10-08,2011,hampton,princeton,28,23,1
+2011-10-08,2011,jacksonville,dayton,34,26,1
+2011-10-08,2011,miami (oh),army,35,28,1
+2011-10-08,2011,monmouth,colgate,14,26,0
+2011-10-08,2011,delaware state,norfolk state,21,38,0
+2011-10-08,2011,davidson,marist,9,13,0
+2011-10-08,2011,morehead state,drake,26,41,0
+2011-10-08,2011,rhode island,old dominion,23,31,0
+2011-10-08,2011,south carolina state,north carolina central,49,38,1
+2011-10-08,2011,north carolina a&t,bethune-cookman,22,3,1
+2011-10-08,2011,furman,samford,21,26,0
+2011-10-08,2011,valparaiso,san diego,14,55,0
+2011-10-08,2011,north dakota,montana-western,42,9,1
+2011-10-08,2011,akron,florida international,17,27,0
+2011-10-08,2011,ball state,temple,0,42,0
+2011-10-08,2011,western michigan,bowling green,45,21,1
+2011-10-08,2011,georgia state,murray state,24,48,0
+2011-10-08,2011,texas southern,alabama state,29,43,0
+2011-10-08,2011,alabama a&m,mississippi valley state,37,14,1
+2011-10-08,2011,eastern illinois,eastern kentucky,16,48,0
+2011-10-08,2011,indiana,illinois,20,41,0
+2011-10-08,2011,stephen f. austin,sam houston state,10,45,0
+2011-10-08,2011,missouri state,illinois state,13,38,0
+2011-10-08,2011,southern illinois,north dakota state,3,9,0
+2011-10-08,2011,clemson,boston college,36,14,1
+2011-10-08,2011,toledo,eastern michigan,54,16,1
+2011-10-08,2011,ut martin,austin peay,61,23,1
+2011-10-08,2011,florida a&m,howard,28,29,0
+2011-10-08,2011,georgia southern,chattanooga,28,27,1
+2011-10-08,2011,western carolina,elon,31,38,0
+2011-10-08,2011,nicholls,central arkansas,31,37,0
+2011-10-08,2011,kansas state,missouri,24,17,1
+2011-10-08,2011,oklahoma state,kansas,70,28,1
+2011-10-08,2011,nc state,central michigan,38,24,1
+2011-10-08,2011,oregon state,arizona,37,27,1
+2011-10-08,2011,buffalo,ohio,38,37,1
+2011-10-08,2011,navy,southern mississippi,35,63,0
+2011-10-08,2011,penn state,iowa,13,3,1
+2011-10-08,2011,notre dame,air force,59,33,1
+2011-10-08,2011,james madison,maine,24,25,0
+2011-10-08,2011,lsu,florida,41,11,1
+2011-10-08,2011,northern illinois,kent state,40,10,1
+2011-10-08,2011,rutgers,pittsburgh,34,10,1
+2011-10-08,2011,virginia tech,miami,38,35,1
+2011-10-08,2011,utah,arizona state,14,35,0
+2011-10-08,2011,northern colorado,sacramento state,0,14,0
+2011-10-08,2011,gardner-webb,liberty,3,35,0
+2011-10-08,2011,youngstown state,south dakota state,28,35,0
+2011-10-08,2011,portland state,montana state,36,38,0
+2011-10-08,2011,jackson state,arkansas-pine bluff,48,10,1
+2011-10-08,2011,south dakota,southern utah,24,19,1
+2011-10-08,2011,idaho,louisiana tech,11,24,0
+2011-10-08,2011,northern iowa,indiana state,23,9,1
+2011-10-08,2011,ut san antonio,south alabama,27,30,0
+2011-10-08,2011,stony brook,presbyterian college,42,24,1
+2011-10-08,2011,pennsylvania,fordham,35,20,1
+2011-10-08,2011,umass,central connecticut,42,26,1
+2011-10-08,2011,delaware,william & mary,21,0,1
+2011-10-08,2011,idaho state,montana,0,33,0
+2011-10-08,2011,northern arizona,eastern washington,28,36,0
+2011-10-08,2011,coastal carolina,vmi,34,10,1
+2011-10-08,2011,tennessee state,southeast missouri state,55,3,1
+2011-10-08,2011,southern,prairie view,20,23,0
+2011-10-08,2011,robert morris,st francis (pa),45,14,1
+2011-10-08,2011,houston,east carolina,56,3,1
+2011-10-08,2011,ucf,marshall,16,6,1
+2011-10-08,2011,tennessee,georgia,12,20,0
+2011-10-08,2011,louisiana monroe,arkansas state,19,24,0
+2011-10-08,2011,nevada,unlv,37,0,1
+2011-10-08,2011,louisiana,troy,31,17,1
+2011-10-08,2011,baylor,iowa state,49,26,1
+2011-10-08,2011,northwestern,michigan,24,42,0
+2011-10-08,2011,arkansas,auburn,38,14,1
+2011-10-08,2011,alabama,vanderbilt,34,0,1
+2011-10-08,2011,texas tech,texas a&m,40,45,0
+2011-10-08,2011,cal poly,central oklahoma,44,25,1
+2011-10-08,2011,stanford,colorado,48,7,1
+2011-10-08,2011,towson,richmond,31,28,1
+2011-10-08,2011,north texas,florida atlantic,31,17,1
+2011-10-09,2011,tulane,syracuse,34,37,0
+2011-10-09,2011,mcneese,texas state,14,21,0
+2011-10-09,2011,lamar,northwestern state,17,37,0
+2011-10-09,2011,utah state,wyoming,63,19,1
+2011-10-09,2011,nebraska,ohio state,34,27,1
+2011-10-09,2011,uc davis,humboldt state,17,23,0
+2011-10-09,2011,byu,san josé state,29,16,1
+2011-10-09,2011,san diego state,tcu,14,27,0
+2011-10-09,2011,ucla,washington state,28,25,1
+2011-10-13,2011,alabama a&m,texas southern,24,21,1
+2011-10-14,2011,air force,san diego state,27,41,0
+2011-10-14,2011,california,usc,9,30,0
+2011-10-15,2011,san josé state,hawai'i,28,27,1
+2011-10-15,2011,penn state,purdue,23,18,1
+2011-10-15,2011,cincinnati,louisville,25,16,1
+2011-10-15,2011,sacred heart,st francis (pa),60,45,1
+2011-10-15,2011,wisconsin,indiana,59,7,1
+2011-10-15,2011,texas a&m,baylor,55,28,1
+2011-10-15,2011,michigan state,michigan,28,14,1
+2011-10-15,2011,bowling green,toledo,21,28,0
+2011-10-15,2011,william & mary,new hampshire,24,10,1
+2011-10-15,2011,marist,campbell,21,35,0
+2011-10-15,2011,pittsburgh,utah,14,26,0
+2011-10-15,2011,duquesne,central connecticut,28,21,1
+2011-10-15,2011,mississippi state,south carolina,12,14,0
+2011-10-15,2011,north carolina,miami,24,30,0
+2011-10-15,2011,brown,princeton,34,0,1
+2011-10-15,2011,temple,buffalo,34,0,1
+2011-10-15,2011,maine,rhode island,27,21,1
+2011-10-15,2011,fordham,lehigh,12,34,0
+2011-10-15,2011,holy cross,dartmouth,25,17,1
+2011-10-15,2011,bryant,monmouth,35,40,0
+2011-10-15,2011,albany,robert morris,28,17,1
+2011-10-15,2011,howard,georgetown,3,21,0
+2011-10-15,2011,harvard,bucknell,42,3,1
+2011-10-15,2011,colgate,cornell,35,28,1
+2011-10-15,2011,jacksonville,morehead state,50,14,1
+2011-10-15,2011,butler,valparaiso,42,14,1
+2011-10-15,2011,dayton,davidson,28,0,1
+2011-10-15,2011,south carolina state,georgia state,23,13,1
+2011-10-15,2011,james madison,villanova,34,10,1
+2011-10-15,2011,north carolina a&t,delaware state,42,24,1
+2011-10-15,2011,wofford,uva-wise,47,14,1
+2011-10-15,2011,missouri,iowa state,52,17,1
+2011-10-15,2011,alabama state,prairie view,20,7,1
+2011-10-15,2011,wyoming,unlv,41,14,1
+2011-10-15,2011,the citadel,appalachian state,42,49,0
+2011-10-15,2011,rutgers,navy,21,20,1
+2011-10-15,2011,central michigan,eastern michigan,28,35,0
+2011-10-15,2011,mississippi valley state,jackson state,16,17,0
+2011-10-15,2011,samford,elon,43,31,1
+2011-10-15,2011,georgia southern,furman,50,20,1
+2011-10-15,2011,marshall,rice,24,20,1
+2011-10-15,2011,sam houston state,nicholls,47,7,1
+2011-10-15,2011,duke,florida state,16,41,0
+2011-10-15,2011,eastern kentucky,southeast missouri state,41,17,1
+2011-10-15,2011,indiana state,western illinois,46,24,1
+2011-10-15,2011,southern illinois,youngstown state,23,35,0
+2011-10-15,2011,montana state,northern arizona,41,24,1
+2011-10-15,2011,montana,portland state,30,24,1
+2011-10-15,2011,texas,oklahoma state,26,38,0
+2011-10-15,2011,kent state,miami (oh),3,9,0
+2011-10-15,2011,delaware,umass,10,21,0
+2011-10-15,2011,south alabama,ut martin,33,30,1
+2011-10-15,2011,ohio,ball state,20,23,0
+2011-10-15,2011,connecticut,south florida,16,10,1
+2011-10-15,2011,smu,ucf,38,17,1
+2011-10-15,2011,tulane,utep,7,44,0
+2011-10-15,2011,northern illinois,western michigan,51,22,1
+2011-10-15,2011,washington,colorado,52,24,1
+2011-10-15,2011,columbia,pennsylvania,20,27,0
+2011-10-15,2011,illinois,ohio state,7,17,0
+2011-10-15,2011,tennessee,lsu,7,38,0
+2011-10-15,2011,virginia,georgia tech,24,21,1
+2011-10-15,2011,old dominion,towson,35,39,0
+2011-10-15,2011,illinois state,south dakota,28,3,1
+2011-10-15,2011,central arkansas,mcneese,21,18,1
+2011-10-15,2011,florida atlantic,western kentucky,0,20,0
+2011-10-15,2011,murray state,eastern illinois,36,27,1
+2011-10-15,2011,norfolk state,hampton,34,24,1
+2011-10-15,2011,north carolina central,morgan state,3,52,0
+2011-10-15,2011,bethune-cookman,fort valley state,58,30,1
+2011-10-15,2011,oregon state,byu,28,38,0
+2011-10-15,2011,san diego,drake,31,24,1
+2011-10-15,2011,nevada,new mexico,49,7,1
+2011-10-15,2011,louisiana,north texas,30,10,1
+2011-10-15,2011,grambling,concordia (al),44,0,1
+2011-10-15,2011,uc davis,ut san antonio,38,17,1
+2011-10-15,2011,weber state,idaho state,39,12,1
+2011-10-15,2011,ole miss,alabama,7,52,0
+2011-10-15,2011,chattanooga,western carolina,51,7,1
+2011-10-15,2011,colorado state,boise state,13,63,0
+2011-10-15,2011,lafayette,yale,28,19,1
+2011-10-15,2011,wake forest,virginia tech,17,38,0
+2011-10-15,2011,northwestern state,southeastern louisiana,51,17,1
+2011-10-15,2011,austin peay,jacksonville state,14,44,0
+2011-10-15,2011,vanderbilt,georgia,28,33,0
+2011-10-15,2011,maryland,clemson,45,56,0
+2011-10-15,2011,auburn,florida,17,6,1
+2011-10-15,2011,texas tech,kansas state,34,41,0
+2011-10-15,2011,savannah state,florida a&m,7,47,0
+2011-10-15,2011,texas state,lamar,46,21,1
+2011-10-15,2011,iowa,northwestern,41,31,1
+2011-10-15,2011,south dakota state,northern iowa,14,31,0
+2011-10-15,2011,north dakota state,missouri state,51,21,1
+2011-10-15,2011,troy,louisiana monroe,10,38,0
+2011-10-15,2011,memphis,east carolina,17,35,0
+2011-10-15,2011,arkansas-pine bluff,southern,22,21,1
+2011-10-15,2011,eastern washington,northern colorado,48,27,1
+2011-10-15,2011,washington state,stanford,14,44,0
+2011-10-16,2011,tennessee tech,tennessee state,40,42,0
+2011-10-16,2011,new mexico state,idaho,31,24,1
+2011-10-16,2011,tulsa,uab,37,20,1
+2011-10-16,2011,cal poly,southern utah,31,27,1
+2011-10-16,2011,kansas,oklahoma,17,47,0
+2011-10-16,2011,fresno state,utah state,31,21,1
+2011-10-16,2011,oregon,arizona state,41,27,1
+2011-10-19,2011,arkansas state,florida international,34,16,1
+2011-10-20,2011,norfolk state,bethune-cookman,6,14,0
+2011-10-21,2011,uab,ucf,26,24,1
+2011-10-21,2011,arizona,ucla,48,12,1
+2011-10-22,2011,louisville,rutgers,16,14,1
+2011-10-22,2011,syracuse,west virginia,49,23,1
+2011-10-22,2011,purdue,illinois,21,14,1
+2011-10-22,2011,south florida,cincinnati,34,37,0
+2011-10-22,2011,iowa,indiana,45,24,1
+2011-10-22,2011,kansas,kansas state,21,59,0
+2011-10-22,2011,central connecticut,albany,35,63,0
+2011-10-22,2011,pennsylvania,yale,37,25,1
+2011-10-22,2011,buffalo,northern illinois,30,31,0
+2011-10-22,2011,missouri,oklahoma state,24,45,0
+2011-10-22,2011,clemson,north carolina,59,38,1
+2011-10-22,2011,robert morris,bryant,27,34,0
+2011-10-22,2011,duquesne,wagner,37,21,1
+2011-10-22,2011,kentucky,jacksonville state,38,14,1
+2011-10-22,2011,ole miss,arkansas,24,29,0
+2011-10-22,2011,cornell,brown,24,35,0
+2011-10-22,2011,duke,wake forest,23,24,0
+2011-10-22,2011,rhode island,delaware,38,34,1
+2011-10-22,2011,jacksonville,davidson,56,13,1
+2011-10-22,2011,campbell,san diego,48,24,1
+2011-10-22,2011,morehead state,dayton,28,30,0
+2011-10-22,2011,eastern michigan,western michigan,14,10,1
+2011-10-22,2011,sacred heart,monmouth,17,31,0
+2011-10-22,2011,harvard,princeton,56,39,1
+2011-10-22,2011,howard,north carolina a&t,35,28,1
+2011-10-22,2011,lafayette,fordham,45,24,1
+2011-10-22,2011,bucknell,holy cross,13,16,0
+2011-10-22,2011,butler,marist,10,28,0
+2011-10-22,2011,dartmouth,columbia,37,0,1
+2011-10-22,2011,south carolina state,florida a&m,24,27,0
+2011-10-22,2011,vmi,stony brook,14,42,0
+2011-10-22,2011,charleston southern,liberty,16,38,0
+2011-10-22,2011,georgia southern,presbyterian college,48,14,1
+2011-10-22,2011,tcu,new mexico,69,0,1
+2011-10-22,2011,ball state,central michigan,31,27,1
+2011-10-22,2011,drake,valparaiso,50,0,1
+2011-10-22,2011,georgetown,colgate,40,17,1
+2011-10-22,2011,north dakota,cal poly,19,23,0
+2011-10-22,2011,furman,wofford,26,21,1
+2011-10-22,2011,hampton,north carolina central,30,27,1
+2011-10-22,2011,illinois state,indiana state,17,14,1
+2011-10-22,2011,southeast missouri state,austin peay,17,13,1
+2011-10-22,2011,eastern illinois,ut martin,23,24,0
+2011-10-22,2011,virginia tech,boston college,30,14,1
+2011-10-22,2011,western carolina,the citadel,7,35,0
+2011-10-22,2011,elon,chattanooga,18,42,0
+2011-10-22,2011,georgia state,south alabama,27,20,1
+2011-10-22,2011,utah state,louisiana tech,17,24,0
+2011-10-22,2011,south dakota state,north dakota state,14,38,0
+2011-10-22,2011,byu,idaho state,56,3,1
+2011-10-22,2011,eastern kentucky,tennessee state,33,22,1
+2011-10-22,2011,grambling,mississippi valley state,30,24,1
+2011-10-22,2011,texas southern,central state,42,11,1
+2011-10-22,2011,alcorn state,concordia (al),58,16,1
+2011-10-22,2011,miami,georgia tech,24,7,1
+2011-10-22,2011,appalachian state,samford,35,17,1
+2011-10-22,2011,bowling green,temple,13,10,1
+2011-10-22,2011,virginia,nc state,14,28,0
+2011-10-22,2011,iowa state,texas a&m,17,33,0
+2011-10-22,2011,minnesota,nebraska,14,41,0
+2011-10-22,2011,lsu,auburn,45,10,1
+2011-10-22,2011,navy,east carolina,35,38,0
+2011-10-22,2011,colorado,oregon,2,45,0
+2011-10-22,2011,florida state,maryland,41,16,1
+2011-10-22,2011,akron,ohio,20,37,0
+2011-10-22,2011,tulane,memphis,17,33,0
+2011-10-22,2011,william & mary,towson,27,38,0
+2011-10-22,2011,richmond,maine,22,23,0
+2011-10-22,2011,villanova,old dominion,14,37,0
+2011-10-22,2011,umass,new hampshire,21,27,0
+2011-10-22,2011,boise state,air force,37,26,1
+2011-10-22,2011,northern colorado,montana state,21,31,0
+2011-10-22,2011,lamar,central arkansas,24,38,0
+2011-10-22,2011,western kentucky,louisiana,42,23,1
+2011-10-22,2011,northern iowa,southern illinois,17,10,1
+2011-10-22,2011,youngstown state,st francis (pa),49,23,1
+2011-10-22,2011,nevada,fresno state,45,38,1
+2011-10-22,2011,houston,marshall,63,28,1
+2011-10-22,2011,south dakota,uc davis,27,24,1
+2011-10-22,2011,north texas,louisiana monroe,38,21,1
+2011-10-22,2011,weber state,southern utah,28,35,0
+2011-10-22,2011,northern arizona,montana,24,28,0
+2011-10-22,2011,nicholls,stephen f. austin,21,57,0
+2011-10-22,2011,rice,tulsa,20,38,0
+2011-10-22,2011,western illinois,missouri state,17,31,0
+2011-10-22,2011,coastal carolina,gardner-webb,24,26,0
+2011-10-22,2011,california,utah,34,10,1
+2011-10-22,2011,vanderbilt,army,44,21,1
+2011-10-22,2011,northwestern,penn state,24,34,0
+2011-10-22,2011,toledo,miami (oh),49,28,1
+2011-10-22,2011,alabama,tennessee,37,6,1
+2011-10-22,2011,notre dame,usc,17,31,0
+2011-10-23,2011,mcneese,sam houston state,14,38,0
+2011-10-23,2011,michigan state,wisconsin,37,31,1
+2011-10-23,2011,utep,colorado state,31,17,1
+2011-10-23,2011,florida atlantic,middle tennessee,14,38,0
+2011-10-23,2011,southern mississippi,smu,27,3,1
+2011-10-23,2011,southeastern louisiana,texas state,38,28,1
+2011-10-23,2011,oklahoma,texas tech,38,41,0
+2011-10-23,2011,stanford,washington,65,21,1
+2011-10-23,2011,portland state,willamette,36,10,1
+2011-10-23,2011,sacramento state,eastern washington,35,42,0
+2011-10-23,2011,washington state,oregon state,21,44,0
+2011-10-23,2011,hawai'i,new mexico state,45,34,1
+2011-10-26,2011,florida international,troy,23,20,1
+2011-10-27,2011,pittsburgh,connecticut,35,20,1
+2011-10-28,2011,miami,virginia,21,28,0
+2011-10-28,2011,houston,rice,73,34,1
+2011-10-29,2011,tcu,byu,38,28,1
+2011-10-29,2011,columbia,yale,13,16,0
+2011-10-29,2011,old dominion,james madison,23,20,1
+2011-10-29,2011,new hampshire,rhode island,31,24,1
+2011-10-29,2011,nebraska,michigan state,24,3,1
+2011-10-29,2011,marist,drake,13,23,0
+2011-10-29,2011,robert morris,sacred heart,15,27,0
+2011-10-29,2011,st francis (pa),central connecticut,27,13,1
+2011-10-29,2011,wagner,albany,0,24,0
+2011-10-29,2011,marshall,uab,59,14,1
+2011-10-29,2011,akron,central michigan,22,23,0
+2011-10-29,2011,colgate,lehigh,25,45,0
+2011-10-29,2011,louisville,syracuse,27,10,1
+2011-10-29,2011,indiana,northwestern,38,59,0
+2011-10-29,2011,florida state,nc state,34,0,1
+2011-10-29,2011,texas a&m,missouri,31,38,0
+2011-10-29,2011,michigan,purdue,36,14,1
+2011-10-29,2011,vanderbilt,arkansas,28,31,0
+2011-10-29,2011,brown,pennsylvania,6,0,1
+2011-10-29,2011,duke,virginia tech,10,14,0
+2011-10-29,2011,princeton,cornell,7,24,0
+2011-10-29,2011,kent state,bowling green,27,15,1
+2011-10-29,2011,delaware state,morgan state,0,12,0
+2011-10-29,2011,richmond,umass,7,28,0
+2011-10-29,2011,holy cross,georgetown,6,19,0
+2011-10-29,2011,the citadel,vmi,41,14,1
+2011-10-29,2011,howard,south carolina state,0,31,0
+2011-10-29,2011,davidson,campbell,20,26,0
+2011-10-29,2011,monmouth,duquesne,0,16,0
+2011-10-29,2011,youngstown state,western illinois,56,14,1
+2011-10-29,2011,ut san antonio,georgia state,17,14,1
+2011-10-29,2011,wofford,elon,48,28,1
+2011-10-29,2011,gardner-webb,charleston southern,14,7,1
+2011-10-29,2011,new mexico,air force,0,42,0
+2011-10-29,2011,chattanooga,furman,7,14,0
+2011-10-29,2011,savannah state,hampton,5,22,0
+2011-10-29,2011,north carolina central,bethune-cookman,6,34,0
+2011-10-29,2011,valparaiso,dayton,10,49,0
+2011-10-29,2011,murray state,eastern kentucky,33,34,0
+2011-10-29,2011,norfolk state,north carolina a&t,14,10,1
+2011-10-29,2011,western michigan,ball state,45,35,1
+2011-10-29,2011,montana state,idaho state,54,13,1
+2011-10-29,2011,mississippi valley state,texas southern,12,9,1
+2011-10-29,2011,ut martin,southeast missouri state,38,30,1
+2011-10-29,2011,sam houston state,lamar,66,0,1
+2011-10-29,2011,montana,weber state,45,10,1
+2011-10-29,2011,missouri state,south dakota state,36,43,0
+2011-10-29,2011,oregon,washington state,43,28,1
+2011-10-29,2011,maryland,boston college,17,28,0
+2011-10-29,2011,southern utah,uc davis,34,3,1
+2011-10-29,2011,samford,western carolina,52,24,1
+2011-10-29,2011,appalachian state,georgia southern,24,17,1
+2011-10-29,2011,army,fordham,55,0,1
+2011-10-29,2011,arkansas-pine bluff,grambling,20,27,0
+2011-10-29,2011,tulsa,smu,38,7,1
+2011-10-29,2011,kansas state,oklahoma,17,58,0
+2011-10-29,2011,penn state,illinois,10,7,1
+2011-10-29,2011,florida,georgia,20,24,0
+2011-10-29,2011,rutgers,west virginia,31,41,0
+2011-10-29,2011,liberty,presbyterian college,27,20,1
+2011-10-29,2011,oklahoma state,baylor,59,24,1
+2011-10-29,2011,louisiana monroe,western kentucky,28,31,0
+2011-10-29,2011,east carolina,tulane,34,13,1
+2011-10-29,2011,north carolina,wake forest,49,24,1
+2011-10-29,2011,minnesota,iowa,22,21,1
+2011-10-29,2011,southern illinois,illinois state,30,38,0
+2011-10-29,2011,notre dame,navy,56,14,1
+2011-10-29,2011,miami (oh),buffalo,41,13,1
+2011-10-29,2011,alabama state,alabama a&m,19,20,0
+2011-10-29,2011,villanova,maine,25,41,0
+2011-10-29,2011,northern colorado,north dakota,25,27,0
+2011-10-29,2011,stony brook,coastal carolina,42,0,1
+2011-10-29,2011,jacksonville state,tennessee tech,14,21,0
+2011-10-29,2011,stephen f. austin,mcneese,37,17,1
+2011-10-29,2011,texas state,northwestern state,10,23,0
+2011-10-29,2011,north dakota state,northern iowa,27,19,1
+2011-10-29,2011,ucf,memphis,41,0,1
+2011-10-29,2011,louisiana tech,san josé state,38,28,1
+2011-10-29,2011,eastern washington,portland state,26,43,0
+2011-10-29,2011,idaho,hawai'i,14,16,0
+2011-10-29,2011,austin peay,eastern illinois,10,19,0
+2011-10-29,2011,prairie view,jackson state,14,44,0
+2011-10-29,2011,harvard,dartmouth,41,10,1
+2011-10-29,2011,unlv,colorado state,38,35,1
+2011-10-29,2011,lafayette,bucknell,13,39,0
+2011-10-29,2011,southern,alcorn state,30,14,1
+2011-10-29,2011,arizona state,colorado,48,14,1
+2011-10-29,2011,kentucky,mississippi state,16,28,0
+2011-10-29,2011,towson,delaware,30,35,0
+2011-10-29,2011,utah,oregon state,27,8,1
+2011-10-29,2011,arkansas state,north texas,37,14,1
+2011-10-29,2011,ucla,california,31,14,1
+2011-10-29,2011,texas tech,iowa state,7,41,0
+2011-10-29,2011,auburn,ole miss,41,23,1
+2011-10-29,2011,central arkansas,southeastern louisiana,55,29,1
+2011-10-29,2011,texas,kansas,43,0,1
+2011-10-29,2011,tennessee,south carolina,3,14,0
+2011-10-29,2011,middle tennessee,louisiana,20,45,0
+2011-10-30,2011,georgia tech,clemson,31,17,1
+2011-10-30,2011,usc,stanford,48,56,0
+2011-10-30,2011,new mexico state,nevada,34,48,0
+2011-10-30,2011,ohio state,wisconsin,33,29,1
+2011-10-30,2011,utep,southern mississippi,13,31,0
+2011-10-30,2011,cal poly,south dakota,27,24,1
+2011-10-30,2011,sacramento state,northern arizona,26,27,0
+2011-10-30,2011,san diego state,wyoming,27,30,0
+2011-10-30,2011,washington,arizona,42,31,1
+2011-11-01,2011,toledo,northern illinois,60,63,0
+2011-11-03,2011,ohio,temple,35,31,1
+2011-11-03,2011,gardner-webb,virginia state,34,13,1
+2011-11-03,2011,miami (oh),akron,35,3,1
+2011-11-03,2011,south alabama,mississippi valley state,35,3,1
+2011-11-04,2011,ucf,tulsa,17,24,0
+2011-11-04,2011,boston college,florida state,7,38,0
+2011-11-05,2011,kent state,central michigan,24,21,1
+2011-11-05,2011,colorado,usc,17,42,0
+2011-11-05,2011,connecticut,syracuse,28,21,1
+2011-11-05,2011,ohio state,indiana,34,20,1
+2011-11-05,2011,butler,davidson,17,7,1
+2011-11-05,2011,new hampshire,james madison,28,10,1
+2011-11-05,2011,eastern michigan,ball state,31,33,0
+2011-11-05,2011,central connecticut,robert morris,31,24,1
+2011-11-05,2011,iowa,michigan,24,16,1
+2011-11-05,2011,yale,brown,28,34,0
+2011-11-05,2011,marist,valparaiso,30,7,1
+2011-11-05,2011,texas,texas tech,52,20,1
+2011-11-05,2011,michigan state,minnesota,31,24,1
+2011-11-05,2011,west virginia,louisville,35,38,0
+2011-11-05,2011,samford,chattanooga,9,24,0
+2011-11-05,2011,florida,vanderbilt,26,21,1
+2011-11-05,2011,georgia,new mexico state,63,16,1
+2011-11-05,2011,maryland,virginia,13,31,0
+2011-11-05,2011,columbia,harvard,21,35,0
+2011-11-05,2011,iowa state,kansas,13,10,1
+2011-11-05,2011,nc state,north carolina,13,0,1
+2011-11-05,2011,maine,towson,30,40,0
+2011-11-05,2011,lehigh,holy cross,14,7,1
+2011-11-05,2011,wagner,sacred heart,27,21,1
+2011-11-05,2011,dayton,san diego,28,31,0
+2011-11-05,2011,campbell,morehead state,41,31,1
+2011-11-05,2011,rhode island,william & mary,24,21,1
+2011-11-05,2011,pennsylvania,princeton,37,9,1
+2011-11-05,2011,georgetown,fordham,30,13,1
+2011-11-05,2011,hampton,howard,7,10,0
+2011-11-05,2011,delaware state,north carolina central,7,14,0
+2011-11-05,2011,albany,bryant,17,31,0
+2011-11-05,2011,st francis (pa),monmouth,45,48,0
+2011-11-05,2011,dartmouth,cornell,33,24,1
+2011-11-05,2011,charleston southern,stony brook,31,50,0
+2011-11-05,2011,furman,appalachian state,20,10,1
+2011-11-05,2011,illinois state,western illinois,31,7,1
+2011-11-05,2011,drake,jacksonville,31,24,1
+2011-11-05,2011,southeast missouri state,central methodist,55,44,1
+2011-11-05,2011,old dominion,richmond,42,28,1
+2011-11-05,2011,north dakota,sioux falls,15,13,1
+2011-11-05,2011,georgia state,st. francis (il),27,30,0
+2011-11-05,2011,wyoming,tcu,20,31,0
+2011-11-05,2011,georgia southern,the citadel,14,12,1
+2011-11-05,2011,austin peay,central state,40,0,1
+2011-11-05,2011,indiana state,north dakota state,16,27,0
+2011-11-05,2011,eastern illinois,tennessee state,17,18,0
+2011-11-05,2011,tennessee tech,murray state,37,38,0
+2011-11-05,2011,western carolina,wofford,24,42,0
+2011-11-05,2011,mcneese,nicholls,26,17,1
+2011-11-05,2011,jackson state,grambling,23,26,0
+2011-11-05,2011,alcorn state,alabama a&m,14,28,0
+2011-11-05,2011,south dakota state,southern illinois,45,34,1
+2011-11-05,2011,smu,tulane,45,24,1
+2011-11-05,2011,miami,duke,49,14,1
+2011-11-05,2011,montana,western oregon,32,7,1
+2011-11-05,2011,weber state,montana state,24,44,0
+2011-11-05,2011,oregon state,stanford,13,38,0
+2011-11-05,2011,liberty,vmi,37,31,1
+2011-11-05,2011,navy,troy,42,14,1
+2011-11-05,2011,rice,utep,41,37,1
+2011-11-05,2011,kentucky,ole miss,30,13,1
+2011-11-05,2011,umass,villanova,17,35,0
+2011-11-05,2011,arkansas-pine bluff,alabama state,12,28,0
+2011-11-05,2011,louisiana,louisiana monroe,36,35,1
+2011-11-05,2011,air force,army,24,14,1
+2011-11-05,2011,oklahoma,texas a&m,41,25,1
+2011-11-05,2011,nebraska,northwestern,25,28,0
+2011-11-05,2011,wisconsin,purdue,62,17,1
+2011-11-05,2011,east carolina,southern mississippi,28,48,0
+2011-11-05,2011,jacksonville state,eastern kentucky,48,52,0
+2011-11-05,2011,san josé state,idaho,29,32,0
+2011-11-05,2011,texas state,prairie view,34,26,1
+2011-11-05,2011,western kentucky,florida international,10,9,1
+2011-11-05,2011,northwestern state,central arkansas,20,45,0
+2011-11-05,2011,florida atlantic,arkansas state,21,39,0
+2011-11-05,2011,bethune-cookman,morgan state,49,23,1
+2011-11-05,2011,portland state,sacramento state,29,20,1
+2011-11-05,2011,southeastern louisiana,sam houston state,9,38,0
+2011-11-05,2011,savannah state,norfolk state,3,45,0
+2011-11-05,2011,northern iowa,youngstown state,21,17,1
+2011-11-05,2011,uc davis,cal poly,24,17,1
+2011-11-05,2011,lafayette,colgate,37,24,1
+2011-11-05,2011,florida a&m,north carolina a&t,26,20,1
+2011-11-05,2011,coastal carolina,presbyterian college,15,8,1
+2011-11-05,2011,northern arizona,northern colorado,34,14,1
+2011-11-05,2011,california,washington state,30,7,1
+2011-11-05,2011,baylor,missouri,42,39,1
+2011-11-05,2011,tennessee,middle tennessee,24,0,1
+2011-11-05,2011,arizona,utah,21,34,0
+2011-11-05,2011,pittsburgh,cincinnati,23,26,0
+2011-11-05,2011,texas southern,southern,29,15,1
+2011-11-05,2011,lamar,stephen f. austin,10,69,0
+2011-11-05,2011,rutgers,south florida,20,17,1
+2011-11-05,2011,uab,houston,13,56,0
+2011-11-05,2011,arkansas,south carolina,44,28,1
+2011-11-05,2011,ucla,arizona state,29,28,1
+2011-11-05,2011,mississippi state,ut martin,55,17,1
+2011-11-06,2011,wake forest,notre dame,17,24,0
+2011-11-06,2011,oklahoma state,kansas state,52,45,1
+2011-11-06,2011,alabama,lsu,6,9,0
+2011-11-06,2011,san diego state,new mexico,35,7,1
+2011-11-06,2011,washington,oregon,17,34,0
+2011-11-06,2011,unlv,boise state,21,48,0
+2011-11-06,2011,fresno state,louisiana tech,21,41,0
+2011-11-06,2011,hawai'i,utah state,31,35,0
+2011-11-09,2011,bowling green,northern illinois,14,45,0
+2011-11-09,2011,toledo,western michigan,66,63,1
+2011-11-10,2011,temple,miami (oh),24,21,1
+2011-11-11,2011,central michigan,ohio,28,43,0
+2011-11-11,2011,georgia tech,virginia tech,26,37,0
+2011-11-11,2011,tulane,houston,17,73,0
+2011-11-12,2011,syracuse,south florida,17,37,0
+2011-11-12,2011,jacksonville,butler,34,24,1
+2011-11-12,2011,william & mary,old dominion,31,35,0
+2011-11-12,2011,monmouth,albany,24,41,0
+2011-11-12,2011,robert morris,wagner,17,38,0
+2011-11-12,2011,sacred heart,duquesne,15,29,0
+2011-11-12,2011,bryant,st francis (pa),45,34,1
+2011-11-12,2011,tulsa,marshall,59,17,1
+2011-11-12,2011,purdue,ohio state,26,23,1
+2011-11-12,2011,louisville,pittsburgh,14,21,0
+2011-11-12,2011,northwestern,rice,28,6,1
+2011-11-12,2011,cincinnati,west virginia,21,24,0
+2011-11-12,2011,iowa,michigan state,21,37,0
+2011-11-12,2011,princeton,yale,24,33,0
+2011-11-12,2011,harvard,pennsylvania,37,20,1
+2011-11-12,2011,penn state,nebraska,14,17,0
+2011-11-12,2011,south carolina,florida,17,12,1
+2011-11-12,2011,texas tech,oklahoma state,6,66,0
+2011-11-12,2011,clemson,wake forest,31,28,1
+2011-11-12,2011,missouri,texas,17,5,1
+2011-11-12,2011,vanderbilt,kentucky,38,8,1
+2011-11-12,2011,brown,dartmouth,16,21,0
+2011-11-12,2011,maine,umass,32,21,1
+2011-11-12,2011,cornell,columbia,62,41,1
+2011-11-12,2011,lehigh,georgetown,34,12,1
+2011-11-12,2011,boston college,nc state,14,10,1
+2011-11-12,2011,holy cross,lafayette,29,24,1
+2011-11-12,2011,morgan state,norfolk state,14,47,0
+2011-11-12,2011,eastern kentucky,tennessee tech,21,28,0
+2011-11-12,2011,wofford,georgia southern,10,31,0
+2011-11-12,2011,south dakota,missouri s&t,48,14,1
+2011-11-12,2011,troy,north texas,33,38,0
+2011-11-12,2011,eastern michigan,buffalo,30,17,1
+2011-11-12,2011,davidson,morehead state,28,24,1
+2011-11-12,2011,presbyterian college,vmi,38,6,1
+2011-11-12,2011,fordham,bucknell,0,21,0
+2011-11-12,2011,hampton,delaware state,42,6,1
+2011-11-12,2011,furman,elon,34,41,0
+2011-11-12,2011,charleston southern,coastal carolina,38,45,0
+2011-11-12,2011,south carolina state,north carolina a&t,30,22,1
+2011-11-12,2011,gardner-webb,stony brook,28,76,0
+2011-11-12,2011,western illinois,south dakota state,7,27,0
+2011-11-12,2011,southeast missouri state,jacksonville state,21,22,0
+2011-11-12,2011,alabama a&m,jackson state,6,34,0
+2011-11-12,2011,mississippi valley state,arkansas-pine bluff,3,15,0
+2011-11-12,2011,air force,wyoming,17,25,0
+2011-11-12,2011,akron,kent state,3,35,0
+2011-11-12,2011,kansas,baylor,30,31,0
+2011-11-12,2011,alabama state,southern,23,26,0
+2011-11-12,2011,murray state,austin peay,56,24,1
+2011-11-12,2011,missouri state,indiana state,20,28,0
+2011-11-12,2011,valparaiso,campbell,34,31,1
+2011-11-12,2011,drake,dayton,37,14,1
+2011-11-12,2011,north carolina central,florida a&m,10,31,0
+2011-11-12,2011,northern colorado,portland state,17,23,0
+2011-11-12,2011,colorado,arizona,48,29,1
+2011-11-12,2011,the citadel,samford,14,19,0
+2011-11-12,2011,utah state,san josé state,34,33,1
+2011-11-12,2011,arkansas state,louisiana,30,21,1
+2011-11-12,2011,virginia,duke,31,21,1
+2011-11-12,2011,james madison,rhode island,31,13,1
+2011-11-12,2011,southern illinois,eastern illinois,45,28,1
+2011-11-12,2011,alcorn state,prairie view,14,40,0
+2011-11-12,2011,grambling,texas southern,29,25,1
+2011-11-12,2011,georgia,auburn,45,7,1
+2011-11-12,2011,illinois,michigan,14,31,0
+2011-11-12,2011,towson,new hampshire,56,42,1
+2011-11-12,2011,delaware,richmond,24,10,1
+2011-11-12,2011,boise state,tcu,35,36,0
+2011-11-12,2011,florida state,miami,23,19,1
+2011-11-12,2011,smu,navy,17,24,0
+2011-11-12,2011,army,rutgers,12,27,0
+2011-11-12,2011,weber state,northern arizona,34,31,1
+2011-11-12,2011,appalachian state,western carolina,46,14,1
+2011-11-12,2011,louisiana monroe,middle tennessee,42,14,1
+2011-11-12,2011,kansas state,texas a&m,53,50,1
+2011-11-12,2011,minnesota,wisconsin,13,42,0
+2011-11-12,2011,usc,washington,40,17,1
+2011-11-12,2011,bethune-cookman,savannah state,59,3,1
+2011-11-12,2011,sam houston state,northwestern state,43,17,1
+2011-11-12,2011,san diego,marist,13,7,1
+2011-11-12,2011,north dakota state,youngstown state,24,27,0
+2011-11-12,2011,memphis,uab,35,41,0
+2011-11-12,2011,uc davis,north dakota,7,14,0
+2011-11-12,2011,central arkansas,texas state,23,22,1
+2011-11-12,2011,tennessee state,ut martin,35,30,1
+2011-11-12,2011,arkansas,tennessee,49,7,1
+2011-11-12,2011,colorado state,san diego state,15,18,0
+2011-11-12,2011,florida international,florida atlantic,41,7,1
+2011-11-12,2011,california,oregon state,23,6,1
+2011-11-12,2011,nicholls,lamar,26,34,0
+2011-11-12,2011,utah,ucla,31,6,1
+2011-11-13,2011,northern iowa,southern utah,34,21,1
+2011-11-13,2011,west alabama,georgia state,30,23,1
+2011-11-13,2011,stephen f. austin,southeastern louisiana,28,20,1
+2011-11-13,2011,lsu,western kentucky,42,9,1
+2011-11-13,2011,ole miss,louisiana tech,7,27,0
+2011-11-13,2011,notre dame,maryland,45,21,1
+2011-11-13,2011,mississippi state,alabama,7,24,0
+2011-11-13,2011,new mexico state,fresno state,48,45,1
+2011-11-13,2011,stanford,oregon,30,53,0
+2011-11-13,2011,utep,east carolina,22,17,1
+2011-11-13,2011,southern mississippi,ucf,30,29,1
+2011-11-13,2011,mcneese,ut san antonio,24,21,1
+2011-11-13,2011,cal poly,eastern washington,51,53,0
+2011-11-13,2011,sacramento state,idaho state,24,9,1
+2011-11-13,2011,byu,idaho,42,7,1
+2011-11-13,2011,new mexico,unlv,21,14,1
+2011-11-13,2011,nevada,hawai'i,42,28,1
+2011-11-13,2011,washington state,arizona state,37,27,1
+2011-11-16,2011,northern illinois,ball state,41,38,1
+2011-11-17,2011,bowling green,ohio,28,29,0
+2011-11-17,2011,miami (oh),western michigan,21,24,0
+2011-11-18,2011,memphis,marshall,22,23,0
+2011-11-18,2011,uab,southern mississippi,34,31,1
+2011-11-18,2011,southeastern louisiana,nicholls,31,14,1
+2011-11-18,2011,virginia tech,north carolina,24,21,1
+2011-11-19,2011,central michigan,toledo,17,44,0
+2011-11-19,2011,iowa state,oklahoma state,37,31,1
+2011-11-19,2011,purdue,iowa,21,31,0
+2011-11-19,2011,michigan state,indiana,55,3,1
+2011-11-19,2011,michigan,nebraska,45,17,1
+2011-11-19,2011,illinois,wisconsin,17,28,0
+2011-11-19,2011,connecticut,louisville,20,34,0
+2011-11-19,2011,northwestern,minnesota,28,13,1
+2011-11-19,2011,south carolina,the citadel,41,20,1
+2011-11-19,2011,rutgers,cincinnati,20,3,1
+2011-11-19,2011,texas a&m,kansas,61,7,1
+2011-11-19,2011,buffalo,akron,51,10,1
+2011-11-19,2011,illinois state,northern iowa,20,23,0
+2011-11-19,2011,bryant,central connecticut,21,42,0
+2011-11-19,2011,yale,harvard,7,45,0
+2011-11-19,2011,duquesne,robert morris,45,10,1
+2011-11-19,2011,monmouth,wagner,29,44,0
+2011-11-19,2011,richmond,william & mary,23,25,0
+2011-11-19,2011,new hampshire,maine,30,27,1
+2011-11-19,2011,georgia,kentucky,19,10,1
+2011-11-19,2011,rhode island,towson,17,28,0
+2011-11-19,2011,columbia,brown,35,28,1
+2011-11-19,2011,lehigh,lafayette,37,13,1
+2011-11-19,2011,duke,georgia tech,31,38,0
+2011-11-19,2011,eastern kentucky,ut martin,23,16,1
+2011-11-19,2011,albany,sacred heart,31,21,1
+2011-11-19,2011,delaware state,howard,39,36,1
+2011-11-19,2011,hampton,morgan state,42,18,1
+2011-11-19,2011,pennsylvania,cornell,38,48,0
+2011-11-19,2011,kent state,eastern michigan,28,22,1
+2011-11-19,2011,umass,james madison,17,34,0
+2011-11-19,2011,fordham,holy cross,21,41,0
+2011-11-19,2011,colgate,bucknell,21,6,1
+2011-11-19,2011,temple,army,42,14,1
+2011-11-19,2011,youngstown state,missouri state,34,38,0
+2011-11-19,2011,davidson,valparaiso,30,22,1
+2011-11-19,2011,morehead state,butler,55,35,1
+2011-11-19,2011,florida,furman,54,32,1
+2011-11-19,2011,auburn,samford,35,16,1
+2011-11-19,2011,presbyterian college,charleston southern,45,14,1
+2011-11-19,2011,north carolina a&t,north carolina central,31,21,1
+2011-11-19,2011,dartmouth,princeton,24,17,1
+2011-11-19,2011,vmi,gardner-webb,31,24,1
+2011-11-19,2011,wyoming,new mexico,31,10,1
+2011-11-19,2011,western illinois,north dakota state,21,37,0
+2011-11-19,2011,western carolina,coastal carolina,21,45,0
+2011-11-19,2011,alabama,georgia southern,45,21,1
+2011-11-19,2011,southeast missouri state,murray state,34,35,0
+2011-11-19,2011,north dakota,south dakota,38,37,1
+2011-11-19,2011,savannah state,south carolina state,10,20,0
+2011-11-19,2011,jackson state,alcorn state,51,7,1
+2011-11-19,2011,georgia state,campbell,42,35,1
+2011-11-19,2011,chattanooga,wofford,27,28,0
+2011-11-19,2011,ut san antonio,minot state,49,7,1
+2011-11-19,2011,indiana state,southern illinois,28,35,0
+2011-11-19,2011,montana state,montana,10,36,0
+2011-11-19,2011,tennessee tech,austin peay,49,7,1
+2011-11-19,2011,bethune-cookman,florida a&m,26,16,1
+2011-11-19,2011,tennessee state,jacksonville state,16,38,0
+2011-11-19,2011,prairie view,alabama a&m,15,17,0
+2011-11-19,2011,elon,appalachian state,24,28,0
+2011-11-19,2011,middle tennessee,arkansas state,19,45,0
+2011-11-19,2011,utep,tulsa,28,57,0
+2011-11-19,2011,wake forest,maryland,31,10,1
+2011-11-19,2011,stony brook,liberty,41,31,1
+2011-11-19,2011,arkansas-pine bluff,texas southern,42,6,1
+2011-11-19,2011,oregon state,washington,38,21,1
+2011-11-19,2011,ohio state,penn state,14,20,0
+2011-11-19,2011,troy,florida atlantic,34,7,1
+2011-11-19,2011,nc state,clemson,37,13,1
+2011-11-19,2011,arkansas,mississippi state,44,17,1
+2011-11-19,2011,south florida,miami,3,6,0
+2011-11-19,2011,houston,smu,37,7,1
+2011-11-19,2011,tcu,colorado state,34,10,1
+2011-11-19,2011,missouri,texas tech,31,27,1
+2011-11-19,2011,villanova,delaware,16,26,0
+2011-11-19,2011,rice,tulane,19,7,1
+2011-11-19,2011,san diego,jacksonville,23,14,1
+2011-11-19,2011,northwestern state,stephen f. austin,0,33,0
+2011-11-19,2011,notre dame,boston college,16,14,1
+2011-11-19,2011,portland state,weber state,33,48,0
+2011-11-19,2011,texas state,sam houston state,14,36,0
+2011-11-19,2011,san josé state,navy,27,24,1
+2011-11-19,2011,nevada,louisiana tech,20,24,0
+2011-11-19,2011,sacramento state,uc davis,19,23,0
+2011-11-19,2011,south alabama,cal poly,10,41,0
+2011-11-19,2011,washington state,utah,27,30,0
+2011-11-19,2011,idaho,utah state,42,49,0
+2011-11-19,2011,louisiana monroe,florida international,17,28,0
+2011-11-19,2011,northern arizona,southern utah,24,27,0
+2011-11-19,2011,idaho state,eastern washington,14,45,0
+2011-11-19,2011,air force,unlv,45,17,1
+2011-11-20,2011,east carolina,ucf,38,31,1
+2011-11-20,2011,lamar,mcneese,17,45,0
+2011-11-20,2011,tennessee,vanderbilt,27,21,1
+2011-11-20,2011,north texas,western kentucky,21,31,0
+2011-11-20,2011,ole miss,lsu,3,52,0
+2011-11-20,2011,ucla,colorado,45,6,1
+2011-11-20,2011,florida state,virginia,13,14,0
+2011-11-20,2011,san diego state,boise state,35,52,0
+2011-11-20,2011,texas,kansas state,13,17,0
+2011-11-20,2011,baylor,oklahoma,45,38,1
+2011-11-20,2011,oregon,usc,35,38,0
+2011-11-20,2011,arizona state,arizona,27,31,0
+2011-11-20,2011,byu,new mexico state,42,7,1
+2011-11-20,2011,stanford,california,31,28,1
+2011-11-20,2011,hawai'i,fresno state,21,24,0
+2011-11-23,2011,ohio,miami (oh),21,14,1
+2011-11-24,2011,alabama state,tuskegee,30,21,1
+2011-11-25,2011,texas a&m,texas,25,27,0
+2011-11-25,2011,northern illinois,eastern michigan,18,12,1
+2011-11-25,2011,south florida,louisville,24,34,0
+2011-11-25,2011,buffalo,bowling green,28,42,0
+2011-11-25,2011,temple,kent state,34,16,1
+2011-11-25,2011,nebraska,iowa,20,7,1
+2011-11-25,2011,tulsa,houston,16,48,0
+2011-11-25,2011,western michigan,akron,68,19,1
+2011-11-25,2011,ball state,toledo,28,45,0
+2011-11-25,2011,lsu,arkansas,41,17,1
+2011-11-25,2011,miami,boston college,17,24,0
+2011-11-25,2011,utah,colorado,14,17,0
+2011-11-26,2011,west virginia,pittsburgh,21,20,1
+2011-11-26,2011,ucf,utep,31,14,1
+2011-11-26,2011,arizona state,california,38,47,0
+2011-11-26,2011,connecticut,rutgers,40,22,1
+2011-11-26,2011,smu,rice,27,24,1
+2011-11-26,2011,eastern kentucky,james madison,17,20,0
+2011-11-26,2011,northwestern,michigan state,17,31,0
+2011-11-26,2011,georgia tech,georgia,17,31,0
+2011-11-26,2011,oklahoma,iowa state,26,6,1
+2011-11-26,2011,syracuse,cincinnati,13,30,0
+2011-11-26,2011,michigan,ohio state,40,34,1
+2011-11-26,2011,kentucky,tennessee,10,7,1
+2011-11-26,2011,nc state,maryland,56,41,1
+2011-11-26,2011,western kentucky,troy,41,18,1
+2011-11-26,2011,old dominion,norfolk state,35,18,1
+2011-11-26,2011,utah state,nevada,21,17,1
+2011-11-26,2011,boise state,wyoming,36,14,1
+2011-11-26,2011,grambling,southern,36,12,1
+2011-11-26,2011,stony brook,albany,31,28,1
+2011-11-26,2011,tennessee tech,central arkansas,14,34,0
+2011-11-26,2011,north carolina,duke,37,21,1
+2011-11-26,2011,auburn,alabama,14,42,0
+2011-11-26,2011,oregon,oregon state,49,21,1
+2011-11-26,2011,indiana,purdue,25,33,0
+2011-11-26,2011,minnesota,illinois,27,7,1
+2011-11-26,2011,middle tennessee,florida international,18,31,0
+2011-11-26,2011,kansas,missouri,10,24,0
+2011-11-26,2011,wake forest,vanderbilt,7,41,0
+2011-11-26,2011,marshall,east carolina,34,27,1
+2011-11-26,2011,wisconsin,penn state,45,7,1
+2011-11-26,2011,virginia,virginia tech,0,38,0
+2011-11-26,2011,arizona,louisiana,45,37,1
+2011-11-26,2011,louisiana tech,new mexico state,44,0,1
+2011-11-26,2011,florida atlantic,uab,38,35,1
+2011-11-26,2011,southern mississippi,memphis,44,7,1
+2011-11-26,2011,colorado state,air force,21,45,0
+2011-11-27,2011,mississippi state,ole miss,31,3,1
+2011-11-27,2011,baylor,texas tech,66,42,1
+2011-11-27,2011,florida,florida state,7,21,0
+2011-11-27,2011,washington,washington state,38,21,1
+2011-11-27,2011,south carolina,clemson,34,13,1
+2011-11-27,2011,fresno state,san josé state,24,27,0
+2011-11-27,2011,stanford,notre dame,28,14,1
+2011-11-27,2011,unlv,san diego state,14,31,0
+2011-11-27,2011,usc,ucla,50,0,1
+2011-11-27,2011,hawai'i,tulane,35,23,1
+2011-12-02,2011,south florida,west virginia,27,30,0
+2011-12-03,2011,northern illinois,ohio,23,20,1
+2011-12-03,2011,oregon,ucla,49,31,1
+2011-12-03,2011,pittsburgh,syracuse,33,20,1
+2011-12-03,2011,houston,southern mississippi,28,49,0
+2011-12-03,2011,cincinnati,connecticut,35,27,1
+2011-12-03,2011,kansas state,iowa state,30,23,1
+2011-12-03,2011,georgia southern,old dominion,55,48,1
+2011-12-03,2011,colorado state,wyoming,19,22,0
+2011-12-03,2011,appalachian state,maine,12,34,0
+2011-12-03,2011,montana,central arkansas,41,14,1
+2011-12-03,2011,tcu,unlv,56,9,1
+2011-12-03,2011,sam houston state,stony brook,34,27,1
+2011-12-03,2011,montana state,new hampshire,26,25,1
+2011-12-03,2011,new mexico state,utah state,21,24,0
+2011-12-03,2011,baylor,texas,48,24,1
+2011-12-03,2011,towson,lehigh,38,40,0
+2011-12-03,2011,florida atlantic,louisiana monroe,0,26,0
+2011-12-03,2011,north texas,middle tennessee,59,7,1
+2011-12-03,2011,lsu,georgia,42,10,1
+2011-12-03,2011,north dakota state,james madison,26,14,1
+2011-12-03,2011,nevada,idaho,56,3,1
+2011-12-03,2011,arkansas state,troy,45,14,1
+2011-12-03,2011,northern iowa,wofford,28,21,1
+2011-12-03,2011,boise state,new mexico,45,0,1
+2011-12-04,2011,hawai'i,byu,20,41,0
+2011-12-04,2011,oklahoma state,oklahoma,44,10,1
+2011-12-04,2011,san diego state,fresno state,35,28,1
+2011-12-04,2011,clemson,virginia tech,38,10,1
+2011-12-04,2011,michigan state,wisconsin,39,42,0
+2011-12-10,2011,navy,army,27,21,1
