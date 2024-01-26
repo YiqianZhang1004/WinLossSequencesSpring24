@@ -1,0 +1,1345 @@
+data,season,team1,team2,score1,score2,result,spread,spreadOpen,overUnder,overUnderOpen,homeMoneyLine,awayMoneyLine
+2012-08-30,2012,ball state,eastern michigan,37,26,1
+2012-08-30,2012,morehead state,southern virginia,55,0,1
+2012-08-30,2012,fordham,lock haven,55,0,1
+2012-08-30,2012,vanderbilt,south carolina,13,17,0
+2012-08-30,2012,western illinois,butler,23,15,1
+2012-08-30,2012,campbell,shorter,20,31,0
+2012-08-30,2012,kent state,towson,41,21,1
+2012-08-30,2012,akron,ucf,14,56,0
+2012-08-30,2012,central michigan,southeast missouri state,38,27,1
+2012-08-30,2012,utah,northern colorado,41,0,1
+2012-08-30,2012,georgia state,south carolina state,6,33,0
+2012-08-30,2012,middle tennessee,mcneese,21,27,0
+2012-08-30,2012,connecticut,umass,37,0,1
+2012-08-30,2012,eastern illinois,southern illinois,49,28,1
+2012-08-30,2012,rice,ucla,24,49,0
+2012-08-30,2012,holy cross,new hampshire,17,38,0
+2012-08-31,2012,new mexico state,sacramento state,49,19,1
+2012-08-31,2012,valparaiso,st. joseph's (in),34,36,0
+2012-08-31,2012,utah state,southern utah,34,3,1
+2012-08-31,2012,tennessee tech,hampton,41,31,1
+2012-08-31,2012,drake,grand view,28,8,1
+2012-08-31,2012,western carolina,mars hill,42,14,1
+2012-08-31,2012,idaho,eastern washington,3,20,0
+2012-08-31,2012,byu,washington state,30,6,1
+2012-08-31,2012,arizona state,northern arizona,63,6,1
+2012-08-31,2012,unlv,minnesota,27,30,0
+2012-08-31,2012,temple,villanova,41,10,1
+2012-08-31,2012,stephen f. austin,southwestern oklahoma,49,14,1
+2012-08-31,2012,tennessee,nc state,35,21,1
+2012-09-01,2012,florida atlantic,wagner,7,3,1
+2012-09-01,2012,michigan state,boise state,17,13,1
+2012-09-01,2012,stanford,san josé state,20,17,1
+2012-09-01,2012,navy,notre dame,10,50,0
+2012-09-01,2012,east carolina,appalachian state,35,13,1
+2012-09-01,2012,uab,troy,29,39,0
+2012-09-01,2012,ohio state,miami (oh),56,10,1
+2012-09-01,2012,west virginia,marshall,69,34,1
+2012-09-01,2012,syracuse,northwestern,41,42,0
+2012-09-01,2012,illinois,western michigan,24,7,1
+2012-09-01,2012,georgia,buffalo,45,23,1
+2012-09-01,2012,penn state,ohio,14,24,0
+2012-09-01,2012,lehigh,monmouth,27,17,1
+2012-09-01,2012,north carolina,elon,62,0,1
+2012-09-01,2012,morgan state,sacred heart,30,27,1
+2012-09-01,2012,delaware state,vmi,17,10,1
+2012-09-01,2012,illinois state,dayton,56,14,1
+2012-09-01,2012,air force,idaho state,49,21,1
+2012-09-01,2012,south alabama,ut san antonio,31,33,0
+2012-09-01,2012,maryland,william & mary,7,6,1
+2012-09-01,2012,california,nevada,24,31,0
+2012-09-01,2012,virginia,richmond,43,19,1
+2012-09-01,2012,bryant,marist,10,35,0
+2012-09-01,2012,northern illinois,iowa,17,18,0
+2012-09-01,2012,wisconsin,northern iowa,26,21,1
+2012-09-01,2012,howard,morehouse,30,29,1
+2012-09-01,2012,iowa state,tulsa,38,23,1
+2012-09-01,2012,florida,bowling green,27,14,1
+2012-09-01,2012,boston college,miami,32,41,0
+2012-09-01,2012,purdue,eastern kentucky,48,6,1
+2012-09-01,2012,nebraska,southern mississippi,49,20,1
+2012-09-01,2012,montana,south dakota,35,24,1
+2012-09-01,2012,colorado,colorado state,17,22,0
+2012-09-01,2012,samford,furman,24,21,1
+2012-09-01,2012,new mexico,southern,66,21,1
+2012-09-01,2012,coastal carolina,north carolina a&t,29,13,1
+2012-09-01,2012,north carolina central,fayetteville state,54,31,1
+2012-09-01,2012,old dominion,duquesne,57,23,1
+2012-09-01,2012,james madison,st francis (pa),55,7,1
+2012-09-01,2012,florida state,murray state,69,3,1
+2012-09-01,2012,norfolk state,virginia state,24,0,1
+2012-09-01,2012,albany,colgate,40,23,1
+2012-09-01,2012,georgia southern,jacksonville,58,0,1
+2012-09-01,2012,the citadel,charleston southern,49,14,1
+2012-09-01,2012,stony brook,central connecticut,49,17,1
+2012-09-01,2012,arkansas-pine bluff,langston,17,14,1
+2012-09-01,2012,mississippi valley state,concordia (al),19,20,0
+2012-09-01,2012,gardner-webb,wofford,7,34,0
+2012-09-01,2012,pittsburgh,youngstown state,17,31,0
+2012-09-01,2012,wake forest,liberty,20,17,1
+2012-09-01,2012,duke,florida international,46,26,1
+2012-09-01,2012,texas tech,northwestern state,44,6,1
+2012-09-01,2012,kansas,south dakota state,31,17,1
+2012-09-01,2012,western kentucky,austin peay,49,10,1
+2012-09-01,2012,mississippi state,jackson state,56,9,1
+2012-09-01,2012,south florida,chattanooga,34,13,1
+2012-09-01,2012,tennessee state,florida a&m,17,14,1
+2012-09-01,2012,ole miss,central arkansas,49,27,1
+2012-09-01,2012,missouri,southeastern louisiana,62,10,1
+2012-09-01,2012,memphis,ut martin,17,20,0
+2012-09-01,2012,oklahoma state,savannah state,84,0,1
+2012-09-01,2012,auburn,clemson,19,26,0
+2012-09-01,2012,louisiana,lamar,40,0,1
+2012-09-01,2012,arkansas,jacksonville state,49,24,1
+2012-09-01,2012,north dakota state,robert morris,52,0,1
+2012-09-01,2012,grambling,alcorn state,21,22,0
+2012-09-01,2012,lsu,north texas,41,14,1
+2012-09-01,2012,cal poly,san diego,41,14,1
+2012-09-01,2012,davidson,georgetown,14,35,0
+2012-09-01,2012,kansas state,missouri state,51,9,1
+2012-09-01,2012,usc,hawai'i,49,10,1
+2012-09-02,2012,indiana,indiana state,24,17,1
+2012-09-02,2012,prairie view,texas southern,41,44,0
+2012-09-02,2012,tulane,rutgers,12,24,0
+2012-09-02,2012,tuskegee,alabama a&m,6,7,0
+2012-09-02,2012,alabama,michigan,41,14,1
+2012-09-02,2012,texas,wyoming,37,17,1
+2012-09-02,2012,houston,texas state,13,30,0
+2012-09-02,2012,fresno state,weber state,37,10,1
+2012-09-02,2012,oregon,arkansas state,57,34,1
+2012-09-02,2012,arizona,toledo,24,17,1
+2012-09-02,2012,utep,oklahoma,7,24,0
+2012-09-02,2012,washington,san diego state,21,12,1
+2012-09-02,2012,bethune-cookman,alabama state,38,28,1
+2012-09-02,2012,louisville,kentucky,32,14,1
+2012-09-02,2012,baylor,smu,59,24,1
+2012-09-04,2012,virginia tech,georgia tech,20,17,1
+2012-09-07,2012,tennessee tech,north greenville,42,14,1
+2012-09-07,2012,cincinnati,pittsburgh,34,10,1
+2012-09-08,2012,utah state,utah,27,20,1
+2012-09-08,2012,connecticut,nc state,7,10,0
+2012-09-08,2012,minnesota,new hampshire,44,7,1
+2012-09-08,2012,mississippi state,auburn,28,10,1
+2012-09-08,2012,virginia,penn state,17,16,1
+2012-09-08,2012,robert morris,albany,10,35,0
+2012-09-08,2012,st francis (pa),bryant,39,28,1
+2012-09-08,2012,central connecticut,lehigh,14,35,0
+2012-09-08,2012,tulsa,tulane,45,10,1
+2012-09-08,2012,kansas state,miami,52,13,1
+2012-09-08,2012,temple,maryland,27,36,0
+2012-09-08,2012,ohio state,ucf,31,16,1
+2012-09-08,2012,duquesne,dayton,17,7,1
+2012-09-08,2012,south carolina,east carolina,48,10,1
+2012-09-08,2012,clemson,ball state,52,27,1
+2012-09-08,2012,eastern michigan,illinois state,14,31,0
+2012-09-08,2012,monmouth,rhode island,41,6,1
+2012-09-08,2012,boston college,maine,34,3,1
+2012-09-08,2012,miami (oh),southern illinois,30,14,1
+2012-09-08,2012,georgetown,wagner,13,10,1
+2012-09-08,2012,virginia tech,austin peay,42,7,1
+2012-09-08,2012,charleston southern,jacksonville,10,31,0
+2012-09-08,2012,ut san antonio,texas a&m-commerce,27,16,1
+2012-09-08,2012,indiana state,quincy,44,0,1
+2012-09-08,2012,washington state,eastern washington,24,20,1
+2012-09-08,2012,south dakota,colgate,31,21,1
+2012-09-08,2012,colorado,sacramento state,28,30,0
+2012-09-08,2012,california,southern utah,50,31,1
+2012-09-08,2012,byu,weber state,45,13,1
+2012-09-08,2012,syracuse,usc,29,42,0
+2012-09-08,2012,kansas,rice,24,25,0
+2012-09-08,2012,iowa,iowa state,6,9,0
+2012-09-08,2012,rutgers,howard,26,0,1
+2012-09-08,2012,umass,indiana,6,45,0
+2012-09-08,2012,central michigan,michigan state,7,41,0
+2012-09-08,2012,delaware,delaware state,38,14,1
+2012-09-08,2012,texas a&m,florida,17,20,0
+2012-09-08,2012,louisville,missouri state,35,7,1
+2012-09-08,2012,notre dame,purdue,20,17,1
+2012-09-08,2012,alabama,western kentucky,35,0,1
+2012-09-08,2012,michigan,air force,31,25,1
+2012-09-08,2012,nevada,south florida,31,32,0
+2012-09-08,2012,wake forest,north carolina,28,27,1
+2012-09-08,2012,youngstown state,valparaiso,59,0,1
+2012-09-08,2012,western illinois,indianapolis,27,17,1
+2012-09-08,2012,wyoming,toledo,31,34,0
+2012-09-08,2012,tennessee,georgia state,51,13,1
+2012-09-08,2012,oregon state,wisconsin,10,7,1
+2012-09-08,2012,south alabama,nicholls,9,3,1
+2012-09-08,2012,furman,coastal carolina,45,47,0
+2012-09-08,2012,butler,franklin,42,13,1
+2012-09-08,2012,eastern kentucky,morehead state,24,17,1
+2012-09-08,2012,florida state,savannah state,55,0,1
+2012-09-08,2012,florida international,akron,41,38,1
+2012-09-08,2012,south carolina state,bethune-cookman,14,27,0
+2012-09-08,2012,north carolina a&t,west virginia state,77,0,1
+2012-09-08,2012,hampton,old dominion,7,45,0
+2012-09-08,2012,buffalo,morgan state,56,34,1
+2012-09-08,2012,marist,bucknell,17,19,0
+2012-09-08,2012,campbell,uva-wise,10,0,1
+2012-09-08,2012,the citadel,georgia southern,23,21,1
+2012-09-08,2012,appalachian state,montana,35,27,1
+2012-09-08,2012,oregon,fresno state,42,25,1
+2012-09-08,2012,marshall,western carolina,52,24,1
+2012-09-08,2012,northern illinois,ut martin,35,7,1
+2012-09-08,2012,william & mary,lafayette,14,17,0
+2012-09-08,2012,northwestern state,arkansas-monticello,31,24,1
+2012-09-08,2012,sam houston state,incarnate word,54,7,1
+2012-09-08,2012,southeast missouri state,mars hill,30,18,1
+2012-09-08,2012,tennessee state,jackson state,38,12,1
+2012-09-08,2012,elon,north carolina central,34,14,1
+2012-09-08,2012,murray state,central arkansas,20,42,0
+2012-09-08,2012,western michigan,eastern illinois,52,21,1
+2012-09-08,2012,drake,montana state,24,34,0
+2012-09-08,2012,lenoir-rhyne,davidson,20,2,1
+2012-09-08,2012,northern iowa,central state,59,0,1
+2012-09-08,2012,jacksonville state,chattanooga,27,24,1
+2012-09-08,2012,wofford,lincoln (pa),82,0,1
+2012-09-08,2012,samford,west alabama,34,6,1
+2012-09-08,2012,lsu,washington,41,3,1
+2012-09-08,2012,arkansas,louisiana monroe,31,34,0
+2012-09-08,2012,georgia tech,presbyterian college,59,3,1
+2012-09-08,2012,ole miss,utep,28,10,1
+2012-09-08,2012,bowling green,idaho,21,13,1
+2012-09-08,2012,ohio,new mexico state,51,24,1
+2012-09-08,2012,middle tennessee,florida atlantic,31,17,1
+2012-09-08,2012,troy,louisiana,24,37,0
+2012-09-08,2012,arkansas state,memphis,33,28,1
+2012-09-08,2012,texas state,texas tech,10,58,0
+2012-09-08,2012,tcu,grambling,56,0,1
+2012-09-08,2012,north texas,texas southern,34,7,1
+2012-09-08,2012,oklahoma,florida a&m,69,13,1
+2012-09-08,2012,james madison,alcorn state,42,3,1
+2012-09-08,2012,alabama state,mississippi valley state,29,7,1
+2012-09-08,2012,arkansas-pine bluff,alabama a&m,10,14,0
+2012-09-08,2012,liberty,norfolk state,24,31,0
+2012-09-08,2012,colorado state,north dakota state,7,22,0
+2012-09-08,2012,san diego state,army,42,7,1
+2012-09-08,2012,kentucky,kent state,47,14,1
+2012-09-08,2012,missouri,georgia,20,41,0
+2012-09-08,2012,ucla,nebraska,36,30,1
+2012-09-09,2012,northwestern,vanderbilt,23,13,1
+2012-09-09,2012,houston,louisiana tech,49,56,0
+2012-09-09,2012,lamar,prairie view,31,0,1
+2012-09-09,2012,mcneese,mcmurry,69,7,1
+2012-09-09,2012,san josé state,uc davis,45,13,1
+2012-09-09,2012,southeastern louisiana,south dakota state,14,31,0
+2012-09-09,2012,villanova,fordham,28,13,1
+2012-09-09,2012,smu,stephen f. austin,52,0,1
+2012-09-09,2012,texas,new mexico,45,0,1
+2012-09-09,2012,san diego,western new mexico,34,27,1
+2012-09-09,2012,unlv,northern arizona,14,17,0
+2012-09-09,2012,stanford,duke,50,13,1
+2012-09-09,2012,arizona state,illinois,45,14,1
+2012-09-09,2012,arizona,oklahoma state,59,38,1
+2012-09-13,2012,ut martin,southeastern louisiana,23,6,1
+2012-09-13,2012,chattanooga,glenville state,35,0,1
+2012-09-13,2012,southern,mississippi valley state,0,6,0
+2012-09-13,2012,south florida,rutgers,13,23,0
+2012-09-15,2012,unlv,washington state,27,35,0
+2012-09-15,2012,oklahoma state,louisiana,65,24,1
+2012-09-15,2012,army,northern illinois,40,41,0
+2012-09-15,2012,illinois,charleston southern,44,0,1
+2012-09-15,2012,miami,bethune-cookman,38,10,1
+2012-09-15,2012,ohio state,california,35,28,1
+2012-09-15,2012,florida state,wake forest,52,0,1
+2012-09-15,2012,pittsburgh,virginia tech,35,17,1
+2012-09-15,2012,kansas,tcu,6,20,0
+2012-09-15,2012,minnesota,western michigan,28,23,1
+2012-09-15,2012,nebraska,arkansas state,42,13,1
+2012-09-15,2012,new hampshire,central connecticut,43,10,1
+2012-09-15,2012,purdue,eastern michigan,54,16,1
+2012-09-15,2012,auburn,louisiana monroe,31,28,1
+2012-09-15,2012,columbia,marist,10,9,1
+2012-09-15,2012,maryland,connecticut,21,24,0
+2012-09-15,2012,vanderbilt,presbyterian college,58,0,1
+2012-09-15,2012,harvard,san diego,28,13,1
+2012-09-15,2012,lehigh,princeton,17,14,1
+2012-09-15,2012,georgetown,yale,21,24,0
+2012-09-15,2012,bryant,maine,7,51,0
+2012-09-15,2012,wagner,monmouth,17,38,0
+2012-09-15,2012,morehead state,st francis (pa),23,57,0
+2012-09-15,2012,dayton,robert morris,20,14,1
+2012-09-15,2012,fordham,cornell,34,27,1
+2012-09-15,2012,holy cross,brown,21,24,0
+2012-09-15,2012,colgate,sacred heart,35,14,1
+2012-09-15,2012,tennessee state,austin peay,34,14,1
+2012-09-15,2012,illinois state,eastern illinois,54,51,1
+2012-09-15,2012,valparaiso,duquesne,17,45,0
+2012-09-15,2012,indiana state,drake,27,10,1
+2012-09-15,2012,elon,west virginia state,48,14,1
+2012-09-15,2012,south dakota state,uc davis,12,8,1
+2012-09-15,2012,alcorn state,arkansas-pine bluff,6,24,0
+2012-09-15,2012,clemson,furman,41,7,1
+2012-09-15,2012,gardner-webb,samford,23,44,0
+2012-09-15,2012,oregon,tennessee tech,63,14,1
+2012-09-15,2012,northwestern,boston college,22,13,1
+2012-09-15,2012,georgia tech,virginia,56,20,1
+2012-09-15,2012,smu,texas a&m,3,48,0
+2012-09-15,2012,penn state,navy,34,7,1
+2012-09-15,2012,arkansas,alabama,0,52,0
+2012-09-15,2012,iowa,northern iowa,27,16,1
+2012-09-15,2012,michigan,umass,63,13,1
+2012-09-15,2012,delaware,bucknell,19,3,1
+2012-09-15,2012,appalachian state,the citadel,28,52,0
+2012-09-15,2012,southern mississippi,east carolina,14,24,0
+2012-09-15,2012,akron,morgan state,66,6,1
+2012-09-15,2012,louisville,north carolina,39,34,1
+2012-09-15,2012,montana state,stephen f. austin,43,35,1
+2012-09-15,2012,norfolk state,howard,36,37,0
+2012-09-15,2012,washington,portland state,52,13,1
+2012-09-15,2012,youngstown state,albany,31,24,1
+2012-09-15,2012,ucf,florida international,33,20,1
+2012-09-15,2012,boise state,miami (oh),39,12,1
+2012-09-15,2012,syracuse,stony brook,28,17,1
+2012-09-15,2012,west virginia,james madison,42,12,1
+2012-09-15,2012,georgia state,ut san antonio,14,38,0
+2012-09-15,2012,coastal carolina,eastern kentucky,17,35,0
+2012-09-15,2012,lafayette,pennsylvania,28,21,1
+2012-09-15,2012,florida a&m,hampton,44,20,1
+2012-09-15,2012,north carolina a&t,virginia lynchburg,40,7,1
+2012-09-15,2012,tennessee,florida,20,37,0
+2012-09-15,2012,nc state,south alabama,31,7,1
+2012-09-15,2012,wyoming,cal poly,22,24,0
+2012-09-15,2012,marshall,ohio,24,27,0
+2012-09-15,2012,alabama a&m,prairie view,42,30,1
+2012-09-15,2012,cincinnati,delaware state,23,7,1
+2012-09-15,2012,south carolina,uab,49,6,1
+2012-09-15,2012,grambling,alabama state,18,19,0
+2012-09-15,2012,tulsa,nicholls,66,16,1
+2012-09-15,2012,southern illinois,southeast missouri state,35,14,1
+2012-09-15,2012,memphis,middle tennessee,30,48,0
+2012-09-15,2012,louisiana tech,rice,56,37,1
+2012-09-15,2012,kentucky,western kentucky,31,32,0
+2012-09-15,2012,troy,mississippi state,24,30,0
+2012-09-15,2012,missouri,arizona state,24,20,1
+2012-09-15,2012,central arkansas,bacone college,70,3,1
+2012-09-15,2012,dartmouth,butler,35,7,1
+2012-09-15,2012,texas tech,new mexico,49,14,1
+2012-09-15,2012,wofford,western carolina,49,20,1
+2012-09-15,2012,kansas state,north texas,35,21,1
+2012-09-15,2012,duke,north carolina central,54,17,1
+2012-09-15,2012,toledo,bowling green,27,15,1
+2012-09-15,2012,baylor,sam houston state,48,23,1
+2012-09-15,2012,nevada,northwestern state,45,34,1
+2012-09-15,2012,georgia,florida atlantic,56,20,1
+2012-09-15,2012,stanford,usc,21,14,1
+2012-09-16,2012,san josé state,colorado state,40,20,1
+2012-09-16,2012,iowa state,western illinois,37,3,1
+2012-09-16,2012,san diego state,north dakota,49,41,1
+2012-09-16,2012,indiana,ball state,39,41,0
+2012-09-16,2012,wisconsin,utah state,16,14,1
+2012-09-16,2012,fresno state,colorado,69,14,1
+2012-09-16,2012,weber state,mcneese,21,35,0
+2012-09-16,2012,michigan state,notre dame,3,20,0
+2012-09-16,2012,lsu,idaho,63,14,1
+2012-09-16,2012,utep,new mexico state,41,28,1
+2012-09-16,2012,missouri state,murray state,23,28,0
+2012-09-16,2012,texas southern,jackson state,35,45,0
+2012-09-16,2012,ole miss,texas,31,66,0
+2012-09-16,2012,utah,byu,24,21,1
+2012-09-16,2012,arizona,south carolina state,56,0,1
+2012-09-16,2012,ucla,houston,37,6,1
+2012-09-16,2012,hawai'i,lamar,54,2,1
+2012-09-19,2012,buffalo,kent state,7,23,0
+2012-09-20,2012,alabama state,arkansas-pine bluff,21,24,0
+2012-09-21,2012,boise state,byu,7,6,1
+2012-09-21,2012,princeton,georgetown,20,21,0
+2012-09-22,2012,louisiana monroe,baylor,42,47,0
+2012-09-22,2012,presbyterian college,furman,21,31,0
+2012-09-22,2012,bucknell,lafayette,14,20,0
+2012-09-22,2012,texas southern,alabama a&m,13,42,0
+2012-09-22,2012,butler,campbell,35,14,1
+2012-09-22,2012,marist,davidson,34,21,1
+2012-09-22,2012,old dominion,new hampshire,64,61,1
+2012-09-22,2012,tcu,virginia,27,7,1
+2012-09-22,2012,ohio state,uab,29,15,1
+2012-09-22,2012,florida,kentucky,38,0,1
+2012-09-22,2012,wisconsin,utep,37,26,1
+2012-09-22,2012,virginia tech,bowling green,37,0,1
+2012-09-22,2012,miami (oh),umass,27,16,1
+2012-09-22,2012,west virginia,maryland,31,21,1
+2012-09-22,2012,iowa,central michigan,31,32,0
+2012-09-22,2012,tulane,ole miss,0,39,0
+2012-09-22,2012,wake forest,army,49,37,1
+2012-09-22,2012,columbia,fordham,13,20,0
+2012-09-22,2012,monmouth,sacred heart,27,14,1
+2012-09-22,2012,holy cross,dartmouth,10,13,0
+2012-09-22,2012,dayton,jacksonville,17,21,0
+2012-09-22,2012,cornell,yale,45,6,1
+2012-09-22,2012,bryant,duquesne,21,35,0
+2012-09-22,2012,rhode island,james madison,7,32,0
+2012-09-22,2012,ut san antonio,northwestern oklahoma state,56,3,1
+2012-09-22,2012,missouri state,southern illinois,6,14,0
+2012-09-22,2012,ohio,norfolk state,44,10,1
+2012-09-22,2012,drake,morehead state,28,25,1
+2012-09-22,2012,indiana state,south dakota state,10,24,0
+2012-09-22,2012,western michigan,connecticut,30,24,1
+2012-09-22,2012,georgia tech,miami,36,42,0
+2012-09-22,2012,pennsylvania,villanova,8,24,0
+2012-09-22,2012,western carolina,samford,21,25,0
+2012-09-22,2012,northwestern,south dakota,38,7,1
+2012-09-22,2012,northern illinois,kansas,30,23,1
+2012-09-22,2012,navy,vmi,41,3,1
+2012-09-22,2012,north carolina,east carolina,27,6,1
+2012-09-22,2012,rice,marshall,51,54,0
+2012-09-22,2012,pittsburgh,gardner-webb,55,10,1
+2012-09-22,2012,nebraska,idaho state,73,7,1
+2012-09-22,2012,michigan state,eastern michigan,23,7,1
+2012-09-22,2012,ucla,oregon state,20,27,0
+2012-09-22,2012,south carolina,missouri,31,10,1
+2012-09-22,2012,penn state,temple,24,13,1
+2012-09-22,2012,georgia state,richmond,14,35,0
+2012-09-22,2012,central arkansas,sam houston state,24,20,1
+2012-09-22,2012,san diego,valparaiso,51,14,1
+2012-09-22,2012,washington state,colorado,34,35,0
+2012-09-22,2012,bethune-cookman,tennessee state,14,21,0
+2012-09-22,2012,western illinois,illinois state,3,23,0
+2012-09-22,2012,north dakota state,prairie view,66,7,1
+2012-09-22,2012,brown,harvard,31,45,0
+2012-09-22,2012,ball state,south florida,31,27,1
+2012-09-22,2012,alabama,florida atlantic,40,7,1
+2012-09-22,2012,jackson state,southern,21,28,0
+2012-09-22,2012,idaho,wyoming,37,40,0
+2012-09-22,2012,delaware state,florida a&m,22,24,0
+2012-09-22,2012,maine,albany,20,30,0
+2012-09-22,2012,stony brook,colgate,32,31,1
+2012-09-22,2012,nc state,the citadel,52,14,1
+2012-09-22,2012,chattanooga,appalachian state,17,34,0
+2012-09-22,2012,georgia southern,elon,26,23,1
+2012-09-22,2012,duke,memphis,38,14,1
+2012-09-22,2012,eastern kentucky,jacksonville state,51,21,1
+2012-09-22,2012,usc,california,27,9,1
+2012-09-22,2012,toledo,coastal carolina,38,28,1
+2012-09-22,2012,northwestern state,mississippi valley state,45,14,1
+2012-09-22,2012,southeast missouri state,tennessee tech,41,38,1
+2012-09-22,2012,mississippi state,south alabama,30,10,1
+2012-09-22,2012,savannah state,north carolina central,33,45,0
+2012-09-22,2012,texas state,stephen f. austin,41,37,1
+2012-09-22,2012,north texas,troy,7,14,0
+2012-09-22,2012,youngstown state,northern iowa,42,35,1
+2012-09-22,2012,arkansas,rutgers,26,35,0
+2012-09-22,2012,central connecticut,wagner,13,31,0
+2012-09-22,2012,william & mary,delaware,21,51,0
+2012-09-22,2012,towson,st francis (pa),46,17,1
+2012-09-22,2012,colorado state,utah state,19,31,0
+2012-09-22,2012,florida international,louisville,21,28,0
+2012-09-22,2012,western kentucky,southern mississippi,42,17,1
+2012-09-22,2012,austin peay,ut martin,6,31,0
+2012-09-22,2012,nicholls,evangel,73,17,1
+2012-09-22,2012,auburn,lsu,10,12,0
+2012-09-22,2012,arkansas state,alcorn state,56,0,1
+2012-09-22,2012,liberty,lehigh,26,28,0
+2012-09-22,2012,texas a&m,south carolina state,70,14,1
+2012-09-22,2012,eastern illinois,murray state,50,49,1
+2012-09-22,2012,tennessee,akron,47,26,1
+2012-09-22,2012,notre dame,michigan,13,6,1
+2012-09-22,2012,georgia,vanderbilt,48,3,1
+2012-09-22,2012,oklahoma,kansas state,19,24,0
+2012-09-23,2012,new mexico state,new mexico,14,27,0
+2012-09-23,2012,minnesota,syracuse,17,10,1
+2012-09-23,2012,san diego state,san josé state,34,38,0
+2012-09-23,2012,florida state,clemson,49,37,1
+2012-09-23,2012,lamar,langston,31,0,1
+2012-09-23,2012,tulsa,fresno state,27,26,1
+2012-09-23,2012,illinois,louisiana tech,24,52,0
+2012-09-23,2012,southeastern louisiana,mcneese,25,24,1
+2012-09-23,2012,arizona state,utah,37,7,1
+2012-09-23,2012,unlv,air force,38,35,1
+2012-09-23,2012,oregon,arizona,49,0,1
+2012-09-23,2012,hawai'i,nevada,24,69,0
+2012-09-27,2012,north carolina a&t,morgan state,18,21,0
+2012-09-28,2012,texas southern,sam houston state,6,50,0
+2012-09-28,2012,washington,stanford,17,13,1
+2012-09-28,2012,harvard,holy cross,52,3,1
+2012-09-29,2012,byu,hawai'i,47,0,1
+2012-09-29,2012,west virginia,baylor,70,63,1
+2012-09-29,2012,dartmouth,pennsylvania,21,28,0
+2012-09-29,2012,georgia tech,middle tennessee,28,49,0
+2012-09-29,2012,sacred heart,central connecticut,34,21,1
+2012-09-29,2012,northwestern,indiana,44,29,1
+2012-09-29,2012,army,stony brook,3,23,0
+2012-09-29,2012,illinois,penn state,7,35,0
+2012-09-29,2012,ucf,missouri,16,21,0
+2012-09-29,2012,iowa,minnesota,31,13,1
+2012-09-29,2012,new hampshire,delaware,34,14,1
+2012-09-29,2012,kent state,ball state,45,43,1
+2012-09-29,2012,miami,nc state,44,37,1
+2012-09-29,2012,connecticut,buffalo,24,17,1
+2012-09-29,2012,ut martin,eastern kentucky,16,28,0
+2012-09-29,2012,yale,colgate,24,47,0
+2012-09-29,2012,texas a&m,arkansas,58,10,1
+2012-09-29,2012,wake forest,duke,27,34,0
+2012-09-29,2012,columbia,princeton,6,33,0
+2012-09-29,2012,lehigh,fordham,34,31,1
+2012-09-29,2012,howard,savannah state,56,9,1
+2012-09-29,2012,butler,dayton,21,11,1
+2012-09-29,2012,jacksonville,marist,26,14,1
+2012-09-29,2012,albany,monmouth,55,24,1
+2012-09-29,2012,wagner,bryant,31,21,1
+2012-09-29,2012,duquesne,st francis (pa),24,21,1
+2012-09-29,2012,elon,wofford,24,49,0
+2012-09-29,2012,furman,western carolina,45,24,1
+2012-09-29,2012,air force,colorado state,42,21,1
+2012-09-29,2012,georgetown,brown,10,37,0
+2012-09-29,2012,south carolina state,norfolk state,14,0,1
+2012-09-29,2012,akron,miami (oh),49,56,0
+2012-09-29,2012,texas state,nevada,21,34,0
+2012-09-29,2012,eastern illinois,austin peay,65,15,1
+2012-09-29,2012,alcorn state,alabama state,14,54,0
+2012-09-29,2012,uab,tulsa,42,49,0
+2012-09-29,2012,south dakota,illinois state,31,34,0
+2012-09-29,2012,purdue,marshall,51,41,1
+2012-09-29,2012,cincinnati,virginia tech,27,24,1
+2012-09-29,2012,richmond,old dominion,37,45,0
+2012-09-29,2012,south alabama,troy,10,31,0
+2012-09-29,2012,maine,villanova,14,35,0
+2012-09-29,2012,bowling green,rhode island,48,8,1
+2012-09-29,2012,appalachian state,coastal carolina,55,14,1
+2012-09-29,2012,navy,san josé state,0,12,0
+2012-09-29,2012,umass,ohio,34,37,0
+2012-09-29,2012,northern illinois,central michigan,55,24,1
+2012-09-29,2012,tulane,louisiana monroe,10,63,0
+2012-09-29,2012,southern,florida a&m,21,14,1
+2012-09-29,2012,boston college,clemson,31,45,0
+2012-09-29,2012,michigan state,ohio state,16,17,0
+2012-09-29,2012,georgia,tennessee,51,44,1
+2012-09-29,2012,rice,houston,14,35,0
+2012-09-29,2012,north carolina,idaho,66,0,1
+2012-09-29,2012,virginia,louisiana tech,38,44,0
+2012-09-29,2012,lamar,southeastern louisiana,21,31,0
+2012-09-29,2012,jacksonville state,southeast missouri state,31,16,1
+2012-09-29,2012,california,arizona state,17,27,0
+2012-09-29,2012,florida atlantic,north texas,14,20,0
+2012-09-29,2012,jackson state,prairie view,34,13,1
+2012-09-29,2012,campbell,drake,7,35,0
+2012-09-29,2012,the citadel,chattanooga,10,28,0
+2012-09-29,2012,colorado,ucla,14,42,0
+2012-09-29,2012,davidson,presbyterian college,13,28,0
+2012-09-29,2012,tennessee state,arkansas-pine bluff,40,13,1
+2012-09-29,2012,hampton,bethune-cookman,26,38,0
+2012-09-29,2012,bucknell,cornell,10,15,0
+2012-09-29,2012,robert morris,lafayette,31,28,1
+2012-09-29,2012,new mexico,boise state,29,32,0
+2012-09-29,2012,georgia southern,samford,35,16,1
+2012-09-29,2012,south florida,florida state,17,30,0
+2012-09-29,2012,william & mary,georgia state,35,3,1
+2012-09-29,2012,northern iowa,north dakota state,21,33,0
+2012-09-29,2012,southern illinois,indiana state,3,24,0
+2012-09-29,2012,murray state,tennessee tech,70,35,1
+2012-09-29,2012,alabama a&m,grambling,38,17,1
+2012-09-29,2012,stephen f. austin,central arkansas,42,37,1
+2012-09-29,2012,lsu,towson,38,22,1
+2012-09-29,2012,louisiana,florida international,48,20,1
+2012-09-29,2012,iowa state,texas tech,13,24,0
+2012-09-29,2012,east carolina,utep,28,18,1
+2012-09-29,2012,arkansas state,western kentucky,13,26,0
+2012-09-29,2012,western michigan,toledo,17,37,0
+2012-09-29,2012,smu,tcu,16,24,0
+2012-09-29,2012,kentucky,south carolina,17,38,0
+2012-09-29,2012,south dakota state,missouri state,17,7,1
+2012-09-29,2012,oklahoma state,texas,36,41,0
+2012-09-30,2012,utah state,unlv,35,13,1
+2012-09-30,2012,new mexico state,ut san antonio,14,35,0
+2012-09-30,2012,southern mississippi,louisville,17,21,0
+2012-09-30,2012,mcneese,northwestern state,30,22,1
+2012-09-30,2012,nebraska,wisconsin,30,27,1
+2012-09-30,2012,alabama,ole miss,33,14,1
+2012-09-30,2012,fresno state,san diego state,52,40,1
+2012-09-30,2012,arizona,oregon state,35,38,0
+2012-09-30,2012,washington state,oregon,26,51,0
+2012-10-04,2012,florida international,arkansas state,20,34,0
+2012-10-05,2012,ucf,east carolina,40,20,1
+2012-10-05,2012,utah,usc,28,38,0
+2012-10-05,2012,syracuse,pittsburgh,14,13,1
+2012-10-06,2012,byu,utah state,6,3,1
+2012-10-06,2012,air force,navy,21,28,0
+2012-10-06,2012,kansas state,kansas,56,16,1
+2012-10-06,2012,st francis (pa),robert morris,10,3,1
+2012-10-06,2012,bryant,albany,14,31,0
+2012-10-06,2012,indiana,michigan state,27,31,0
+2012-10-06,2012,rutgers,connecticut,19,3,1
+2012-10-06,2012,yale,dartmouth,14,34,0
+2012-10-06,2012,penn state,northwestern,39,28,1
+2012-10-06,2012,temple,south florida,37,28,1
+2012-10-06,2012,ohio,buffalo,38,31,1
+2012-10-06,2012,auburn,arkansas,7,24,0
+2012-10-06,2012,army,boston college,34,31,1
+2012-10-06,2012,southern mississippi,boise state,14,40,0
+2012-10-06,2012,kentucky,mississippi state,14,27,0
+2012-10-06,2012,lehigh,columbia,35,14,1
+2012-10-06,2012,north carolina,virginia tech,48,34,1
+2012-10-06,2012,davidson,dayton,3,38,0
+2012-10-06,2012,harvard,cornell,45,13,1
+2012-10-06,2012,sacred heart,wagner,3,12,0
+2012-10-06,2012,fordham,georgetown,38,31,1
+2012-10-06,2012,holy cross,bucknell,13,6,1
+2012-10-06,2012,rhode island,brown,7,17,0
+2012-10-06,2012,eastern michigan,kent state,14,41,0
+2012-10-06,2012,james madison,towson,13,10,1
+2012-10-06,2012,morehead state,jacksonville,17,38,0
+2012-10-06,2012,wofford,furman,20,17,1
+2012-10-06,2012,drake,san diego,38,10,1
+2012-10-06,2012,north dakota state,youngstown state,48,7,1
+2012-10-06,2012,tennessee state,eastern kentucky,23,20,1
+2012-10-06,2012,valparaiso,butler,17,56,0
+2012-10-06,2012,alabama state,texas southern,45,0,1
+2012-10-06,2012,akron,bowling green,10,24,0
+2012-10-06,2012,western michigan,umass,52,14,1
+2012-10-06,2012,illinois state,southern illinois,0,17,0
+2012-10-06,2012,mississippi valley state,alabama a&m,0,35,0
+2012-10-06,2012,stanford,arizona,54,48,1
+2012-10-06,2012,duke,virginia,42,17,1
+2012-10-06,2012,toledo,central michigan,50,35,1
+2012-10-06,2012,ball state,northern illinois,23,35,0
+2012-10-06,2012,samford,the citadel,38,7,1
+2012-10-06,2012,south dakota,western illinois,17,24,0
+2012-10-06,2012,ut martin,eastern illinois,51,37,1
+2012-10-06,2012,uab,southeastern louisiana,52,3,1
+2012-10-06,2012,indiana state,missouri state,31,17,1
+2012-10-06,2012,tcu,iowa state,23,37,0
+2012-10-06,2012,delaware,maine,3,26,0
+2012-10-06,2012,georgia state,new hampshire,21,44,0
+2012-10-06,2012,appalachian state,elon,35,23,1
+2012-10-06,2012,western carolina,georgia southern,13,45,0
+2012-10-06,2012,pennsylvania,william & mary,28,34,0
+2012-10-06,2012,clemson,georgia tech,47,31,1
+2012-10-06,2012,florida,lsu,14,6,1
+2012-10-06,2012,texas tech,oklahoma,20,41,0
+2012-10-06,2012,marshall,tulsa,38,45,0
+2012-10-06,2012,middle tennessee,louisiana monroe,17,31,0
+2012-10-06,2012,wisconsin,illinois,31,14,1
+2012-10-06,2012,maryland,wake forest,19,14,1
+2012-10-06,2012,sam houston state,stephen f. austin,51,43,1
+2012-10-06,2012,purdue,michigan,13,44,0
+2012-10-06,2012,alcorn state,southern,20,17,1
+2012-10-06,2012,louisiana,tulane,41,13,1
+2012-10-06,2012,idaho,new mexico state,26,18,1
+2012-10-06,2012,villanova,richmond,17,28,0
+2012-10-06,2012,oregon state,washington state,19,6,1
+2012-10-06,2012,lafayette,princeton,14,35,0
+2012-10-06,2012,new mexico,texas state,35,14,1
+2012-10-06,2012,arkansas-pine bluff,jackson state,34,24,1
+2012-10-06,2012,houston,north texas,44,21,1
+2012-10-06,2012,memphis,rice,14,10,1
+2012-10-06,2012,louisiana tech,unlv,58,31,1
+2012-10-06,2012,missouri,vanderbilt,15,19,0
+2012-10-06,2012,prairie view,grambling,31,14,1
+2012-10-06,2012,central arkansas,nicholls,34,14,1
+2012-10-06,2012,northwestern state,lamar,30,23,1
+2012-10-06,2012,ole miss,texas a&m,27,30,0
+2012-10-06,2012,austin peay,murray state,14,52,0
+2012-10-06,2012,texas,west virginia,45,48,0
+2012-10-06,2012,colorado state,fresno state,7,28,0
+2012-10-06,2012,cincinnati,miami (oh),52,14,1
+2012-10-06,2012,nevada,wyoming,35,28,1
+2012-10-06,2012,south carolina,georgia,35,7,1
+2012-10-06,2012,notre dame,miami,41,3,1
+2012-10-07,2012,utep,smu,0,17,0
+2012-10-07,2012,ohio state,nebraska,63,38,1
+2012-10-07,2012,tennessee tech,jacksonville state,28,37,0
+2012-10-07,2012,san diego state,hawai'i,52,14,1
+2012-10-07,2012,nc state,florida state,17,16,1
+2012-10-07,2012,california,ucla,43,17,1
+2012-10-07,2012,oregon,washington,52,21,1
+2012-10-11,2012,troy,western kentucky,26,31,0
+2012-10-12,2012,tulsa,utep,33,11,1
+2012-10-12,2012,colorado,arizona state,17,51,0
+2012-10-13,2012,central michigan,navy,13,31,0
+2012-10-13,2012,pittsburgh,louisville,35,45,0
+2012-10-13,2012,yale,lafayette,10,20,0
+2012-10-13,2012,central connecticut,duquesne,38,31,1
+2012-10-13,2012,houston,uab,39,17,1
+2012-10-13,2012,rutgers,syracuse,23,15,1
+2012-10-13,2012,oklahoma,texas,63,21,1
+2012-10-13,2012,minnesota,northwestern,13,21,0
+2012-10-13,2012,marist,butler,14,17,0
+2012-10-13,2012,new hampshire,richmond,44,40,1
+2012-10-13,2012,purdue,wisconsin,14,38,0
+2012-10-13,2012,army,kent state,17,31,0
+2012-10-13,2012,iowa state,kansas state,21,27,0
+2012-10-13,2012,princeton,brown,19,0,1
+2012-10-13,2012,michigan state,iowa,16,19,0
+2012-10-13,2012,ole miss,auburn,41,20,1
+2012-10-13,2012,cornell,monmouth,41,38,1
+2012-10-13,2012,virginia tech,duke,41,20,1
+2012-10-13,2012,georgetown,lehigh,14,17,0
+2012-10-13,2012,dayton,morehead state,41,27,1
+2012-10-13,2012,davidson,jacksonville,24,34,0
+2012-10-13,2012,tulane,smu,27,26,1
+2012-10-13,2012,eastern michigan,toledo,47,52,0
+2012-10-13,2012,connecticut,temple,14,17,0
+2012-10-13,2012,rhode island,georgia state,7,41,0
+2012-10-13,2012,albany,st francis (pa),36,13,1
+2012-10-13,2012,bryant,robert morris,38,35,1
+2012-10-13,2012,colgate,holy cross,51,35,1
+2012-10-13,2012,pennsylvania,columbia,24,20,1
+2012-10-13,2012,dartmouth,sacred heart,10,27,0
+2012-10-13,2012,furman,chattanooga,10,31,0
+2012-10-13,2012,valparaiso,drake,21,35,0
+2012-10-13,2012,ohio,akron,34,28,1
+2012-10-13,2012,illinois state,youngstown state,35,28,1
+2012-10-13,2012,the citadel,western carolina,45,31,1
+2012-10-13,2012,missouri state,south dakota,27,24,1
+2012-10-13,2012,alabama a&m,alcorn state,20,21,0
+2012-10-13,2012,alabama state,jackson state,34,37,0
+2012-10-13,2012,miami,north carolina,14,18,0
+2012-10-13,2012,eastern illinois,jacksonville state,31,28,1
+2012-10-13,2012,southern illinois,northern iowa,34,31,1
+2012-10-13,2012,eastern kentucky,austin peay,45,14,1
+2012-10-13,2012,unlv,nevada,37,42,0
+2012-10-13,2012,virginia,maryland,20,27,0
+2012-10-13,2012,ball state,western michigan,30,24,1
+2012-10-13,2012,ucla,utah,21,14,1
+2012-10-13,2012,mississippi valley state,grambling,45,21,1
+2012-10-13,2012,samford,appalachian state,25,28,0
+2012-10-13,2012,northern illinois,buffalo,45,3,1
+2012-10-13,2012,kansas,oklahoma state,14,20,0
+2012-10-13,2012,rice,ut san antonio,34,14,1
+2012-10-13,2012,bowling green,miami (oh),37,12,1
+2012-10-13,2012,texas tech,west virginia,49,14,1
+2012-10-13,2012,boise state,fresno state,20,10,1
+2012-10-13,2012,missouri,alabama,10,42,0
+2012-10-13,2012,byu,oregon state,24,42,0
+2012-10-13,2012,michigan,illinois,45,0,1
+2012-10-13,2012,notre dame,stanford,20,13,1
+2012-10-13,2012,harvard,bucknell,35,7,1
+2012-10-13,2012,james madison,william & mary,27,26,1
+2012-10-13,2012,old dominion,villanova,14,38,0
+2012-10-13,2012,san josé state,utah state,27,49,0
+2012-10-13,2012,murray state,ut martin,59,66,0
+2012-10-13,2012,north dakota state,indiana state,14,17,0
+2012-10-13,2012,southeastern louisiana,northwestern state,27,22,1
+2012-10-13,2012,east carolina,memphis,41,7,1
+2012-10-13,2012,san diego,campbell,44,0,1
+2012-10-13,2012,florida state,boston college,51,7,1
+2012-10-13,2012,georgia southern,wofford,17,9,1
+2012-10-13,2012,vanderbilt,florida,17,31,0
+2012-10-13,2012,florida international,middle tennessee,30,34,0
+2012-10-13,2012,southern,texas southern,34,7,1
+2012-10-13,2012,san diego state,colorado state,38,14,1
+2012-10-13,2012,south dakota state,western illinois,31,10,1
+2012-10-13,2012,baylor,tcu,21,49,0
+2012-10-13,2012,towson,maine,24,19,1
+2012-10-13,2012,nicholls,sam houston state,0,41,0
+2012-10-13,2012,wyoming,air force,27,28,0
+2012-10-13,2012,southeast missouri state,tennessee state,28,40,0
+2012-10-13,2012,arkansas state,south alabama,36,29,1
+2012-10-13,2012,texas state,idaho,38,7,1
+2012-10-13,2012,arkansas,kentucky,49,7,1
+2012-10-13,2012,washington,usc,14,24,0
+2012-10-13,2012,cincinnati,fordham,49,17,1
+2012-10-14,2012,lamar,mcmurry,52,21,1
+2012-10-14,2012,ucf,southern mississippi,38,31,1
+2012-10-14,2012,indiana,ohio state,49,52,0
+2012-10-14,2012,mcneese,central arkansas,26,27,0
+2012-10-14,2012,lsu,south carolina,23,21,1
+2012-10-14,2012,louisiana monroe,florida atlantic,35,14,1
+2012-10-14,2012,mississippi state,tennessee,41,31,1
+2012-10-14,2012,louisiana tech,texas a&m,57,59,0
+2012-10-14,2012,washington state,california,17,31,0
+2012-10-14,2012,hawai'i,new mexico,23,35,0
+2012-10-17,2012,north texas,louisiana,30,23,1
+2012-10-18,2012,north carolina central,hampton,37,20,1
+2012-10-19,2012,smu,houston,72,42,1
+2012-10-19,2012,arizona state,oregon,21,43,0
+2012-10-20,2012,syracuse,connecticut,40,10,1
+2012-10-20,2012,akron,northern illinois,7,37,0
+2012-10-20,2012,clemson,virginia tech,38,17,1
+2012-10-20,2012,texas a&m,lsu,19,24,0
+2012-10-20,2012,maine,new hampshire,21,28,0
+2012-10-20,2012,temple,rutgers,10,35,0
+2012-10-20,2012,oklahoma state,iowa state,31,10,1
+2012-10-20,2012,umass,bowling green,0,24,0
+2012-10-20,2012,jacksonville state,tennessee state,31,28,1
+2012-10-20,2012,st francis (pa),wagner,24,31,0
+2012-10-20,2012,ohio state,purdue,29,22,1
+2012-10-20,2012,yale,pennsylvania,27,13,1
+2012-10-20,2012,wisconsin,minnesota,38,13,1
+2012-10-20,2012,duquesne,sacred heart,35,3,1
+2012-10-20,2012,robert morris,central connecticut,37,31,1
+2012-10-20,2012,vanderbilt,auburn,17,13,1
+2012-10-20,2012,lehigh,bucknell,42,19,1
+2012-10-20,2012,virginia,wake forest,10,16,0
+2012-10-20,2012,brown,cornell,21,14,1
+2012-10-20,2012,monmouth,bryant,24,27,0
+2012-10-20,2012,troy,florida international,38,37,1
+2012-10-20,2012,howard,morgan state,21,20,1
+2012-10-20,2012,eastern michigan,army,48,38,1
+2012-10-20,2012,colgate,georgetown,57,36,1
+2012-10-20,2012,princeton,harvard,39,34,1
+2012-10-20,2012,dayton,valparaiso,45,0,1
+2012-10-20,2012,jacksonville,san diego,7,24,0
+2012-10-20,2012,lafayette,holy cross,30,13,1
+2012-10-20,2012,columbia,dartmouth,16,21,0
+2012-10-20,2012,furman,georgia southern,17,38,0
+2012-10-20,2012,delaware state,north carolina a&t,24,0,1
+2012-10-20,2012,illinois state,missouri state,17,24,0
+2012-10-20,2012,ut san antonio,san josé state,24,52,0
+2012-10-20,2012,savannah state,edward waters,42,35,1
+2012-10-20,2012,southeast missouri state,ut martin,17,27,0
+2012-10-20,2012,drake,marist,34,27,1
+2012-10-20,2012,grambling,virginia lynchburg,22,7,1
+2012-10-20,2012,utah state,new mexico state,41,7,1
+2012-10-20,2012,california,stanford,3,21,0
+2012-10-20,2012,georgia tech,boston college,37,17,1
+2012-10-20,2012,elon,western carolina,42,31,1
+2012-10-20,2012,kent state,western michigan,41,24,1
+2012-10-20,2012,florida,south carolina,44,11,1
+2012-10-20,2012,notre dame,byu,17,14,1
+2012-10-20,2012,appalachian state,wofford,28,38,0
+2012-10-20,2012,delaware,rhode island,47,24,1
+2012-10-20,2012,navy,indiana,31,30,1
+2012-10-20,2012,tcu,texas tech,53,56,0
+2012-10-20,2012,georgia state,villanova,24,49,0
+2012-10-20,2012,prairie view,alcorn state,52,37,1
+2012-10-20,2012,richmond,james madison,35,29,1
+2012-10-20,2012,louisville,south florida,27,25,1
+2012-10-20,2012,boise state,unlv,32,7,1
+2012-10-20,2012,south alabama,florida atlantic,37,34,1
+2012-10-20,2012,northwestern,nebraska,28,29,0
+2012-10-20,2012,maryland,nc state,18,20,0
+2012-10-20,2012,michigan,michigan state,12,10,1
+2012-10-20,2012,tulsa,rice,28,24,1
+2012-10-20,2012,buffalo,pittsburgh,6,20,0
+2012-10-20,2012,central michigan,ball state,30,41,0
+2012-10-20,2012,jackson state,mississippi valley state,14,7,1
+2012-10-20,2012,stephen f. austin,nicholls,44,10,1
+2012-10-20,2012,bethune-cookman,norfolk state,48,3,1
+2012-10-20,2012,western kentucky,louisiana monroe,42,43,0
+2012-10-20,2012,youngstown state,southern illinois,21,38,0
+2012-10-20,2012,northern iowa,south dakota state,27,6,1
+2012-10-20,2012,usc,colorado,50,6,1
+2012-10-20,2012,campbell,davidson,21,28,0
+2012-10-20,2012,butler,morehead state,39,35,1
+2012-10-20,2012,chattanooga,samford,20,13,1
+2012-10-20,2012,florida a&m,south carolina state,20,27,0
+2012-10-20,2012,west virginia,kansas state,14,55,0
+2012-10-20,2012,tennessee,alabama,13,44,0
+2012-10-20,2012,oklahoma,kansas,52,7,1
+2012-10-20,2012,duke,north carolina,33,30,1
+2012-10-20,2012,air force,new mexico,28,23,1
+2012-10-20,2012,mississippi state,middle tennessee,45,3,1
+2012-10-20,2012,uab,east carolina,35,42,0
+2012-10-20,2012,kentucky,georgia,24,29,0
+2012-10-20,2012,toledo,cincinnati,29,23,1
+2012-10-20,2012,louisiana tech,idaho,70,28,1
+2012-10-20,2012,southern mississippi,marshall,24,59,0
+2012-10-20,2012,south dakota,north dakota state,0,54,0
+2012-10-20,2012,western illinois,indiana state,7,23,0
+2012-10-20,2012,central arkansas,lamar,24,14,1
+2012-10-20,2012,towson,old dominion,20,31,0
+2012-10-20,2012,southern,arkansas-pine bluff,21,50,0
+2012-10-21,2012,sam houston state,mcneese,45,10,1
+2012-10-21,2012,texas,baylor,56,50,1
+2012-10-21,2012,memphis,ucf,17,35,0
+2012-10-21,2012,miami,florida state,20,33,0
+2012-10-21,2012,tennessee tech,eastern kentucky,28,42,0
+2012-10-21,2012,utep,tulane,24,20,1
+2012-10-21,2012,iowa,penn state,14,38,0
+2012-10-21,2012,arizona,washington,52,17,1
+2012-10-21,2012,fresno state,wyoming,42,14,1
+2012-10-21,2012,oregon state,utah,21,7,1
+2012-10-21,2012,nevada,san diego state,38,39,0
+2012-10-24,2012,louisiana,arkansas state,27,50,0
+2012-10-25,2012,wake forest,clemson,13,42,0
+2012-10-25,2012,morgan state,delaware state,23,28,0
+2012-10-27,2012,louisville,cincinnati,34,31,1
+2012-10-27,2012,air force,nevada,48,31,1
+2012-10-27,2012,pittsburgh,temple,47,17,1
+2012-10-27,2012,davidson,butler,20,31,0
+2012-10-27,2012,rhode island,new hampshire,20,40,0
+2012-10-27,2012,kansas,texas,17,21,0
+2012-10-27,2012,eastern kentucky,eastern illinois,7,24,0
+2012-10-27,2012,army,ball state,22,30,0
+2012-10-27,2012,illinois,indiana,17,31,0
+2012-10-27,2012,western michigan,northern illinois,34,48,0
+2012-10-27,2012,northwestern,iowa,28,17,1
+2012-10-27,2012,south carolina,tennessee,38,35,1
+2012-10-27,2012,missouri,kentucky,33,10,1
+2012-10-27,2012,old dominion,delaware,31,26,1
+2012-10-27,2012,arkansas,ole miss,27,30,0
+2012-10-27,2012,north carolina,nc state,43,35,1
+2012-10-27,2012,cornell,princeton,37,35,1
+2012-10-27,2012,columbia,yale,26,22,1
+2012-10-27,2012,pennsylvania,brown,20,17,1
+2012-10-27,2012,boston college,maryland,20,17,1
+2012-10-27,2012,rice,southern mississippi,44,17,1
+2012-10-27,2012,bucknell,colgate,33,47,0
+2012-10-27,2012,holy cross,fordham,32,36,0
+2012-10-27,2012,morehead state,campbell,70,28,1
+2012-10-27,2012,north carolina a&t,norfolk state,30,9,1
+2012-10-27,2012,wofford,the citadel,24,21,1
+2012-10-27,2012,south carolina state,howard,41,23,1
+2012-10-27,2012,ut san antonio,utah state,17,48,0
+2012-10-27,2012,hampton,savannah state,21,13,1
+2012-10-27,2012,valparaiso,marist,7,44,0
+2012-10-27,2012,tennessee state,tennessee tech,22,21,1
+2012-10-27,2012,indiana state,south dakota,45,14,1
+2012-10-27,2012,missouri state,western illinois,42,3,1
+2012-10-27,2012,georgia tech,byu,17,41,0
+2012-10-27,2012,elon,furman,17,31,0
+2012-10-27,2012,south dakota state,youngstown state,41,28,1
+2012-10-27,2012,arizona state,ucla,43,45,0
+2012-10-27,2012,smu,memphis,44,13,1
+2012-10-27,2012,oregon,colorado,70,14,1
+2012-10-27,2012,minnesota,purdue,44,28,1
+2012-10-27,2012,east carolina,navy,28,56,0
+2012-10-27,2012,alabama a&m,alabama state,13,31,0
+2012-10-27,2012,north dakota state,southern illinois,23,17,1
+2012-10-27,2012,new mexico,fresno state,32,49,0
+2012-10-27,2012,bowling green,eastern michigan,24,3,1
+2012-10-27,2012,oklahoma state,tcu,36,14,1
+2012-10-27,2012,tulane,uab,55,45,1
+2012-10-27,2012,middle tennessee,north texas,38,21,1
+2012-10-27,2012,buffalo,toledo,20,25,0
+2012-10-27,2012,villanova,towson,35,49,0
+2012-10-27,2012,central michigan,akron,35,14,1
+2012-10-27,2012,wisconsin,michigan state,13,16,0
+2012-10-27,2012,kansas state,texas tech,55,24,1
+2012-10-27,2012,arizona,usc,39,36,1
+2012-10-27,2012,miami (oh),ohio,23,20,1
+2012-10-27,2012,rutgers,kent state,23,35,0
+2012-10-27,2012,wyoming,boise state,14,45,0
+2012-10-27,2012,arkansas-pine bluff,mississippi valley state,10,0,1
+2012-10-27,2012,western carolina,appalachian state,27,38,0
+2012-10-27,2012,james madison,georgia state,28,21,1
+2012-10-27,2012,william & mary,maine,10,24,0
+2012-10-27,2012,georgia,florida,17,9,1
+2012-10-27,2012,florida state,duke,48,7,1
+2012-10-27,2012,lamar,sam houston state,7,56,0
+2012-10-27,2012,san josé state,texas state,31,20,1
+2012-10-27,2012,jacksonville state,murray state,38,35,1
+2012-10-27,2012,bethune-cookman,north carolina central,42,17,1
+2012-10-27,2012,houston,utep,45,35,1
+2012-10-27,2012,prairie view,southern,49,29,1
+2012-10-27,2012,northern iowa,illinois state,21,33,0
+2012-10-27,2012,austin peay,southeast missouri state,27,48,0
+2012-10-27,2012,dartmouth,harvard,14,31,0
+2012-10-27,2012,texas southern,grambling,23,20,1
+2012-10-27,2012,florida atlantic,troy,34,27,1
+2012-10-27,2012,penn state,ohio state,23,35,0
+2012-10-27,2012,chattanooga,georgia southern,31,39,0
+2012-10-27,2012,florida international,western kentucky,6,14,0
+2012-10-27,2012,lafayette,georgetown,17,20,0
+2012-10-27,2012,stanford,washington state,24,17,1
+2012-10-27,2012,colorado state,hawai'i,42,27,1
+2012-10-27,2012,auburn,texas a&m,21,63,0
+2012-10-27,2012,vanderbilt,umass,49,7,1
+2012-10-27,2012,northwestern state,nicholls,27,26,1
+2012-10-27,2012,south florida,syracuse,36,37,0
+2012-10-27,2012,iowa state,baylor,35,21,1
+2012-10-27,2012,louisiana monroe,south alabama,38,24,1
+2012-10-28,2012,san diego state,unlv,24,13,1
+2012-10-28,2012,new mexico state,louisiana tech,14,28,0
+2012-10-28,2012,oklahoma,notre dame,13,30,0
+2012-10-28,2012,mcneese,stephen f. austin,35,24,1
+2012-10-28,2012,southeastern louisiana,central arkansas,14,34,0
+2012-10-28,2012,marshall,ucf,17,54,0
+2012-10-28,2012,nebraska,michigan,23,9,1
+2012-10-28,2012,alabama,mississippi state,38,7,1
+2012-10-28,2012,san diego,dayton,41,9,1
+2012-10-28,2012,utah,california,49,27,1
+2012-10-28,2012,washington,oregon state,20,17,1
+2012-11-01,2012,ohio,eastern michigan,45,14,1
+2012-11-01,2012,miami,virginia tech,30,12,1
+2012-11-02,2012,western kentucky,middle tennessee,29,34,0
+2012-11-03,2012,california,washington,13,21,0
+2012-11-03,2012,murray state,tennessee state,49,28,1
+2012-11-03,2012,tennessee,troy,55,48,1
+2012-11-03,2012,new hampshire,william & mary,28,25,1
+2012-11-03,2012,louisville,temple,45,17,1
+2012-11-03,2012,army,air force,41,21,1
+2012-11-03,2012,florida,missouri,14,7,1
+2012-11-03,2012,mississippi state,texas a&m,13,38,0
+2012-11-03,2012,kentucky,vanderbilt,0,40,0
+2012-11-03,2012,east carolina,houston,48,28,1
+2012-11-03,2012,minnesota,michigan,13,35,0
+2012-11-03,2012,iowa state,oklahoma,20,35,0
+2012-11-03,2012,buffalo,miami (oh),27,24,1
+2012-11-03,2012,delaware,towson,27,34,0
+2012-11-03,2012,butler,jacksonville,19,16,1
+2012-11-03,2012,cincinnati,syracuse,35,24,1
+2012-11-03,2012,arkansas,tulsa,19,15,1
+2012-11-03,2012,holy cross,lehigh,35,36,0
+2012-11-03,2012,maryland,georgia tech,13,33,0
+2012-11-03,2012,cornell,dartmouth,28,44,0
+2012-11-03,2012,auburn,new mexico state,42,7,1
+2012-11-03,2012,brown,yale,20,0,1
+2012-11-03,2012,nc state,virginia,6,33,0
+2012-11-03,2012,princeton,pennsylvania,21,28,0
+2012-11-03,2012,bryant,sacred heart,34,14,1
+2012-11-03,2012,bucknell,fordham,27,24,1
+2012-11-03,2012,colgate,lafayette,65,41,1
+2012-11-03,2012,central michigan,western michigan,31,42,0
+2012-11-03,2012,ut martin,jacksonville state,49,47,1
+2012-11-03,2012,albany,wagner,0,30,0
+2012-11-03,2012,morgan state,bethune-cookman,13,24,0
+2012-11-03,2012,morehead state,davidson,49,14,1
+2012-11-03,2012,dayton,drake,28,13,1
+2012-11-03,2012,campbell,valparaiso,21,41,0
+2012-11-03,2012,howard,hampton,20,10,1
+2012-11-03,2012,harvard,columbia,69,0,1
+2012-11-03,2012,north carolina a&t,florida a&m,16,3,1
+2012-11-03,2012,the citadel,elon,38,24,1
+2012-11-03,2012,norfolk state,savannah state,33,21,1
+2012-11-03,2012,north carolina central,delaware state,23,20,1
+2012-11-03,2012,georgia southern,appalachian state,28,31,0
+2012-11-03,2012,prairie view,alabama state,21,35,0
+2012-11-03,2012,mississippi valley state,alcorn state,33,9,1
+2012-11-03,2012,alabama a&m,southern,24,23,1
+2012-11-03,2012,kent state,akron,35,24,1
+2012-11-03,2012,marshall,memphis,38,28,1
+2012-11-03,2012,colorado,stanford,0,48,0
+2012-11-03,2012,western illinois,northern iowa,0,40,0
+2012-11-03,2012,missouri state,north dakota state,17,21,0
+2012-11-03,2012,southeast missouri state,eastern kentucky,7,31,0
+2012-11-03,2012,youngstown state,south dakota,13,10,1
+2012-11-03,2012,austin peay,culver-stockton,56,0,1
+2012-11-03,2012,indiana state,illinois state,10,17,0
+2012-11-03,2012,tennessee tech,eastern illinois,24,31,0
+2012-11-03,2012,texas southern,arkansas-pine bluff,3,49,0
+2012-11-03,2012,sam houston state,southeastern louisiana,70,0,1
+2012-11-03,2012,grambling,jackson state,17,53,0
+2012-11-03,2012,utah,washington state,49,6,1
+2012-11-03,2012,samford,wofford,24,17,1
+2012-11-03,2012,southern illinois,south dakota state,12,16,0
+2012-11-03,2012,west virginia,tcu,38,39,0
+2012-11-03,2012,utah state,texas state,38,7,1
+2012-11-03,2012,robert morris,duquesne,17,13,1
+2012-11-03,2012,georgia state,old dominion,27,53,0
+2012-11-03,2012,maine,james madison,7,31,0
+2012-11-03,2012,purdue,penn state,9,34,0
+2012-11-03,2012,northern illinois,umass,63,0,1
+2012-11-03,2012,tulane,rice,47,49,0
+2012-11-03,2012,navy,florida atlantic,24,17,1
+2012-11-03,2012,georgia,ole miss,37,10,1
+2012-11-03,2012,texas tech,texas,22,31,0
+2012-11-03,2012,notre dame,pittsburgh,29,26,1
+2012-11-03,2012,michigan state,nebraska,24,28,0
+2012-11-03,2012,south alabama,florida international,20,28,0
+2012-11-03,2012,indiana,iowa,24,21,1
+2012-11-03,2012,baylor,kansas,41,14,1
+2012-11-03,2012,wake forest,boston college,28,14,1
+2012-11-03,2012,ohio state,illinois,52,22,1
+2012-11-03,2012,western carolina,chattanooga,24,45,0
+2012-11-03,2012,louisiana tech,ut san antonio,51,27,1
+2012-11-03,2012,louisiana monroe,louisiana,24,40,0
+2012-11-03,2012,unlv,new mexico,35,7,1
+2012-11-03,2012,nicholls,mcneese,10,42,0
+2012-11-03,2012,wyoming,colorado state,45,31,1
+2012-11-03,2012,idaho,san josé state,13,42,0
+2012-11-03,2012,north texas,arkansas state,19,37,0
+2012-11-03,2012,richmond,rhode island,39,0,1
+2012-11-03,2012,fresno state,hawai'i,45,10,1
+2012-11-03,2012,usc,oregon,51,62,0
+2012-11-03,2012,duke,clemson,20,56,0
+2012-11-03,2012,south florida,connecticut,13,6,1
+2012-11-03,2012,ucf,smu,42,17,1
+2012-11-03,2012,southern mississippi,uab,19,27,0
+2012-11-04,2012,kansas state,oklahoma state,44,30,1
+2012-11-04,2012,lsu,alabama,17,21,0
+2012-11-04,2012,central arkansas,northwestern state,35,14,1
+2012-11-04,2012,stephen f. austin,lamar,40,26,1
+2012-11-04,2012,oregon state,arizona state,36,26,1
+2012-11-04,2012,boise state,san diego state,19,21,0
+2012-11-04,2012,ucla,arizona,66,10,1
+2012-11-07,2012,toledo,ball state,27,34,0
+2012-11-08,2012,ohio,bowling green,14,26,0
+2012-11-09,2012,arkansas state,louisiana monroe,45,23,1
+2012-11-09,2012,virginia tech,florida state,22,28,0
+2012-11-10,2012,connecticut,pittsburgh,24,17,1
+2012-11-10,2012,texas,iowa state,33,7,1
+2012-11-10,2012,south carolina,arkansas,38,20,1
+2012-11-10,2012,syracuse,louisville,45,26,1
+2012-11-10,2012,central connecticut,bryant,25,28,0
+2012-11-10,2012,duquesne,albany,31,38,0
+2012-11-10,2012,monmouth,st francis (pa),31,45,0
+2012-11-10,2012,sacred heart,robert morris,17,21,0
+2012-11-10,2012,texas tech,kansas,41,34,1
+2012-11-10,2012,rutgers,army,28,7,1
+2012-11-10,2012,michigan,northwestern,38,31,1
+2012-11-10,2012,indiana,wisconsin,14,62,0
+2012-11-10,2012,temple,cincinnati,10,34,0
+2012-11-10,2012,eastern illinois,southeast missouri state,39,20,1
+2012-11-10,2012,virginia,miami,41,40,1
+2012-11-10,2012,iowa,purdue,24,27,0
+2012-11-10,2012,jacksonville,campbell,40,14,1
+2012-11-10,2012,marist,dayton,17,21,0
+2012-11-10,2012,old dominion,william & mary,41,31,1
+2012-11-10,2012,yale,princeton,7,29,0
+2012-11-10,2012,pennsylvania,harvard,30,21,1
+2012-11-10,2012,tennessee,missouri,48,51,0
+2012-11-10,2012,florida,louisiana,27,20,1
+2012-11-10,2012,columbia,cornell,34,17,1
+2012-11-10,2012,lehigh,colgate,24,35,0
+2012-11-10,2012,north carolina,georgia tech,50,68,0
+2012-11-10,2012,western kentucky,florida atlantic,28,37,0
+2012-11-10,2012,miami (oh),kent state,32,48,0
+2012-11-10,2012,eastern michigan,central michigan,31,34,0
+2012-11-10,2012,delaware state,hampton,35,27,1
+2012-11-10,2012,wagner,holy cross,31,30,1
+2012-11-10,2012,georgetown,bucknell,10,3,1
+2012-11-10,2012,fordham,lafayette,36,27,1
+2012-11-10,2012,eastern kentucky,murray state,55,24,1
+2012-11-10,2012,villanova,james madison,35,20,1
+2012-11-10,2012,norfolk state,morgan state,30,0,1
+2012-11-10,2012,south dakota,northern iowa,21,24,0
+2012-11-10,2012,arizona,colorado,56,31,1
+2012-11-10,2012,north carolina a&t,south carolina state,17,7,1
+2012-11-10,2012,dartmouth,brown,24,28,0
+2012-11-10,2012,elon,samford,15,26,0
+2012-11-10,2012,wofford,chattanooga,16,13,1
+2012-11-10,2012,vmi,the citadel,24,27,0
+2012-11-10,2012,mississippi valley state,prairie view,22,20,1
+2012-11-10,2012,georgia southern,howard,69,26,1
+2012-11-10,2012,maine,georgia state,51,7,1
+2012-11-10,2012,akron,umass,14,22,0
+2012-11-10,2012,valparaiso,davidson,27,28,0
+2012-11-10,2012,drake,butler,45,20,1
+2012-11-10,2012,western illinois,youngstown state,7,31,0
+2012-11-10,2012,tennessee tech,ut martin,45,44,1
+2012-11-10,2012,alcorn state,texas southern,34,24,1
+2012-11-10,2012,florida a&m,north carolina central,22,21,1
+2012-11-10,2012,nc state,wake forest,37,6,1
+2012-11-10,2012,stanford,oregon state,27,23,1
+2012-11-10,2012,usc,arizona state,38,17,1
+2012-11-10,2012,grambling,arkansas-pine bluff,17,24,0
+2012-11-10,2012,appalachian state,furman,33,28,1
+2012-11-10,2012,san diego state,air force,28,9,1
+2012-11-10,2012,buffalo,western michigan,29,24,1
+2012-11-10,2012,illinois,minnesota,3,17,0
+2012-11-10,2012,alabama,texas a&m,24,29,0
+2012-11-10,2012,troy,navy,41,31,1
+2012-11-10,2012,nebraska,penn state,32,23,1
+2012-11-10,2012,oklahoma state,west virginia,55,34,1
+2012-11-10,2012,north dakota state,south dakota state,20,17,1
+2012-11-10,2012,richmond,delaware,23,17,1
+2012-11-10,2012,towson,rhode island,41,10,1
+2012-11-10,2012,oklahoma,baylor,42,34,1
+2012-11-10,2012,new mexico,wyoming,23,28,0
+2012-11-10,2012,clemson,maryland,45,10,1
+2012-11-10,2012,new mexico state,san josé state,7,47,0
+2012-11-10,2012,jacksonville state,austin peay,38,23,1
+2012-11-10,2012,lamar,nicholls,34,24,1
+2012-11-10,2012,northwestern state,sam houston state,17,52,0
+2012-11-10,2012,uab,marshall,38,31,1
+2012-11-10,2012,north texas,south alabama,24,14,1
+2012-11-10,2012,savannah state,bethune-cookman,7,49,0
+2012-11-10,2012,ut san antonio,mcneese,31,24,1
+2012-11-10,2012,jackson state,alabama a&m,35,21,1
+2012-11-10,2012,houston,tulsa,7,41,0
+2012-11-11,2012,ole miss,vanderbilt,26,27,0
+2012-11-11,2012,lsu,mississippi state,37,17,1
+2012-11-11,2012,auburn,georgia,0,38,0
+2012-11-11,2012,tcu,kansas state,10,23,0
+2012-11-11,2012,texas state,louisiana tech,55,62,0
+2012-11-11,2012,hawai'i,boise state,14,49,0
+2012-11-11,2012,smu,southern mississippi,34,6,1
+2012-11-11,2012,utep,ucf,24,31,0
+2012-11-11,2012,colorado state,unlv,33,11,1
+2012-11-11,2012,memphis,tulane,37,23,1
+2012-11-11,2012,southern,alabama state,30,31,0
+2012-11-11,2012,boston college,notre dame,6,21,0
+2012-11-11,2012,southeastern louisiana,stephen f. austin,42,27,1
+2012-11-11,2012,san diego,morehead state,41,28,1
+2012-11-11,2012,byu,idaho,52,13,1
+2012-11-11,2012,washington,utah,34,15,1
+2012-11-11,2012,washington state,ucla,36,44,0
+2012-11-11,2012,california,oregon,17,59,0
+2012-11-11,2012,nevada,fresno state,36,52,0
+2012-11-15,2012,ball state,ohio,52,27,1
+2012-11-15,2012,northern illinois,toledo,31,24,1
+2012-11-16,2012,nicholls,southeastern louisiana,16,35,0
+2012-11-16,2012,virginia,north carolina,13,37,0
+2012-11-17,2012,florida atlantic,florida international,24,34,0
+2012-11-17,2012,air force,hawai'i,21,7,1
+2012-11-17,2012,new hampshire,towson,35,64,0
+2012-11-17,2012,rhode island,maine,6,55,0
+2012-11-17,2012,tulsa,ucf,23,21,1
+2012-11-17,2012,michigan state,northwestern,20,23,0
+2012-11-17,2012,bowling green,kent state,24,31,0
+2012-11-17,2012,michigan,iowa,42,17,1
+2012-11-17,2012,army,temple,32,63,0
+2012-11-17,2012,wagner,duquesne,23,17,1
+2012-11-17,2012,st francis (pa),sacred heart,44,24,1
+2012-11-17,2012,robert morris,monmouth,21,26,0
+2012-11-17,2012,maryland,florida state,14,41,0
+2012-11-17,2012,harvard,yale,34,24,1
+2012-11-17,2012,marshall,houston,44,41,1
+2012-11-17,2012,austin peay,tennessee tech,38,31,1
+2012-11-17,2012,cincinnati,rutgers,3,10,0
+2012-11-17,2012,penn state,indiana,45,22,1
+2012-11-17,2012,mississippi state,arkansas,45,14,1
+2012-11-17,2012,alabama,western carolina,49,0,1
+2012-11-17,2012,brown,columbia,22,6,1
+2012-11-17,2012,cornell,pennsylvania,28,35,0
+2012-11-17,2012,boston college,virginia tech,23,30,0
+2012-11-17,2012,florida,jacksonville state,23,0,1
+2012-11-17,2012,princeton,dartmouth,21,35,0
+2012-11-17,2012,central michigan,miami (oh),30,16,1
+2012-11-17,2012,albany,central connecticut,63,34,1
+2012-11-17,2012,fordham,colgate,39,41,0
+2012-11-17,2012,bucknell,bryant,24,21,1
+2012-11-17,2012,lafayette,lehigh,21,38,0
+2012-11-17,2012,georgetown,holy cross,0,24,0
+2012-11-17,2012,morgan state,hampton,17,27,0
+2012-11-17,2012,howard,delaware state,41,34,1
+2012-11-17,2012,illinois state,north dakota state,20,38,0
+2012-11-17,2012,morehead state,valparaiso,76,24,1
+2012-11-17,2012,davidson,san diego,10,17,0
+2012-11-17,2012,campbell,marist,7,28,0
+2012-11-17,2012,jacksonville,drake,29,32,0
+2012-11-17,2012,south carolina,wofford,24,7,1
+2012-11-17,2012,furman,the citadel,20,42,0
+2012-11-17,2012,georgia,georgia southern,45,14,1
+2012-11-17,2012,south carolina state,savannah state,27,13,1
+2012-11-17,2012,colorado,washington,3,38,0
+2012-11-17,2012,william & mary,richmond,14,21,0
+2012-11-17,2012,auburn,alabama a&m,51,7,1
+2012-11-17,2012,murray state,southeast missouri state,42,35,1
+2012-11-17,2012,north carolina central,north carolina a&t,16,22,0
+2012-11-17,2012,western michigan,eastern michigan,23,29,0
+2012-11-17,2012,uab,memphis,9,46,0
+2012-11-17,2012,chattanooga,elon,24,17,1
+2012-11-17,2012,youngstown state,indiana state,27,6,1
+2012-11-17,2012,florida a&m,bethune-cookman,16,21,0
+2012-11-17,2012,texas southern,mississippi valley state,3,34,0
+2012-11-17,2012,arizona state,washington state,46,7,1
+2012-11-17,2012,miami,south florida,40,9,1
+2012-11-17,2012,ut martin,tennessee state,35,26,1
+2012-11-17,2012,southern illinois,western illinois,35,0,1
+2012-11-17,2012,south dakota state,south dakota,31,8,1
+2012-11-17,2012,umass,buffalo,19,29,0
+2012-11-17,2012,alcorn state,jackson state,11,37,0
+2012-11-17,2012,ucla,usc,38,28,1
+2012-11-17,2012,new mexico,nevada,24,31,0
+2012-11-17,2012,arkansas-pine bluff,prairie view,42,41,1
+2012-11-17,2012,oklahoma state,texas tech,59,21,1
+2012-11-17,2012,wisconsin,ohio state,14,21,0
+2012-11-17,2012,rice,smu,36,14,1
+2012-11-17,2012,texas a&m,sam houston state,47,28,1
+2012-11-17,2012,lsu,ole miss,41,35,1
+2012-11-17,2012,delaware,villanova,10,41,0
+2012-11-17,2012,notre dame,wake forest,38,0,1
+2012-11-17,2012,clemson,nc state,62,48,1
+2012-11-17,2012,nebraska,minnesota,38,14,1
+2012-11-17,2012,boise state,colorado state,42,14,1
+2012-11-17,2012,georgia tech,duke,42,24,1
+2012-11-17,2012,south alabama,middle tennessee,12,20,0
+2012-11-17,2012,navy,texas state,21,10,1
+2012-11-17,2012,troy,arkansas state,34,41,0
+2012-11-17,2012,tulane,east carolina,23,28,0
+2012-11-17,2012,illinois,purdue,17,20,0
+2012-11-17,2012,louisiana tech,utah state,41,48,0
+2012-11-17,2012,stephen f. austin,northwestern state,34,17,1
+2012-11-17,2012,louisiana monroe,north texas,42,16,1
+2012-11-17,2012,unlv,wyoming,23,28,0
+2012-11-17,2012,idaho,ut san antonio,27,34,0
+2012-11-17,2012,northern iowa,missouri state,38,13,1
+2012-11-17,2012,central arkansas,eastern illinois,48,30,1
+2012-11-18,2012,kansas,iowa state,23,51,0
+2012-11-18,2012,james madison,old dominion,28,38,0
+2012-11-18,2012,west virginia,oklahoma,49,50,0
+2012-11-18,2012,louisiana,western kentucky,31,27,1
+2012-11-18,2012,missouri,syracuse,27,31,0
+2012-11-18,2012,vanderbilt,tennessee,41,18,1
+2012-11-18,2012,kentucky,samford,34,3,1
+2012-11-18,2012,mcneese,lamar,35,0,1
+2012-11-18,2012,oregon,stanford,14,17,0
+2012-11-18,2012,baylor,kansas state,52,24,1
+2012-11-18,2012,southern mississippi,utep,33,34,0
+2012-11-18,2012,utah,arizona,24,34,0
+2012-11-18,2012,san josé state,byu,20,14,1
+2012-11-18,2012,oregon state,california,62,14,1
+2012-11-21,2012,toledo,akron,35,23,1
+2012-11-22,2012,alabama state,tuskegee,25,27,0
+2012-11-23,2012,texas,tcu,13,20,0
+2012-11-23,2012,temple,syracuse,20,38,0
+2012-11-23,2012,kent state,ohio,28,6,1
+2012-11-23,2012,iowa,nebraska,7,13,0
+2012-11-23,2012,eastern michigan,northern illinois,7,49,0
+2012-11-23,2012,miami (oh),ball state,24,31,0
+2012-11-23,2012,east carolina,marshall,65,59,1
+2012-11-23,2012,bowling green,buffalo,21,7,1
+2012-11-23,2012,arkansas,lsu,13,20,0
+2012-11-23,2012,umass,central michigan,21,42,0
+2012-11-23,2012,colorado,utah,35,42,0
+2012-11-23,2012,washington state,washington,31,28,1
+2012-11-23,2012,iowa state,west virginia,24,31,0
+2012-11-24,2012,cincinnati,south florida,27,10,1
+2012-11-24,2012,arizona,arizona state,34,41,0
+2012-11-24,2012,ohio state,michigan,26,21,1
+2012-11-24,2012,pittsburgh,rutgers,27,6,1
+2012-11-24,2012,northwestern,illinois,50,14,1
+2012-11-24,2012,wagner,colgate,31,20,1
+2012-11-24,2012,louisville,connecticut,20,23,0
+2012-11-24,2012,smu,tulsa,35,27,1
+2012-11-24,2012,purdue,indiana,56,35,1
+2012-11-24,2012,ucf,uab,49,24,1
+2012-11-24,2012,virginia tech,virginia,17,14,1
+2012-11-24,2012,georgia,georgia tech,42,10,1
+2012-11-24,2012,tennessee,kentucky,37,17,1
+2012-11-24,2012,duke,miami,45,52,0
+2012-11-24,2012,western kentucky,north texas,25,24,1
+2012-11-24,2012,ut san antonio,texas state,38,31,1
+2012-11-24,2012,bethune-cookman,coastal carolina,14,24,0
+2012-11-24,2012,texas tech,baylor,45,52,0
+2012-11-24,2012,southern,grambling,38,33,1
+2012-11-24,2012,oregon state,oregon,24,48,0
+2012-11-24,2012,utah state,idaho,45,9,1
+2012-11-24,2012,south dakota state,eastern illinois,58,10,1
+2012-11-24,2012,north carolina,maryland,45,38,1
+2012-11-24,2012,nc state,boston college,27,10,1
+2012-11-24,2012,stony brook,villanova,20,10,1
+2012-11-24,2012,florida state,florida,26,37,0
+2012-11-24,2012,minnesota,michigan state,10,26,0
+2012-11-24,2012,penn state,wisconsin,24,21,1
+2012-11-24,2012,fresno state,air force,48,15,1
+2012-11-24,2012,wyoming,san diego state,28,42,0
+2012-11-24,2012,houston,tulane,40,17,1
+2012-11-24,2012,middle tennessee,troy,24,21,1
+2012-11-24,2012,alabama,auburn,49,0,1
+2012-11-24,2012,oklahoma,oklahoma state,51,48,1
+2012-11-24,2012,wake forest,vanderbilt,21,55,0
+2012-11-24,2012,new mexico state,byu,14,50,0
+2012-11-24,2012,memphis,southern mississippi,42,24,1
+2012-11-24,2012,louisiana,south alabama,52,30,1
+2012-11-24,2012,florida international,louisiana monroe,17,23,0
+2012-11-24,2012,ucla,stanford,17,35,0
+2012-11-25,2012,colorado state,new mexico,24,20,1
+2012-11-25,2012,ole miss,mississippi state,41,24,1
+2012-11-25,2012,texas a&m,missouri,59,29,1
+2012-11-25,2012,clemson,south carolina,17,27,0
+2012-11-25,2012,utep,rice,24,33,0
+2012-11-25,2012,usc,notre dame,13,22,0
+2012-11-25,2012,san josé state,louisiana tech,52,43,1
+2012-11-25,2012,hawai'i,unlv,48,10,1
+2012-11-30,2012,rutgers,louisville,17,20,0
+2012-12-01,2012,kent state,northern illinois,37,44,0
+2012-12-01,2012,stanford,ucla,27,24,1
+2012-12-01,2012,tcu,oklahoma,17,24,0
+2012-12-01,2012,marist,san diego,10,34,0
+2012-12-01,2012,tulsa,ucf,33,27,1
+2012-12-01,2012,baylor,oklahoma state,41,34,1
+2012-12-01,2012,wofford,new hampshire,23,7,1
+2012-12-01,2012,appalachian state,illinois state,37,38,0
+2012-12-01,2012,georgia southern,central arkansas,24,16,1
+2012-12-01,2012,old dominion,coastal carolina,63,35,1
+2012-12-01,2012,oregon state,nicholls,77,3,1
+2012-12-01,2012,west virginia,kansas,59,10,1
+2012-12-01,2012,arkansas state,middle tennessee,45,0,1
+2012-12-01,2012,florida atlantic,louisiana,21,35,0
+2012-12-01,2012,nevada,boise state,21,27,0
+2012-12-01,2012,connecticut,cincinnati,17,34,0
+2012-12-01,2012,texas state,new mexico state,66,28,1
+2012-12-01,2012,north dakota state,south dakota state,28,3,1
+2012-12-01,2012,sam houston state,cal poly,18,16,1
+2012-12-01,2012,georgia,alabama,28,32,0
+2012-12-01,2012,eastern washington,wagner,29,19,1
+2012-12-02,2012,south florida,pittsburgh,3,27,0
+2012-12-02,2012,kansas state,texas,42,24,1
+2012-12-02,2012,georgia tech,florida state,15,21,0
+2012-12-02,2012,wisconsin,nebraska,70,31,1
+2012-12-02,2012,hawai'i,south alabama,23,7,1
+2012-12-08,2012,army,navy,13,17,0

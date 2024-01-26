@@ -1,0 +1,1438 @@
+data,season,team1,team2,score1,score2,result,spread,spreadOpen,overUnder,overUnderOpen,homeMoneyLine,awayMoneyLine
+2007-08-25,2007,albany state (ga),north carolina central,16,10,1
+2007-08-30,2007,chattanooga,carson-newman,17,29,0
+2007-08-30,2007,cincinnati,southeast missouri state,59,3,1
+2007-08-30,2007,rutgers,buffalo,38,3,1
+2007-08-30,2007,morgan state,savannah state,47,7,1
+2007-08-30,2007,southern illinois,quincy,59,14,1
+2007-08-30,2007,sam houston state,angelo state,17,13,1
+2007-08-30,2007,louisiana monroe,tulsa,17,35,0
+2007-08-30,2007,towson,central connecticut,20,10,1
+2007-08-30,2007,eastern illinois,tennessee tech,45,24,1
+2007-08-30,2007,assumption,sacred heart,20,41,0
+2007-08-30,2007,ball state,miami (oh),13,14,0
+2007-08-30,2007,western illinois,south dakota state,29,26,1
+2007-08-30,2007,louisville,murray state,73,10,1
+2007-08-30,2007,la salle,ursinus,0,28,0
+2007-08-30,2007,william & mary,delaware,31,49,0
+2007-08-30,2007,illinois state,drake,24,27,0
+2007-08-31,2007,samford,west alabama,23,21,1
+2007-08-31,2007,missouri state,missouri s&t,62,17,1
+2007-08-31,2007,mississippi state,lsu,0,45,0
+2007-08-31,2007,new mexico state,southeastern louisiana,35,14,1
+2007-08-31,2007,iowa state,kent state,14,23,0
+2007-08-31,2007,northern iowa,minnesota state,41,14,1
+2007-08-31,2007,utah state,unlv,16,23,0
+2007-08-31,2007,northern arizona,western new mexico,47,0,1
+2007-08-31,2007,boise state,weber state,56,7,1
+2007-08-31,2007,oregon state,utah,24,7,1
+2007-08-31,2007,western connecticut state,wagner,7,20,0
+2007-08-31,2007,temple,navy,19,30,0
+2007-09-01,2007,syracuse,washington,12,42,0
+2007-09-01,2007,eastern washington,montana-western,52,13,1
+2007-09-01,2007,ohio state,youngstown state,38,6,1
+2007-09-01,2007,michigan state,uab,55,18,1
+2007-09-01,2007,colorado,colorado state,31,28,1
+2007-09-01,2007,miami,marshall,31,3,1
+2007-09-01,2007,virginia tech,east carolina,17,7,1
+2007-09-01,2007,northwestern,northeastern,27,0,1
+2007-09-01,2007,michigan,appalachian state,32,34,0
+2007-09-01,2007,penn state,florida international,59,0,1
+2007-09-01,2007,florida,western kentucky,49,3,1
+2007-09-01,2007,iona,delaware valley,14,12,1
+2007-09-01,2007,colgate,albany,13,11,1
+2007-09-01,2007,umass,holy cross,40,30,1
+2007-09-01,2007,valparaiso,st. francis (il),28,21,1
+2007-09-01,2007,robert morris,dayton,12,23,0
+2007-09-01,2007,butler,albion,42,14,1
+2007-09-01,2007,rhode island,fordham,23,27,0
+2007-09-01,2007,the citadel,charleston southern,35,14,1
+2007-09-01,2007,duke,connecticut,14,45,0
+2007-09-01,2007,air force,south carolina state,34,3,1
+2007-09-01,2007,mississippi valley state,arkansas-pine bluff,16,9,1
+2007-09-01,2007,wyoming,virginia,23,3,1
+2007-09-01,2007,uc davis,western washington,21,28,0
+2007-09-01,2007,florida a&m,southern,27,33,0
+2007-09-01,2007,montana,southern utah,37,17,1
+2007-09-01,2007,oregon,houston,48,27,1
+2007-09-01,2007,northern illinois,iowa,3,16,0
+2007-09-01,2007,west virginia,western michigan,62,24,1
+2007-09-01,2007,notre dame,georgia tech,3,33,0
+2007-09-01,2007,boston college,wake forest,38,28,1
+2007-09-01,2007,memphis,ole miss,21,23,0
+2007-09-01,2007,nebraska,nevada,52,10,1
+2007-09-01,2007,illinois,missouri,34,40,0
+2007-09-01,2007,wisconsin,washington state,42,21,1
+2007-09-01,2007,stanford,ucla,17,45,0
+2007-09-01,2007,florida atlantic,middle tennessee,27,14,1
+2007-09-01,2007,bethune-cookman,jacksonville,31,17,1
+2007-09-01,2007,byu,arizona,20,7,1
+2007-09-01,2007,duquesne,bucknell,19,28,0
+2007-09-01,2007,winston-salem,north carolina a&t,28,7,1
+2007-09-01,2007,stony brook,georgetown,35,28,1
+2007-09-01,2007,tcu,baylor,27,0,1
+2007-09-01,2007,kentucky,eastern kentucky,50,10,1
+2007-09-01,2007,nc state,ucf,23,25,0
+2007-09-01,2007,maine,monmouth,21,14,1
+2007-09-01,2007,norfolk state,virginia state,33,7,1
+2007-09-01,2007,pittsburgh,eastern michigan,27,3,1
+2007-09-01,2007,maryland,villanova,31,14,1
+2007-09-01,2007,lafayette,marist,49,10,1
+2007-09-01,2007,north carolina,james madison,37,14,1
+2007-09-01,2007,georgia,oklahoma state,35,14,1
+2007-09-01,2007,delaware state,coastal carolina,23,18,1
+2007-09-01,2007,texas state,cal poly,38,35,1
+2007-09-01,2007,northwestern state,henderson state,41,6,1
+2007-09-01,2007,stephen f. austin,tarleton state,24,27,0
+2007-09-01,2007,louisiana tech,central arkansas,28,7,1
+2007-09-01,2007,austin peay,bethel (tn),43,19,1
+2007-09-01,2007,tennessee state,alabama a&m,23,49,0
+2007-09-01,2007,ohio,gardner-webb,36,14,1
+2007-09-01,2007,toledo,purdue,24,52,0
+2007-09-01,2007,kansas,central michigan,52,7,1
+2007-09-01,2007,furman,presbyterian college,40,16,1
+2007-09-01,2007,vanderbilt,richmond,41,17,1
+2007-09-01,2007,arkansas,troy,46,26,1
+2007-09-01,2007,oklahoma,north texas,79,10,1
+2007-09-01,2007,texas,arkansas state,21,13,1
+2007-09-01,2007,alcorn state,grambling,10,31,0
+2007-09-01,2007,jackson state,delta state,15,27,0
+2007-09-01,2007,wofford,georgetown (ky),38,21,1
+2007-09-01,2007,southern mississippi,ut martin,35,13,1
+2007-09-01,2007,akron,army,22,14,1
+2007-09-01,2007,davidson,unc pembroke,31,21,1
+2007-09-01,2007,south carolina,louisiana,28,14,1
+2007-09-01,2007,south florida,elon,28,13,1
+2007-09-01,2007,texas a&m,montana state,38,7,1
+2007-09-01,2007,alabama,western carolina,52,6,1
+2007-09-01,2007,auburn,kansas state,23,13,1
+2007-09-02,2007,alabama state,jacksonville state,24,19,1
+2007-09-02,2007,indiana,indiana state,55,7,1
+2007-09-02,2007,california,tennessee,45,31,1
+2007-09-02,2007,minnesota,bowling green,31,32,0
+2007-09-02,2007,rice,nicholls,14,16,0
+2007-09-02,2007,texas southern,prairie view,14,34,0
+2007-09-02,2007,mcneese,portland state,35,12,1
+2007-09-02,2007,arizona state,san josé state,45,3,1
+2007-09-02,2007,utep,new mexico,10,6,1
+2007-09-02,2007,azusa pacific,san diego,32,42,0
+2007-09-02,2007,fresno state,sacramento state,24,3,1
+2007-09-02,2007,usc,idaho,38,10,1
+2007-09-02,2007,hawai'i,northern colorado,63,6,1
+2007-09-02,2007,north carolina central,fayetteville state,17,0,1
+2007-09-03,2007,smu,texas tech,9,49,0
+2007-09-04,2007,clemson,florida state,24,18,1
+2007-09-06,2007,ut martin,missouri state,44,51,0
+2007-09-06,2007,louisville,middle tennessee,58,42,1
+2007-09-06,2007,alcorn state,arkansas-pine bluff,3,21,0
+2007-09-06,2007,cincinnati,oregon state,34,3,1
+2007-09-07,2007,tennessee tech,cumberland,45,21,1
+2007-09-07,2007,rutgers,navy,41,24,1
+2007-09-08,2007,marshall,west virginia,23,48,0
+2007-09-08,2007,pittsburgh,grambling,34,10,1
+2007-09-08,2007,central connecticut,merrimack,45,7,1
+2007-09-08,2007,virginia,duke,24,13,1
+2007-09-08,2007,oklahoma,miami,51,13,1
+2007-09-08,2007,minnesota,miami (oh),41,35,1
+2007-09-08,2007,eastern michigan,ball state,16,38,0
+2007-09-08,2007,ohio state,akron,20,2,1
+2007-09-08,2007,purdue,eastern illinois,52,6,1
+2007-09-08,2007,wake forest,nebraska,17,20,0
+2007-09-08,2007,michigan state,bowling green,28,17,1
+2007-09-08,2007,northwestern,nevada,36,31,1
+2007-09-08,2007,northeastern,richmond,14,49,0
+2007-09-08,2007,vanderbilt,alabama,10,24,0
+2007-09-08,2007,sacred heart,la salle,54,14,1
+2007-09-08,2007,iona,wagner,17,14,1
+2007-09-08,2007,clemson,louisiana monroe,49,26,1
+2007-09-08,2007,army,rhode island,14,7,1
+2007-09-08,2007,temple,buffalo,7,42,0
+2007-09-08,2007,vmi,william & mary,16,63,0
+2007-09-08,2007,colgate,umass,17,35,0
+2007-09-08,2007,lehigh,villanova,20,30,0
+2007-09-08,2007,monmouth,robert morris,17,20,0
+2007-09-08,2007,howard,hampton,24,31,0
+2007-09-08,2007,savannah state,johnson c smith,24,10,1
+2007-09-08,2007,dayton,urbana,45,7,1
+2007-09-08,2007,st francis (pa),morehead state,14,21,0
+2007-09-08,2007,hanover,butler,14,44,0
+2007-09-08,2007,presbyterian college,pikeville,58,7,1
+2007-09-08,2007,wingate,davidson,33,30,1
+2007-09-08,2007,georgia tech,samford,69,14,1
+2007-09-08,2007,wyoming,utah state,32,18,1
+2007-09-08,2007,colorado state,california,28,34,0
+2007-09-08,2007,the citadel,webber international,76,0,1
+2007-09-08,2007,trinity international (il),valparaiso,17,13,1
+2007-09-08,2007,boston college,nc state,37,17,1
+2007-09-08,2007,northern colorado,chadron state,0,31,0
+2007-09-08,2007,montana,fort lewis,49,0,1
+2007-09-08,2007,michigan,oregon,7,39,0
+2007-09-08,2007,jacksonville state,chattanooga,33,19,1
+2007-09-08,2007,texas a&m,fresno state,47,45,1
+2007-09-08,2007,appalachian state,lenoir-rhyne,48,7,1
+2007-09-08,2007,james madison,new hampshire,41,24,1
+2007-09-08,2007,washington,boise state,24,10,1
+2007-09-08,2007,morgan state,towson,21,28,0
+2007-09-08,2007,bethune-cookman,south carolina state,13,24,0
+2007-09-08,2007,western kentucky,west virginia tech,87,0,1
+2007-09-08,2007,mississippi valley state,southern,6,23,0
+2007-09-08,2007,idaho,cal poly,20,13,1
+2007-09-08,2007,florida state,uab,34,24,1
+2007-09-08,2007,idaho state,southern oregon,37,11,1
+2007-09-08,2007,prairie view,north carolina a&t,22,7,1
+2007-09-08,2007,georgia,south carolina,12,16,0
+2007-09-08,2007,eastern kentucky,western carolina,45,21,1
+2007-09-08,2007,ole miss,missouri,25,38,0
+2007-09-08,2007,east carolina,north carolina,34,31,1
+2007-09-08,2007,utah,air force,12,20,0
+2007-09-08,2007,youngstown state,south dakota state,23,17,1
+2007-09-08,2007,indiana state,austin peay,17,32,0
+2007-09-08,2007,georgia southern,west georgia,45,21,1
+2007-09-08,2007,elon,wv wesleyan,59,16,1
+2007-09-08,2007,florida a&m,delaware state,7,20,0
+2007-09-08,2007,florida,troy,59,31,1
+2007-09-08,2007,fordham,albany,20,23,0
+2007-09-08,2007,kentucky,kent state,56,20,1
+2007-09-08,2007,bucknell,stony brook,20,48,0
+2007-09-08,2007,north carolina central,st. augustine's,6,0,1
+2007-09-08,2007,gardner-webb,jacksonville,27,6,1
+2007-09-08,2007,penn state,notre dame,31,10,1
+2007-09-08,2007,ucla,byu,27,17,1
+2007-09-08,2007,tennessee state,jackson state,16,13,1
+2007-09-08,2007,tennessee,southern mississippi,39,19,1
+2007-09-08,2007,nicholls,southern arkansas,31,13,1
+2007-09-08,2007,northwestern state,central arkansas,31,28,1
+2007-09-08,2007,sam houston state,arkansas-monticello,48,10,1
+2007-09-08,2007,wofford,charleston southern,52,24,1
+2007-09-08,2007,southeast missouri state,southwest baptist,38,17,1
+2007-09-08,2007,delaware,west chester,41,14,1
+2007-09-08,2007,illinois,western illinois,21,0,1
+2007-09-08,2007,connecticut,maine,38,0,1
+2007-09-08,2007,hofstra,furman,32,17,1
+2007-09-08,2007,iowa state,northern iowa,13,24,0
+2007-09-08,2007,texas tech,utep,45,31,1
+2007-09-08,2007,coastal carolina,winston-salem,28,21,1
+2007-09-08,2007,central michigan,toledo,52,31,1
+2007-09-08,2007,louisiana,ohio,23,31,0
+2007-09-08,2007,washington state,san diego state,45,17,1
+2007-09-08,2007,baylor,rice,42,17,1
+2007-09-08,2007,texas,tcu,34,13,1
+2007-09-08,2007,drake,waldorf,45,14,1
+2007-09-08,2007,texas state,abilene christian,27,45,0
+2007-09-08,2007,florida international,maryland,10,26,0
+2007-09-08,2007,kansas,southeastern louisiana,62,0,1
+2007-09-08,2007,kansas state,san josé state,34,14,1
+2007-09-08,2007,oklahoma state,florida atlantic,42,6,1
+2007-09-08,2007,tulane,mississippi state,17,38,0
+2007-09-08,2007,louisiana tech,hawai'i,44,45,0
+2007-09-08,2007,alabama a&m,clark atlanta,41,10,1
+2007-09-08,2007,illinois state,murray state,43,17,1
+2007-09-08,2007,northern illinois,southern illinois,31,34,0
+2007-09-08,2007,north dakota state,stephen f. austin,28,19,1
+2007-09-09,2007,southern utah,north dakota,10,37,0
+2007-09-09,2007,texas southern,alabama state,10,21,0
+2007-09-09,2007,western michigan,indiana,27,37,0
+2007-09-09,2007,smu,north texas,45,31,1
+2007-09-09,2007,iowa,syracuse,35,0,1
+2007-09-09,2007,auburn,south florida,23,26,0
+2007-09-09,2007,san diego,marist,38,17,1
+2007-09-09,2007,portland state,uc davis,17,26,0
+2007-09-09,2007,lsu,virginia tech,48,7,1
+2007-09-09,2007,new mexico,new mexico state,44,34,1
+2007-09-09,2007,arizona,northern arizona,45,24,1
+2007-09-09,2007,unlv,wisconsin,13,20,0
+2007-09-09,2007,arizona state,colorado,33,14,1
+2007-09-13,2007,jackson state,texas southern,28,7,1
+2007-09-13,2007,maryland,west virginia,14,31,0
+2007-09-14,2007,air force,tcu,20,17,1
+2007-09-14,2007,tennessee tech,concordia (al),55,7,1
+2007-09-14,2007,samford,presbyterian college,34,24,1
+2007-09-15,2007,troy,oklahoma state,41,23,1
+2007-09-15,2007,connecticut,temple,22,17,1
+2007-09-15,2007,indiana,akron,41,24,1
+2007-09-15,2007,michigan state,pittsburgh,17,13,1
+2007-09-15,2007,north carolina,virginia,20,22,0
+2007-09-15,2007,syracuse,illinois,20,41,0
+2007-09-15,2007,miami (oh),cincinnati,10,47,0
+2007-09-15,2007,northern illinois,eastern michigan,19,21,0
+2007-09-15,2007,purdue,central michigan,45,22,1
+2007-09-15,2007,umass,towson,36,13,1
+2007-09-15,2007,wisconsin,the citadel,45,31,1
+2007-09-15,2007,penn state,buffalo,45,24,1
+2007-09-15,2007,northeastern,northwestern state,42,14,1
+2007-09-15,2007,brown,duquesne,28,17,1
+2007-09-15,2007,auburn,mississippi state,14,19,0
+2007-09-15,2007,dartmouth,colgate,28,31,0
+2007-09-15,2007,holy cross,harvard,31,28,1
+2007-09-15,2007,savannah state,bethune-cookman,13,45,0
+2007-09-15,2007,wagner,marist,24,14,1
+2007-09-15,2007,robert morris,st francis (pa),28,14,1
+2007-09-15,2007,iona,sacred heart,34,10,1
+2007-09-15,2007,georgetown,yale,14,28,0
+2007-09-15,2007,florida atlantic,minnesota,42,39,1
+2007-09-15,2007,dayton,central state,40,0,1
+2007-09-15,2007,davidson,lenoir-rhyne,21,20,1
+2007-09-15,2007,georgia,western carolina,45,16,1
+2007-09-15,2007,clemson,furman,38,10,1
+2007-09-15,2007,kalamazoo,valparaiso,24,38,0
+2007-09-15,2007,butler,st. joseph's (in),11,8,1
+2007-09-15,2007,charleston southern,johnson c smith,44,20,1
+2007-09-15,2007,virginia tech,ohio,28,7,1
+2007-09-15,2007,iowa state,iowa,15,13,1
+2007-09-15,2007,wisconsin-platteville,drake,7,20,0
+2007-09-15,2007,north carolina central,elizabeth city state,18,10,1
+2007-09-15,2007,missouri,western michigan,52,24,1
+2007-09-15,2007,rice,texas tech,24,59,0
+2007-09-15,2007,western kentucky,eastern kentucky,26,6,1
+2007-09-15,2007,montana state,utah tech,61,7,1
+2007-09-15,2007,delaware,rhode island,38,9,1
+2007-09-15,2007,florida,tennessee,59,20,1
+2007-09-15,2007,rutgers,norfolk state,59,0,1
+2007-09-15,2007,washington,ohio state,14,33,0
+2007-09-15,2007,oklahoma,utah state,54,3,1
+2007-09-15,2007,ucf,texas,32,35,0
+2007-09-15,2007,appalachian state,northern arizona,34,21,1
+2007-09-15,2007,michigan,notre dame,38,0,1
+2007-09-15,2007,wake forest,army,21,10,1
+2007-09-15,2007,miami,florida international,23,9,1
+2007-09-15,2007,morgan state,winston-salem,17,19,0
+2007-09-15,2007,youngstown state,stony brook,42,6,1
+2007-09-15,2007,kent state,delaware state,38,7,1
+2007-09-15,2007,marshall,new hampshire,35,48,0
+2007-09-15,2007,navy,ball state,31,34,0
+2007-09-15,2007,utah,ucla,44,6,1
+2007-09-15,2007,central connecticut,southern connecticut state,56,34,1
+2007-09-15,2007,north carolina a&t,hampton,14,59,0
+2007-09-15,2007,albany,hofstra,13,28,0
+2007-09-15,2007,villanova,maine,24,17,1
+2007-09-15,2007,princeton,lehigh,21,32,0
+2007-09-15,2007,east carolina,southern mississippi,21,28,0
+2007-09-15,2007,james madison,vmi,45,17,1
+2007-09-15,2007,pennsylvania,lafayette,7,8,0
+2007-09-15,2007,florida a&m,howard,30,17,1
+2007-09-15,2007,fordham,columbia,27,10,1
+2007-09-15,2007,nc state,wofford,38,17,1
+2007-09-15,2007,oregon state,idaho state,61,10,1
+2007-09-15,2007,california,louisiana tech,42,12,1
+2007-09-15,2007,alabama,arkansas,41,38,1
+2007-09-15,2007,southern,prairie view,12,2,1
+2007-09-15,2007,arkansas-pine bluff,alabama state,10,12,0
+2007-09-15,2007,baylor,texas state,34,27,1
+2007-09-15,2007,louisiana,mcneese,17,38,0
+2007-09-15,2007,william & mary,liberty,48,41,1
+2007-09-15,2007,morehead state,west virginia tech,34,7,1
+2007-09-15,2007,southeast missouri state,indiana state,13,10,1
+2007-09-15,2007,oregon,fresno state,52,21,1
+2007-09-15,2007,texas a&m,louisiana monroe,54,14,1
+2007-09-15,2007,south carolina,south carolina state,38,3,1
+2007-09-15,2007,arkansas state,smu,45,28,1
+2007-09-15,2007,kansas,toledo,45,13,1
+2007-09-15,2007,vanderbilt,ole miss,31,17,1
+2007-09-15,2007,tulane,houston,10,34,0
+2007-09-15,2007,eastern illinois,illinois state,21,24,0
+2007-09-15,2007,austin peay,tennessee state,32,33,0
+2007-09-15,2007,murray state,lambuth,48,13,1
+2007-09-15,2007,coastal carolina,georgia southern,34,42,0
+2007-09-15,2007,cornell,bucknell,38,14,1
+2007-09-15,2007,north dakota state,sam houston state,41,38,1
+2007-09-15,2007,central arkansas,ut martin,48,34,1
+2007-09-15,2007,southeastern louisiana,kentucky wesleyan,79,7,1
+2007-09-15,2007,uab,alcorn state,22,0,1
+2007-09-15,2007,western illinois,st. francis (il),69,0,1
+2007-09-15,2007,kansas state,missouri state,61,10,1
+2007-09-15,2007,alabama a&m,mississippi valley state,45,14,1
+2007-09-15,2007,kentucky,louisville,40,34,1
+2007-09-16,2007,memphis,jacksonville state,35,14,1
+2007-09-16,2007,nebraska,usc,31,49,0
+2007-09-16,2007,south dakota state,northern iowa,17,31,0
+2007-09-16,2007,southern utah,southern illinois,10,44,0
+2007-09-16,2007,boise state,wyoming,24,14,1
+2007-09-16,2007,georgia tech,boston college,10,24,0
+2007-09-16,2007,lsu,middle tennessee,44,0,1
+2007-09-16,2007,new mexico state,utep,29,24,1
+2007-09-16,2007,northwestern,duke,14,20,0
+2007-09-16,2007,tulsa,byu,55,47,1
+2007-09-16,2007,nevada,nicholls,52,17,1
+2007-09-16,2007,cal poly,weber state,47,19,1
+2007-09-16,2007,portland state,sacramento state,35,24,1
+2007-09-16,2007,eastern washington,uc davis,41,31,1
+2007-09-16,2007,san diego,northern colorado,49,13,1
+2007-09-16,2007,unlv,hawai'i,14,49,0
+2007-09-16,2007,stanford,san josé state,37,0,1
+2007-09-16,2007,washington state,idaho,45,28,1
+2007-09-16,2007,colorado,florida state,6,16,0
+2007-09-16,2007,arizona,new mexico,27,29,0
+2007-09-16,2007,arizona state,san diego state,34,13,1
+2007-09-20,2007,middle tennessee,western kentucky,17,20,0
+2007-09-20,2007,hampton,morgan state,24,17,1
+2007-09-20,2007,miami,texas a&m,34,17,1
+2007-09-21,2007,tennessee tech,murray state,48,24,1
+2007-09-21,2007,la salle,college of new jersey,12,13,0
+2007-09-22,2007,tulsa,oklahoma,21,62,0
+2007-09-22,2007,akron,kent state,27,20,1
+2007-09-22,2007,new hampshire,dartmouth,52,31,1
+2007-09-22,2007,bowling green,temple,48,35,1
+2007-09-22,2007,indiana,illinois,14,27,0
+2007-09-22,2007,virginia,georgia tech,28,23,1
+2007-09-22,2007,west virginia,east carolina,48,7,1
+2007-09-22,2007,louisville,syracuse,35,38,0
+2007-09-22,2007,south florida,north carolina,37,10,1
+2007-09-22,2007,nc state,clemson,20,42,0
+2007-09-22,2007,jacksonville,unc pembroke,55,10,1
+2007-09-22,2007,yale,cornell,51,12,1
+2007-09-22,2007,nebraska,ball state,41,40,1
+2007-09-22,2007,ole miss,florida,24,30,0
+2007-09-22,2007,columbia,marist,31,7,1
+2007-09-22,2007,fordham,dayton,24,31,0
+2007-09-22,2007,morehead state,robert morris,8,9,0
+2007-09-22,2007,butler,missouri s&t,28,21,1
+2007-09-22,2007,lehigh,vmi,37,6,1
+2007-09-22,2007,sacred heart,duquesne,23,30,0
+2007-09-22,2007,rhodes,hofstra,24,37,0
+2007-09-22,2007,bucknell,richmond,14,45,0
+2007-09-22,2007,rhode island,hofstra,24,37,0
+2007-09-22,2007,navy,duke,46,43,1
+2007-09-22,2007,boston college,army,37,17,1
+2007-09-22,2007,nicholls,azusa pacific,30,28,1
+2007-09-22,2007,virginia tech,william & mary,44,3,1
+2007-09-22,2007,elon,liberty,42,14,1
+2007-09-22,2007,marian,valparaiso,13,21,0
+2007-09-22,2007,missouri,illinois state,38,17,1
+2007-09-22,2007,maine,umass,7,38,0
+2007-09-22,2007,southern illinois,arkansas-pine bluff,58,3,1
+2007-09-22,2007,jacksonville state,eastern kentucky,20,31,0
+2007-09-22,2007,wofford,appalachian state,42,31,1
+2007-09-22,2007,ohio,wyoming,33,34,0
+2007-09-22,2007,montana,albany,35,14,1
+2007-09-22,2007,byu,air force,31,6,1
+2007-09-22,2007,wake forest,maryland,31,24,1
+2007-09-22,2007,michigan,penn state,14,9,1
+2007-09-22,2007,eastern michigan,howard,38,15,1
+2007-09-22,2007,lsu,south carolina,28,16,1
+2007-09-22,2007,ohio state,northwestern,58,7,1
+2007-09-22,2007,central michigan,north dakota state,14,44,0
+2007-09-22,2007,colorado,miami (oh),42,0,1
+2007-09-22,2007,weber state,montana state,5,21,0
+2007-09-22,2007,ucf,memphis,56,20,1
+2007-09-22,2007,oklahoma state,texas tech,49,45,1
+2007-09-22,2007,notre dame,michigan state,14,31,0
+2007-09-22,2007,norfolk state,bethune-cookman,38,31,1
+2007-09-22,2007,youngstown state,lock haven,35,3,1
+2007-09-22,2007,uc davis,northeastern,28,10,1
+2007-09-22,2007,houston,colorado state,38,27,1
+2007-09-22,2007,idaho,northern illinois,35,42,0
+2007-09-22,2007,mississippi valley state,jackson state,16,50,0
+2007-09-22,2007,drake,northern iowa,7,45,0
+2007-09-22,2007,idaho state,eastern washington,7,34,0
+2007-09-22,2007,south carolina state,winston-salem,20,7,1
+2007-09-22,2007,arkansas,kentucky,29,42,0
+2007-09-22,2007,villanova,pennsylvania,34,14,1
+2007-09-22,2007,buffalo,baylor,21,34,0
+2007-09-22,2007,indiana state,eastern illinois,20,54,0
+2007-09-22,2007,western carolina,presbyterian college,33,20,1
+2007-09-22,2007,california,arizona,45,27,1
+2007-09-22,2007,james madison,coastal carolina,45,10,1
+2007-09-22,2007,lafayette,princeton,14,20,0
+2007-09-22,2007,stony brook,monmouth,21,15,1
+2007-09-22,2007,northern arizona,northern colorado,34,14,1
+2007-09-22,2007,north carolina a&t,north carolina central,22,27,0
+2007-09-22,2007,san diego state,portland state,52,17,1
+2007-09-22,2007,north texas,florida atlantic,20,30,0
+2007-09-22,2007,auburn,new mexico state,55,20,1
+2007-09-22,2007,pittsburgh,connecticut,14,34,0
+2007-09-22,2007,louisiana,troy,31,48,0
+2007-09-22,2007,kansas,florida international,55,3,1
+2007-09-22,2007,tennessee,arkansas state,48,27,1
+2007-09-22,2007,western michigan,central connecticut,51,14,1
+2007-09-22,2007,mississippi state,gardner-webb,31,15,1
+2007-09-22,2007,stephen f. austin,western illinois,13,34,0
+2007-09-22,2007,texas,rice,58,14,1
+2007-09-22,2007,austin peay,ut martin,17,14,1
+2007-09-22,2007,towson,delaware,7,27,0
+2007-09-22,2007,western connecticut state,iona,41,37,1
+2007-09-22,2007,grambling,alabama a&m,31,6,1
+2007-09-22,2007,samford,southeast missouri state,26,21,1
+2007-09-22,2007,southern,tennessee state,41,34,1
+2007-09-22,2007,georgia southern,chattanooga,38,45,0
+2007-09-22,2007,missouri state,central arkansas,42,38,1
+2007-09-22,2007,toledo,iowa state,36,35,1
+2007-09-22,2007,cincinnati,marshall,40,14,1
+2007-09-22,2007,harvard,brown,24,17,1
+2007-09-22,2007,alabama,georgia,23,26,0
+2007-09-23,2007,alabama state,alcorn state,28,25,1
+2007-09-23,2007,new mexico,sacramento state,58,0,1
+2007-09-23,2007,usc,washington state,47,14,1
+2007-09-23,2007,wisconsin,iowa,17,13,1
+2007-09-23,2007,south dakota state,texas state,38,3,1
+2007-09-23,2007,utah state,san josé state,20,23,0
+2007-09-23,2007,tulane,southeastern louisiana,35,27,1
+2007-09-23,2007,southern utah,mcneese,20,41,0
+2007-09-23,2007,tcu,smu,21,7,1
+2007-09-23,2007,minnesota,purdue,31,45,0
+2007-09-23,2007,utep,texas southern,52,12,1
+2007-09-23,2007,cal poly,western oregon,24,17,1
+2007-09-23,2007,unlv,utah,27,0,1
+2007-09-23,2007,arizona state,oregon state,44,32,1
+2007-09-23,2007,stanford,oregon,31,55,0
+2007-09-23,2007,ucla,washington,44,31,1
+2007-09-23,2007,hawai'i,charleston southern,66,10,1
+2007-09-27,2007,ut martin,tennessee tech,10,13,0
+2007-09-27,2007,arkansas state,memphis,35,31,1
+2007-09-27,2007,boise state,southern mississippi,38,16,1
+2007-09-27,2007,north carolina a&t,norfolk state,20,50,0
+2007-09-29,2007,south florida,west virginia,21,13,1
+2007-09-29,2007,tulane,lsu,9,34,0
+2007-09-29,2007,indiana state,southern illinois,10,72,0
+2007-09-29,2007,illinois,penn state,27,20,1
+2007-09-29,2007,connecticut,akron,44,10,1
+2007-09-29,2007,army,temple,37,21,1
+2007-09-29,2007,ball state,buffalo,49,14,1
+2007-09-29,2007,central michigan,northern illinois,35,10,1
+2007-09-29,2007,miami,duke,24,14,1
+2007-09-29,2007,purdue,notre dame,33,19,1
+2007-09-29,2007,virginia tech,north carolina,17,10,1
+2007-09-29,2007,northwestern,michigan,16,28,0
+2007-09-29,2007,james madison,villanova,35,7,1
+2007-09-29,2007,jacksonville,davidson,10,20,0
+2007-09-29,2007,holy cross,yale,17,38,0
+2007-09-29,2007,iowa,indiana,20,38,0
+2007-09-29,2007,south carolina,mississippi state,38,21,1
+2007-09-29,2007,texas a&m,baylor,34,10,1
+2007-09-29,2007,dartmouth,pennsylvania,21,13,1
+2007-09-29,2007,brown,rhode island,42,49,0
+2007-09-29,2007,william & mary,towson,27,22,1
+2007-09-29,2007,morehead state,dayton,42,35,1
+2007-09-29,2007,robert morris,vmi,13,40,0
+2007-09-29,2007,duquesne,frostburg state,37,10,1
+2007-09-29,2007,lehigh,harvard,20,13,1
+2007-09-29,2007,butler,san diego,9,56,0
+2007-09-29,2007,hampton,delaware state,17,24,0
+2007-09-29,2007,wagner,sacred heart,18,15,1
+2007-09-29,2007,howard,winston-salem,24,21,1
+2007-09-29,2007,kentucky,florida atlantic,45,17,1
+2007-09-29,2007,boston college,umass,24,14,1
+2007-09-29,2007,navy,air force,31,20,1
+2007-09-29,2007,georgia,ole miss,45,17,1
+2007-09-29,2007,elon,appalachian state,32,49,0
+2007-09-29,2007,colorado,oklahoma,27,24,1
+2007-09-29,2007,north carolina central,presbyterian college,27,34,0
+2007-09-29,2007,drake,valparaiso,48,20,1
+2007-09-29,2007,georgetown,cornell,7,45,0
+2007-09-29,2007,western illinois,north dakota state,28,41,0
+2007-09-29,2007,nebraska,iowa state,35,17,1
+2007-09-29,2007,illinois state,northern iowa,13,23,0
+2007-09-29,2007,florida a&m,tennessee state,18,17,1
+2007-09-29,2007,ohio,kent state,25,33,0
+2007-09-29,2007,eastern kentucky,samford,43,20,1
+2007-09-29,2007,south dakota state,stephen f. austin,45,0,1
+2007-09-29,2007,utah,utah state,34,18,1
+2007-09-29,2007,miami (oh),syracuse,17,14,1
+2007-09-29,2007,montana,weber state,18,10,1
+2007-09-29,2007,richmond,new hampshire,45,38,1
+2007-09-29,2007,princeton,columbia,42,32,1
+2007-09-29,2007,georgia southern,western carolina,50,21,1
+2007-09-29,2007,alabama state,southern,2,21,0
+2007-09-29,2007,wisconsin,michigan state,37,34,1
+2007-09-29,2007,oregon,california,24,31,0
+2007-09-29,2007,texas,kansas state,21,41,0
+2007-09-29,2007,nc state,louisville,10,29,0
+2007-09-29,2007,rutgers,maryland,24,34,0
+2007-09-29,2007,georgia tech,clemson,13,3,1
+2007-09-29,2007,montana state,idaho state,40,20,1
+2007-09-29,2007,alabama a&m,texas southern,48,24,1
+2007-09-29,2007,bethune-cookman,morgan state,9,33,0
+2007-09-29,2007,geneva college,la salle,29,7,1
+2007-09-29,2007,san josé state,uc davis,34,14,1
+2007-09-29,2007,murray state,jacksonville state,24,40,0
+2007-09-29,2007,nevada,unlv,27,20,1
+2007-09-29,2007,smu,utep,45,48,0
+2007-09-29,2007,idaho,hawai'i,20,48,0
+2007-09-29,2007,fort valley state,savannah state,33,2,1
+2007-09-29,2007,florida state,alabama,21,14,1
+2007-09-29,2007,sacramento state,northern arizona,38,9,1
+2007-09-29,2007,chattanooga,the citadel,16,41,0
+2007-09-29,2007,furman,wofford,20,45,0
+2007-09-29,2007,bucknell,marist,38,7,1
+2007-09-29,2007,gardner-webb,austin peay,20,13,1
+2007-09-29,2007,youngstown state,missouri state,49,21,1
+2007-09-29,2007,bowling green,western kentucky,41,21,1
+2007-09-29,2007,ucf,louisiana,37,19,1
+2007-09-29,2007,oregon state,ucla,14,40,0
+2007-09-29,2007,north greenville,charleston southern,33,46,0
+2007-09-29,2007,vanderbilt,eastern michigan,30,7,1
+2007-09-29,2007,tulsa,uab,38,30,1
+2007-09-29,2007,virginia,pittsburgh,44,14,1
+2007-09-29,2007,southeast missouri state,eastern illinois,16,31,0
+2007-09-29,2007,houston,east carolina,35,37,0
+2007-09-29,2007,arkansas,north texas,66,7,1
+2007-09-29,2007,middle tennessee,florida international,47,6,1
+2007-09-29,2007,tcu,colorado state,24,12,1
+2007-09-29,2007,texas tech,northwestern state,75,7,1
+2007-09-29,2007,hofstra,stony brook,33,28,1
+2007-09-29,2007,liberty,st francis (pa),68,10,1
+2007-09-29,2007,delaware,monmouth,42,7,1
+2007-09-29,2007,stonehill,iona,10,30,0
+2007-09-29,2007,prairie view,grambling,14,17,0
+2007-09-29,2007,oklahoma state,sam houston state,39,3,1
+2007-09-29,2007,toledo,western michigan,28,42,0
+2007-09-29,2007,troy,louisiana monroe,24,7,1
+2007-09-30,2007,minnesota,ohio state,7,30,0
+2007-09-30,2007,mcneese,south dakota,31,7,1
+2007-09-30,2007,washington,usc,24,27,0
+2007-09-30,2007,florida,auburn,17,20,0
+2007-09-30,2007,new mexico state,arkansas-pine bluff,20,17,1
+2007-09-30,2007,new mexico,byu,24,31,0
+2007-09-30,2007,eastern washington,portland state,21,28,0
+2007-09-30,2007,cal poly,northern colorado,56,21,1
+2007-09-30,2007,fresno state,louisiana tech,17,6,1
+2007-09-30,2007,arizona,washington state,48,20,1
+2007-09-30,2007,san diego state,cincinnati,23,52,0
+2007-09-30,2007,stanford,arizona state,3,41,0
+2007-10-03,2007,memphis,marshall,24,21,1
+2007-10-04,2007,southern mississippi,rice,29,31,0
+2007-10-04,2007,jacksonville state,ut martin,27,24,1
+2007-10-04,2007,south carolina,kentucky,38,23,1
+2007-10-04,2007,delaware state,bethune-cookman,24,10,1
+2007-10-06,2007,louisville,utah,35,44,0
+2007-10-06,2007,michigan,eastern michigan,33,22,1
+2007-10-06,2007,maryland,georgia tech,28,26,1
+2007-10-06,2007,illinois,wisconsin,31,26,1
+2007-10-06,2007,boston college,bowling green,55,24,1
+2007-10-06,2007,syracuse,west virginia,14,55,0
+2007-10-06,2007,ball state,central michigan,38,58,0
+2007-10-06,2007,north carolina,miami,33,27,1
+2007-10-06,2007,kansas state,kansas,24,30,0
+2007-10-06,2007,indiana,minnesota,40,20,1
+2007-10-06,2007,indiana state,western illinois,7,19,0
+2007-10-06,2007,towson,richmond,23,21,1
+2007-10-06,2007,new hampshire,delaware,35,30,1
+2007-10-06,2007,michigan state,northwestern,41,48,0
+2007-10-06,2007,auburn,vanderbilt,35,7,1
+2007-10-06,2007,brown,holy cross,37,48,0
+2007-10-06,2007,northeastern,james madison,14,21,0
+2007-10-06,2007,yale,dartmouth,50,10,1
+2007-10-06,2007,pennsylvania,georgetown,42,13,1
+2007-10-06,2007,cornell,harvard,15,32,0
+2007-10-06,2007,fordham,lehigh,28,18,1
+2007-10-06,2007,robert morris,wagner,13,20,0
+2007-10-06,2007,colgate,bucknell,28,24,1
+2007-10-06,2007,sacred heart,monmouth,8,49,0
+2007-10-06,2007,howard,cheyney,41,14,1
+2007-10-06,2007,marist,duquesne,21,31,0
+2007-10-06,2007,la salle,iona,3,56,0
+2007-10-06,2007,davidson,morehead state,21,49,0
+2007-10-06,2007,st francis (pa),central connecticut,7,43,0
+2007-10-06,2007,duke,wake forest,36,41,0
+2007-10-06,2007,dayton,jacksonville,49,3,1
+2007-10-06,2007,buffalo,ohio,31,10,1
+2007-10-06,2007,temple,northern illinois,16,15,1
+2007-10-06,2007,hofstra,maine,38,13,1
+2007-10-06,2007,charleston southern,savannah state,28,0,1
+2007-10-06,2007,furman,coastal carolina,27,17,1
+2007-10-06,2007,north dakota state,uc davis,35,16,1
+2007-10-06,2007,norfolk state,south carolina state,20,13,1
+2007-10-06,2007,georgia southern,south dakota state,41,38,1
+2007-10-06,2007,the citadel,wofford,7,28,0
+2007-10-06,2007,valparaiso,san diego,27,41,0
+2007-10-06,2007,ole miss,louisiana tech,24,0,1
+2007-10-06,2007,drake,butler,37,19,1
+2007-10-06,2007,wyoming,tcu,24,21,1
+2007-10-06,2007,presbyterian college,north greenville,66,52,1
+2007-10-06,2007,eastern illinois,eastern kentucky,21,28,0
+2007-10-06,2007,tennessee tech,austin peay,27,30,0
+2007-10-06,2007,mississippi state,uab,30,13,1
+2007-10-06,2007,appalachian state,gardner-webb,45,7,1
+2007-10-06,2007,alcorn state,prairie view,7,17,0
+2007-10-06,2007,grambling,mississippi valley state,40,0,1
+2007-10-06,2007,kent state,miami (oh),13,20,0
+2007-10-06,2007,alabama,houston,30,24,1
+2007-10-06,2007,nicholls,northwestern state,58,0,1
+2007-10-06,2007,missouri state,illinois state,58,41,1
+2007-10-06,2007,montana,eastern washington,24,23,1
+2007-10-06,2007,weber state,sacramento state,26,7,1
+2007-10-06,2007,princeton,hampton,27,48,0
+2007-10-06,2007,southern illinois,youngstown state,24,17,1
+2007-10-06,2007,texas,oklahoma,21,28,0
+2007-10-06,2007,florida atlantic,south florida,23,35,0
+2007-10-06,2007,penn state,iowa,27,7,1
+2007-10-06,2007,florida state,nc state,27,10,1
+2007-10-06,2007,tennessee,georgia,35,14,1
+2007-10-06,2007,montana state,southern utah,7,3,1
+2007-10-06,2007,morgan state,north carolina a&t,22,17,1
+2007-10-06,2007,jackson state,alabama state,32,20,1
+2007-10-06,2007,idaho state,northern colorado,26,14,1
+2007-10-06,2007,winston-salem,florida a&m,27,23,1
+2007-10-06,2007,washington state,arizona state,20,23,0
+2007-10-06,2007,albany,stony brook,24,23,1
+2007-10-06,2007,san josé state,idaho,28,20,1
+2007-10-06,2007,nevada,fresno state,41,49,0
+2007-10-06,2007,oregon state,arizona,31,16,1
+2007-10-06,2007,portland state,northern arizona,43,44,0
+2007-10-06,2007,colorado state,san diego state,20,24,0
+2007-10-06,2007,clemson,virginia tech,23,41,0
+2007-10-06,2007,villanova,william & mary,63,24,1
+2007-10-06,2007,western carolina,elon,36,38,0
+2007-10-06,2007,lafayette,columbia,29,0,1
+2007-10-06,2007,southern,alabama a&m,28,33,0
+2007-10-06,2007,arkansas,chattanooga,34,15,1
+2007-10-06,2007,sam houston state,central arkansas,14,35,0
+2007-10-06,2007,southeastern louisiana,stephen f. austin,21,3,1
+2007-10-06,2007,florida international,troy,16,34,0
+2007-10-06,2007,usc,stanford,23,24,0
+2007-10-06,2007,texas state,mcneese,20,41,0
+2007-10-06,2007,baylor,colorado,23,43,0
+2007-10-06,2007,louisiana,north texas,38,29,1
+2007-10-06,2007,army,tulane,20,17,1
+2007-10-06,2007,louisiana monroe,arkansas state,30,13,1
+2007-10-06,2007,texas tech,iowa state,42,17,1
+2007-10-06,2007,western michigan,akron,38,39,0
+2007-10-06,2007,toledo,liberty,35,34,1
+2007-10-06,2007,middle tennessee,virginia,21,23,0
+2007-10-06,2007,east carolina,ucf,52,38,1
+2007-10-06,2007,texas a&m,oklahoma state,24,23,1
+2007-10-07,2007,purdue,ohio state,7,23,0
+2007-10-07,2007,rutgers,cincinnati,23,28,0
+2007-10-07,2007,ucla,notre dame,6,20,0
+2007-10-07,2007,lsu,florida,28,24,1
+2007-10-07,2007,air force,unlv,31,14,1
+2007-10-07,2007,utep,tulsa,48,47,1
+2007-10-07,2007,missouri,nebraska,41,6,1
+2007-10-07,2007,hawai'i,utah state,52,37,1
+2007-10-08,2007,boise state,new mexico state,58,0,1
+2007-10-11,2007,pittsburgh,navy,45,48,0
+2007-10-11,2007,wake forest,florida state,24,21,1
+2007-10-12,2007,central arkansas,texas state,63,21,1
+2007-10-13,2007,san josé state,hawai'i,35,42,0
+2007-10-13,2007,south florida,ucf,64,12,1
+2007-10-13,2007,jacksonville,morehead state,34,24,1
+2007-10-13,2007,duke,virginia tech,14,43,0
+2007-10-13,2007,ohio state,kent state,48,3,1
+2007-10-13,2007,new hampshire,iona,49,21,1
+2007-10-13,2007,harvard,lafayette,27,17,1
+2007-10-13,2007,miami,georgia tech,14,17,0
+2007-10-13,2007,ohio,eastern michigan,48,42,1
+2007-10-13,2007,syracuse,rutgers,14,38,0
+2007-10-13,2007,michigan,purdue,48,21,1
+2007-10-13,2007,iowa,illinois,10,6,1
+2007-10-13,2007,delaware,northeastern,30,20,1
+2007-10-13,2007,northwestern,minnesota,49,48,1
+2007-10-13,2007,nebraska,oklahoma state,14,45,0
+2007-10-13,2007,iowa state,texas,3,56,0
+2007-10-13,2007,ole miss,alabama,24,27,0
+2007-10-13,2007,yale,lehigh,23,7,1
+2007-10-13,2007,brown,princeton,33,24,1
+2007-10-13,2007,kansas,baylor,58,10,1
+2007-10-13,2007,vmi,presbyterian college,21,45,0
+2007-10-13,2007,cornell,colgate,17,14,1
+2007-10-13,2007,monmouth,wagner,16,45,0
+2007-10-13,2007,central connecticut,robert morris,16,10,1
+2007-10-13,2007,rhode island,james madison,27,44,0
+2007-10-13,2007,umass,villanova,32,24,1
+2007-10-13,2007,st francis (pa),duquesne,17,24,0
+2007-10-13,2007,rhodes,james madison,27,44,0
+2007-10-13,2007,morgan state,howard,36,33,1
+2007-10-13,2007,buffalo,toledo,43,33,1
+2007-10-13,2007,holy cross,dartmouth,41,15,1
+2007-10-13,2007,dayton,davidson,38,28,1
+2007-10-13,2007,north carolina central,north greenville,17,14,1
+2007-10-13,2007,georgetown,fordham,31,38,0
+2007-10-13,2007,columbia,pennsylvania,28,59,0
+2007-10-13,2007,wofford,gardner-webb,52,17,1
+2007-10-13,2007,north carolina a&t,delaware state,0,27,0
+2007-10-13,2007,alabama state,prairie view,6,17,0
+2007-10-13,2007,norfolk state,hampton,20,19,1
+2007-10-13,2007,the citadel,furman,54,51,1
+2007-10-13,2007,south carolina state,florida a&m,49,14,1
+2007-10-13,2007,wyoming,new mexico,3,20,0
+2007-10-13,2007,ball state,western kentucky,35,12,1
+2007-10-13,2007,valparaiso,butler,42,37,1
+2007-10-13,2007,western illinois,missouri state,31,10,1
+2007-10-13,2007,northern colorado,weber state,0,23,0
+2007-10-13,2007,mississippi state,tennessee,21,33,0
+2007-10-13,2007,illinois state,indiana state,69,17,1
+2007-10-13,2007,maine,william & mary,20,21,0
+2007-10-13,2007,miami (oh),bowling green,47,14,1
+2007-10-13,2007,utah,san diego state,23,7,1
+2007-10-13,2007,elon,georgia southern,36,33,1
+2007-10-13,2007,texas southern,alcorn state,20,22,0
+2007-10-13,2007,mississippi valley state,north dakota state,7,58,0
+2007-10-13,2007,penn state,wisconsin,38,7,1
+2007-10-13,2007,texas tech,texas a&m,35,7,1
+2007-10-13,2007,towson,hofstra,3,20,0
+2007-10-13,2007,virginia,connecticut,17,16,1
+2007-10-13,2007,houston,rice,56,48,1
+2007-10-13,2007,kentucky,lsu,43,37,1
+2007-10-13,2007,usc,arizona,20,13,1
+2007-10-13,2007,richmond,stony brook,42,0,1
+2007-10-13,2007,north carolina,south carolina,15,21,0
+2007-10-13,2007,oregon,washington state,53,7,1
+2007-10-13,2007,northwestern state,southeastern louisiana,27,24,1
+2007-10-13,2007,central michigan,army,47,23,1
+2007-10-13,2007,notre dame,boston college,14,27,0
+2007-10-13,2007,youngstown state,southern utah,23,22,1
+2007-10-13,2007,albany,sacred heart,38,7,1
+2007-10-13,2007,northern illinois,western michigan,13,17,0
+2007-10-13,2007,uc davis,cal poly,28,63,0
+2007-10-13,2007,arkansas-pine bluff,grambling,24,30,0
+2007-10-13,2007,idaho,fresno state,24,37,0
+2007-10-13,2007,northern iowa,southern illinois,30,24,1
+2007-10-13,2007,eastern washington,montana state,35,13,1
+2007-10-13,2007,sacramento state,montana,3,17,0
+2007-10-13,2007,stanford,tcu,36,38,0
+2007-10-13,2007,colorado state,air force,21,45,0
+2007-10-13,2007,akron,temple,20,24,0
+2007-10-13,2007,chattanooga,western carolina,39,21,1
+2007-10-13,2007,vanderbilt,georgia,17,20,0
+2007-10-13,2007,northern arizona,idaho state,45,24,1
+2007-10-13,2007,oklahoma,missouri,41,31,1
+2007-10-13,2007,morehouse,savannah state,32,14,1
+2007-10-13,2007,cincinnati,louisville,24,28,0
+2007-10-13,2007,stephen f. austin,nicholls,16,17,0
+2007-10-13,2007,coastal carolina,chowan,51,0,1
+2007-10-13,2007,tulsa,marshall,38,31,1
+2007-10-13,2007,north texas,louisiana monroe,31,21,1
+2007-10-13,2007,uab,tulane,26,21,1
+2007-10-13,2007,arkansas state,louisiana,52,21,1
+2007-10-13,2007,louisiana tech,new mexico state,22,21,1
+2007-10-13,2007,marist,la salle,24,10,1
+2007-10-13,2007,southern,jackson state,26,32,0
+2007-10-13,2007,michigan state,indiana,52,27,1
+2007-10-13,2007,california,oregon state,28,31,0
+2007-10-13,2007,southern mississippi,smu,28,7,1
+2007-10-13,2007,arkansas,auburn,7,9,0
+2007-10-14,2007,mcneese,sam houston state,31,21,1
+2007-10-14,2007,memphis,middle tennessee,7,21,0
+2007-10-14,2007,san diego,drake,59,19,1
+2007-10-14,2007,utep,east carolina,42,45,0
+2007-10-14,2007,kansas state,colorado,47,20,1
+2007-10-14,2007,unlv,byu,14,24,0
+2007-10-14,2007,arizona state,washington,44,20,1
+2007-10-15,2007,boise state,nevada,69,67,1
+2007-10-18,2007,florida a&m,norfolk state,27,33,0
+2007-10-18,2007,rutgers,south florida,30,27,1
+2007-10-18,2007,alabama a&m,arkansas-pine bluff,31,14,1
+2007-10-19,2007,tcu,utah,20,27,0
+2007-10-19,2007,eastern michigan,northwestern,14,26,0
+2007-10-20,2007,connecticut,louisville,21,17,1
+2007-10-20,2007,georgia tech,army,34,10,1
+2007-10-20,2007,clemson,central michigan,70,14,1
+2007-10-20,2007,minnesota,north dakota state,21,27,0
+2007-10-20,2007,umass,northeastern,24,7,1
+2007-10-20,2007,pennsylvania,yale,20,26,0
+2007-10-20,2007,pittsburgh,cincinnati,24,17,1
+2007-10-20,2007,indiana,penn state,31,36,0
+2007-10-20,2007,chattanooga,furman,22,28,0
+2007-10-20,2007,temple,miami (oh),24,17,1
+2007-10-20,2007,purdue,iowa,31,6,1
+2007-10-20,2007,wisconsin,northern illinois,44,3,1
+2007-10-20,2007,dartmouth,columbia,37,28,1
+2007-10-20,2007,baylor,texas,10,31,0
+2007-10-20,2007,iowa state,oklahoma,7,17,0
+2007-10-20,2007,south carolina,vanderbilt,6,17,0
+2007-10-20,2007,alabama,tennessee,41,17,1
+2007-10-20,2007,harvard,princeton,27,10,1
+2007-10-20,2007,navy,wake forest,24,44,0
+2007-10-20,2007,savannah state,north carolina central,14,30,0
+2007-10-20,2007,sacred heart,marist,41,34,1
+2007-10-20,2007,wagner,central connecticut,13,21,0
+2007-10-20,2007,duquesne,robert morris,17,14,1
+2007-10-20,2007,vmi,gardner-webb,22,36,0
+2007-10-20,2007,st francis (pa),albany,21,58,0
+2007-10-20,2007,cornell,brown,38,31,1
+2007-10-20,2007,jackson state,grambling,20,30,0
+2007-10-20,2007,western carolina,the citadel,31,37,0
+2007-10-20,2007,howard,north carolina a&t,35,27,1
+2007-10-20,2007,colgate,towson,27,17,1
+2007-10-20,2007,bucknell,georgetown,17,20,0
+2007-10-20,2007,lafayette,fordham,23,34,0
+2007-10-20,2007,morehead state,butler,24,3,1
+2007-10-20,2007,lehigh,holy cross,10,59,0
+2007-10-20,2007,charleston southern,liberty,10,50,0
+2007-10-20,2007,wofford,elon,13,24,0
+2007-10-20,2007,air force,wyoming,20,12,1
+2007-10-20,2007,western michigan,ball state,23,27,0
+2007-10-20,2007,ole miss,arkansas,8,44,0
+2007-10-20,2007,hampton,south carolina state,24,28,0
+2007-10-20,2007,valparaiso,dayton,7,33,0
+2007-10-20,2007,indiana state,western kentucky,7,56,0
+2007-10-20,2007,southeast missouri state,murray state,17,31,0
+2007-10-20,2007,nebraska,texas a&m,14,36,0
+2007-10-20,2007,southern illinois,missouri state,45,10,1
+2007-10-20,2007,eastern illinois,ut martin,29,23,1
+2007-10-20,2007,eastern kentucky,tennessee state,49,7,1
+2007-10-20,2007,samford,austin peay,25,28,0
+2007-10-20,2007,stony brook,maine,30,23,1
+2007-10-20,2007,sam houston state,northwestern state,42,20,1
+2007-10-20,2007,mississippi valley state,texas southern,37,35,1
+2007-10-20,2007,rice,memphis,35,38,0
+2007-10-20,2007,southern utah,uc davis,21,41,0
+2007-10-20,2007,montana,northern colorado,52,7,1
+2007-10-20,2007,utah state,nevada,28,31,0
+2007-10-20,2007,weber state,northern arizona,20,29,0
+2007-10-20,2007,montana state,sacramento state,20,9,1
+2007-10-20,2007,ucla,california,30,21,1
+2007-10-20,2007,west virginia,mississippi state,38,13,1
+2007-10-20,2007,florida state,miami,29,37,0
+2007-10-20,2007,richmond,rhode island,38,6,1
+2007-10-20,2007,troy,north texas,45,7,1
+2007-10-20,2007,middle tennessee,arkansas state,24,7,1
+2007-10-20,2007,appalachian state,georgia southern,35,38,0
+2007-10-20,2007,delaware state,morgan state,25,17,1
+2007-10-20,2007,missouri,texas tech,41,10,1
+2007-10-20,2007,notre dame,usc,0,38,0
+2007-10-20,2007,ohio state,michigan state,24,17,1
+2007-10-20,2007,kentucky,florida,37,45,0
+2007-10-20,2007,jacksonville state,tennessee tech,38,10,1
+2007-10-20,2007,southern,alcorn state,14,10,1
+2007-10-20,2007,youngstown state,illinois state,22,27,0
+2007-10-20,2007,bethune-cookman,winston-salem,9,14,0
+2007-10-20,2007,syracuse,buffalo,20,12,1
+2007-10-20,2007,hofstra,new hampshire,3,40,0
+2007-10-20,2007,ucf,tulsa,44,23,1
+2007-10-20,2007,kent state,bowling green,20,31,0
+2007-10-20,2007,east carolina,nc state,20,34,0
+2007-10-20,2007,texas state,stephen f. austin,52,29,1
+2007-10-20,2007,fresno state,san josé state,30,0,1
+2007-10-20,2007,louisiana,florida atlantic,32,39,0
+2007-10-20,2007,idaho state,portland state,38,20,1
+2007-10-20,2007,colorado,kansas,14,19,0
+2007-10-20,2007,byu,eastern washington,42,7,1
+2007-10-20,2007,toledo,ohio,43,40,1
+2007-10-20,2007,uab,houston,10,49,0
+2007-10-20,2007,southeastern louisiana,central arkansas,33,37,0
+2007-10-20,2007,nicholls,mcneese,7,28,0
+2007-10-20,2007,louisiana monroe,florida international,28,14,1
+2007-10-20,2007,louisiana tech,boise state,31,45,0
+2007-10-20,2007,davidson,drake,24,21,1
+2007-10-20,2007,coastal carolina,presbyterian college,34,41,0
+2007-10-20,2007,oklahoma state,kansas state,41,39,1
+2007-10-20,2007,arizona,stanford,20,21,0
+2007-10-20,2007,western illinois,northern iowa,3,42,0
+2007-10-20,2007,washington,oregon,34,55,0
+2007-10-21,2007,new mexico state,idaho,45,31,1
+2007-10-21,2007,south dakota state,cal poly,48,35,1
+2007-10-21,2007,smu,tulane,34,41,0
+2007-10-21,2007,illinois,michigan,17,27,0
+2007-10-21,2007,maryland,virginia,17,18,0
+2007-10-21,2007,san diego state,new mexico,17,20,0
+2007-10-21,2007,lsu,auburn,30,24,1
+2007-10-21,2007,unlv,colorado state,23,48,0
+2007-10-21,2007,san diego,jacksonville,62,23,1
+2007-10-22,2007,marshall,southern mississippi,24,33,0
+2007-10-25,2007,virginia tech,boston college,10,14,0
+2007-10-25,2007,western carolina,wofford,44,47,0
+2007-10-26,2007,new mexico,air force,34,31,1
+2007-10-26,2007,princeton,cornell,34,31,1
+2007-10-27,2007,fresno state,boise state,21,34,0
+2007-10-27,2007,central connecticut,monmouth,36,51,0
+2007-10-27,2007,iowa,michigan state,34,27,1
+2007-10-27,2007,illinois,ball state,28,17,1
+2007-10-27,2007,wisconsin,indiana,33,3,1
+2007-10-27,2007,georgia southern,the citadel,21,17,1
+2007-10-27,2007,james madison,richmond,16,17,0
+2007-10-27,2007,new hampshire,rhode island,49,36,1
+2007-10-27,2007,wake forest,north carolina,37,10,1
+2007-10-27,2007,rutgers,west virginia,3,31,0
+2007-10-27,2007,texas tech,colorado,26,31,0
+2007-10-27,2007,purdue,northwestern,35,17,1
+2007-10-27,2007,louisville,pittsburgh,24,17,1
+2007-10-27,2007,harvard,dartmouth,28,21,1
+2007-10-27,2007,kentucky,mississippi state,14,31,0
+2007-10-27,2007,brown,pennsylvania,31,17,1
+2007-10-27,2007,columbia,yale,7,28,0
+2007-10-27,2007,wagner,albany,10,24,0
+2007-10-27,2007,sacred heart,st francis (pa),30,35,0
+2007-10-27,2007,norfolk state,howard,10,17,0
+2007-10-27,2007,william & mary,umass,34,48,0
+2007-10-27,2007,navy,delaware,52,59,0
+2007-10-27,2007,iona,duquesne,28,23,1
+2007-10-27,2007,buffalo,akron,26,10,1
+2007-10-27,2007,kent state,central michigan,32,41,0
+2007-10-27,2007,butler,davidson,32,44,0
+2007-10-27,2007,murray state,eastern kentucky,35,46,0
+2007-10-27,2007,ut martin,southeast missouri state,55,20,1
+2007-10-27,2007,liberty,presbyterian college,48,14,1
+2007-10-27,2007,dayton,san diego,35,16,1
+2007-10-27,2007,lafayette,colgate,27,36,0
+2007-10-27,2007,bucknell,holy cross,21,45,0
+2007-10-27,2007,lehigh,georgetown,45,0,1
+2007-10-27,2007,south carolina state,delaware state,16,17,0
+2007-10-27,2007,north carolina a&t,bethune-cookman,20,24,0
+2007-10-27,2007,elon,chattanooga,38,28,1
+2007-10-27,2007,missouri,iowa state,42,28,1
+2007-10-27,2007,wyoming,unlv,29,24,1
+2007-10-27,2007,arkansas,florida international,58,10,1
+2007-10-27,2007,vanderbilt,miami (oh),24,13,1
+2007-10-27,2007,northeastern,maine,14,20,0
+2007-10-27,2007,north dakota state,southern utah,52,17,1
+2007-10-27,2007,savannah state,edward waters,7,24,0
+2007-10-27,2007,drake,jacksonville,42,14,1
+2007-10-27,2007,valparaiso,morehead state,14,16,0
+2007-10-27,2007,northern colorado,montana state,16,13,1
+2007-10-27,2007,illinois state,western illinois,14,27,0
+2007-10-27,2007,missouri state,indiana state,63,7,1
+2007-10-27,2007,tennessee tech,samford,52,59,0
+2007-10-27,2007,la salle,assumption,7,10,0
+2007-10-27,2007,tulane,memphis,27,28,0
+2007-10-27,2007,utah state,louisiana tech,21,31,0
+2007-10-27,2007,tulsa,smu,29,23,1
+2007-10-27,2007,stephen f. austin,sam houston state,17,45,0
+2007-10-27,2007,prairie view,mississippi valley state,26,21,1
+2007-10-27,2007,grambling,texas southern,57,9,1
+2007-10-27,2007,northwestern state,texas state,17,20,0
+2007-10-27,2007,oregon,usc,24,17,1
+2007-10-27,2007,furman,appalachian state,27,34,0
+2007-10-27,2007,washington,arizona,41,48,0
+2007-10-27,2007,connecticut,south florida,22,15,1
+2007-10-27,2007,east carolina,uab,41,6,1
+2007-10-27,2007,maryland,clemson,17,30,0
+2007-10-27,2007,villanova,hofstra,35,31,1
+2007-10-27,2007,michigan,minnesota,34,10,1
+2007-10-27,2007,texas,nebraska,28,25,1
+2007-10-27,2007,florida,georgia,30,42,0
+2007-10-27,2007,alabama a&m,alabama state,13,9,1
+2007-10-27,2007,kansas state,baylor,51,13,1
+2007-10-27,2007,eastern michigan,western michigan,19,2,1
+2007-10-27,2007,jackson state,arkansas-pine bluff,17,6,1
+2007-10-27,2007,stony brook,bryant,30,0,1
+2007-10-27,2007,florida atlantic,louisiana monroe,30,33,0
+2007-10-27,2007,nevada,idaho,37,21,1
+2007-10-27,2007,morgan state,florida a&m,14,12,1
+2007-10-27,2007,northern iowa,youngstown state,14,13,1
+2007-10-27,2007,nc state,virginia,29,24,1
+2007-10-27,2007,marshall,rice,34,21,1
+2007-10-27,2007,uc davis,south dakota state,21,28,0
+2007-10-27,2007,tennessee state,eastern illinois,35,38,0
+2007-10-27,2007,idaho state,cal poly,28,48,0
+2007-10-27,2007,sacramento state,eastern washington,30,38,0
+2007-10-27,2007,colorado state,utah,3,27,0
+2007-10-27,2007,portland state,weber state,68,73,0
+2007-10-27,2007,auburn,ole miss,17,3,1
+2007-10-27,2007,bowling green,ohio,27,38,0
+2007-10-27,2007,winston-salem,hampton,20,19,1
+2007-10-27,2007,northern arizona,montana,16,21,0
+2007-10-27,2007,washington state,ucla,27,7,1
+2007-10-27,2007,gardner-webb,charleston southern,29,25,1
+2007-10-27,2007,oregon state,stanford,23,6,1
+2007-10-27,2007,texas a&m,kansas,11,19,0
+2007-10-27,2007,western kentucky,north carolina central,50,14,1
+2007-10-27,2007,toledo,northern illinois,70,21,1
+2007-10-27,2007,arkansas state,troy,0,27,0
+2007-10-27,2007,north texas,middle tennessee,28,48,0
+2007-10-27,2007,central arkansas,nicholls,49,42,1
+2007-10-27,2007,coastal carolina,vmi,42,35,1
+2007-10-27,2007,marist,fordham,0,33,0
+2007-10-27,2007,tennessee,south carolina,27,24,1
+2007-10-28,2007,florida state,duke,25,6,1
+2007-10-28,2007,mcneese,southeastern louisiana,45,17,1
+2007-10-28,2007,penn state,ohio state,17,37,0
+2007-10-28,2007,utep,houston,31,34,0
+2007-10-28,2007,arizona state,california,31,20,1
+2007-10-28,2007,hawai'i,new mexico state,50,13,1
+2007-10-29,2007,southern mississippi,ucf,17,34,0
+2007-11-01,2007,georgia tech,virginia tech,3,27,0
+2007-11-02,2007,ohio,temple,23,7,1
+2007-11-02,2007,bowling green,akron,44,20,1
+2007-11-03,2007,new mexico state,nevada,38,40,0
+2007-11-03,2007,duke,clemson,10,47,0
+2007-11-03,2007,indiana state,youngstown state,7,40,0
+2007-11-03,2007,miami,nc state,16,19,0
+2007-11-03,2007,pittsburgh,syracuse,20,17,1
+2007-11-03,2007,penn state,purdue,26,19,1
+2007-11-03,2007,indiana,ball state,38,20,1
+2007-11-03,2007,northwestern,iowa,17,28,0
+2007-11-03,2007,virginia,wake forest,17,16,1
+2007-11-03,2007,ohio state,wisconsin,38,17,1
+2007-11-03,2007,pace,iona,3,34,0
+2007-11-03,2007,pennsylvania,princeton,7,0,1
+2007-11-03,2007,delaware,james madison,37,34,1
+2007-11-03,2007,new hampshire,northeastern,13,31,0
+2007-11-03,2007,rhode island,umass,12,6,1
+2007-11-03,2007,maine,towson,16,13,1
+2007-11-03,2007,jacksonville,valparaiso,27,29,0
+2007-11-03,2007,dartmouth,cornell,59,31,1
+2007-11-03,2007,iowa state,kansas state,31,20,1
+2007-11-03,2007,kansas,nebraska,76,39,1
+2007-11-03,2007,columbia,harvard,12,27,0
+2007-11-03,2007,yale,brown,17,7,1
+2007-11-03,2007,florida,vanderbilt,49,22,1
+2007-11-03,2007,colgate,lehigh,21,7,1
+2007-11-03,2007,morehead state,drake,33,0,1
+2007-11-03,2007,lafayette,bucknell,34,7,1
+2007-11-03,2007,fordham,holy cross,24,21,1
+2007-11-03,2007,marist,georgetown,37,34,1
+2007-11-03,2007,vmi,charleston southern,28,37,0
+2007-11-03,2007,dayton,butler,61,0,1
+2007-11-03,2007,texas southern,southern,7,56,0
+2007-11-03,2007,georgia,troy,44,34,1
+2007-11-03,2007,howard,south carolina state,21,59,0
+2007-11-03,2007,hofstra,william & mary,38,14,1
+2007-11-03,2007,albany,robert morris,45,17,1
+2007-11-03,2007,st francis (pa),monmouth,17,47,0
+2007-11-03,2007,wagner,la salle,28,0,1
+2007-11-03,2007,presbyterian college,chowan,62,10,1
+2007-11-03,2007,wofford,georgia southern,35,38,0
+2007-11-03,2007,gardner-webb,savannah state,66,0,1
+2007-11-03,2007,southeast missouri state,austin peay,31,34,0
+2007-11-03,2007,samford,jacksonville state,12,24,0
+2007-11-03,2007,chattanooga,western kentucky,21,28,0
+2007-11-03,2007,alabama state,grambling,7,21,0
+2007-11-03,2007,the citadel,appalachian state,24,45,0
+2007-11-03,2007,memphis,east carolina,40,56,0
+2007-11-03,2007,ole miss,northwestern state,38,31,1
+2007-11-03,2007,furman,elon,52,49,1
+2007-11-03,2007,winston-salem,delaware state,20,23,0
+2007-11-03,2007,byu,colorado state,35,16,1
+2007-11-03,2007,missouri state,northern iowa,17,38,0
+2007-11-03,2007,western illinois,southern illinois,9,10,0
+2007-11-03,2007,montana,portland state,34,31,1
+2007-11-03,2007,montana state,northern arizona,14,29,0
+2007-11-03,2007,notre dame,navy,44,46,0
+2007-11-03,2007,auburn,tennessee tech,35,3,1
+2007-11-03,2007,alabama a&m,jackson state,40,43,0
+2007-11-03,2007,arkansas state,florida international,27,24,1
+2007-11-03,2007,miami (oh),buffalo,31,28,1
+2007-11-03,2007,southern utah,cal poly,21,28,0
+2007-11-03,2007,florida a&m,north carolina a&t,24,21,1
+2007-11-03,2007,alcorn state,mississippi valley state,17,14,1
+2007-11-03,2007,rice,utep,56,48,1
+2007-11-03,2007,baylor,texas tech,7,38,0
+2007-11-03,2007,boise state,san josé state,42,7,1
+2007-11-03,2007,michigan state,michigan,24,28,0
+2007-11-03,2007,south florida,cincinnati,33,38,0
+2007-11-03,2007,arkansas-pine bluff,prairie view,21,19,1
+2007-11-03,2007,ucf,marshall,47,13,1
+2007-11-03,2007,air force,army,30,10,1
+2007-11-03,2007,arizona,ucla,34,27,1
+2007-11-03,2007,richmond,villanova,35,27,1
+2007-11-03,2007,oklahoma state,texas,35,38,0
+2007-11-03,2007,weber state,idaho state,52,37,1
+2007-11-03,2007,north carolina,maryland,16,13,1
+2007-11-03,2007,liberty,coastal carolina,37,24,1
+2007-11-03,2007,morgan state,norfolk state,16,24,0
+2007-11-03,2007,tennessee,louisiana,59,7,1
+2007-11-03,2007,bethune-cookman,hampton,24,31,0
+2007-11-03,2007,fresno state,utah state,38,27,1
+2007-11-03,2007,idaho,louisiana tech,16,28,0
+2007-11-03,2007,central connecticut,sacred heart,49,33,1
+2007-11-03,2007,alabama,lsu,34,41,0
+2007-11-03,2007,san diego,davidson,52,49,1
+2007-11-03,2007,eastern washington,northern colorado,17,7,1
+2007-11-03,2007,sacramento state,uc davis,26,31,0
+2007-11-03,2007,north dakota state,illinois state,54,28,1
+2007-11-03,2007,tcu,new mexico,37,0,1
+2007-11-03,2007,tennessee state,murray state,42,28,1
+2007-11-03,2007,stanford,washington,9,27,0
+2007-11-03,2007,colorado,missouri,10,55,0
+2007-11-03,2007,oregon,arizona state,35,23,1
+2007-11-03,2007,central arkansas,south dakota state,10,38,0
+2007-11-03,2007,uab,southern mississippi,7,37,0
+2007-11-03,2007,louisiana monroe,middle tennessee,40,43,0
+2007-11-03,2007,toledo,eastern michigan,52,28,1
+2007-11-03,2007,connecticut,rutgers,38,19,1
+2007-11-03,2007,tulane,tulsa,25,49,0
+2007-11-04,2007,usc,oregon state,24,3,1
+2007-11-04,2007,oklahoma,texas a&m,42,14,1
+2007-11-04,2007,boston college,florida state,17,27,0
+2007-11-04,2007,minnesota,illinois,17,44,0
+2007-11-04,2007,arkansas,south carolina,48,36,1
+2007-11-04,2007,san diego state,wyoming,27,24,1
+2007-11-04,2007,california,washington state,20,17,1
+2007-11-05,2007,houston,smu,38,28,1
+2007-11-07,2007,western michigan,central michigan,31,34,0
+2007-11-08,2007,akron,ohio,48,37,1
+2007-11-08,2007,samford,tennessee state,28,38,0
+2007-11-09,2007,west virginia,louisville,38,31,1
+2007-11-09,2007,byu,tcu,27,22,1
+2007-11-10,2007,eastern michigan,bowling green,32,39,0
+2007-11-10,2007,army,rutgers,6,41,0
+2007-11-10,2007,jacksonville,butler,24,16,1
+2007-11-10,2007,syracuse,south florida,10,41,0
+2007-11-10,2007,nc state,north carolina,31,27,1
+2007-11-10,2007,northwestern,indiana,31,28,1
+2007-11-10,2007,holy cross,lafayette,21,31,0
+2007-11-10,2007,temple,penn state,0,31,0
+2007-11-10,2007,clemson,wake forest,44,10,1
+2007-11-10,2007,purdue,michigan state,31,48,0
+2007-11-10,2007,davidson,valparaiso,44,6,1
+2007-11-10,2007,wisconsin,michigan,37,21,1
+2007-11-10,2007,maine,rhode island,35,0,1
+2007-11-10,2007,delaware state,norfolk state,28,21,1
+2007-11-10,2007,northeastern,hofstra,35,31,1
+2007-11-10,2007,umass,new hampshire,27,7,1
+2007-11-10,2007,towson,villanova,12,14,0
+2007-11-10,2007,iowa,minnesota,21,16,1
+2007-11-10,2007,georgetown,colgate,12,45,0
+2007-11-10,2007,mississippi state,alabama,17,12,1
+2007-11-10,2007,tennessee,arkansas,34,13,1
+2007-11-10,2007,nebraska,kansas state,73,31,1
+2007-11-10,2007,iowa state,colorado,31,28,1
+2007-11-10,2007,brown,dartmouth,56,35,1
+2007-11-10,2007,harvard,pennsylvania,23,7,1
+2007-11-10,2007,missouri,texas a&m,40,26,1
+2007-11-10,2007,morehead state,san diego,14,27,0
+2007-11-10,2007,bucknell,lehigh,10,38,0
+2007-11-10,2007,liberty,vmi,73,34,1
+2007-11-10,2007,duke,georgia tech,24,41,0
+2007-11-10,2007,ut martin,murray state,76,34,1
+2007-11-10,2007,jacksonville state,eastern illinois,23,37,0
+2007-11-10,2007,princeton,yale,6,27,0
+2007-11-10,2007,monmouth,albany,3,21,0
+2007-11-10,2007,duquesne,la salle,51,8,1
+2007-11-10,2007,the citadel,elon,42,31,1
+2007-11-10,2007,iona,marist,14,17,0
+2007-11-10,2007,stony brook,central connecticut,34,7,1
+2007-11-10,2007,wagner,st francis (pa),20,23,0
+2007-11-10,2007,robert morris,sacred heart,41,31,1
+2007-11-10,2007,delaware,richmond,56,62,0
+2007-11-10,2007,youngstown state,western illinois,31,24,1
+2007-11-10,2007,howard,bethune-cookman,26,37,0
+2007-11-10,2007,cornell,columbia,34,14,1
+2007-11-10,2007,hampton,florida a&m,30,15,1
+2007-11-10,2007,south carolina state,morgan state,28,21,1
+2007-11-10,2007,winston-salem,north carolina central,35,10,1
+2007-11-10,2007,charleston southern,presbyterian college,28,24,1
+2007-11-10,2007,drake,dayton,27,34,0
+2007-11-10,2007,vanderbilt,kentucky,20,27,0
+2007-11-10,2007,austin peay,eastern kentucky,14,28,0
+2007-11-10,2007,missouri state,southeast missouri state,55,17,1
+2007-11-10,2007,prairie view,jackson state,30,27,1
+2007-11-10,2007,south dakota state,southern utah,52,27,1
+2007-11-10,2007,chattanooga,wofford,16,42,0
+2007-11-10,2007,northern colorado,sacramento state,17,20,0
+2007-11-10,2007,southern illinois,illinois state,34,24,1
+2007-11-10,2007,notre dame,air force,24,41,0
+2007-11-10,2007,utah state,boise state,0,52,0
+2007-11-10,2007,smu,rice,42,43,0
+2007-11-10,2007,new mexico,colorado state,26,23,1
+2007-11-10,2007,alcorn state,alabama a&m,20,24,0
+2007-11-10,2007,nicholls,texas state,52,28,1
+2007-11-10,2007,mississippi valley state,alabama state,16,20,0
+2007-11-10,2007,weber state,fort lewis,48,3,1
+2007-11-10,2007,tulsa,houston,56,7,1
+2007-11-10,2007,virginia tech,florida state,40,21,1
+2007-11-10,2007,ohio state,illinois,21,28,0
+2007-11-10,2007,ucla,arizona state,20,24,0
+2007-11-10,2007,georgia,auburn,45,20,1
+2007-11-10,2007,cincinnati,connecticut,27,3,1
+2007-11-10,2007,texas,texas tech,59,43,1
+2007-11-10,2007,utah,wyoming,50,0,1
+2007-11-10,2007,middle tennessee,louisiana,24,34,0
+2007-11-10,2007,appalachian state,western carolina,79,35,1
+2007-11-10,2007,georgia southern,furman,22,24,0
+2007-11-10,2007,san josé state,new mexico state,51,17,1
+2007-11-10,2007,north texas,navy,62,74,0
+2007-11-10,2007,florida atlantic,arkansas state,34,31,1
+2007-11-10,2007,northern illinois,kent state,27,20,1
+2007-11-10,2007,marshall,east carolina,26,7,1
+2007-11-10,2007,southern mississippi,memphis,26,29,0
+2007-11-10,2007,portland state,montana state,36,50,0
+2007-11-10,2007,arkansas-pine bluff,southern,23,21,1
+2007-11-10,2007,louisiana monroe,grambling,28,14,1
+2007-11-10,2007,western kentucky,troy,17,21,0
+2007-11-10,2007,idaho state,montana,14,27,0
+2007-11-10,2007,northern arizona,eastern washington,24,52,0
+2007-11-10,2007,northern iowa,indiana state,68,14,1
+2007-11-10,2007,oklahoma,baylor,52,21,1
+2007-11-10,2007,washington state,stanford,33,17,1
+2007-11-11,2007,tulane,utep,34,19,1
+2007-11-11,2007,coastal carolina,gardner-webb,17,14,1
+2007-11-11,2007,william & mary,james madison,34,55,0
+2007-11-11,2007,southeastern louisiana,sam houston state,16,20,0
+2007-11-11,2007,central arkansas,stephen f. austin,35,23,1
+2007-11-11,2007,cal poly,north dakota state,28,31,0
+2007-11-11,2007,miami,virginia,0,48,0
+2007-11-11,2007,uab,ucf,31,45,0
+2007-11-11,2007,south carolina,florida,31,51,0
+2007-11-11,2007,california,usc,17,24,0
+2007-11-11,2007,oklahoma state,kansas,28,43,0
+2007-11-11,2007,lsu,louisiana tech,58,10,1
+2007-11-11,2007,maryland,boston college,42,35,1
+2007-11-11,2007,mcneese,northwestern state,27,21,1
+2007-11-11,2007,oregon state,washington,29,23,1
+2007-11-11,2007,unlv,san diego state,30,38,0
+2007-11-11,2007,hawai'i,fresno state,37,30,1
+2007-11-14,2007,ball state,toledo,41,20,1
+2007-11-15,2007,miami (oh),akron,7,0,1
+2007-11-16,2007,arkansas state,north texas,31,27,1
+2007-11-16,2007,texas state,sam houston state,28,29,0
+2007-11-16,2007,arizona,oregon,34,24,1
+2007-11-17,2007,central michigan,eastern michigan,45,48,0
+2007-11-17,2007,nevada,hawai'i,26,28,0
+2007-11-17,2007,michigan,ohio state,3,14,0
+2007-11-17,2007,florida,florida atlantic,59,20,1
+2007-11-17,2007,illinois,northwestern,41,22,1
+2007-11-17,2007,florida state,maryland,24,16,1
+2007-11-17,2007,georgia tech,north carolina,27,25,1
+2007-11-17,2007,rutgers,pittsburgh,20,16,1
+2007-11-17,2007,army,tulsa,39,49,0
+2007-11-17,2007,hofstra,umass,5,27,0
+2007-11-17,2007,vmi,the citadel,28,70,0
+2007-11-17,2007,connecticut,syracuse,30,7,1
+2007-11-17,2007,western carolina,furman,21,52,0
+2007-11-17,2007,jacksonville,wagner,27,41,0
+2007-11-17,2007,central connecticut,albany,14,49,0
+2007-11-17,2007,monmouth,duquesne,31,20,1
+2007-11-17,2007,rhodes,northeastern,35,30,1
+2007-11-17,2007,richmond,william & mary,31,20,1
+2007-11-17,2007,rhode island,northeastern,35,30,1
+2007-11-17,2007,new hampshire,maine,39,14,1
+2007-11-17,2007,charleston southern,coastal carolina,2,41,0
+2007-11-17,2007,yale,harvard,6,37,0
+2007-11-17,2007,delaware state,howard,29,13,1
+2007-11-17,2007,temple,kent state,24,14,1
+2007-11-17,2007,georgia,kentucky,24,13,1
+2007-11-17,2007,kansas state,missouri,32,49,0
+2007-11-17,2007,lehigh,lafayette,17,21,0
+2007-11-17,2007,holy cross,colgate,27,20,1
+2007-11-17,2007,columbia,brown,22,30,0
+2007-11-17,2007,dartmouth,princeton,14,17,0
+2007-11-17,2007,fordham,bucknell,24,38,0
+2007-11-17,2007,norfolk state,winston-salem,23,20,1
+2007-11-17,2007,south carolina state,north carolina a&t,51,7,1
+2007-11-17,2007,la salle,st francis (pa),10,51,0
+2007-11-17,2007,pennsylvania,cornell,45,9,1
+2007-11-17,2007,hampton,southern illinois,27,45,0
+2007-11-17,2007,murray state,austin peay,17,23,0
+2007-11-17,2007,eastern kentucky,tennessee tech,38,24,1
+2007-11-17,2007,buffalo,bowling green,17,31,0
+2007-11-17,2007,james madison,towson,23,13,1
+2007-11-17,2007,savannah state,mississippi valley state,3,28,0
+2007-11-17,2007,south dakota state,north dakota state,29,24,1
+2007-11-17,2007,jackson state,alcorn state,31,19,1
+2007-11-17,2007,new mexico state,utah state,17,35,0
+2007-11-17,2007,tennessee state,ut martin,38,43,0
+2007-11-17,2007,southeast missouri state,jacksonville state,32,25,1
+2007-11-17,2007,tennessee,vanderbilt,25,24,1
+2007-11-17,2007,boise state,idaho,58,14,1
+2007-11-17,2007,wyoming,byu,10,35,0
+2007-11-17,2007,arkansas,mississippi state,45,31,1
+2007-11-17,2007,northern colorado,portland state,21,31,0
+2007-11-17,2007,colorado state,georgia southern,42,34,1
+2007-11-17,2007,air force,san diego state,55,23,1
+2007-11-17,2007,eastern illinois,samford,33,17,1
+2007-11-17,2007,notre dame,duke,28,7,1
+2007-11-17,2007,alabama,louisiana monroe,14,21,0
+2007-11-17,2007,montana state,montana,20,41,0
+2007-11-17,2007,texas southern,arkansas-pine bluff,10,20,0
+2007-11-17,2007,northwestern state,stephen f. austin,31,12,1
+2007-11-17,2007,rice,tulane,31,45,0
+2007-11-17,2007,smu,ucf,20,49,0
+2007-11-17,2007,indiana,purdue,27,24,1
+2007-11-17,2007,washington,california,37,23,1
+2007-11-17,2007,michigan state,penn state,35,31,1
+2007-11-17,2007,memphis,uab,25,9,1
+2007-11-17,2007,houston,marshall,35,28,1
+2007-11-17,2007,navy,northern illinois,35,24,1
+2007-11-17,2007,minnesota,wisconsin,34,41,0
+2007-11-17,2007,virginia tech,miami,44,14,1
+2007-11-17,2007,kansas,iowa state,45,7,1
+2007-11-17,2007,ole miss,lsu,24,41,0
+2007-11-17,2007,elon,stony brook,38,23,1
+2007-11-17,2007,appalachian state,chattanooga,37,17,1
+2007-11-17,2007,gardner-webb,liberty,0,31,0
+2007-11-17,2007,southeastern louisiana,nicholls,17,13,1
+2007-11-17,2007,bethune-cookman,florida a&m,34,7,1
+2007-11-17,2007,villanova,delaware,16,10,1
+2007-11-17,2007,iowa,western michigan,19,28,0
+2007-11-17,2007,wake forest,nc state,38,18,1
+2007-11-17,2007,uc davis,san diego,49,46,1
+2007-11-17,2007,cal poly,iona,55,7,1
+2007-11-17,2007,prairie view,alabama a&m,30,20,1
+2007-11-17,2007,western kentucky,morehead state,52,12,1
+2007-11-17,2007,eastern washington,weber state,38,16,1
+2007-11-17,2007,sacramento state,idaho state,41,30,1
+2007-11-17,2007,utah,new mexico,28,10,1
+2007-11-17,2007,northern iowa,southern utah,48,10,1
+2007-11-17,2007,washington state,oregon state,17,52,0
+2007-11-18,2007,baylor,oklahoma state,14,45,0
+2007-11-18,2007,florida international,louisiana,28,38,0
+2007-11-18,2007,louisiana tech,san josé state,27,23,1
+2007-11-18,2007,utep,southern mississippi,30,56,0
+2007-11-18,2007,tcu,unlv,34,10,1
+2007-11-18,2007,cincinnati,west virginia,23,28,0
+2007-11-18,2007,clemson,boston college,17,20,0
+2007-11-18,2007,south florida,louisville,55,17,1
+2007-11-18,2007,texas tech,oklahoma,34,27,1
+2007-11-18,2007,mcneese,central arkansas,41,14,1
+2007-11-21,2007,troy,middle tennessee,45,7,1
+2007-11-22,2007,alabama state,tuskegee,58,64,0
+2007-11-23,2007,arizona state,usc,24,44,0
+2007-11-23,2007,akron,central michigan,32,35,0
+2007-11-23,2007,colorado,nebraska,65,51,1
+2007-11-23,2007,mississippi state,ole miss,17,14,1
+2007-11-23,2007,delaware,delaware state,44,7,1
+2007-11-23,2007,colorado state,wyoming,36,28,1
+2007-11-23,2007,lsu,arkansas,48,50,0
+2007-11-23,2007,bowling green,toledo,37,10,1
+2007-11-23,2007,texas a&m,texas,38,30,1
+2007-11-24,2007,hawai'i,boise state,39,27,1
+2007-11-24,2007,pittsburgh,south florida,37,48,0
+2007-11-24,2007,boston college,miami,28,14,1
+2007-11-24,2007,virginia,virginia tech,21,33,0
+2007-11-24,2007,nc state,maryland,0,37,0
+2007-11-24,2007,umass,fordham,49,35,1
+2007-11-24,2007,appalachian state,james madison,28,27,1
+2007-11-24,2007,kent state,buffalo,23,30,0
+2007-11-24,2007,east carolina,tulane,35,12,1
+2007-11-24,2007,kentucky,tennessee,50,52,0
+2007-11-24,2007,ucf,utep,36,20,1
+2007-11-24,2007,vanderbilt,wake forest,17,31,0
+2007-11-24,2007,memphis,smu,55,52,1
+2007-11-24,2007,western michigan,temple,16,3,1
+2007-11-24,2007,byu,utah,17,10,1
+2007-11-24,2007,ohio,miami (oh),38,29,1
+2007-11-24,2007,grambling,southern,13,22,0
+2007-11-24,2007,montana,wofford,22,23,0
+2007-11-24,2007,southern illinois,eastern illinois,30,11,1
+2007-11-24,2007,rice,tulsa,43,48,0
+2007-11-24,2007,southern mississippi,arkansas state,16,10,1
+2007-11-24,2007,west virginia,connecticut,66,21,1
+2007-11-24,2007,georgia tech,georgia,17,31,0
+2007-11-24,2007,ucla,oregon,16,0,1
+2007-11-24,2007,oklahoma,oklahoma state,49,17,1
+2007-11-24,2007,stanford,notre dame,14,21,0
+2007-11-24,2007,north carolina,duke,20,14,1
+2007-11-24,2007,fresno state,kansas state,45,29,1
+2007-11-24,2007,idaho,utah state,19,24,0
+2007-11-24,2007,houston,texas southern,59,6,1
+2007-11-24,2007,san josé state,nevada,27,24,1
+2007-11-24,2007,north texas,western kentucky,27,26,1
+2007-11-24,2007,northern illinois,ball state,21,27,0
+2007-11-24,2007,marshall,uab,46,39,1
+2007-11-24,2007,florida,florida state,45,12,1
+2007-11-24,2007,new mexico,unlv,27,6,1
+2007-11-24,2007,richmond,eastern kentucky,31,14,1
+2007-11-25,2007,washington,washington state,35,42,0
+2007-11-25,2007,south carolina,clemson,21,23,0
+2007-11-25,2007,louisiana,louisiana monroe,11,17,0
+2007-11-25,2007,florida international,florida atlantic,23,55,0
+2007-11-25,2007,syracuse,cincinnati,31,52,0
+2007-11-25,2007,northern iowa,new hampshire,38,35,1
+2007-11-25,2007,mcneese,eastern washington,15,44,0
+2007-11-25,2007,auburn,alabama,17,10,1
+2007-11-25,2007,san diego state,tcu,33,45,0
+2007-11-25,2007,kansas,missouri,28,36,0
+2007-11-30,2007,louisville,rutgers,41,38,1
+2007-12-01,2007,new mexico state,fresno state,23,30,0
+2007-12-01,2007,central michigan,miami (oh),35,10,1
+2007-12-01,2007,navy,army,38,3,1
+2007-12-01,2007,ucf,tulsa,44,25,1
+2007-12-01,2007,appalachian state,eastern washington,38,35,1
+2007-12-01,2007,dayton,albany,42,21,1
+2007-12-01,2007,boston college,virginia tech,16,30,0
+2007-12-01,2007,troy,florida atlantic,32,38,0
+2007-12-01,2007,northern iowa,delaware,27,39,0
+2007-12-01,2007,southern illinois,umass,34,27,1
+2007-12-01,2007,lsu,tennessee,21,14,1
+2007-12-01,2007,nevada,louisiana tech,49,10,1
+2007-12-01,2007,usc,ucla,24,7,1
+2007-12-01,2007,oregon,oregon state,31,38,0
+2007-12-01,2007,san diego state,byu,27,48,0
+2007-12-02,2007,florida international,north texas,38,19,1
+2007-12-02,2007,wofford,richmond,10,21,0
+2007-12-02,2007,stanford,california,20,13,1
+2007-12-02,2007,west virginia,pittsburgh,9,13,0
+2007-12-02,2007,arizona state,arizona,20,17,1
+2007-12-02,2007,missouri,oklahoma,17,38,0
+2007-12-02,2007,hawai'i,washington,35,28,1
