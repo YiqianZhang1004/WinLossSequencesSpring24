@@ -2,6 +2,7 @@ import json
 import csv
 
 def check_valid(game):
+    # checks if game is a regular season game and doesn't have missing essential values
     if game["season_type"] != "regular":
         return False
     if game["id"] is None:
@@ -22,6 +23,7 @@ def check_valid(game):
     return True
 
 def search_line_by_id(id, season):
+    # no line data for seasons prior to 2013
     if (season < 2013):
         return None
     
@@ -41,6 +43,10 @@ def get_average_lines(lines_list):
     if lines_list is None or len(lines_list) == 0:
         return average_data
     
+    # multiple sources used for betting line data
+    # finding average data 
+    # some stats are missing for some sources
+    # so have to manually count the total and number of non-missing data
     total_spread = 0
     num_spread = 0
     total_spread_open = 0
@@ -109,6 +115,7 @@ for season in seasons:
         raw_data = json.load(file)
 
     for game in raw_data:
+        # checks if each game is valid (doesn't have missing values and is a regular season game) by searching up its unique id
         if check_valid(game):
             id = int(game["id"])
             date = game["start_date"].split("T")[0]
@@ -117,19 +124,25 @@ for season in seasons:
             team2 = game["away_team"].lower()
             score1 = int(game["home_points"])
             score2 = int(game["away_points"])
+
+            # determing who won
             result = 0
             if score1 > score2:
                 result = 1
             elif score1 == score2:
                 result = 0.5
 
+
             betting_data = []
+            # search each game by id to find the lines data
             lines_data = search_line_by_id(id, season)
             if lines_data is not None:
                 lines_list = lines_data["lines"]
                 
+                # there are multiple sources used to find line data, so this averages them
                 betting_data = get_average_lines(lines_list)
-                    
+
+
             game_data = [date, game_season, team1, team2, score1, score2, result]
             for bet in betting_data:
                 game_data.append(bet)
@@ -141,10 +154,3 @@ for season in seasons:
         csv_writer = csv.writer(file)
 
         csv_writer.writerows(final_data)
-
-
-
-
-            
-
-    
