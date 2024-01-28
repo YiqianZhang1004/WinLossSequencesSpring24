@@ -84,17 +84,17 @@ def get_average_lines(lines_list):
             total_away_money_line += float(line["awayMoneyline"])
             num_away_money_line+=1
     if num_spread != 0:
-        average_data.append(round(total_spread/num_spread,3))
+        average_data[0] = round(total_spread/num_spread,3)
     if num_spread_open!=0:
-        average_data.append(round(total_spread_open/num_spread_open,3))
+        average_data[1] = round(total_spread_open/num_spread_open,3)
     if num_over_under!=0:
-        average_data.append(round(total_over_under/num_over_under,3))
+        average_data[2] = round(total_over_under/num_over_under,3)
     if num_over_under_open!=0:
-        average_data.append(round(total_over_under_open/num_over_under_open,3))
+        average_data[3] = round(total_over_under_open/num_over_under_open,3)
     if num_home_money_line!=0:
-        average_data.append(round(total_home_money_line/num_home_money_line,3))
+        average_data[4] = round(total_home_money_line/num_home_money_line,3)
     if num_away_money_line!=0:
-        average_data.append(round(total_away_money_line/num_away_money_line,3))
+        average_data[5] = round(total_away_money_line/num_away_money_line,3)
 
     return average_data
 
@@ -145,7 +145,7 @@ for season in seasons:
 
 
 
-with open("data/cfbd/raw_data/cfbd_all_seasons.csv", 'w', newline='') as file:
+with open("data/cfbd/processed_data/cfbd_all_seasons.csv", 'w', newline='') as file:
     csv_writer = csv.writer(file)
 
     csv_writer.writerows(final_data)
