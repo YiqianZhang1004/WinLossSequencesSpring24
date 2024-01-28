@@ -1,0 +1,773 @@
+,Rank,Rank.1,Rank.2,Team (FPV),Conf,Rec,Pts,CP,Last Week,Date,Year,BCS
+0,1,<,6,USC (25),Pac-12,0-0,1445,*3,DNP,PreseasonAug 18[2],2012,
+1,2,<,1,Alabama (17),SEC,0-0,1411,*2,DNP,PreseasonAug 18[2],2012,
+2,3,<,2,LSU (16),SEC,0-0,1402,*1,DNP,PreseasonAug 18[2],2012,
+3,4,<,16,Oklahoma (1),Big 12,0-0,1286,4,DNP,PreseasonAug 18[2],2012,
+4,5,<,4,Oregon,Pac-12,0-0,1274,5,DNP,PreseasonAug 18[2],2012,
+5,6,<,19,Georgia,SEC,0-0,1107,6,DNP,PreseasonAug 18[2],2012,
+6,7,<,23,Florida State,ACC,0-0,1093,7,DNP,PreseasonAug 18[2],2012,
+7,8,<,12,Michigan (1),Big Ten,0-0,1000,8,DNP,PreseasonAug 18[2],2012,
+8,9,<,9,South Carolina,SEC,0-0,994,9,DNP,PreseasonAug 18[2],2012,
+9,10,<,5,Arkansas,SEC,0-0,963,10,DNP,PreseasonAug 18[2],2012,
+10,11,<,17,West Virginia,Big 12,0-0,856,11,DNP,PreseasonAug 18[2],2012,
+11,12,<,10,Wisconsin,Big Ten,0-0,838,12,DNP,PreseasonAug 18[2],2012,
+12,13,<,11,Michigan State,Big Ten,0-0,742,13,DNP,PreseasonAug 18[2],2012,
+13,14,<,22,Clemson,ACC,0-0,615,14,DNP,PreseasonAug 18[2],2012,
+14,15,<,NR,Texas,Big 12,0-0,569,15,DNP,PreseasonAug 18[2],2012,
+15,16,<,21,Virginia Tech,ACC,0-0,548,20,DNP,PreseasonAug 18[2],2012,
+16,17,<,24,Nebraska,Big Ten,0-0,485,16,DNP,PreseasonAug 18[2],2012,
+17,18,<,NR,Ohio State,Big Ten,0-0,474,NR,DNP,PreseasonAug 18[2],2012,
+18,19,<,3,Oklahoma State,Big 12,0-0,430,19,DNP,PreseasonAug 18[2],2012,
+19,20,<,14,TCU,Big 12,0-0,397,17,DNP,PreseasonAug 18[2],2012,
+20,21,<,7,Stanford,Pac-12,0-0,383,18,DNP,PreseasonAug 18[2],2012,
+21,22,<,15,Kansas State,Big 12,0-0,300,21,DNP,PreseasonAug 18[2],2012,
+22,23,<,NR,Florida,SEC,0-0,214,23,DNP,PreseasonAug 18[2],2012,
+23,24,<,8,Boise State,MWC,0-0,212,22,DNP,PreseasonAug 18[2],2012,
+24,25,<,NR,Louisville,Big East,0-0,105,RV,DNP,PreseasonAug 18[2],2012,
+25,RV,<,NR,Notre Dame,Ind,0-0,83,24,DNP,PreseasonAug 18[2],2012,
+26,RV,<,NR,Washington,Pac-12,0-0,55,RV,DNP,PreseasonAug 18[2],2012,
+27,RV,<,NR,Auburn,SEC,0-0,53,25,DNP,PreseasonAug 18[2],2012,
+28,RV,<,NR,North Carolina,ACC,0-0,32,NR,DNP,PreseasonAug 18[2],2012,
+29,RV,<,NR,Utah,Pac-12,0-0,30,RV,DNP,PreseasonAug 18[2],2012,
+30,RV,<,NR,Georgia Tech,ACC,0-0,25,RV,DNP,PreseasonAug 18[2],2012,
+31,RV,<,NR,BYU,Ind,0-0,22,RV,DNP,PreseasonAug 18[2],2012,
+32,RV,<,NR,Tennessee,SEC,0-0,15,RV,DNP,PreseasonAug 18[2],2012,
+33,RV,<,NR,South Florida,Big East,0-0,11,RV,DNP,PreseasonAug 18[2],2012,
+34,RV,<,13,Baylor,Big 12,0-0,9,RV,DNP,PreseasonAug 18[2],2012,
+35,RV,<,NR,Texas A&M,SEC,0-0,5,RV,DNP,PreseasonAug 18[2],2012,
+36,RV,<,NR,UCF,CUSA,0-0,4,RV,DNP,PreseasonAug 18[2],2012,
+37,RV,<,25,Cincinnati,Big East,0-0,3,RV,DNP,PreseasonAug 18[2],2012,
+38,RV,<,NR,Missouri,SEC,0-0,3,RV,DNP,PreseasonAug 18[2],2012,
+39,RV,<,NR,NC State,ACC,0-0,3,RV,DNP,PreseasonAug 18[2],2012,
+40,RV,<,18,Houston,CUSA,0-0,1,RV,DNP,PreseasonAug 18[2],2012,
+41,RV,<,NR,Louisiana Tech,WAC,0-0,1,RV,DNP,PreseasonAug 18[2],2012,
+42,RV,<,NR,Mississippi State,SEC,0-0,1,RV,DNP,PreseasonAug 18[2],2012,
+43,RV,<,NR,Northern Illinois,MAC,0-0,1,RV,DNP,PreseasonAug 18[2],2012,
+44,NR,<,20,Southern Miss,CUSA,0-0,0,RV,DNP,PreseasonAug 18[2],2012,
+45,NR,<,NR,Florida International,Sun Belt,0-0,0,RV,DNP,PreseasonAug 18[2],2012,
+46,NR,<,NR,Rutgers,Big East,0-0,0,RV,DNP,PreseasonAug 18[2],2012,
+47,NR,<,NR,Texas Tech,Big 12,0-0,0,RV,DNP,PreseasonAug 18[2],2012,
+48,NR,<,NR,Virginia,ACC,0-0,0,RV,DNP,PreseasonAug 18[2],2012,
+49,1,<,2,Alabama (45),SEC,1-0,1481,*1,W 41-14 N #8 Michigan (Cowboys Classic),Week 1Sep 4[3],2012,
+50,2,<,1,USC (11),Pac-12,1-0,1435,*2,W 49-10 H Hawaii,Week 1Sep 4[3],2012,
+51,3,<,3,LSU (4),SEC,1-0,1382,*3,W 41-14 H North Texas,Week 1Sep 4[3],2012,
+52,4,<,5,Oregon,Pac-12,1-0,1295,*4,W 57-34 H Arkansas State,Week 1Sep 4[3],2012,
+53,5,<,4,Oklahoma,Big 12,1-0,1170,5,W 24-7 A UTEP,Week 1Sep 4[3],2012,
+54,6,<,7,Florida State,ACC,1-0,1135,6,W 69-3 H Murray State,Week 1Sep 4[3],2012,
+55,7,<,6,Georgia,SEC,1-0,1083,7,W 45-23 H Buffalo,Week 1Sep 4[3],2012,
+56,8,<,10,Arkansas,SEC,1-0,992,10,W 49-24 H Jacksonville State,Week 1Sep 4[3],2012,
+57,9,<,9,South Carolina,SEC,1-0,980,9,W 17-13 A Vanderbilt,Week 1Sep 4[3],2012,
+58,9,<,11,West Virginia,Big 12,1-0,980,8,W 69-34 H Marshall,Week 1Sep 4[3],2012,
+59,11,<,13,Michigan State,Big Ten,1-0,915,11,W 17-13 H #24 Boise State,Week 1Sep 4[3],2012,
+60,12,<,14,Clemson,ACC,1-0,788,12,W 26-19 N Auburn (Chick-fil-A Kickoff),Week 1Sep 4[3],2012,
+61,13,<,12,Wisconsin,Big Ten,1-0,664,13,W 26-21 H Northern Iowa,Week 1Sep 4[3],2012,
+62,14,<,18,Ohio State,Big Ten,1-0,634,NR,W 56-10 H Miami (OH),Week 1Sep 4[3],2012,
+63,15,<,16,Virginia Tech,ACC,1-0,604,18,W 20-17 (1OT) H Georgia Tech,Week 1Sep 4[3],2012,
+64,16,<,17,Nebraska,Big Ten,1-0,603,14,W 49-20 H Southern Miss,Week 1Sep 4[3],2012,
+65,17,<,15,Texas,Big 12,1-0,584,15,W 37-17 H Wyoming,Week 1Sep 4[3],2012,
+66,18,<,19,Oklahoma State,Big 12,1-0,558,16,W 84-0 H Savannah State,Week 1Sep 4[3],2012,
+67,19,<,8,Michigan,Big Ten,0-1,446,19,L 41-14 N #2 Alabama (Cowboys Classic),Week 1Sep 4[3],2012,
+68,20,<,20,TCU,Big 12,0-0,355,17,DNP,Week 1Sep 4[3],2012,
+69,21,<,22,Kansas State,Big 12,1-0,339,20,W 51-9 H Missouri State,Week 1Sep 4[3],2012,
+70,22,<,NR,Notre Dame,Ind,1-0,198,22,W 50-10 N Navy,Week 1Sep 4[3],2012,
+71,23,<,25,Louisville,Big East,1-0,190,24,W 32-14 H Kentucky,Week 1Sep 4[3],2012,
+72,24,<,23,Florida,SEC,1-0,145,23,W 27-14 H Bowling Green,Week 1Sep 4[3],2012,
+73,25,<,21,Stanford,Pac-12,1-0,131,21,W 20-17 H San Jose State,Week 1Sep 4[3],2012,
+74,RV,<,24,Boise State,MWC,0-1,79,25,L 17-13 A #13 Michigan State,Week 1Sep 4[3],2012,
+75,RV,<,NR,Tennessee,SEC,1-0,73,RV,W 35-21 H NC State,Week 1Sep 4[3],2012,
+76,RV,<,NR,BYU,Ind,1-0,63,RV,W 30-6 H Washington State,Week 1Sep 4[3],2012,
+77,RV,<,NR,North Carolina,ACC,1-0,48,NR,W 62-0 H Elon,Week 1Sep 4[3],2012,
+78,RV,<,NR,Baylor,Big 12,1-0,38,RV,W 59-24 H SMU,Week 1Sep 4[3],2012,
+79,RV,<,NR,Utah,Pac-12,1-0,34,RV,W 41-0 H Northern Colorado,Week 1Sep 4[3],2012,
+80,RV,<,NR,Washington,Pac-12,1-0,15,RV,W 21-12 H San Diego State,Week 1Sep 4[3],2012,
+81,RV,<,NR,Georgia Tech,ACC,0-1,14,RV,L 20-17 (1OT) A #16 Virginia Tech,Week 1Sep 4[3],2012,
+82,RV,<,NR,Ohio,MAC,1-0,10,RV,W 24-14 A Penn State,Week 1Sep 4[3],2012,
+83,RV,<,NR,Texas State,WAC,1-0,10,NR,W 30-13 A Houston,Week 1Sep 4[3],2012,
+84,RV,<,NR,Missouri,SEC,1-0,7,RV,W 62-10 H Southeastern Louisiana,Week 1Sep 4[3],2012,
+85,RV,<,NR,South Florida,Big East,1-0,5,RV,W 34-13 H Chattanooga,Week 1Sep 4[3],2012,
+86,RV,<,NR,Texas A&M,SEC,0-0,5,RV,DNP,Week 1Sep 4[3],2012,
+87,RV,<,NR,UCF,CUSA,1-0,4,RV,W 56-14 A Akron,Week 1Sep 4[3],2012,
+88,RV,<,NR,Auburn,SEC,0-1,3,RV,L 26-19 N #14 Clemson (Chick-fil-A Kickoff),Week 1Sep 4[3],2012,
+89,RV,<,NR,Mississippi State,SEC,1-0,3,RV,W 56-9 H Jackson State,Week 1Sep 4[3],2012,
+90,RV,<,NR,Cincinnati,Big East,0-0,2,RV,DNP,Week 1Sep 4[3],2012,
+91,NR,<,NR,Arizona,Pac-12,1-0,0,RV,W 24-17 (1OT) H Toledo,Week 1Sep 4[3],2012,
+92,NR,<,NR,Louisiana Tech,WAC,0-0,0,RV,DNP,Week 1Sep 4[3],2012,
+93,NR,<,NR,Nevada,MWC,1-0,0,RV,W 31-24 A California,Week 1Sep 4[3],2012,
+94,NR,<,NR,Northwestern,Big Ten,1-0,0,RV,W 42-41 A Syracuse,Week 1Sep 4[3],2012,
+95,NR,<,NR,Rutgers,Big East,1-0,0,RV,W 24-12 A Tulane,Week 1Sep 4[3],2012,
+96,NR,<,NR,Texas Tech,Big 12,1-0,0,RV,W 44-6 H Northwestern State,Week 1Sep 4[3],2012,
+97,NR,<,NR,Vanderbilt,SEC,0-1,0,RV,L 17-13 H #9 South Carolina,Week 1Sep 4[3],2012,
+98,NR,<,NR,Virginia,ACC,1-0,0,RV,W 43-19 H Richmond,Week 1Sep 4[3],2012,
+99,1,<,1,Alabama (48),SEC,2-0,1486,*1,W 35-0 H Western Kentucky,Week 2Sep 9[4],2012,
+100,2,<,2,USC (8),Pac-12,2-0,1414,*3,W 42-29 N Syracuse,Week 2Sep 9[4],2012,
+101,3,<,3,LSU (4),SEC,2-0,1404,*2,W 41-3 H Washington,Week 2Sep 9[4],2012,
+102,4,<,4,Oregon,Pac-12,2-0,1299,*4,W 42-25 H Fresno State,Week 2Sep 9[4],2012,
+103,5,<,5,Oklahoma,Big 12,2-0,1160,5,W 69-13 H Florida A&M,Week 2Sep 9[4],2012,
+104,5,<,6,Florida State,ACC,2-0,1160,6,W 55-0 H Savannah State,Week 2Sep 9[4],2012,
+105,7,<,7,Georgia,SEC,2-0,1155,7,W 41-20 A Missouri,Week 2Sep 9[4],2012,
+106,8,<,9,South Carolina,SEC,2-0,1025,9,W 48-10 H East Carolina,Week 2Sep 9[4],2012,
+107,9,<,9,West Virginia,Big 12,1-0,1017,8,DNP,Week 2Sep 9[4],2012,
+108,10,<,11,Michigan State,Big Ten,2-0,995,10,W 41-7 A Central Michigan,Week 2Sep 9[4],2012,
+109,11,<,12,Clemson,ACC,2-0,868,11,W 52-27 H Ball State,Week 2Sep 9[4],2012,
+110,12,<,14,Ohio State,Big Ten,2-0,772,NR,W 31-16 H UCF,Week 2Sep 9[4],2012,
+111,13,<,15,Virginia Tech,ACC,2-0,734,13,W 42-7 H Austin Peay,Week 2Sep 9[4],2012,
+112,14,<,17,Texas,Big 12,2-0,716,12,W 45-0 H New Mexico,Week 2Sep 9[4],2012,
+113,15,<,21,Kansas State,Big 12,2-0,714,14,W 52-13 H Miami (FL),Week 2Sep 9[4],2012,
+114,16,<,20,TCU,Big 12,1-0,542,15,W 56-0 H Grambling State,Week 2Sep 9[4],2012,
+115,17,<,19,Michigan,Big Ten,1-1,429,18,W 31-25 H Air Force,Week 2Sep 9[4],2012,
+116,18,<,24,Florida,SEC,2-0,427,17,W 20-17 A Texas A&M,Week 2Sep 9[4],2012,
+117,19,<,23,Louisville,Big East,2-0,316,20,W 35-7 H Missouri State,Week 2Sep 9[4],2012,
+118,20,<,22,Notre Dame,Ind,2-0,310,19,W 20-17 H Purdue,Week 2Sep 9[4],2012,
+119,21,<,25,Stanford,Pac-12,2-0,260,16,W 50-13 H Duke,Week 2Sep 9[4],2012,
+120,22,<,NR,UCLA,Pac-12,2-0,250,23,W 36-30 H #16 Nebraska,Week 2Sep 9[4],2012,
+121,23,<,NR,Tennessee,SEC,2-0,177,RV,W 51-13 H Georgia State,Week 2Sep 9[4],2012,
+122,24,<,NR,Arizona,Pac-12,2-0,149,25,W 59-38 H #18 Oklahoma State,Week 2Sep 9[4],2012,
+123,25,<,NR,BYU,Ind,2-0,110,RV,W 45-13 H Weber State,Week 2Sep 9[4],2012,
+124,RV,<,NR,Boise State,MWC,0-1,106,RV,DNP,Week 2Sep 9[4],2012,
+125,RV,<,8,Arkansas,SEC,1-1,79,21,L 34-31 (1OT) H Louisiana-Monroe,Week 2Sep 9[4],2012,
+126,RV,<,16,Nebraska,Big Ten,1-1,79,24,L 36-30 A UCLA,Week 2Sep 9[4],2012,
+127,RV,<,NR,Oregon State,Pac-12,1-0,77,RV,W 10-7 H #13 Wisconsin,Week 2Sep 9[4],2012,
+128,RV,<,NR,Mississippi State,SEC,2-0,70,RV,W 28-10 H Auburn,Week 2Sep 9[4],2012,
+129,RV,<,NR,Baylor,Big 12,1-0,54,RV,DNP,Week 2Sep 9[4],2012,
+130,RV,<,13,Wisconsin,Big Ten,1-1,44,22,L 10-7 A Oregon State,Week 2Sep 9[4],2012,
+131,RV,<,NR,Louisiana Monroe,Sun Belt,1-0,23,RV,W 34-31 (1OT) A #8 Arkansas,Week 2Sep 9[4],2012,
+132,RV,<,NR,Ohio,MAC,2-0,17,RV,W 51-24 H New Mexico State,Week 2Sep 9[4],2012,
+133,RV,<,NR,Georgia Tech,ACC,1-1,15,RV,W 59-3 H Presbyterian,Week 2Sep 9[4],2012,
+134,RV,<,18,Oklahoma State,Big 12,1-1,13,RV,L 59-38 A Arizona State,Week 2Sep 9[4],2012,
+135,RV,<,NR,South Florida,Big East,2-0,12,RV,W 32-31 A Nevada,Week 2Sep 9[4],2012,
+136,RV,<,NR,Arizona State,Pac-12,2-0,10,RV,W 45-14 H Illinois,Week 2Sep 9[4],2012,
+137,RV,<,NR,Iowa State,Big 12,2-0,5,RV,W 9-6 A Iowa,Week 2Sep 9[4],2012,
+138,RV,<,NR,Northwestern,Big Ten,2-0,5,RV,W 23-13 H Vanderbilt,Week 2Sep 9[4],2012,
+139,RV,<,NR,North Carolina,ACC,1-1,1,NR,L 28-27 A Wake Forest,Week 2Sep 9[4],2012,
+140,RV,<,NR,Utah State,WAC,2-0,1,NR,W 27-20 (1OT) H Utah,Week 2Sep 9[4],2012,
+141,NR,<,NR,Cincinnati,Big East,1-0,0,RV,W 34-10 H Pittsburgh,Week 2Sep 9[4],2012,
+142,NR,<,NR,Louisiana Tech,WAC,1-0,0,RV,W 56-49 A Houston,Week 2Sep 9[4],2012,
+143,NR,<,NR,Mississippi,SEC,2-0,0,RV,W 28-10 H UTEP,Week 2Sep 9[4],2012,
+144,NR,<,NR,Nevada,MWC,1-1,0,RV,L 32-31 H South Florida,Week 2Sep 9[4],2012,
+145,NR,<,NR,Rutgers,Big East,2-0,0,RV,W 26-0 H Howard,Week 2Sep 9[4],2012,
+146,NR,<,NR,Texas A&M,SEC,0-1,0,RV,L 20-17 H #24 Florida,Week 2Sep 9[4],2012,
+147,NR,<,NR,Texas Tech,Big 12,2-0,0,RV,W 58-10 A Texas State,Week 2Sep 9[4],2012,
+148,NR,<,NR,Virginia,ACC,2-0,0,RV,W 17-16 H Penn State,Week 2Sep 9[4],2012,
+149,NR,<,NR,Wake Forest,ACC,2-0,0,RV,W 28-27 H North Carolina,Week 2Sep 9[4],2012,
+150,NR,<,NR,Washington,Pac-12,1-1,0,RV,L 41-3 A #3 LSU,Week 2Sep 9[4],2012,
+151,1,<,1,Alabama (58),SEC,3-0,1498,*1,W 52-0 A Arkansas,Week 3Sep 16[5],2012,
+152,2,<,3,LSU (2),SEC,3-0,1433,*2,W 63-14 H Idaho,Week 3Sep 16[5],2012,
+153,3,<,4,Oregon,Pac-12,3-0,1356,3,W 63-14 H Tennessee Tech,Week 3Sep 16[5],2012,
+154,4,<,5,Florida State,ACC,3-0,1275,4,W 52-0 H Wake Forest,Week 3Sep 16[5],2012,
+155,5,<,7,Georgia,SEC,3-0,1203,6,W 56-20 H Florida Atlantic,Week 3Sep 16[5],2012,
+156,6,<,5,Oklahoma,Big 12,2-0,1181,5,DNP,Week 3Sep 16[5],2012,
+157,7,<,8,South Carolina,SEC,3-0,1081,8,W 49-6 H UAB,Week 3Sep 16[5],2012,
+158,8,<,9,West Virginia,Big 12,2-0,1051,7,W 42-12 H James Madison,Week 3Sep 16[5],2012,
+159,9,<,21,Stanford,Pac-12,3-0,1009,11,W 21-14 H #2 USC,Week 3Sep 16[5],2012,
+160,10,<,11,Clemson,ACC,3-0,899,9,W 41-7 H Furman,Week 3Sep 16[5],2012,
+161,11,<,20,Notre Dame,Ind,3-0,854,15,W 20-3 A #10 Michigan State,Week 3Sep 16[5],2012,
+162,12,<,14,Texas,Big 12,3-0,816,10,W 66-31 A Mississippi,Week 3Sep 16[5],2012,
+163,13,<,2,USC,Pac-12,2-1,776,12,L 21-14 A #21 Stanford,Week 3Sep 16[5],2012,
+164,14,<,18,Florida,SEC,3-0,743,14,W 37-20 A #23 Tennessee,Week 3Sep 16[5],2012,
+165,15,<,15,Kansas State,Big 12,3-0,683,13,W 35-21 H North Texas,Week 3Sep 16[5],2012,
+166,16,<,12,Ohio State,Big Ten,3-0,680,NR,W 35-28 H California,Week 3Sep 16[5],2012,
+167,17,<,16,TCU,Big 12,2-0,535,16,W 20-6 A Kansas,Week 3Sep 16[5],2012,
+168,18,<,17,Michigan,Big Ten,2-1,448,17,W 63-13 H Massachusetts,Week 3Sep 16[5],2012,
+169,19,<,22,UCLA,Pac-12,3-0,429,19,W 37-6 H Houston,Week 3Sep 16[5],2012,
+170,20,<,19,Louisville,Big East,3-0,366,18,W 39-34 H North Carolina,Week 3Sep 16[5],2012,
+171,21,<,10,Michigan State,Big Ten,2-1,318,20,L 20-3 H #20 Notre Dame,Week 3Sep 16[5],2012,
+172,22,<,24,Arizona,Pac-12,3-0,296,21,W 56-0 H South Carolina State,Week 3Sep 16[5],2012,
+173,23,<,NR,Mississippi State,SEC,3-0,106,23,W 30-24 A Troy,Week 3Sep 16[5],2012,
+174,24,<,NR,Boise State,MWC,1-1,95,RV,W 39-12 H Miami (OH),Week 3Sep 16[5],2012,
+175,25,<,NR,Nebraska,Big Ten,2-1,80,22,W 42-13 H Arkansas State,Week 3Sep 16[5],2012,
+176,RV,<,NR,Oregon State,Pac-12,1-0,68,RV,DNP,Week 3Sep 16[5],2012,
+177,RV,<,NR,Baylor,Big 12,2-0,55,RV,W 48-23 H Sam Houston State,Week 3Sep 16[5],2012,
+178,RV,<,NR,Northwestern,Big Ten,3-0,41,RV,W 22-13 H Boston College,Week 3Sep 16[5],2012,
+179,RV,<,NR,Ohio,MAC,3-0,20,RV,W 27-24 A Marshall,Week 3Sep 16[5],2012,
+180,RV,<,NR,Oklahoma State,Big 12,2-1,19,25,W 65-24 H Louisiana-Lafayette,Week 3Sep 16[5],2012,
+181,RV,<,NR,Rutgers,Big East,3-0,19,RV,W 23-13 A South Florida,Week 3Sep 16[5],2012,
+182,RV,<,NR,Iowa State,Big 12,3-0,15,RV,W 37-3 H Western Illinois,Week 3Sep 16[5],2012,
+183,RV,<,13,Virginia Tech,ACC,2-1,13,RV,L 35-17 A Pittsburgh,Week 3Sep 16[5],2012,
+184,RV,<,NR,Cincinnati,Big East,2-0,9,RV,W 23-7 H Delaware State,Week 3Sep 16[5],2012,
+185,RV,<,23,Tennessee,SEC,2-1,6,RV,L 37-20 H #18 Florida,Week 3Sep 16[5],2012,
+186,RV,<,NR,Texas Tech,Big 12,3-0,5,RV,W 49-14 H New Mexico,Week 3Sep 16[5],2012,
+187,RV,<,NR,Wisconsin,Big Ten,2-1,5,24,W 16-14 H Utah State,Week 3Sep 16[5],2012,
+188,RV,<,NR,Missouri,SEC,2-1,4,RV,W 24-20 H Arizona State,Week 3Sep 16[5],2012,
+189,RV,<,NR,Texas A&M,SEC,1-1,4,RV,W 48-3 A SMU,Week 3Sep 16[5],2012,
+190,RV,<,NR,Georgia Tech,ACC,2-1,3,RV,W 56-20 H Virginia,Week 3Sep 16[5],2012,
+191,RV,<,NR,Fresno State,MWC,2-1,2,NR,W 69-14 H Colorado,Week 3Sep 16[5],2012,
+192,RV,<,NR,Utah,Pac-12,2-1,1,RV,W 24-21 H #25 BYU,Week 3Sep 16[5],2012,
+193,NR,<,25,BYU,Ind,2-1,0,RV,L 24-21 A Utah,Week 3Sep 16[5],2012,
+194,NR,<,NR,Arizona State,Pac-12,2-1,0,RV,L 24-20 A Missouri,Week 3Sep 16[5],2012,
+195,NR,<,NR,Arkansas,SEC,1-2,0,NR,L 52-0 H #1 Alabama,Week 3Sep 16[5],2012,
+196,NR,<,NR,Louisiana Monroe,Sun Belt,1-1,0,RV,L 31-28 (1OT) A Auburn,Week 3Sep 16[5],2012,
+197,NR,<,NR,Louisiana Tech,WAC,2-0,0,RV,W 56-37 H Rice,Week 3Sep 16[5],2012,
+198,NR,<,NR,San Jose State,WAC,2-1,0,RV,W 40-20 H Colorado State,Week 3Sep 16[5],2012,
+199,NR,<,NR,Washington,Pac-12,2-1,0,RV,W 52-13 H Portland State,Week 3Sep 16[5],2012,
+200,NR,<,NR,Western Kentucky,Sun Belt,2-1,0,NR,W 32-31 (1OT) A Kentucky,Week 3Sep 16[5],2012,
+201,1,<,1,Alabama (59),SEC,4-0,1499,*1,W 40-7 H Florida Atlantic,Week 4Sep 23[6],2012,
+202,2,<,3,Oregon,Pac-12,4-0,1414,2,W 49-0 H #22 Arizona,Week 4Sep 23[6],2012,
+203,3,<,2,LSU (1),SEC,4-0,1346,*3,W 12-10 A Auburn,Week 4Sep 23[6],2012,
+204,4,<,4,Florida State,ACC,4-0,1340,*4,W 49-37 H #10 Clemson,Week 4Sep 23[6],2012,
+205,5,<,5,Georgia,SEC,4-0,1245,5,W 48-3 H Vanderbilt,Week 4Sep 23[6],2012,
+206,6,<,7,South Carolina,SEC,4-0,1147,6,W 31-10 H Missouri,Week 4Sep 23[6],2012,
+207,7,<,15,Kansas State,Big 12,4-0,1067,8,W 24-19 A #6 Oklahoma,Week 4Sep 23[6],2012,
+208,8,<,9,Stanford,Pac-12,3-0,1055,9,DNP,Week 4Sep 23[6],2012,
+209,9,<,8,West Virginia,Big 12,3-0,1045,7,W 31-21 H Maryland,Week 4Sep 23[6],2012,
+210,10,<,11,Notre Dame,Ind,4-0,1003,11,W 13-6 H #18 Michigan,Week 4Sep 23[6],2012,
+211,11,<,14,Florida,SEC,4-0,864,12,W 38-0 H Kentucky,Week 4Sep 23[6],2012,
+212,12,<,12,Texas,Big 12,3-0,856,10,DNP,Week 4Sep 23[6],2012,
+213,13,<,13,USC,Pac-12,3-1,801,13,W 27-9 H California,Week 4Sep 23[6],2012,
+214,14,<,16,Ohio State,Big Ten,4-0,633,NR,W 29-15 H UAB,Week 4Sep 23[6],2012,
+215,15,<,17,TCU,Big 12,3-0,616,14,W 27-7 H Virginia,Week 4Sep 23[6],2012,
+216,16,<,6,Oklahoma,Big 12,2-1,611,15,L 24-19 H #15 Kansas State,Week 4Sep 23[6],2012,
+217,17,<,10,Clemson,ACC,3-1,588,16,L 49-37 A #4 Florida State,Week 4Sep 23[6],2012,
+218,18,<,NR,Oregon State,Pac-12,2-0,451,21,W 27-20 A #19 UCLA,Week 4Sep 23[6],2012,
+219,19,<,20,Louisville,Big East,4-0,414,17,W 28-21 A FIU,Week 4Sep 23[6],2012,
+220,20,<,21,Michigan State,Big Ten,3-1,348,18,W 23-7 H Eastern Michigan,Week 4Sep 23[6],2012,
+221,21,<,23,Mississippi State,SEC,4-0,246,19,W 30-10 H South Alabama,Week 4Sep 23[6],2012,
+222,22,<,25,Nebraska,Big Ten,3-1,179,20,W 73-7 H Idaho State,Week 4Sep 23[6],2012,
+223,23,<,NR,Rutgers,Big East,4-0,128,25,W 35-26 A Arkansas,Week 4Sep 23[6],2012,
+224,24,<,24,Boise State,MWC,2-1,114,RV,W 7-6 H BYU,Week 4Sep 23[6],2012,
+225,25,<,NR,Baylor,Big 12,3-0,92,24,W 47-42 A Louisiana-Monroe,Week 4Sep 23[6],2012,
+226,RV,<,NR,Northwestern,Big Ten,4-0,89,RV,W 38-7 H South Dakota,Week 4Sep 23[6],2012,
+227,RV,<,19,UCLA,Pac-12,3-1,79,RV,L 27-20 H Oregon State,Week 4Sep 23[6],2012,
+228,RV,<,18,Michigan,Big Ten,2-2,44,RV,L 13-6 A #11 Notre Dame,Week 4Sep 23[6],2012,
+229,RV,<,NR,Ohio,MAC,4-0,40,RV,W 44-10 H Norfolk State,Week 4Sep 23[6],2012,
+230,RV,<,NR,Virginia Tech,ACC,3-1,26,25,W 37-0 H Bowling Green,Week 4Sep 23[6],2012,
+231,RV,<,22,Arizona,Pac-12,3-1,17,RV,L 49-0 A #3 Oregon,Week 4Sep 23[6],2012,
+232,RV,<,NR,Iowa State,Big 12,3-0,16,RV,DNP,Week 4Sep 23[6],2012,
+233,RV,<,NR,Wisconsin,Big Ten,3-1,13,23,W 37-26 H UTEP,Week 4Sep 23[6],2012,
+234,RV,<,NR,Oklahoma State,Big 12,2-1,12,22,DNP,Week 4Sep 23[6],2012,
+235,RV,<,NR,Texas A&M,SEC,2-1,11,RV,W 70-14 H South Carolina State,Week 4Sep 23[6],2012,
+236,RV,<,NR,Cincinnati,Big East,2-0,10,RV,DNP,Week 4Sep 23[6],2012,
+237,RV,<,NR,Tennessee,SEC,3-1,10,RV,W 47-26 H Akron,Week 4Sep 23[6],2012,
+238,RV,<,NR,Texas Tech,Big 12,3-0,10,RV,DNP,Week 4Sep 23[6],2012,
+239,RV,<,NR,Arizona State,Pac-12,3-1,8,RV,W 37-7 H Utah,Week 4Sep 23[6],2012,
+240,RV,<,NR,Louisiana Tech,WAC,3-0,7,RV,W 52-24 A Illinois,Week 4Sep 23[6],2012,
+241,RV,<,NR,Purdue,Big Ten,2-1,5,RV,DNP,Week 4Sep 23[6],2012,
+242,RV,<,NR,Miami (FL),ACC,3-1,1,RV,W 42-36 (1OT) A Georgia Tech,Week 4Sep 23[6],2012,
+243,NR,<,NR,Louisiana Monroe,Sun Belt,1-2,0,RV,L 47-42 H Baylor,Week 4Sep 23[6],2012,
+244,NR,<,NR,Minnesota,Big Ten,4-0,0,RV,W 17-10 H Syracuse,Week 4Sep 23[6],2012,
+245,NR,<,NR,San Jose State,WAC,3-1,0,RV,W 38-34 A San Diego State,Week 4Sep 23[6],2012,
+246,NR,<,NR,Washington,Pac-12,2-1,0,RV,DNP,Week 4Sep 23[6],2012,
+247,NR,<,NR,Western Kentucky,Sun Belt,3-1,0,RV,W 42-17 H Southern Miss,Week 4Sep 23[6],2012,
+248,1,<,1,Alabama (60),SEC,5-0,1500,*1,W 33-14 H Mississippi,Week 5Sep 30[7],2012,
+249,2,<,2,Oregon,Pac-12,5-0,1430,2,W 51-26 A Washington State,Week 5Sep 30[7],2012,
+250,3,<,4,Florida State,ACC,5-0,1349,*4,W 30-17 A South Florida,Week 5Sep 30[7],2012,
+251,4,<,3,LSU,SEC,5-0,1310,*3,W 38-22 H Towson,Week 5Sep 30[7],2012,
+252,5,<,5,Georgia,SEC,5-0,1252,5,W 51-44 H Tennessee,Week 5Sep 30[7],2012,
+253,6,<,6,South Carolina,SEC,5-0,1152,6,W 38-17 A Kentucky,Week 5Sep 30[7],2012,
+254,7,<,7,Kansas State,Big 12,4-0,1123,8,DNP,Week 5Sep 30[7],2012,
+255,8,<,9,West Virginia,Big 12,4-0,1066,7,W 70-63 H #25 Baylor,Week 5Sep 30[7],2012,
+256,9,<,10,Notre Dame,Ind,4-0,1043,10,DNP,Week 5Sep 30[7],2012,
+257,10,<,11,Florida,SEC,4-0,937,11,DNP,Week 5Sep 30[7],2012,
+258,11,<,12,Texas,Big 12,4-0,932,9,W 41-36 A Oklahoma State,Week 5Sep 30[7],2012,
+259,12,<,14,Ohio State,Big Ten,5-0,793,NR,W 17-16 A #20 Michigan State,Week 5Sep 30[7],2012,
+260,13,<,13,USC,Pac-12,3-1,703,12,DNP,Week 5Sep 30[7],2012,
+261,14,<,18,Oregon State,Pac-12,3-0,647,17,W 38-35 A Arizona,Week 5Sep 30[7],2012,
+262,15,<,15,TCU,Big 12,4-0,608,13,W 24-16 A SMU,Week 5Sep 30[7],2012,
+263,15,<,17,Clemson,ACC,4-1,608,15,W 45-31 A Boston College,Week 5Sep 30[7],2012,
+264,17,<,16,Oklahoma,Big 12,2-1,581,14,DNP,Week 5Sep 30[7],2012,
+265,18,<,8,Stanford,Pac-12,3-1,509,18,L 17-13 A Washington,Week 5Sep 30[7],2012,
+266,19,<,19,Louisville,Big East,5-0,404,16,W 21-17 A Southern Miss,Week 5Sep 30[7],2012,
+267,20,<,21,Mississippi State,SEC,4-0,306,19,DNP,Week 5Sep 30[7],2012,
+268,21,<,22,Nebraska,Big Ten,4-1,240,20,W 30-27 H Wisconsin,Week 5Sep 30[7],2012,
+269,22,<,23,Rutgers,Big East,4-0,160,21,DNP,Week 5Sep 30[7],2012,
+270,23,<,NR,Washington,Pac-12,3-1,159,RV,W 17-13 H #8 Stanford,Week 5Sep 30[7],2012,
+271,24,<,NR,Northwestern,Big Ten,5-0,143,22,W 44-29 H Indiana,Week 5Sep 30[7],2012,
+272,25,<,NR,UCLA,Pac-12,4-1,122,RV,W 42-14 A Colorado,Week 5Sep 30[7],2012,
+273,RV,<,NR,Cincinnati,Big East,3-0,72,23,W 27-24 H Virginia Tech,Week 5Sep 30[7],2012,
+274,RV,<,24,Boise State,MWC,3-1,53,25,W 32-29 A New Mexico,Week 5Sep 30[7],2012,
+275,RV,<,NR,Texas A&M,SEC,3-1,51,RV,W 58-10 H Arkansas,Week 5Sep 30[7],2012,
+276,RV,<,20,Michigan State,Big Ten,3-2,43,RV,L 17-16 H #14 Ohio State,Week 5Sep 30[7],2012,
+277,RV,<,NR,Texas Tech,Big 12,4-0,39,24,W 24-13 A Iowa State,Week 5Sep 30[7],2012,
+278,RV,<,NR,Michigan,Big Ten,2-2,38,RV,DNP,Week 5Sep 30[7],2012,
+279,RV,<,NR,Louisiana Tech,WAC,4-0,37,RV,W 44-38 A Virginia,Week 5Sep 30[7],2012,
+280,RV,<,25,Baylor,Big 12,3-1,31,RV,L 70-63 A #9 West Virginia,Week 5Sep 30[7],2012,
+281,RV,<,NR,Ohio,MAC,5-0,30,RV,W 37-34 A Massachusetts,Week 5Sep 30[7],2012,
+282,RV,<,NR,Arizona State,Pac-12,4-1,15,RV,W 27-17 A California,Week 5Sep 30[7],2012,
+283,RV,<,NR,Arizona,Pac-12,3-2,4,NR,L 38-35 H #18 Oregon State,Week 5Sep 30[7],2012,
+284,RV,<,NR,Miami (FL),ACC,4-1,4,RV,W 44-37 H NC State,Week 5Sep 30[7],2012,
+285,RV,<,NR,Iowa State,Big 12,3-1,3,NR,L 24-13 H Texas Tech,Week 5Sep 30[7],2012,
+286,RV,<,NR,Tennessee,SEC,3-2,3,NR,L 51-44 A #5 Georgia,Week 5Sep 30[7],2012,
+287,NR,<,NR,Louisiana Monroe,Sun Belt,2-2,0,RV,W 63-10 A Tulane,Week 5Sep 30[7],2012,
+288,NR,<,NR,Oklahoma State,Big 12,2-2,0,RV,L 41-36 H #12 Texas,Week 5Sep 30[7],2012,
+289,NR,<,NR,Purdue,Big Ten,3-1,0,RV,W 51-41 H Marshall,Week 5Sep 30[7],2012,
+290,NR,<,NR,San Jose State,WAC,4-1,0,RV,W 12-0 A Navy,Week 5Sep 30[7],2012,
+291,NR,<,NR,Toledo,MAC,4-1,0,RV,W 37-17 A Western Michigan,Week 5Sep 30[7],2012,
+292,NR,<,NR,Tulsa,CUSA,4-1,0,RV,W 49-42 A UAB,Week 5Sep 30[7],2012,
+293,NR,<,NR,Virginia Tech,ACC,3-2,0,RV,L 27-24 A Cincinnati,Week 5Sep 30[7],2012,
+294,NR,<,NR,Wisconsin,Big Ten,3-2,0,RV,L 30-27 A #22 Nebraska,Week 5Sep 30[7],2012,
+295,1,<,1,Alabama (60),SEC,5-0,1500,*1,DNP,Week 6Oct 7[8],2012,
+296,2,<,2,Oregon,Pac-12,6-0,1435,*2,W 52-21 H #23 Washington,Week 6Oct 7[8],2012,
+297,3,<,6,South Carolina,SEC,6-0,1359,3,W 35-7 H #5 Georgia,Week 6Oct 7[8],2012,
+298,4,<,10,Florida,SEC,5-0,1265,6,W 14-6 H #4 LSU,Week 6Oct 7[8],2012,
+299,5,<,8,West Virginia,Big 12,5-0,1260,4,W 48-45 A #11 Texas,Week 6Oct 7[8],2012,
+300,6,<,7,Kansas State,Big 12,5-0,1217,5,W 56-16 H Kansas,Week 6Oct 7[8],2012,
+301,7,<,9,Notre Dame,Ind,5-0,1176,7,W 41-3 N Miami (FL),Week 6Oct 7[8],2012,
+302,8,<,12,Ohio State,Big Ten,6-0,1053,NR,W 63-38 H #21 Nebraska,Week 6Oct 7[8],2012,
+303,9,<,4,LSU,SEC,5-1,938,8,L 14-6 A #10 Florida,Week 6Oct 7[8],2012,
+304,10,<,14,Oregon State,Pac-12,4-0,873,14,W 19-6 H Washington State,Week 6Oct 7[8],2012,
+305,11,<,13,USC,Pac-12,4-1,812,9,W 38-28 A Utah,Week 6Oct 7[8],2012,
+306,12,<,3,Florida State,ACC,5-1,800,11,L 17-16 A NC State,Week 6Oct 7[8],2012,
+307,13,<,17,Oklahoma,Big 12,3-1,756,10,W 41-20 A Texas Tech,Week 6Oct 7[8],2012,
+308,14,<,5,Georgia,SEC,5-1,733,12,L 35-7 A #6 South Carolina,Week 6Oct 7[8],2012,
+309,15,<,11,Texas,Big 12,4-1,711,15,L 48-45 H #8 West Virginia,Week 6Oct 7[8],2012,
+310,16,<,15,Clemson,ACC,5-1,657,13,W 47-31 H Georgia Tech,Week 6Oct 7[8],2012,
+311,17,<,18,Stanford,Pac-12,4-1,587,17,W 54-48 (1OT) H Arizona,Week 6Oct 7[8],2012,
+312,18,<,19,Louisville,Big East,5-0,494,16,DNP,Week 6Oct 7[8],2012,
+313,19,<,20,Mississippi State,SEC,5-0,450,18,W 27-14 A Kentucky,Week 6Oct 7[8],2012,
+314,20,<,22,Rutgers,Big East,5-0,331,19,W 19-3 H Connecticut,Week 6Oct 7[8],2012,
+315,21,<,NR,Cincinnati,Big East,4-0,205,20,W 52-14 H Miami (OH),Week 6Oct 7[8],2012,
+316,22,<,NR,Texas A&M,SEC,4-1,153,21,W 30-27 A Mississippi,Week 6Oct 7[8],2012,
+317,23,<,NR,Louisiana Tech,WAC,5-0,129,24,W 58-31 H UNLV,Week 6Oct 7[8],2012,
+318,24,<,NR,Boise State,MWC,4-1,114,22,W 40-14 A Southern Miss,Week 6Oct 7[8],2012,
+319,25,<,NR,Michigan,Big Ten,3-2,82,RV,W 44-13 A Purdue,Week 6Oct 7[8],2012,
+320,RV,<,NR,Ohio,MAC,6-0,79,RV,W 38-31 H Buffalo,Week 6Oct 7[8],2012,
+321,RV,<,NR,Baylor,Big 12,3-1,62,RV,DNP,Week 6Oct 7[8],2012,
+322,RV,<,NR,Iowa State,Big 12,4-1,54,25,W 37-23 A #15 TCU,Week 6Oct 7[8],2012,
+323,RV,<,15,TCU,Big 12,4-1,50,23,L 37-23 H Iowa State,Week 6Oct 7[8],2012,
+324,RV,<,NR,Michigan State,Big Ten,4-2,49,RV,W 31-27 A Indiana,Week 6Oct 7[8],2012,
+325,RV,<,23,Washington,Pac-12,3-2,39,NR,L 52-21 A #2 Oregon,Week 6Oct 7[8],2012,
+326,RV,<,NR,Arizona State,Pac-12,4-1,39,RV,DNP,Week 6Oct 7[8],2012,
+327,RV,<,NR,NC State,ACC,4-2,17,RV,W 17-16 H #3 Florida State,Week 6Oct 7[8],2012,
+328,RV,<,21,Nebraska,Big Ten,4-2,5,RV,L 63-38 A #12 Ohio State,Week 6Oct 7[8],2012,
+329,RV,<,NR,Arizona,Pac-12,3-3,4,NR,L 54-48 (1OT) A #18 Stanford,Week 6Oct 7[8],2012,
+330,RV,<,NR,Duke,ACC,5-1,3,RV,W 42-17 H Virginia,Week 6Oct 7[8],2012,
+331,RV,<,NR,Tennessee,SEC,3-2,3,NR,DNP,Week 6Oct 7[8],2012,
+332,RV,<,NR,Texas Tech,Big 12,4-1,2,RV,L 41-20 H #17 Oklahoma,Week 6Oct 7[8],2012,
+333,RV,<,NR,Tulsa,CUSA,5-1,2,NR,W 45-38 A Marshall,Week 6Oct 7[8],2012,
+334,RV,<,24,Northwestern,Big Ten,5-1,1,RV,L 39-28 A Penn State,Week 6Oct 7[8],2012,
+335,RV,<,NR,Penn State,Big Ten,4-2,1,NR,W 39-28 H #24 Northwestern,Week 6Oct 7[8],2012,
+336,NR,<,25,UCLA,Pac-12,4-2,0,NR,L 43-17 A California,Week 6Oct 7[8],2012,
+337,NR,<,NR,California,Pac-12,2-4,0,NR,W 43-17 H #25 UCLA,Week 6Oct 7[8],2012,
+338,NR,<,NR,Fresno State,MWC,4-2,0,NR,W 28-7 A Colorado State,Week 6Oct 7[8],2012,
+339,NR,<,NR,Louisiana,Sun Belt,4-1,0,RV,W 41-13 H Tulane,Week 6Oct 7[8],2012,
+340,NR,<,NR,Louisiana Monroe,Sun Belt,3-2,0,RV,W 31-17 A Middle Tennessee,Week 6Oct 7[8],2012,
+341,NR,<,NR,Nevada,MWC,5-1,0,RV,W 35-28 (1OT) H Wyoming,Week 6Oct 7[8],2012,
+342,NR,<,NR,Oklahoma State,Big 12,2-2,0,RV,DNP,Week 6Oct 7[8],2012,
+343,NR,<,NR,San Jose State,WAC,4-1,0,RV,DNP,Week 6Oct 7[8],2012,
+344,NR,<,NR,Toledo,MAC,5-1,0,RV,W 50-35 H Central Michigan,Week 6Oct 7[8],2012,
+345,NR,<,NR,Virginia Tech,ACC,3-3,0,NR,L 48-34 A North Carolina,Week 6Oct 7[8],2012,
+346,NR,<,NR,Western Kentucky,Sun Belt,4-1,0,RV,DNP,Week 6Oct 7[8],2012,
+347,NR,<,NR,Wisconsin,Big Ten,4-2,0,RV,W 31-14 H Illinois,Week 6Oct 7[8],2012,
+348,1,<,1,Alabama (60),SEC,6-0,1500,*1,W 42-10 A Missouri,Week 7Oct 14[9],2012,1
+349,2,<,2,Oregon,Pac-12,6-0,1436,2,DNP,Week 7Oct 14[9],2012,3
+350,3,<,4,Florida,SEC,6-0,1361,4,W 31-17 A Vanderbilt,Week 7Oct 14[9],2012,2
+351,4,<,6,Kansas State,Big 12,6-0,1296,3,W 27-21 A Iowa State,Week 7Oct 14[9],2012,4
+352,5,<,7,Notre Dame,Ind,6-0,1283,5,W 20-13 (1OT) H #17 Stanford,Week 7Oct 14[9],2012,5
+353,6,<,9,LSU,SEC,6-1,1153,6,W 23-21 H #3 South Carolina,Week 7Oct 14[9],2012,6
+354,7,<,8,Ohio State,Big Ten,7-0,1071,NR,W 52-49 A Indiana,Week 7Oct 14[9],2012,NR
+355,8,<,10,Oregon State,Pac-12,5-0,1050,11,W 42-24 A BYU,Week 7Oct 14[9],2012,8
+356,9,<,3,South Carolina,SEC,6-1,1042,8,L 23-21 A #9 LSU,Week 7Oct 14[9],2012,7
+357,10,<,13,Oklahoma,Big 12,4-1,994,7,W 63-21 N #15 Texas,Week 7Oct 14[9],2012,9
+358,11,<,11,USC,Pac-12,5-1,874,9,W 24-14 A Washington,Week 7Oct 14[9],2012,10
+359,12,<,12,Florida State,ACC,6-1,836,10,W 51-7 H Boston College,Week 7Oct 14[9],2012,14
+360,13,<,14,Georgia,SEC,5-1,753,12,DNP,Week 7Oct 14[9],2012,11
+361,14,<,16,Clemson,ACC,5-1,673,13,DNP,Week 7Oct 14[9],2012,19
+362,15,<,19,Mississippi State,SEC,6-0,591,16,W 41-31 H Tennessee,Week 7Oct 14[9],2012,12
+363,16,<,18,Louisville,Big East,6-0,574,14,W 45-35 A Pittsburgh,Week 7Oct 14[9],2012,16
+364,17,<,5,West Virginia,Big 12,5-1,552,15,L 49-14 A Texas Tech,Week 7Oct 14[9],2012,13
+365,18,<,NR,Texas Tech,Big 12,5-1,444,20,W 49-14 H #5 West Virginia,Week 7Oct 14[9],2012,17
+366,19,<,20,Rutgers,Big East,6-0,405,17,W 23-15 H Syracuse,Week 7Oct 14[9],2012,15
+367,20,<,22,Texas A&M,SEC,5-1,379,19,W 59-57 A #23 Louisiana Tech,Week 7Oct 14[9],2012,18
+368,21,<,21,Cincinnati,Big East,5-0,294,18,W 49-17 H Fordham,Week 7Oct 14[9],2012,21
+369,22,<,17,Stanford,Pac-12,4-2,242,23,L 20-13 (1OT) A #7 Notre Dame,Week 7Oct 14[9],2012,20
+370,23,<,25,Michigan,Big Ten,4-2,177,25,W 45-0 H Illinois,Week 7Oct 14[9],2012,NR
+371,24,<,24,Boise State,MWC,5-1,133,22,W 20-10 H Fresno State,Week 7Oct 14[9],2012,22
+372,25,<,NR,Ohio,MAC,7-0,104,RV,W 34-28 H Akron,Week 7Oct 14[9],2012,NR
+373,RV,<,NR,Arizona State,Pac-12,5-1,92,24,W 51-17 A Colorado,Week 7Oct 14[9],2012,NR
+374,RV,<,NR,TCU,Big 12,5-1,88,21,W 49-21 A Baylor,Week 7Oct 14[9],2012,23
+375,RV,<,23,Louisiana Tech,WAC,5-1,38,RV,L 59-57 H #22 Texas A&M,Week 7Oct 14[9],2012,NR
+376,RV,<,15,Texas,Big 12,4-2,25,NR,L 63-21 N #13 Oklahoma,Week 7Oct 14[9],2012,25
+377,RV,<,NR,NC State,ACC,4-2,11,NR,DNP,Week 7Oct 14[9],2012,NR
+378,RV,<,NR,Northwestern,Big Ten,6-1,6,RV,W 21-13 A Minnesota,Week 7Oct 14[9],2012,NR
+379,RV,<,NR,Washington,Pac-12,3-3,6,NR,L 24-14 H #11 USC,Week 7Oct 14[9],2012,NR
+380,RV,<,NR,Wisconsin,Big Ten,5-2,6,RV,W 38-14 A Purdue,Week 7Oct 14[9],2012,NR
+381,RV,<,NR,Nebraska,Big Ten,4-2,4,RV,DNP,Week 7Oct 14[9],2012,NR
+382,RV,<,NR,North Carolina,ACC,5-2,2,NR,W 18-14 A Miami (FL),Week 7Oct 14[9],2012,NR
+383,RV,<,NR,Tulsa,CUSA,6-1,2,RV,W 33-11 H UTEP,Week 7Oct 14[9],2012,NR
+384,RV,<,NR,Arizona,Pac-12,3-3,1,NR,DNP,Week 7Oct 14[9],2012,NR
+385,RV,<,NR,Penn State,Big Ten,4-2,1,NR,DNP,Week 7Oct 14[9],2012,NR
+386,NR,<,NR,Iowa State,Big 12,4-2,1,RV,L 27-21 H #6 Kansas State,Week 7Oct 14[9],2012,24
+387,NR,<,NR,Baylor,Big 12,3-2,0,NR,L 49-21 H TCU,Week 7Oct 14[9],2012,NR
+388,NR,<,NR,Louisiana Monroe,Sun Belt,4-2,0,RV,W 35-14 H Florida Atlantic,Week 7Oct 14[9],2012,NR
+389,NR,<,NR,Michigan State,Big Ten,4-3,0,NR,L 19-16 (1OT) H Iowa,Week 7Oct 14[9],2012,NR
+390,NR,<,NR,Nevada,MWC,6-1,0,RV,W 42-37 A UNLV,Week 7Oct 14[9],2012,NR
+391,NR,<,NR,Northern Illinois,MAC,6-1,0,RV,W 45-3 H Buffalo,Week 7Oct 14[9],2012,NR
+392,NR,<,NR,Oklahoma State,Big 12,3-2,0,RV,W 20-14 A Kansas,Week 7Oct 14[9],2012,NR
+393,NR,<,NR,Toledo,MAC,6-1,0,RV,W 52-47 A Eastern Michigan,Week 7Oct 14[9],2012,NR
+394,NR,<,NR,UCLA,Pac-12,5-2,0,RV,W 21-14 H Utah,Week 7Oct 14[9],2012,NR
+395,NR,<,NR,Virginia Tech,ACC,4-3,0,NR,W 41-20 H Duke,Week 7Oct 14[9],2012,NR
+396,NR,<,NR,Western Kentucky,Sun Belt,5-1,0,RV,W 31-26 A Troy,Week 7Oct 14[9],2012,NR
+397,1,<,1,Alabama (59),SEC,7-0,1499,*1,W 44-13 A Tennessee,Week 8Oct 21[10],2012,1
+398,2,<,2,Oregon,Pac-12,7-0,1424,2,W 43-21 A Arizona State,Week 8Oct 21[10],2012,4
+399,3,<,3,Florida (1),SEC,7-0,1380,3,W 44-11 H #9 South Carolina,Week 8Oct 21[10],2012,2
+400,4,<,4,Kansas State,Big 12,7-0,1333,4,W 55-14 A #17 West Virginia,Week 8Oct 21[10],2012,3
+401,5,<,5,Notre Dame,Ind,7-0,1241,5,W 17-14 H BYU,Week 8Oct 21[10],2012,5
+402,6,<,6,LSU,SEC,7-1,1172,6,W 24-19 A #20 Texas A&M,Week 8Oct 21[10],2012,6
+403,7,<,8,Oregon State,Pac-12,6-0,1106,9,W 21-7 H Utah,Week 8Oct 21[10],2012,7
+404,8,<,10,Oklahoma,Big 12,5-1,1065,7,W 52-7 H Kansas,Week 8Oct 21[10],2012,8
+405,9,<,7,Ohio State,Big Ten,8-0,1028,NR,W 29-22 (1OT) H Purdue,Week 8Oct 21[10],2012,NR
+406,10,<,11,USC,Pac-12,6-1,944,8,W 50-6 H Colorado,Week 8Oct 21[10],2012,9
+407,11,<,12,Florida State,ACC,7-1,872,10,W 33-20 A Miami (FL),Week 8Oct 21[10],2012,12
+408,12,<,13,Georgia,SEC,6-1,745,11,W 29-24 A Kentucky,Week 8Oct 21[10],2012,10
+409,13,<,15,Mississippi State,SEC,7-0,739,12,W 45-3 H Middle Tennessee,Week 8Oct 21[10],2012,11
+410,14,<,14,Clemson,ACC,6-1,713,13,W 38-17 H Virginia Tech,Week 8Oct 21[10],2012,18
+411,15,<,18,Texas Tech,Big 12,6-1,653,17,W 56-53 (3OT) A TCU,Week 8Oct 21[10],2012,14
+412,16,<,16,Louisville,Big East,7-0,620,14,W 27-25 H South Florida,Week 8Oct 21[10],2012,16
+413,17,<,9,South Carolina,SEC,6-2,591,16,L 44-11 A #3 Florida,Week 8Oct 21[10],2012,13
+414,18,<,19,Rutgers,Big East,7-0,539,15,W 35-10 A Temple,Week 8Oct 21[10],2012,15
+415,19,<,22,Stanford,Pac-12,5-2,421,19,W 21-3 A California,Week 8Oct 21[10],2012,17
+416,20,<,23,Michigan,Big Ten,5-2,300,20,W 12-10 H Michigan State,Week 8Oct 21[10],2012,22
+417,21,<,24,Boise State,MWC,6-1,258,18,W 32-7 H UNLV,Week 8Oct 21[10],2012,21
+418,22,<,20,Texas A&M,SEC,5-2,252,21,L 24-19 H #6 LSU,Week 8Oct 21[10],2012,20
+419,23,<,25,Ohio,MAC,7-0,181,23,DNP,Week 8Oct 21[10],2012,24
+420,24,<,NR,Louisiana Tech,WAC,6-1,106,RV,W 70-28 H Idaho,Week 8Oct 21[10],2012,NR
+421,25,<,17,West Virginia,Big 12,5-2,76,22,L 55-14 H #4 Kansas State,Week 8Oct 21[10],2012,19
+422,RV,<,NR,Toledo,MAC,7-1,49,RV,W 29-23 H #21 Cincinnati,Week 8Oct 21[10],2012,NR
+423,RV,<,NR,Texas,Big 12,5-2,33,24,W 56-50 H Baylor,Week 8Oct 21[10],2012,23
+424,RV,<,NR,Wisconsin,Big Ten,6-2,31,25,W 38-13 H Minnesota,Week 8Oct 21[10],2012,25
+425,RV,<,NR,TCU,Big 12,5-2,29,RV,L 56-53 (3OT) H #18 Texas Tech,Week 8Oct 21[10],2012,NR
+426,RV,<,NR,Nebraska,Big Ten,5-2,24,RV,W 29-28 A Northwestern,Week 8Oct 21[10],2012,NR
+427,RV,<,NR,Penn State,Big Ten,5-2,18,NR,W 38-14 A Iowa,Week 8Oct 21[10],2012,NR
+428,RV,<,NR,NC State,ACC,5-2,13,NR,W 20-18 A Maryland,Week 8Oct 21[10],2012,NR
+429,RV,<,NR,Oklahoma State,Big 12,4-2,12,RV,W 31-10 H Iowa State,Week 8Oct 21[10],2012,NR
+430,RV,<,NR,Arizona,Pac-12,4-3,7,NR,W 52-17 H Washington,Week 8Oct 21[10],2012,NR
+431,RV,<,NR,UCLA,Pac-12,5-2,7,RV,DNP,Week 8Oct 21[10],2012,NR
+432,RV,<,NR,Tulsa,CUSA,7-1,6,RV,W 28-24 H Rice,Week 8Oct 21[10],2012,NR
+433,RV,<,NR,Arizona State,Pac-12,5-2,5,RV,L 43-21 H #2 Oregon,Week 8Oct 21[10],2012,NR
+434,RV,<,NR,Northern Illinois,MAC,7-1,5,RV,W 37-7 A Akron,Week 8Oct 21[10],2012,NR
+435,RV,<,21,Cincinnati,Big East,5-1,3,RV,L 29-23 A Toledo,Week 8Oct 21[10],2012,NR
+436,NR,<,NR,Duke,ACC,6-2,0,RV,W 33-30 H North Carolina,Week 8Oct 21[10],2012,NR
+437,NR,<,NR,Iowa State,Big 12,4-3,0,NR,L 31-10 A Oklahoma State,Week 8Oct 21[10],2012,NR
+438,NR,<,NR,Louisiana Monroe,Sun Belt,5-2,0,RV,W 43-42 (1OT) A Western Kentucky,Week 8Oct 21[10],2012,NR
+439,NR,<,NR,Nevada,MWC,6-2,0,NR,L 39-38 (1OT) H San Diego State,Week 8Oct 21[10],2012,NR
+440,NR,<,NR,Northwestern,Big Ten,6-2,0,RV,L 29-28 H Nebraska,Week 8Oct 21[10],2012,NR
+441,NR,<,NR,Western Kentucky,Sun Belt,5-2,0,RV,L 43-42 (1OT) H Louisiana-Monroe,Week 8Oct 21[10],2012,NR
+442,1,<,1,Alabama (60),SEC,8-0,1500,*1,W 38-7 H #13 Mississippi State,Week 9Oct 28[11],2012,1
+443,2,<,2,Oregon,Pac-12,8-0,1412,2,W 70-14 H Colorado,Week 9Oct 28[11],2012,4
+444,3,<,4,Kansas State,Big 12,8-0,1382,3,W 55-24 H #15 Texas Tech,Week 9Oct 28[11],2012,2
+445,4,<,5,Notre Dame,Ind,8-0,1344,4,W 30-13 A #8 Oklahoma,Week 9Oct 28[11],2012,3
+446,5,<,6,LSU,SEC,7-1,1216,5,DNP,Week 9Oct 28[11],2012,5
+447,6,<,9,Ohio State,Big Ten,9-0,1158,NR,W 35-23 A Penn State,Week 9Oct 28[11],2012,NR
+448,7,<,12,Georgia,SEC,7-1,1145,6,W 17-9 N #3 Florida,Week 9Oct 28[11],2012,6
+449,8,<,3,Florida,SEC,7-1,1075,8,L 17-9 N #12 Georgia,Week 9Oct 28[11],2012,7
+450,9,<,11,Florida State,ACC,8-1,1046,7,W 48-7 H Duke,Week 9Oct 28[11],2012,9
+451,10,<,14,Clemson,ACC,7-1,914,9,W 42-13 A Wake Forest,Week 9Oct 28[11],2012,13
+452,11,<,17,South Carolina,SEC,7-2,823,11,W 38-35 H Tennessee,Week 9Oct 28[11],2012,8
+453,12,<,16,Louisville,Big East,8-0,817,10,W 34-31 (1OT) H Cincinnati,Week 9Oct 28[11],2012,10
+454,13,<,7,Oregon State,Pac-12,6-1,762,13,L 20-17 A Washington,Week 9Oct 28[11],2012,11
+455,14,<,8,Oklahoma,Big 12,5-2,758,12,L 30-13 H #5 Notre Dame,Week 9Oct 28[11],2012,12
+456,15,<,19,Stanford,Pac-12,6-2,627,15,W 24-17 H Washington State,Week 9Oct 28[11],2012,14
+457,16,<,22,Texas A&M,SEC,6-2,580,16,W 63-21 A Auburn,Week 9Oct 28[11],2012,16
+458,17,<,13,Mississippi State,SEC,7-1,559,18,L 38-7 A #1 Alabama,Week 9Oct 28[11],2012,15
+459,18,<,10,USC,Pac-12,6-2,418,17,L 39-36 A Arizona,Week 9Oct 28[11],2012,17
+460,19,<,21,Boise State,MWC,7-1,406,14,W 45-14 A Wyoming,Week 9Oct 28[11],2012,19
+461,20,<,15,Texas Tech,Big 12,6-2,388,20,L 55-24 A #4 Kansas State,Week 9Oct 28[11],2012,18
+462,21,<,NR,Nebraska,Big Ten,6-2,249,21,W 23-9 H #20 Michigan,Week 9Oct 28[11],2012,20
+463,22,<,24,Louisiana Tech,WAC,7-1,209,23,W 28-14 A New Mexico State,Week 9Oct 28[11],2012,25
+464,23,<,25,West Virginia,Big 12,5-2,126,19,DNP,Week 9Oct 28[11],2012,21
+465,24,<,NR,Arizona,Pac-12,5-3,106,RV,W 39-36 H #10 USC,Week 9Oct 28[11],2012,22
+466,25,<,NR,UCLA,Pac-12,6-2,103,RV,W 45-43 A Arizona State,Week 9Oct 28[11],2012,NR
+467,RV,<,NR,Toledo,MAC,8-1,88,RV,W 25-20 A Buffalo,Week 9Oct 28[11],2012,NR
+468,RV,<,18,Rutgers,Big East,7-1,74,25,L 35-23 H Kent State,Week 9Oct 28[11],2012,NR
+469,RV,<,NR,Oklahoma State,Big 12,5-2,72,24,W 36-14 H TCU,Week 9Oct 28[11],2012,24
+470,RV,<,NR,Texas,Big 12,6-2,55,22,W 21-17 A Kansas,Week 9Oct 28[11],2012,23
+471,RV,<,NR,Kent State,MAC,7-1,33,RV,W 35-23 A #18 Rutgers,Week 9Oct 28[11],2012,NR
+472,RV,<,NR,Tulsa,CUSA,7-1,17,24,DNP,Week 9Oct 28[11],2012,NR
+473,RV,<,NR,Northern Illinois,MAC,8-1,12,RV,W 48-34 A Western Michigan,Week 9Oct 28[11],2012,NR
+474,RV,<,NR,Washington,Pac-12,4-4,8,NR,W 20-17 H #7 Oregon State,Week 9Oct 28[11],2012,NR
+475,RV,<,NR,Northwestern,Big Ten,7-2,7,RV,W 28-17 H Iowa,Week 9Oct 28[11],2012,NR
+476,RV,<,23,Ohio,MAC,7-1,4,RV,L 23-20 A Miami (OH),Week 9Oct 28[11],2012,NR
+477,RV,<,NR,Wisconsin,Big Ten,6-3,4,RV,L 16-13 (1OT) H Michigan State,Week 9Oct 28[11],2012,NR
+478,RV,<,20,Michigan,Big Ten,5-3,2,RV,L 23-9 A Nebraska,Week 9Oct 28[11],2012,NR
+479,RV,<,NR,Louisiana Monroe,Sun Belt,6-2,1,RV,W 38-24 H South Alabama,Week 9Oct 28[11],2012,NR
+480,NR,<,NR,Arizona State,Pac-12,5-3,0,RV,L 45-43 H UCLA,Week 9Oct 28[11],2012,NR
+481,NR,<,NR,Cincinnati,Big East,5-2,0,RV,L 34-31 (1OT) A #16 Louisville,Week 9Oct 28[11],2012,NR
+482,NR,<,NR,Iowa State,Big 12,5-3,0,RV,W 35-21 H Baylor,Week 9Oct 28[11],2012,NR
+483,NR,<,NR,Michigan State,Big Ten,5-4,0,RV,W 16-13 (1OT) A Wisconsin,Week 9Oct 28[11],2012,NR
+484,NR,<,NR,Mississippi,SEC,5-3,0,RV,W 30-27 A Arkansas,Week 9Oct 28[11],2012,NR
+485,NR,<,NR,TCU,Big 12,5-3,0,NR,L 36-14 A Oklahoma State,Week 9Oct 28[11],2012,NR
+486,NR,<,NR,UCF,CUSA,6-2,0,NR,W 54-17 A Marshall,Week 9Oct 28[11],2012,NR
+487,NR,<,NR,Utah State,WAC,7-2,0,RV,W 48-17 A UTSA,Week 9Oct 28[11],2012,NR
+488,NR,<,NR,Virginia Tech,ACC,4-4,0,NR,DNP,Week 9Oct 28[11],2012,NR
+489,NR,<,NR,Western Kentucky,Sun Belt,6-2,0,24,W 14-6 A FIU,Week 9Oct 28[11],2012,NR
+490,1,<,1,Alabama (60),SEC,9-0,1500,*1,W 21-17 A #5 LSU,Week 10Nov 4[12],2012,1
+491,2,<,2,Oregon,Pac-12,9-0,1421,2,W 62-51 A #18 USC,Week 10Nov 4[12],2012,3
+492,3,<,3,Kansas State,Big 12,9-0,1395,3,W 44-30 H Oklahoma State,Week 10Nov 4[12],2012,2
+493,4,<,4,Notre Dame,Ind,9-0,1318,4,W 29-26 (3OT) H Pittsburgh,Week 10Nov 4[12],2012,4
+494,5,<,6,Ohio State,Big Ten,10-0,1198,NR,W 52-22 H Illinois,Week 10Nov 4[12],2012,NR
+495,5,<,7,Georgia,SEC,8-1,1198,5,W 37-10 H Mississippi,Week 10Nov 4[12],2012,5
+496,7,<,8,Florida,SEC,8-1,1112,7,W 14-7 H Missouri,Week 10Nov 4[12],2012,6
+497,8,<,9,Florida State,ACC,8-1,1057,6,DNP,Week 10Nov 4[12],2012,10
+498,9,<,5,LSU,SEC,7-2,1029,9,L 21-17 H #1 Alabama,Week 10Nov 4[12],2012,7
+499,10,<,10,Clemson,ACC,8-1,931,8,W 56-20 A Duke,Week 10Nov 4[12],2012,13
+500,11,<,12,Louisville,Big East,9-0,862,10,W 45-17 H Temple,Week 10Nov 4[12],2012,9
+501,12,<,11,South Carolina,SEC,7-2,836,11,DNP,Week 10Nov 4[12],2012,8
+502,13,<,13,Oregon State,Pac-12,7-1,796,12,W 36-26 H Arizona State,Week 10Nov 4[12],2012,11
+503,14,<,14,Oklahoma,Big 12,6-2,765,13,W 35-20 A Iowa State,Week 10Nov 4[12],2012,12
+504,15,<,16,Texas A&M,SEC,7-2,700,14,W 38-13 A #17 Mississippi State,Week 10Nov 4[12],2012,15
+505,16,<,15,Stanford,Pac-12,7-2,655,15,W 48-0 A Colorado,Week 10Nov 4[12],2012,14
+506,17,<,25,UCLA,Pac-12,7-2,446,19,W 66-10 H #24 Arizona,Week 10Nov 4[12],2012,18
+507,18,<,21,Nebraska,Big Ten,7-2,441,16,W 28-24 A Michigan State,Week 10Nov 4[12],2012,16
+508,19,<,22,Louisiana Tech,WAC,8-1,355,18,W 51-27 H UTSA,Week 10Nov 4[12],2012,20
+509,19,<,NR,Texas,Big 12,7-2,355,17,W 31-22 A #20 Texas Tech,Week 10Nov 4[12],2012,17
+510,21,<,18,USC,Pac-12,6-3,237,22,L 62-51 H #2 Oregon,Week 10Nov 4[12],2012,19
+511,22,<,17,Mississippi State,SEC,7-2,187,23,L 38-13 H #16 Texas A&M,Week 10Nov 4[12],2012,21
+512,23,<,NR,Toledo,MAC,8-1,146,25,DNP,Week 10Nov 4[12],2012,25
+513,24,<,NR,Rutgers,Big East,7-1,99,20,DNP,Week 10Nov 4[12],2012,23
+514,25,<,20,Texas Tech,Big 12,6-3,97,RV,L 31-22 H Texas,Week 10Nov 4[12],2012,22
+515,RV,<,NR,Northern Illinois,MAC,9-1,64,RV,W 63-0 H Massachusetts,Week 10Nov 4[12],2012,NR
+516,RV,<,NR,Kent State,MAC,8-1,61,RV,W 35-24 H Akron,Week 10Nov 4[12],2012,NR
+517,RV,<,NR,Michigan,Big Ten,6-3,53,RV,W 35-13 A Minnesota,Week 10Nov 4[12],2012,NR
+518,RV,<,NR,TCU,Big 12,6-3,38,RV,W 39-38 (1OT) A #23 West Virginia,Week 10Nov 4[12],2012,NR
+519,RV,<,NR,Northwestern,Big Ten,7-2,32,21,DNP,Week 10Nov 4[12],2012,24
+520,RV,<,NR,Oklahoma State,Big 12,5-3,27,RV,L 44-30 A #3 Kansas State,Week 10Nov 4[12],2012,NR
+521,RV,<,NR,Ohio,MAC,8-1,22,RV,W 45-14 H Eastern Michigan,Week 10Nov 4[12],2012,NR
+522,RV,<,NR,UCF,CUSA,7-2,15,NR,W 42-17 H SMU,Week 10Nov 4[12],2012,NR
+523,RV,<,19,Boise State,MWC,7-2,11,24,L 21-19 H San Diego State,Week 10Nov 4[12],2012,NR
+524,RV,<,NR,Washington,Pac-12,5-4,9,RV,W 21-13 A California,Week 10Nov 4[12],2012,NR
+525,RV,<,NR,Penn State,Big Ten,6-3,8,NR,W 34-9 A Purdue,Week 10Nov 4[12],2012,NR
+526,RV,<,NR,San Diego State,MWC,7-3,7,RV,W 21-19 A #19 Boise State,Week 10Nov 4[12],2012,NR
+527,RV,<,NR,Tulsa,CUSA,7-2,6,RV,L 19-15 A Arkansas,Week 10Nov 4[12],2012,NR
+528,RV,<,24,Arizona,Pac-12,5-4,5,NR,L 66-10 A UCLA,Week 10Nov 4[12],2012,NR
+529,RV,<,NR,Utah State,WAC,8-2,4,RV,W 38-7 H Texas State,Week 10Nov 4[12],2012,NR
+530,RV,<,NR,Fresno State,MWC,7-3,2,RV,W 45-10 H Hawaii,Week 10Nov 4[12],2012,NR
+531,NR,<,23,West Virginia,Big 12,5-3,0,RV,L 39-38 (1OT) H TCU,Week 10Nov 4[12],2012,NR
+532,NR,<,NR,Arizona State,Pac-12,5-4,0,RV,L 36-26 A #13 Oregon State,Week 10Nov 4[12],2012,NR
+533,NR,<,NR,Arkansas State,Sun Belt,6-3,0,NR,W 37-19 A North Texas,Week 10Nov 4[12],2012,NR
+534,NR,<,NR,Cincinnati,Big East,6-2,0,RV,W 35-24 H Syracuse,Week 10Nov 4[12],2012,NR
+535,NR,<,NR,Louisiana Monroe,Sun Belt,6-3,0,RV,L 40-24 H Louisiana-Lafayette,Week 10Nov 4[12],2012,NR
+536,NR,<,NR,Middle Tennessee,Sun Belt,6-3,0,RV,W 34-29 A Western Kentucky,Week 10Nov 4[12],2012,NR
+537,NR,<,NR,San Jose State,WAC,7-2,0,NR,W 42-13 A Idaho,Week 10Nov 4[12],2012,NR
+538,NR,<,NR,Wisconsin,Big Ten,6-3,0,RV,DNP,Week 10Nov 4[12],2012,NR
+539,1,<,2,Oregon (45),Pac-12,10-0,1485,*1,W 59-17 A California,Week 11Nov 11[13],2012,2
+540,2,<,3,Kansas State (14),Big 12,10-0,1451,*2,W 23-10 A TCU,Week 11Nov 11[13],2012,1
+541,3,<,4,Notre Dame (1),Ind,10-0,1382,*3,W 21-6 A Boston College,Week 11Nov 11[13],2012,3
+542,4,<,1,Alabama,SEC,9-1,1259,5,L 29-24 H #15 Texas A&M,Week 11Nov 11[13],2012,4
+543,5,<,5,Georgia,SEC,9-1,1223,4,W 38-0 A Auburn,Week 11Nov 11[13],2012,5
+544,6,<,5,Ohio State,Big Ten,10-0,1212,NR,DNP,Week 11Nov 11[13],2012,NR
+545,7,<,7,Florida,SEC,9-1,1089,7,W 27-20 H Louisiana-Lafayette,Week 11Nov 11[13],2012,6
+546,8,<,9,LSU,SEC,8-2,1046,8,W 37-17 H #22 Mississippi State,Week 11Nov 11[13],2012,7
+547,9,<,15,Texas A&M,SEC,8-2,1031,10,W 29-24 A #1 Alabama,Week 11Nov 11[13],2012,8
+548,10,<,8,Florida State,ACC,9-1,1024,6,W 28-22 A Virginia Tech,Week 11Nov 11[13],2012,10
+549,11,<,10,Clemson,ACC,9-1,907,9,W 45-10 H Maryland,Week 11Nov 11[13],2012,11
+550,12,<,12,South Carolina,SEC,8-2,848,11,W 38-20 H Arkansas,Week 11Nov 11[13],2012,9
+551,13,<,14,Oklahoma,Big 12,7-2,798,12,W 42-34 H Baylor,Week 11Nov 11[13],2012,12
+552,14,<,16,Stanford,Pac-12,8-2,766,13,W 27-23 H #13 Oregon State,Week 11Nov 11[13],2012,13
+553,15,<,13,Oregon State,Pac-12,7-2,556,17,L 27-23 A #16 Stanford,Week 11Nov 11[13],2012,16
+554,16,<,18,Nebraska,Big Ten,8-2,549,14,W 32-23 H Penn State,Week 11Nov 11[13],2012,14
+555,17,<,17,UCLA,Pac-12,8-2,541,16,W 44-36 A Washington State,Week 11Nov 11[13],2012,17
+556,18,<,19,Texas,Big 12,8-2,496,15,W 33-7 H Iowa State,Week 11Nov 11[13],2012,15
+557,19,<,19,Louisiana Tech,WAC,9-1,374,19,W 62-55 A Texas State,Week 11Nov 11[13],2012,20
+558,20,<,11,Louisville,Big East,9-1,322,18,L 45-26 A Syracuse,Week 11Nov 11[13],2012,19
+559,21,<,21,USC,Pac-12,7-3,297,21,W 38-17 H Arizona State,Week 11Nov 11[13],2012,18
+560,22,<,24,Rutgers,Big East,8-1,179,20,W 28-7 H Army,Week 11Nov 11[13],2012,22
+561,23,<,25,Texas Tech,Big 12,7-3,135,25,W 41-34 (2OT) H Kansas,Week 11Nov 11[13],2012,23
+562,23,<,NR,Michigan,Big Ten,7-3,135,23,W 38-31 (1OT) H Northwestern,Week 11Nov 11[13],2012,21
+563,25,<,NR,Kent State,MAC,9-1,93,RV,W 48-32 A Miami (OH),Week 11Nov 11[13],2012,NR
+564,RV,<,NR,Oklahoma State,Big 12,6-3,79,24,W 55-34 H West Virginia,Week 11Nov 11[13],2012,24
+565,RV,<,NR,Northern Illinois,MAC,9-1,77,RV,DNP,Week 11Nov 11[13],2012,NR
+566,RV,<,22,Mississippi State,SEC,7-3,48,RV,L 37-17 A #9 LSU,Week 11Nov 11[13],2012,NR
+567,RV,<,NR,Wisconsin,Big Ten,7-3,26,RV,W 62-14 A Indiana,Week 11Nov 11[13],2012,NR
+568,RV,<,NR,UCF,CUSA,8-2,16,RV,W 31-24 A UTEP,Week 11Nov 11[13],2012,NR
+569,RV,<,NR,Boise State,MWC,8-2,14,22,W 49-14 A Hawaii,Week 11Nov 11[13],2012,NR
+570,RV,<,NR,Arizona,Pac-12,6-4,6,NR,W 56-31 H Colorado,Week 11Nov 11[13],2012,NR
+571,RV,<,NR,Cincinnati,Big East,7-2,6,RV,W 34-10 A Temple,Week 11Nov 11[13],2012,NR
+572,RV,<,NR,Fresno State,MWC,8-3,6,RV,W 52-36 A Nevada,Week 11Nov 11[13],2012,NR
+573,RV,<,NR,TCU,Big 12,6-4,5,NR,L 23-10 H #3 Kansas State,Week 11Nov 11[13],2012,NR
+574,RV,<,NR,San Jose State,WAC,8-2,4,NR,W 47-7 A New Mexico State,Week 11Nov 11[13],2012,NR
+575,RV,<,NR,Tulsa,CUSA,8-2,4,RV,W 41-7 A Houston,Week 11Nov 11[13],2012,NR
+576,RV,<,NR,Utah State,WAC,8-2,4,RV,DNP,Week 11Nov 11[13],2012,NR
+577,RV,<,NR,San Diego State,MWC,8-3,3,RV,W 28-9 H Air Force,Week 11Nov 11[13],2012,NR
+578,RV,<,NR,Northwestern,Big Ten,7-3,2,RV,L 38-31 (1OT) A Michigan,Week 11Nov 11[13],2012,NR
+579,RV,<,23,Toledo,MAC,8-2,1,NR,L 34-27 H Ball State,Week 11Nov 11[13],2012,NR
+580,RV,<,NR,Washington,Pac-12,6-4,1,RV,W 34-15 H Utah,Week 11Nov 11[13],2012,25
+581,NR,<,NR,Middle Tennessee,Sun Belt,6-3,0,RV,DNP,Week 11Nov 11[13],2012,NR
+582,1,<,3,Notre Dame (60),Ind,11-0,1500,*1,W 38-0 H Wake Forest,Week 12Nov 18[14],2012,1
+583,2,<,4,Alabama,SEC,10-1,1399,*2,W 49-0 H Western Carolina,Week 12Nov 18[14],2012,2
+584,3,<,5,Georgia,SEC,10-1,1316,*3,W 45-14 H Georgia Southern,Week 12Nov 18[14],2012,3
+585,4,<,6,Ohio State,Big Ten,11-0,1292,NR,W 21-14 (1OT) A Wisconsin,Week 12Nov 18[14],2012,NR
+586,5,<,1,Oregon,Pac-12,10-1,1246,4,L 17-14 (1OT) H #14 Stanford,Week 12Nov 18[14],2012,5
+587,6,<,7,Florida,SEC,10-1,1171,6,W 23-0 H Jacksonville State,Week 12Nov 18[14],2012,4
+588,7,<,2,Kansas State,Big 12,10-1,1064,8,L 52-24 A Baylor,Week 12Nov 18[14],2012,6
+589,8,<,8,LSU,SEC,9-2,1048,7,W 41-35 H Mississippi,Week 12Nov 18[14],2012,7
+590,9,<,9,Texas A&M,SEC,9-2,1028,10,W 47-28 H Sam Houston State,Week 12Nov 18[14],2012,9
+591,10,<,10,Florida State,ACC,10-1,1026,5,W 41-14 A Maryland,Week 12Nov 18[14],2012,10
+592,11,<,14,Stanford,Pac-12,9-2,991,11,W 17-14 (1OT) A #1 Oregon,Week 12Nov 18[14],2012,8
+593,12,<,11,Clemson,ACC,10-1,874,9,W 62-48 H NC State,Week 12Nov 18[14],2012,11
+594,13,<,12,South Carolina,SEC,9-2,795,12,W 24-7 H Wofford,Week 12Nov 18[14],2012,12
+595,14,<,13,Oklahoma,Big 12,8-2,734,13,W 50-49 A West Virginia,Week 12Nov 18[14],2012,13
+596,15,<,17,UCLA,Pac-12,9-2,624,16,W 38-28 H #21 USC,Week 12Nov 18[14],2012,17
+597,16,<,15,Oregon State,Pac-12,8-2,599,17,W 62-14 H California,Week 12Nov 18[14],2012,15
+598,17,<,16,Nebraska,Big Ten,9-2,559,14,W 38-14 H Minnesota,Week 12Nov 18[14],2012,14
+599,18,<,18,Texas,Big 12,8-2,498,15,DNP,Week 12Nov 18[14],2012,16
+600,19,<,20,Louisville,Big East,9-1,362,18,DNP,Week 12Nov 18[14],2012,20
+601,20,<,23,Michigan,Big Ten,8-3,282,20,W 42-17 H Iowa,Week 12Nov 18[14],2012,19
+602,21,<,22,Rutgers,Big East,9-1,265,19,W 10-3 A Cincinnati,Week 12Nov 18[14],2012,18
+603,22,<,NR,Oklahoma State,Big 12,7-3,240,21,W 59-21 H #23 Texas Tech,Week 12Nov 18[14],2012,21
+604,23,<,25,Kent State,MAC,10-1,155,25,W 31-24 A Bowling Green,Week 12Nov 18[14],2012,23
+605,24,<,NR,Northern Illinois,MAC,10-1,144,23,W 31-24 H Toledo,Week 12Nov 18[14],2012,NR
+606,25,<,NR,Mississippi State,SEC,8-3,82,24,W 45-14 H Arkansas,Week 12Nov 18[14],2012,NR
+607,25,<,NR,Utah State,WAC,9-2,82,RV,W 48-41 (1OT) A #19 Louisiana Tech,Week 12Nov 18[14],2012,NR
+608,RV,<,NR,Boise State,MWC,9-2,20,22,W 42-14 H Colorado State,Week 12Nov 18[14],2012,22
+609,RV,<,NR,Northwestern,Big Ten,8-3,20,RV,W 23-20 A Michigan State,Week 12Nov 18[14],2012,NR
+610,RV,<,NR,Washington,Pac-12,7-4,20,RV,W 38-3 A Colorado,Week 12Nov 18[14],2012,25
+611,RV,<,NR,Arizona,Pac-12,7-4,13,RV,W 34-24 A Utah,Week 12Nov 18[14],2012,24
+612,RV,<,21,USC,Pac-12,7-4,12,RV,L 38-28 A #17 UCLA,Week 12Nov 18[14],2012,NR
+613,RV,<,NR,Tulsa,CUSA,9-2,10,RV,W 23-21 H UCF,Week 12Nov 18[14],2012,NR
+614,RV,<,NR,San Jose State,WAC,9-2,8,RV,W 20-14 H BYU,Week 12Nov 18[14],2012,NR
+615,RV,<,NR,Fresno State,MWC,8-3,7,RV,DNP,Week 12Nov 18[14],2012,NR
+616,RV,<,19,Louisiana Tech,WAC,9-2,4,RV,L 48-41 (1OT) H Utah State,Week 12Nov 18[14],2012,NR
+617,RV,<,NR,Wisconsin,Big Ten,7-4,4,RV,L 21-14 (1OT) H #6 Ohio State,Week 12Nov 18[14],2012,NR
+618,RV,<,NR,San Diego State,MWC,8-3,2,RV,DNP,Week 12Nov 18[14],2012,NR
+619,RV,<,NR,Baylor,Big 12,5-5,1,NR,W 52-24 H #2 Kansas State,Week 12Nov 18[14],2012,NR
+620,RV,<,NR,Iowa State,Big 12,6-5,1,NR,W 51-23 A Kansas,Week 12Nov 18[14],2012,NR
+621,RV,<,NR,TCU,Big 12,6-4,1,NR,DNP,Week 12Nov 18[14],2012,NR
+622,RV,<,NR,Vanderbilt,SEC,7-4,1,RV,W 41-18 H Tennessee,Week 12Nov 18[14],2012,NR
+623,NR,<,23,Texas Tech,Big 12,7-4,0,RV,L 59-21 A Oklahoma State,Week 12Nov 18[14],2012,NR
+624,NR,<,NR,Arkansas State,Sun Belt,8-3,0,RV,W 41-34 A Troy,Week 12Nov 18[14],2012,NR
+625,NR,<,NR,Cincinnati,Big East,7-3,0,RV,L 10-3 H #22 Rutgers,Week 12Nov 18[14],2012,NR
+626,NR,<,NR,Middle Tennessee,Sun Belt,7-3,0,RV,W 20-12 A South Alabama,Week 12Nov 18[14],2012,NR
+627,NR,<,NR,Syracuse,Big East,6-5,0,NR,W 31-27 A Missouri,Week 12Nov 18[14],2012,NR
+628,1,<,1,Notre Dame (60),Ind,12-0,1500,*1,W 22-13 A USC,Week 13Nov 25[15],2012,1
+629,2,<,2,Alabama,SEC,11-1,1400,*2,W 49-0 H Auburn,Week 13Nov 25[15],2012,2
+630,3,<,3,Georgia,SEC,11-1,1331,*3,W 42-10 H Georgia Tech,Week 13Nov 25[15],2012,3
+631,4,<,4,Ohio State,Big Ten,12-0,1294,NR,W 26-21 H #20 Michigan,Week 13Nov 25[15],2012,NR
+632,5,<,6,Florida,SEC,11-1,1262,5,W 37-26 A #10 Florida State,Week 13Nov 25[15],2012,4
+633,6,<,5,Oregon,Pac-12,11-1,1242,4,W 48-24 A #16 Oregon State,Week 13Nov 25[15],2012,5
+634,7,<,7,Kansas State,Big 12,10-1,1079,7,DNP,Week 13Nov 25[15],2012,6
+635,8,<,11,Stanford,Pac-12,10-2,1061,9,W 35-17 A #15 UCLA,Week 13Nov 25[15],2012,8
+636,9,<,8,LSU,SEC,10-2,1056,6,W 20-13 A Arkansas,Week 13Nov 25[15],2012,7
+637,10,<,9,Texas A&M,SEC,10-2,1043,8,W 59-29 H Missouri,Week 13Nov 25[15],2012,9
+638,11,<,13,South Carolina,SEC,10-2,916,10,W 27-17 A #12 Clemson,Week 13Nov 25[15],2012,10
+639,12,<,14,Oklahoma,Big 12,9-2,834,11,W 51-48 (1OT) H #22 Oklahoma State,Week 13Nov 25[15],2012,11
+640,13,<,10,Florida State,ACC,10-2,764,12,L 37-26 H #6 Florida,Week 13Nov 25[15],2012,13
+641,14,<,17,Nebraska,Big Ten,10-2,704,13,W 13-7 A Iowa,Week 13Nov 25[15],2012,12
+642,15,<,12,Clemson,ACC,10-2,667,14,L 27-17 H #13 South Carolina,Week 13Nov 25[15],2012,14
+643,16,<,16,Oregon State,Pac-12,8-3,528,17,L 48-24 H #5 Oregon,Week 13Nov 25[15],2012,15
+644,17,<,15,UCLA,Pac-12,9-3,505,16,L 35-17 H #11 Stanford,Week 13Nov 25[15],2012,16
+645,18,<,23,Kent State,MAC,11-1,355,19,W 28-6 H Ohio,Week 13Nov 25[15],2012,17
+646,19,<,24,Northern Illinois,MAC,11-1,349,18,W 49-7 A Eastern Michigan,Week 13Nov 25[15],2012,21
+647,20,<,25,Utah State,WAC,10-2,274,22,W 45-9 H Idaho,Week 13Nov 25[15],2012,24
+648,21,<,20,Michigan,Big Ten,8-4,217,24,L 26-21 A #4 Ohio State,Week 13Nov 25[15],2012,19
+649,22,<,NR,Northwestern,Big Ten,9-3,189,20,W 50-14 H Illinois,Week 13Nov 25[15],2012,22
+650,23,<,18,Texas,Big 12,8-3,185,21,L 20-13 H TCU,Week 13Nov 25[15],2012,18
+651,24,<,22,Oklahoma State,Big 12,7-4,174,RV,L 51-48 (1OT) A #14 Oklahoma,Week 13Nov 25[15],2012,23
+652,25,<,NR,Boise State,MWC,9-2,145,15,DNP,Week 13Nov 25[15],2012,20
+653,RV,<,NR,San Jose State,WAC,10-2,78,RV,W 52-43 H Louisiana Tech,Week 13Nov 25[15],2012,25
+654,RV,<,19,Louisville,Big East,9-2,73,23,L 23-20 (3OT) H Connecticut,Week 13Nov 25[15],2012,NR
+655,RV,<,NR,TCU,Big 12,7-4,67,RV,W 20-13 A #18 Texas,Week 13Nov 25[15],2012,NR
+656,RV,<,NR,Penn State,Big Ten,8-4,61,NR,W 24-21 (1OT) H Wisconsin,Week 13Nov 25[15],2012,NR
+657,RV,<,21,Rutgers,Big East,9-2,50,25,L 27-6 A Pittsburgh,Week 13Nov 25[15],2012,NR
+658,RV,<,NR,Vanderbilt,SEC,8-4,48,RV,W 55-21 A Wake Forest,Week 13Nov 25[15],2012,NR
+659,RV,<,NR,San Diego State,MWC,9-3,15,RV,W 42-28 A Wyoming,Week 13Nov 25[15],2012,NR
+660,RV,<,NR,Fresno State,MWC,9-3,12,RV,W 48-15 H Air Force,Week 13Nov 25[15],2012,NR
+661,RV,<,NR,USC,Pac-12,7-5,7,RV,L 22-13 H #1 Notre Dame,Week 13Nov 25[15],2012,NR
+662,RV,<,NR,Arkansas State,Sun Belt,8-3,5,NR,DNP,Week 13Nov 25[15],2012,NR
+663,RV,<,NR,Arizona,Pac-12,7-5,4,RV,L 41-34 H Arizona State,Week 13Nov 25[15],2012,NR
+664,RV,<,NR,Cincinnati,Big East,8-3,3,RV,W 27-10 H South Florida,Week 13Nov 25[15],2012,NR
+665,RV,<,25,Mississippi State,SEC,8-4,1,RV,L 41-24 A Mississippi,Week 13Nov 25[15],2012,NR
+666,RV,<,NR,Ball State,MAC,9-3,1,NR,W 31-24 A Miami (OH),Week 13Nov 25[15],2012,NR
+667,RV,<,NR,North Carolina,ACC,8-4,1,NR,W 45-38 H Maryland,Week 13Nov 25[15],2012,NR
+668,NR,<,NR,Arizona State,Pac-12,7-5,0,RV,W 41-34 A Arizona,Week 13Nov 25[15],2012,NR
+669,NR,<,NR,Baylor,Big 12,6-5,0,RV,W 52-45 (1OT) N Texas Tech,Week 13Nov 25[15],2012,NR
+670,NR,<,NR,East Carolina,CUSA,8-4,0,NR,W 65-59 (2OT) H Marshall,Week 13Nov 25[15],2012,NR
+671,NR,<,NR,Louisiana Monroe,Sun Belt,8-4,0,NR,W 23-17 (1OT) A FIU,Week 13Nov 25[15],2012,NR
+672,NR,<,NR,Louisiana Tech,WAC,9-3,0,RV,L 52-43 A San Jose State,Week 13Nov 25[15],2012,NR
+673,NR,<,NR,Middle Tennessee,Sun Belt,8-3,0,RV,W 24-21 H Troy,Week 13Nov 25[15],2012,NR
+674,NR,<,NR,Syracuse,Big East,7-5,0,NR,W 38-20 A Temple,Week 13Nov 25[15],2012,NR
+675,NR,<,NR,Toledo,MAC,9-3,0,RV,W 35-23 H Akron,Week 13Nov 25[15],2012,NR
+676,NR,<,NR,Tulsa,CUSA,9-3,0,NR,L 35-27 A SMU,Week 13Nov 25[15],2012,NR
+677,NR,<,NR,UCF,CUSA,9-3,0,RV,W 49-24 H UAB,Week 13Nov 25[15],2012,NR
+678,NR,<,NR,Washington,Pac-12,7-5,0,NR,L 31-28 (1OT) A Washington State,Week 13Nov 25[15],2012,NR
+679,1,<,1,Notre Dame (60),Ind,12-0,1500,*1,DNP,Week 14Dec 2[16],2012,1
+680,2,<,2,Alabama,SEC,12-1,1424,*2,W 32-28 N #3 Georgia (SEC CG),Week 14Dec 2[16],2012,2
+681,3,<,4,Ohio State,Big Ten,12-0,1302,NR,DNP,Week 14Dec 2[16],2012,NR
+682,4,<,5,Florida,SEC,11-1,1279,4,DNP,Week 14Dec 2[16],2012,3
+683,5,<,6,Oregon,Pac-12,11-1,1250,3,DNP,Week 14Dec 2[16],2012,4
+684,6,<,3,Georgia,SEC,11-2,1213,5,L 32-28 N #2 Alabama (SEC CG),Week 14Dec 2[16],2012,7
+685,7,<,7,Kansas State,Big 12,11-1,1129,6,W 42-24 H #23 Texas,Week 14Dec 2[16],2012,5
+686,8,<,8,Stanford,Pac-12,11-2,1094,8,W 27-24 H #17 UCLA (Pac-12 CG),Week 14Dec 2[16],2012,6
+687,9,<,9,LSU,SEC,10-2,1051,7,DNP,Week 14Dec 2[16],2012,8
+688,10,<,10,Texas A&M,SEC,10-2,1025,9,DNP,Week 14Dec 2[16],2012,9
+689,11,<,11,South Carolina,SEC,10-2,907,10,DNP,Week 14Dec 2[16],2012,10
+690,12,<,12,Oklahoma,Big 12,10-2,851,11,W 24-17 A TCU,Week 14Dec 2[16],2012,11
+691,13,<,13,Florida State,ACC,11-2,789,12,W 21-15 N Georgia Tech (ACC CG),Week 14Dec 2[16],2012,12
+692,14,<,15,Clemson,ACC,10-2,691,13,DNP,Week 14Dec 2[16],2012,14
+693,15,<,16,Oregon State,Pac-12,9-3,638,14,W 77-3 H Nicholls State,Week 14Dec 2[16],2012,13
+694,16,<,19,Northern Illinois,MAC,12-1,534,16,W 44-37 (2OT) N #18 Kent State (MAC CG),Week 14Dec 2[16],2012,15
+695,17,<,17,UCLA,Pac-12,9-4,440,19,L 27-24 A #8 Stanford (Pac-12 CG),Week 14Dec 2[16],2012,17
+696,18,<,20,Utah State,WAC,10-2,379,20,DNP,Week 14Dec 2[16],2012,22
+697,19,<,21,Michigan,Big Ten,8-4,306,22,DNP,Week 14Dec 2[16],2012,18
+698,20,<,25,Boise State,MWC,10-2,276,15,W 27-21 A Nevada,Week 14Dec 2[16],2012,19
+699,21,<,22,Northwestern,Big Ten,9-3,266,17,DNP,Week 14Dec 2[16],2012,20
+700,22,<,NR,Louisville,Big East,10-2,248,18,W 20-17 A Rutgers,Week 14Dec 2[16],2012,21
+701,23,<,14,Nebraska,Big Ten,10-3,227,21,L 70-31 N Wisconsin (Big Ten CG),Week 14Dec 2[16],2012,16
+702,24,<,NR,San Jose State,WAC,10-2,157,24,DNP,Week 14Dec 2[16],2012,24
+703,25,<,18,Kent State,MAC,11-2,117,RV,L 44-37 (2OT) N #19 Northern Illinois (MAC CG),Week 14Dec 2[16],2012,25
+704,RV,<,NR,Penn State,Big Ten,8-4,83,NR,DNP,Week 14Dec 2[16],2012,NR
+705,RV,<,NR,Vanderbilt,SEC,8-4,67,RV,DNP,Week 14Dec 2[16],2012,NR
+706,RV,<,NR,Wisconsin,Big Ten,8-5,62,23,W 70-31 N #14 Nebraska (Big Ten),Week 14Dec 2[16],2012,NR
+707,RV,<,23,Texas,Big 12,8-4,51,25,L 42-24 A #7 Kansas State,Week 14Dec 2[16],2012,23
+708,RV,<,NR,San Diego State,MWC,9-3,22,RV,DNP,Week 14Dec 2[16],2012,NR
+709,RV,<,NR,Fresno State,MWC,9-3,20,RV,DNP,Week 14Dec 2[16],2012,NR
+710,RV,<,24,Oklahoma State,Big 12,7-5,15,RV,L 41-34 A Baylor,Week 14Dec 2[16],2012,NR
+711,RV,<,NR,Baylor,Big 12,7-5,15,NR,W 41-34 H #24 Oklahoma State,Week 14Dec 2[16],2012,NR
+712,RV,<,NR,Cincinnati,Big East,9-3,15,RV,W 34-17 A Connecticut,Week 14Dec 2[16],2012,NR
+713,RV,<,NR,TCU,Big 12,7-5,14,NR,L 24-17 H #12 Oklahoma,Week 14Dec 2[16],2012,NR
+714,RV,<,NR,Arkansas State,Sun Belt,9-3,13,RV,W 45-0 H Middle Tennessee,Week 14Dec 2[16],2012,NR
+715,RV,<,NR,USC,Pac-12,7-5,11,RV,DNP,Week 14Dec 2[16],2012,NR
+716,RV,<,NR,Tulsa,CUSA,10-3,9,RV,W 33-27 (1OT) H UCF (C-USA),Week 14Dec 2[16],2012,NR
+717,RV,<,NR,Rutgers,Big East,9-3,6,RV,L 20-17 H Louisville,Week 14Dec 2[16],2012,NR
+718,RV,<,NR,Ball State,MAC,9-3,2,NR,DNP,Week 14Dec 2[16],2012,NR
+719,RV,<,NR,North Carolina,ACC,8-4,1,NR,DNP,Week 14Dec 2[16],2012,NR
+720,RV,<,NR,West Virginia,Big 12,7-5,1,NR,W 59-10 H Kansas,Week 14Dec 2[16],2012,NR
+721,NR,<,NR,Arizona,Pac-12,7-5,0,NR,DNP,Week 14Dec 2[16],2012,NR
+722,NR,<,NR,Arizona State,Pac-12,7-5,0,RV,DNP,Week 14Dec 2[16],2012,NR
+723,NR,<,NR,East Carolina,CUSA,8-4,0,NR,DNP,Week 14Dec 2[16],2012,NR
+724,NR,<,NR,Louisiana Monroe,Sun Belt,8-4,0,NR,DNP,Week 14Dec 2[16],2012,NR
+725,NR,<,NR,Louisiana Tech,WAC,9-3,0,RV,DNP,Week 14Dec 2[16],2012,NR
+726,NR,<,NR,Mississippi State,SEC,8-4,0,RV,DNP,Week 14Dec 2[16],2012,NR
+727,NR,<,NR,Syracuse,Big East,7-5,0,NR,DNP,Week 14Dec 2[16],2012,NR
+728,NR,<,NR,Toledo,MAC,9-3,0,NR,DNP,Week 14Dec 2[16],2012,NR
+729,NR,<,NR,UCF,CUSA,9-4,0,NR,L 33-27 (1OT) A Tulsa (C-USA),Week 14Dec 2[16],2012,NR
+730,1,<,2,Alabama (59),SEC,13-1,1475,*1,W 42-14 N #1 Notre Dame (BCS NC),Week 15 (Final)Jan 8[17],2012,
+731,2,<,5,Oregon,Pac-12,12-1,1358,2,W 35-17 N #7 Kansas State (Fiesta),Week 15 (Final)Jan 8[17],2012,
+732,3,<,3,Ohio State,Big Ten,12-0,1302,NR,DNP,Week 15 (Final)Jan 8[17],2012,
+733,4,<,1,Notre Dame,Ind,12-1,1288,3,L 42-14 N #2 Alabama (BCS NC),Week 15 (Final)Jan 8[17],2012,
+734,5,<,6,Georgia,SEC,12-2,1230,4,W 45-31 N #23 Nebraska (Capital One),Week 15 (Final)Jan 8[17],2012,
+735,5,<,10,Texas A&M,SEC,11-2,1230,5,W 41-13 N #12 Oklahoma (Cotton),Week 15 (Final)Jan 8[17],2012,
+736,7,<,8,Stanford,Pac-12,12-2,1169,6,W 20-14 N Wisconsin (Rose),Week 15 (Final)Jan 8[17],2012,
+737,8,<,11,South Carolina,SEC,11-2,1038,7,W 33-28 N #19 Michigan (Outback),Week 15 (Final)Jan 8[17],2012,
+738,9,<,4,Florida,SEC,11-2,933,10,L 33-23 N #22 Louisville (Sugar),Week 15 (Final)Jan 8[17],2012,
+739,10,<,13,Florida State,ACC,12-2,922,8,W 31-10 N #16 Northern Illinois (Orange),Week 15 (Final)Jan 8[17],2012,
+740,11,<,14,Clemson,ACC,11-2,889,9,W 25-24 N #9 LSU (Chick-fil-A),Week 15 (Final)Jan 8[17],2012,
+741,12,<,7,Kansas State,Big 12,11-2,871,11,L 35-17 N #5 Oregon (Fiesta),Week 15 (Final)Jan 8[17],2012,
+742,13,<,22,Louisville,Big East,11-2,781,13,W 33-23 N #4 Florida (Sugar),Week 15 (Final)Jan 8[17],2012,
+743,14,<,9,LSU,SEC,10-3,756,12,L 25-24 N #14 Clemson (Chick-fil-A),Week 15 (Final)Jan 8[17],2012,
+744,15,<,12,Oklahoma,Big 12,10-3,615,15,L 41-13 N #10 Texas A&M (Cotton),Week 15 (Final)Jan 8[17],2012,
+745,16,<,18,Utah State,WAC,11-2,456,17,W 41-15 N Toledo (Idaho Potato),Week 15 (Final)Jan 8[17],2012,
+746,17,<,21,Northwestern,Big Ten,10-3,443,16,W 34-20 N Mississippi State (Gator),Week 15 (Final)Jan 8[17],2012,
+747,18,<,20,Boise State,MWC,11-2,419,14,W 28-26 N Washington (MAACO),Week 15 (Final)Jan 8[17],2012,
+748,19,<,NR,Texas,Big 12,9-4,358,18,W 31-27 N #15 Oregon State (Alamo),Week 15 (Final)Jan 8[17],2012,
+749,20,<,15,Oregon State,Pac-12,9-4,303,19,L 31-27 N Texas (Alamo),Week 15 (Final)Jan 8[17],2012,
+750,21,<,24,San Jose State,WAC,11-2,243,21,W 29-20 N Bowling Green (Military),Week 15 (Final)Jan 8[17],2012,
+751,22,<,16,Northern Illinois,MAC,12-2,227,24,L 31-10 N #13 Florida State (Orange),Week 15 (Final)Jan 8[17],2012,
+752,23,<,NR,Vanderbilt,SEC,9-4,180,20,W 38-24 N NC State (Music City),Week 15 (Final)Jan 8[17],2012,
+753,24,<,19,Michigan,Big Ten,8-5,147,RV,L 33-28 N #11 South Carolina (Outback),Week 15 (Final)Jan 8[17],2012,
+754,25,<,23,Nebraska,Big Ten,10-4,119,23,L 45-31 N #6 Georgia (Capital One),Week 15 (Final)Jan 8[17],2012,
+755,RV,<,NR,Baylor,Big 12,8-5,95,RV,W 49-26 N #17 UCLA (Holiday),Week 15 (Final)Jan 8[17],2012,
+756,RV,<,NR,Penn State,Big Ten,8-4,90,NR,DNP,Week 15 (Final)Jan 8[17],2012,
+757,RV,<,NR,Cincinnati,Big East,10-3,78,22,W 48-34 N Duke (Belk),Week 15 (Final)Jan 8[17],2012,
+758,RV,<,NR,Oklahoma State,Big 12,8-5,42,RV,W 58-14 N Purdue (Heart of Dallas),Week 15 (Final)Jan 8[17],2012,
+759,RV,<,NR,Tulsa,CUSA,11-3,34,25,W 31-17 N Iowa State (Liberty),Week 15 (Final)Jan 8[17],2012,
+760,RV,<,17,UCLA,Pac-12,9-5,31,RV,L 49-26 N Baylor (Holiday),Week 15 (Final)Jan 8[17],2012,
+761,RV,<,NR,Arkansas State,Sun Belt,10-3,28,RV,W 17-13 N #25 Kent State (GoDaddy.com),Week 15 (Final)Jan 8[17],2012,
+762,RV,<,NR,TCU,Big 12,7-6,9,NR,L 17-16 N Michigan State (Buffalo Wild Wings),Week 15 (Final)Jan 8[17],2012,
+763,RV,<,NR,UCF,CUSA,10-4,9,RV,W 38-17 N Ball State (Beef 'O' Brady's),Week 15 (Final)Jan 8[17],2012,
+764,RV,<,NR,Wisconsin,Big Ten,8-6,6,RV,L 20-14 N #8 Stanford (Rose),Week 15 (Final)Jan 8[17],2012,
+765,RV,<,NR,North Dakota State,Other,14-1,1,NR,W 39-13 N Sam Houston State (FCS),Week 15 (Final)Jan 8[17],2012,
+766,NR,<,25,Kent State,MAC,11-3,0,RV,L 17-13 N Arkansas State (GoDaddy.com),Week 15 (Final)Jan 8[17],2012,
+767,NR,<,NR,Arizona,Pac-12,8-5,0,RV,W 49-48 N Nevada (New Mexico),Week 15 (Final)Jan 8[17],2012,
+768,NR,<,NR,Arizona State,Pac-12,8-5,0,RV,W 62-28 N Navy (Kraft Fight Hunger),Week 15 (Final)Jan 8[17],2012,
+769,NR,<,NR,Louisiana Tech,WAC,9-3,0,RV,DNP,Week 15 (Final)Jan 8[17],2012,
+770,NR,<,NR,Ohio,MAC,9-4,0,RV,W 45-14 N Louisiana-Monroe (Independence),Week 15 (Final)Jan 8[17],2012,
+771,NR,<,NR,Rutgers,Big East,9-4,0,RV,L 13-10 (1OT) N Virginia Tech (Russell Athletic),Week 15 (Final)Jan 8[17],2012,

@@ -1,0 +1,749 @@
+,Rank,Rank.1,Rank.2,Team (FPV),Conf,Rec,Pts,CP,Last Week,Date,Year,3WT,CFP
+0,1,<,1,Ohio State (61),Big Ten,0-0,1525,*1,DNP,PreseasonAug 23[1],2015,,
+1,2,<,3,TCU,Big 12,0-0,1428,*2,DNP,PreseasonAug 23[1],2015,,
+2,3,<,4,Alabama,SEC,0-0,1322,*3,DNP,PreseasonAug 23[1],2015,,
+3,4,<,7,Baylor,Big 12,0-0,1263,4,DNP,PreseasonAug 23[1],2015,,
+4,5,<,5,Michigan State,Big Ten,0-0,1256,6,DNP,PreseasonAug 23[1],2015,,
+5,6,<,22,Auburn,SEC,0-0,1192,7,DNP,PreseasonAug 23[1],2015,,
+6,7,<,2,Oregon,Pac-12,0-0,1156,5,DNP,PreseasonAug 23[1],2015,,
+7,8,<,20,USC,Pac-12,0-0,1085,10,DNP,PreseasonAug 23[1],2015,,
+8,9,<,9,Georgia,SEC,0-0,991,9,DNP,PreseasonAug 23[1],2015,,
+9,10,<,5,Florida State,ACC,0-0,959,8,DNP,PreseasonAug 23[1],2015,,
+10,11,<,NR,Notre Dame,Ind,0-0,873,11,DNP,PreseasonAug 23[1],2015,,
+11,12,<,15,Clemson,ACC,0-0,862,12,DNP,PreseasonAug 23[1],2015,,
+12,13,<,10,UCLA,Pac-12,0-0,698,14,DNP,PreseasonAug 23[1],2015,,
+13,14,<,NR,LSU,SEC,0-0,675,13,DNP,PreseasonAug 23[1],2015,,
+14,15,<,12,Arizona State,Pac-12,0-0,605,16,DNP,PreseasonAug 23[1],2015,,
+15,16,<,8,Georgia Tech,ACC,0-0,588,17,DNP,PreseasonAug 23[1],2015,,
+16,17,<,17,Mississippi,SEC,0-0,563,15,DNP,PreseasonAug 23[1],2015,,
+17,18,<,NR,Arkansas,SEC,0-0,410,20,DNP,PreseasonAug 23[1],2015,,
+18,19,<,NR,Oklahoma,Big 12,0-0,394,19,DNP,PreseasonAug 23[1],2015,,
+19,20,<,13,Wisconsin,Big Ten,0-0,393,18,DNP,PreseasonAug 23[1],2015,,
+20,21,<,NR,Stanford,Pac-12,0-0,347,21,DNP,PreseasonAug 23[1],2015,,
+21,22,<,19,Arizona,Pac-12,0-0,311,22,DNP,PreseasonAug 23[1],2015,,
+22,23,<,16,Boise State,MWC,0-0,240,24,DNP,PreseasonAug 23[1],2015,,
+23,24,<,14,Missouri,SEC,0-0,219,23,DNP,PreseasonAug 23[1],2015,,
+24,25,<,NR,Tennessee,SEC,0-0,114,25,DNP,PreseasonAug 23[1],2015,,
+25,RV,<,11,Mississippi State,SEC,0-0,100,RV,DNP,PreseasonAug 23[1],2015,,
+26,RV,<,NR,Texas A&M,SEC,0-0,61,RV,DNP,PreseasonAug 23[1],2015,,
+27,RV,<,NR,Oklahoma State,Big 12,0-0,46,RV,DNP,PreseasonAug 23[1],2015,,
+28,RV,<,NR,Virginia Tech,ACC,0-0,42,RV,DNP,PreseasonAug 23[1],2015,,
+29,RV,<,21,Utah,Pac-12,0-0,36,RV,DNP,PreseasonAug 23[1],2015,,
+30,RV,<,NR,Penn State,Big Ten,0-0,20,RV,DNP,PreseasonAug 23[1],2015,,
+31,RV,<,24,Louisville,ACC,0-0,12,RV,DNP,PreseasonAug 23[1],2015,,
+32,RV,<,NR,Cincinnati,AAC,0-0,8,RV,DNP,PreseasonAug 23[1],2015,,
+33,RV,<,NR,Nebraska,Big Ten,0-0,6,RV,DNP,PreseasonAug 23[1],2015,,
+34,RV,<,18,Kansas State,Big 12,0-0,5,RV,DNP,PreseasonAug 23[1],2015,,
+35,RV,<,NR,Florida,SEC,0-0,4,RV,DNP,PreseasonAug 23[1],2015,,
+36,RV,<,NR,NC State,ACC,0-0,4,RV,DNP,PreseasonAug 23[1],2015,,
+37,RV,<,NR,Texas,Big 12,0-0,3,RV,DNP,PreseasonAug 23[1],2015,,
+38,RV,<,NR,BYU,Ind,0-0,2,RV,DNP,PreseasonAug 23[1],2015,,
+39,RV,<,NR,Michigan,Big Ten,0-0,2,RV,DNP,PreseasonAug 23[1],2015,,
+40,RV,<,NR,Northern Illinois,MAC,0-0,2,NR,DNP,PreseasonAug 23[1],2015,,
+41,RV,<,NR,California,Pac-12,0-0,1,NR,DNP,PreseasonAug 23[1],2015,,
+42,RV,<,NR,West Virginia,Big 12,0-0,1,RV,DNP,PreseasonAug 23[1],2015,,
+43,RV,<,NR,Western Kentucky,CUSA,0-0,1,NR,DNP,PreseasonAug 23[1],2015,,
+44,NR,<,23,Marshall,CUSA,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+45,NR,<,25,Memphis,AAC,0-0,0,NR,DNP,PreseasonAug 23[1],2015,,
+46,NR,<,NR,Air Force,MWC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+47,NR,<,NR,Duke,ACC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+48,NR,<,NR,Georgia Southern,Sun Belt,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+49,NR,<,NR,Illinois,Big Ten,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+50,NR,<,NR,Kentucky,SEC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+51,NR,<,NR,Louisiana Tech,CUSA,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+52,NR,<,NR,Maryland,Big Ten,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+53,NR,<,NR,Miami (FL),ACC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+54,NR,<,NR,Minnesota,Big Ten,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+55,NR,<,NR,North Carolina,ACC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+56,NR,<,NR,South Carolina,SEC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+57,NR,<,NR,UCF,AAC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+58,NR,<,NR,Utah State,MWC,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+59,NR,<,NR,Washington,Pac-12,0-0,0,RV,DNP,PreseasonAug 23[1],2015,,
+60,1,<,1,Ohio State (61),Big Ten,1-0,1525,*1,W 42-24 A Virginia Tech,Week 1Sep 8[2],2015,,
+61,2,<,3,Alabama,SEC,1-0,1420,*2,W 35-17 N #20 Wisconsin (Advocare Classic),Week 1Sep 8[2],2015,,
+62,3,<,2,TCU,Big 12,1-0,1365,3,W 23-17 A Minnesota,Week 1Sep 8[2],2015,,
+63,4,<,4,Baylor,Big 12,1-0,1252,4,W 56-21 A SMU,Week 1Sep 8[2],2015,,
+64,5,<,5,Michigan State,Big Ten,1-0,1198,6,W 37-24 A Western Michigan,Week 1Sep 8[2],2015,,
+65,6,<,6,Auburn,SEC,1-0,1166,7,W 31-24 H Louisville,Week 1Sep 8[2],2015,,
+66,7,<,7,Oregon,Pac-12,1-0,1081,5,W 61-42 H Eastern Washington,Week 1Sep 8[2],2015,,
+67,8,<,8,USC,Pac-12,1-0,1074,10,W 55-6 H Arkansas State,Week 1Sep 8[2],2015,,
+68,9,<,11,Notre Dame,Ind,1-0,1061,11,W 38-3 H Texas,Week 1Sep 8[2],2015,,
+69,10,<,9,Georgia,SEC,1-0,981,9,W 51-14 H Louisiana-Monroe,Week 1Sep 8[2],2015,,
+70,11,<,10,Florida State,ACC,1-0,942,8,W 59-16 H Texas State,Week 1Sep 8[2],2015,,
+71,12,<,12,Clemson,ACC,1-0,862,12,W 49-10 H Wofford,Week 1Sep 8[2],2015,,
+72,13,<,13,UCLA,Pac-12,1-0,833,13,W 34-16 H Virginia,Week 1Sep 8[2],2015,,
+73,14,<,14,LSU,SEC,0-0,653,15,DNP,Week 1Sep 8[2],2015,,
+74,15,<,16,Georgia Tech,ACC,1-0,636,16,W 69-6 H Alcorn State,Week 1Sep 8[2],2015,,
+75,16,<,NR,Texas A&M,SEC,1-0,629,19,W 38-17 N #15 Arizona State (Advocare Texas Kickoff),Week 1Sep 8[2],2015,,
+76,17,<,17,Mississippi,SEC,1-0,600,14,W 76-3 H Tennessee-Martin,Week 1Sep 8[2],2015,,
+77,18,<,18,Arkansas,SEC,1-0,480,18,W 48-13 H UTEP,Week 1Sep 8[2],2015,,
+78,19,<,19,Oklahoma,Big 12,1-0,469,17,W 41-3 H Akron,Week 1Sep 8[2],2015,,
+79,20,<,23,Boise State,MWC,1-0,279,22,W 16-13 H Washington,Week 1Sep 8[2],2015,,
+80,21,<,24,Missouri,SEC,1-0,274,21,W 34-3 H Southeast Missouri State,Week 1Sep 8[2],2015,,
+81,22,<,22,Arizona,Pac-12,1-0,259,20,W 42-32 H UTSA,Week 1Sep 8[2],2015,,
+82,23,<,25,Tennessee,SEC,1-0,169,23,W 59-30 N Bowling Green,Week 1Sep 8[2],2015,,
+83,24,<,NR,Utah,Pac-12,1-0,137,25,W 24-17 H Michigan,Week 1Sep 8[2],2015,,
+84,25,<,NR,Mississippi State,SEC,1-0,104,RV,W 34-16 A Southern Miss,Week 1Sep 8[2],2015,,
+85,RV,<,20,Wisconsin,Big Ten,0-1,79,24,L 35-17 N #3 Alabama (Advocare Classic),Week 1Sep 8[2],2015,,
+86,RV,<,NR,BYU,Ind,1-0,74,RV,W 33-28 A Nebraska,Week 1Sep 8[2],2015,,
+87,RV,<,NR,Northwestern,Big Ten,1-0,72,RV,W 16-6 H #21 Stanford,Week 1Sep 8[2],2015,,
+88,RV,<,15,Arizona State,Pac-12,0-1,49,RV,L 38-17 N Texas A&M (Advocare Texas Kickoff),Week 1Sep 8[2],2015,,
+89,RV,<,NR,Oklahoma State,Big 12,1-0,30,RV,W 24-13 A Central Michigan,Week 1Sep 8[2],2015,,
+90,RV,<,NR,West Virginia,Big 12,1-0,23,RV,W 44-0 H Georgia Southern,Week 1Sep 8[2],2015,,
+91,RV,<,NR,Florida,SEC,1-0,8,RV,W 61-13 H New Mexico State,Week 1Sep 8[2],2015,,
+92,RV,<,NR,Temple,AAC,1-0,8,RV,W 27-10 H Penn State,Week 1Sep 8[2],2015,,
+93,RV,<,NR,Cincinnati,AAC,1-0,7,NR,W 52-10 H Alabama A&M,Week 1Sep 8[2],2015,,
+94,RV,<,NR,Kansas State,Big 12,1-0,7,RV,W 34-0 H South Dakota,Week 1Sep 8[2],2015,,
+95,RV,<,NR,Minnesota,Big Ten,0-1,5,RV,L 23-17 H #2 TCU,Week 1Sep 8[2],2015,,
+96,RV,<,NR,Louisville,ACC,0-1,4,RV,L 31-24 A #6 Auburn,Week 1Sep 8[2],2015,,
+97,RV,<,NR,NC State,ACC,1-0,4,RV,W 49-21 H Troy,Week 1Sep 8[2],2015,,
+98,RV,<,NR,Western Kentucky,CUSA,1-0,3,NR,W 14-12 A Vanderbilt,Week 1Sep 8[2],2015,,
+99,RV,<,NR,California,Pac-12,1-0,2,RV,W 73-14 H Grambling State,Week 1Sep 8[2],2015,,
+100,RV,<,21,Stanford,Pac-12,0-1,1,RV,L 16-6 A Northwestern,Week 1Sep 8[2],2015,,
+101,NR,<,NR,Duke,ACC,1-0,0,RV,W 37-7 A Tulane,Week 1Sep 8[2],2015,,
+102,NR,<,NR,Illinois,Big Ten,1-0,0,RV,W 52-3 H Kent State,Week 1Sep 8[2],2015,,
+103,NR,<,NR,Louisiana Tech,CUSA,1-0,0,RV,W 62-15 H Southern,Week 1Sep 8[2],2015,,
+104,NR,<,NR,Marshall,CUSA,1-0,0,RV,W 41-31 H Purdue,Week 1Sep 8[2],2015,,
+105,NR,<,NR,Maryland,Big Ten,1-0,0,RV,W 50-21 H Richmond,Week 1Sep 8[2],2015,,
+106,NR,<,NR,Memphis,AAC,1-0,0,RV,W 63-7 H Missouri State,Week 1Sep 8[2],2015,,
+107,NR,<,NR,Miami (FL),ACC,1-0,0,RV,W 45-0 H Bethune-Cookman,Week 1Sep 8[2],2015,,
+108,NR,<,NR,Nebraska,Big Ten,0-1,0,RV,L 33-28 H BYU,Week 1Sep 8[2],2015,,
+109,NR,<,NR,Pittsburgh,ACC,1-0,0,RV,W 45-37 H Youngstown State,Week 1Sep 8[2],2015,,
+110,NR,<,NR,South Carolina,SEC,1-0,0,RV,W 17-13 N North Carolina,Week 1Sep 8[2],2015,,
+111,1,<,1,Ohio State (59),Big Ten,2-0,1523,*1,W 38-0 H Hawaii,Week 2Sep 13[3],2015,,
+112,2,<,2,Alabama,SEC,2-0,1423,*2,W 37-10 H Middle Tennessee,Week 2Sep 13[3],2015,,
+113,3,<,3,TCU,Big 12,2-0,1366,3,W 70-7 H Stephen F. Austin,Week 2Sep 13[3],2015,,
+114,4,<,5,Michigan State (2),Big Ten,2-0,1354,4,W 31-28 H #7 Oregon,Week 2Sep 13[3],2015,,
+115,5,<,4,Baylor,Big 12,2-0,1240,5,W 66-31 H Lamar,Week 2Sep 13[3],2015,,
+116,6,<,8,USC,Pac-12,2-0,1146,7,W 59-9 H Idaho,Week 2Sep 13[3],2015,,
+117,7,<,10,Georgia,SEC,2-0,1031,8,W 31-14 A Vanderbilt,Week 2Sep 13[3],2015,,
+118,8,<,9,Notre Dame,Ind,2-0,1012,10,W 34-27 A Virginia,Week 2Sep 13[3],2015,,
+119,9,<,11,Florida State,ACC,2-0,973,6,W 34-14 H South Florida,Week 2Sep 13[3],2015,,
+120,10,<,13,UCLA,Pac-12,2-0,928,12,W 37-3 A UNLV,Week 2Sep 13[3],2015,,
+121,11,<,12,Clemson,ACC,2-0,926,9,W 41-10 H Appalachian State,Week 2Sep 13[3],2015,,
+122,12,<,7,Oregon,Pac-12,1-1,833,13,L 31-28 A #5 Michigan State,Week 2Sep 13[3],2015,,
+123,13,<,14,LSU,SEC,1-0,787,14,W 21-19 A #25 Mississippi State,Week 2Sep 13[3],2015,,
+124,14,<,15,Georgia Tech,ACC,2-0,716,16,W 65-10 H Tulane,Week 2Sep 13[3],2015,,
+125,15,<,17,Mississippi,SEC,2-0,713,11,W 73-21 H Fresno State,Week 2Sep 13[3],2015,,
+126,16,<,19,Oklahoma,Big 12,2-0,705,17,W 31-24 (2OT) A #23 Tennessee,Week 2Sep 13[3],2015,,
+127,17,<,16,Texas A&M,SEC,2-0,703,18,W 56-23 H Ball State,Week 2Sep 13[3],2015,,
+128,18,<,6,Auburn,SEC,2-0,519,15,W 27-20 (1OT) H Jacksonville State,Week 2Sep 13[3],2015,,
+129,19,<,NR,BYU,Ind,2-0,349,22,W 35-24 H #20 Boise State,Week 2Sep 13[3],2015,,
+130,20,<,22,Arizona,Pac-12,2-0,342,19,W 44-20 A Nevada,Week 2Sep 13[3],2015,,
+131,21,<,24,Utah,Pac-12,2-0,290,21,W 24-14 H Utah State,Week 2Sep 13[3],2015,,
+132,22,<,21,Missouri,SEC,2-0,264,20,W 27-20 A Arkansas State,Week 2Sep 13[3],2015,,
+133,23,<,NR,Northwestern,Big Ten,2-0,170,24,W 41-0 H Eastern Illinois,Week 2Sep 13[3],2015,,
+134,24,<,NR,Wisconsin,Big Ten,1-1,158,23,W 58-0 H Miami (OH),Week 2Sep 13[3],2015,,
+135,25,<,NR,Oklahoma State,Big 12,2-0,48,25,W 32-8 H Central Arkansas,Week 2Sep 13[3],2015,,
+136,RV,<,NR,Temple,AAC,2-0,38,RV,W 34-26 A Cincinnati,Week 2Sep 13[3],2015,,
+137,RV,<,NR,West Virginia,Big 12,2-0,37,RV,W 41-17 H Liberty,Week 2Sep 13[3],2015,,
+138,RV,<,25,Mississippi State,SEC,1-1,32,RV,L 21-19 H #14 LSU,Week 2Sep 13[3],2015,,
+139,RV,<,23,Tennessee,SEC,1-1,30,RV,L 31-24 (2OT) H #19 Oklahoma,Week 2Sep 13[3],2015,,
+140,RV,<,NR,Toledo,MAC,1-0,29,RV,W 16-12 A #18 Arkansas,Week 2Sep 13[3],2015,,
+141,RV,<,NR,Kansas State,Big 12,2-0,26,RV,W 30-3 A UTSA,Week 2Sep 13[3],2015,,
+142,RV,<,NR,Arizona State,Pac-12,1-1,20,RV,W 35-21 H Cal Poly,Week 2Sep 13[3],2015,,
+143,RV,<,20,Boise State,MWC,1-1,16,RV,L 35-24 A BYU,Week 2Sep 13[3],2015,,
+144,RV,<,NR,Houston,AAC,2-0,16,RV,W 34-31 A Louisville,Week 2Sep 13[3],2015,,
+145,RV,<,NR,NC State,ACC,2-0,14,RV,W 35-0 H Eastern Kentucky,Week 2Sep 13[3],2015,,
+146,RV,<,NR,Florida,SEC,2-0,12,RV,W 31-24 H East Carolina,Week 2Sep 13[3],2015,,
+147,RV,<,NR,Minnesota,Big Ten,1-1,9,RV,W 23-20 (1OT) A Colorado State,Week 2Sep 13[3],2015,,
+148,RV,<,18,Arkansas,SEC,1-1,6,RV,L 16-12 H Toledo,Week 2Sep 13[3],2015,,
+149,RV,<,NR,California,Pac-12,2-0,5,RV,W 35-7 H San Diego State,Week 2Sep 13[3],2015,,
+150,RV,<,NR,Iowa,Big Ten,2-0,5,RV,W 31-17 A Iowa State,Week 2Sep 13[3],2015,,
+151,RV,<,NR,Miami (FL),ACC,2-0,3,RV,W 44-20 A Florida Atlantic,Week 2Sep 13[3],2015,,
+152,RV,<,NR,Stanford,Pac-12,1-1,3,NR,W 31-7 H UCF,Week 2Sep 13[3],2015,,
+153,RV,<,NR,Virginia Tech,ACC,1-1,2,NR,W 42-3 H Furman,Week 2Sep 13[3],2015,,
+154,RV,<,NR,Western Kentucky,CUSA,2-0,2,RV,W 41-38 H Louisiana Tech,Week 2Sep 13[3],2015,,
+155,RV,<,NR,Duke,ACC,2-0,1,RV,W 55-0 H North Carolina Central,Week 2Sep 13[3],2015,,
+156,NR,<,NR,Illinois,Big Ten,2-0,0,RV,W 44-0 H Western Illinois,Week 2Sep 13[3],2015,,
+157,NR,<,NR,Kentucky,SEC,2-0,0,RV,W 26-22 A South Carolina,Week 2Sep 13[3],2015,,
+158,NR,<,NR,Memphis,AAC,2-0,0,RV,W 55-23 A Kansas,Week 2Sep 13[3],2015,,
+159,NR,<,NR,Michigan,Big Ten,1-1,0,RV,W 35-7 H Oregon State,Week 2Sep 13[3],2015,,
+160,NR,<,NR,Nebraska,Big Ten,1-1,0,RV,W 48-9 H South Alabama,Week 2Sep 13[3],2015,,
+161,NR,<,NR,Pittsburgh,ACC,2-0,0,RV,W 24-7 A Akron,Week 2Sep 13[3],2015,,
+162,NR,<,NR,South Carolina,SEC,1-1,0,RV,L 26-22 H Kentucky,Week 2Sep 13[3],2015,,
+163,1,<,1,Ohio State (42),Big Ten,3-0,1490,*1,W 20-13 H Northern Illinois,Week 3Sep 20[4],2015,0.0,
+164,2,<,4,Michigan State (7),Big Ten,3-0,1415,*3,W 35-21 H Air Force,Week 3Sep 20[4],2015,3.0,
+165,3,<,3,TCU,Big 12,3-0,1345,2,W 56-37 H SMU,Week 3Sep 20[4],2015,0.0,
+166,3,<,15,Mississippi (11),SEC,3-0,1345,5,W 43-37 A #2 Alabama,Week 3Sep 20[4],2015,14.0,
+167,5,<,5,Baylor,Big 12,2-0,1213,4,DNP,Week 3Sep 20[4],2015,-1.0,
+168,6,<,8,Notre Dame,Ind,3-0,1183,8,W 30-22 H #14 Georgia Tech,Week 3Sep 20[4],2015,3.0,
+169,7,<,7,Georgia,SEC,3-0,1162,6,W 52-20 H South Carolina,Week 3Sep 20[4],2015,3.0,
+170,8,<,13,LSU (1),SEC,2-0,1088,9,W 45-21 H #18 Auburn,Week 3Sep 20[4],2015,6.0,
+171,9,<,10,UCLA,Pac-12,3-0,981,11,W 24-23 H #19 BYU,Week 3Sep 20[4],2015,4.0,
+172,10,<,9,Florida State,ACC,3-0,953,7,W 14-0 A Boston College,Week 3Sep 20[4],2015,1.0,
+173,11,<,11,Clemson,ACC,3-0,903,10,W 20-17 A Louisville,Week 3Sep 20[4],2015,1.0,
+174,12,<,2,Alabama,SEC,2-1,882,12,L 43-37 H #15 Mississippi,Week 3Sep 20[4],2015,-10.0,
+175,13,<,12,Oregon,Pac-12,2-1,855,13,W 61-28 H Georgia State,Week 3Sep 20[4],2015,-6.0,
+176,14,<,17,Texas A&M,SEC,3-0,798,15,W 44-27 H Nevada,Week 3Sep 20[4],2015,2.0,
+177,15,<,16,Oklahoma,Big 12,3-0,782,14,W 52-38 H Tulsa,Week 3Sep 20[4],2015,4.0,
+178,16,<,20,Arizona,Pac-12,3-0,488,16,W 77-13 H Northern Arizona,Week 3Sep 20[4],2015,6.0,
+179,17,<,23,Northwestern,Big Ten,3-0,469,19,W 19-10 A Duke,Week 3Sep 20[4],2015,9.0,
+180,18,<,21,Utah,Pac-12,3-0,439,17,W 45-24 A Fresno State,Week 3Sep 20[4],2015,6.0,
+181,19,<,6,USC,Pac-12,2-1,367,18,L 41-31 H Stanford,Week 3Sep 20[4],2015,-11.0,
+182,20,<,14,Georgia Tech,ACC,2-1,352,20,L 30-22 A #8 Notre Dame,Week 3Sep 20[4],2015,-5.0,
+183,21,<,NR,Stanford,Pac-12,2-1,288,24,W 41-31 A #6 USC,Week 3Sep 20[4],2015,5.0,
+184,22,<,19,BYU,Ind,2-1,174,RV,L 24-23 A #10 UCLA,Week 3Sep 20[4],2015,4.0,
+185,22,<,24,Wisconsin,Big Ten,2-1,174,21,W 28-3 H Troy,Week 3Sep 20[4],2015,4.0,
+186,24,<,25,Oklahoma State,Big 12,3-0,149,22,W 69-14 H UTSA,Week 3Sep 20[4],2015,2.0,
+187,25,<,22,Missouri,SEC,3-0,135,23,W 9-6 H Connecticut,Week 3Sep 20[4],2015,-4.0,
+188,RV,<,NR,Mississippi State,SEC,2-1,52,RV,W 62-13 H Northwestern State,Week 3Sep 20[4],2015,-1.0,
+189,RV,<,NR,West Virginia,Big 12,2-0,48,RV,DNP,Week 3Sep 20[4],2015,0.0,
+190,RV,<,NR,Tennessee,SEC,2-1,45,RV,W 55-10 H Western Carolina,Week 3Sep 20[4],2015,-3.0,
+191,RV,<,NR,California,Pac-12,3-0,38,RV,W 45-44 A Texas,Week 3Sep 20[4],2015,0.0,
+192,RV,<,NR,Toledo,MAC,2-0,36,RV,W 30-23 (2OT) H Iowa State,Week 3Sep 20[4],2015,0.0,
+193,RV,<,NR,Arizona State,Pac-12,2-1,25,RV,W 34-10 H New Mexico,Week 3Sep 20[4],2015,0.0,
+194,RV,<,NR,Houston,AAC,2-0,22,RV,DNP,Week 3Sep 20[4],2015,0.0,
+195,RV,<,18,Auburn,SEC,2-1,20,25,L 45-21 A #13 LSU,Week 3Sep 20[4],2015,-20.0,
+196,RV,<,NR,Temple,AAC,3-0,20,RV,W 25-23 A Massachusetts,Week 3Sep 20[4],2015,0.0,
+197,RV,<,NR,Texas Tech,Big 12,3-0,20,RV,W 35-24 A Arkansas,Week 3Sep 20[4],2015,0.0,
+198,RV,<,NR,Boise State,MWC,2-1,17,RV,W 52-0 H Idaho State,Week 3Sep 20[4],2015,-6.0,
+199,RV,<,NR,Miami (FL),ACC,3-0,13,RV,W 36-33 (1OT) H Nebraska,Week 3Sep 20[4],2015,0.0,
+200,RV,<,NR,Iowa,Big Ten,3-0,10,RV,W 27-24 H Pittsburgh,Week 3Sep 20[4],2015,0.0,
+201,RV,<,NR,Kansas State,Big 12,3-0,8,RV,W 39-33 (3OT) H Louisiana Tech,Week 3Sep 20[4],2015,0.0,
+202,RV,<,NR,Florida,SEC,3-0,7,RV,W 14-9 A Kentucky,Week 3Sep 20[4],2015,0.0,
+203,RV,<,NR,NC State,ACC,3-0,5,RV,W 38-14 A Old Dominion,Week 3Sep 20[4],2015,0.0,
+204,RV,<,NR,Minnesota,Big Ten,2-1,4,RV,W 10-7 H Kent State,Week 3Sep 20[4],2015,0.0,
+205,RV,<,NR,Virginia Tech,ACC,2-1,4,RV,W 51-24 A Purdue,Week 3Sep 20[4],2015,0.0,
+206,RV,<,NR,Memphis,AAC,3-0,1,RV,W 44-41 A Bowling Green,Week 3Sep 20[4],2015,0.0,
+207,NR,<,NR,Boston College,ACC,2-1,0,RV,L 14-0 H #9 Florida State,Week 3Sep 20[4],2015,0.0,
+208,NR,<,NR,Northern Illinois,MAC,2-1,0,RV,L 20-13 A #1 Ohio State,Week 3Sep 20[4],2015,0.0,
+209,1,<,1,Ohio State (45),Big Ten,4-0,1482,*1,W 38-12 H Western Michigan,Week 4Sep 27[5],2015,0.0,
+210,2,<,2,Michigan State (5),Big Ten,4-0,1397,*2,W 30-10 H Central Michigan,Week 4Sep 27[5],2015,2.0,
+211,3,<,3,Mississippi (10),SEC,4-0,1349,*5,W 27-16 H Vanderbilt,Week 4Sep 27[5],2015,12.0,
+212,4,<,3,TCU,Big 12,4-0,1254,3,W 55-52 A Texas Tech,Week 4Sep 27[5],2015,-1.0,
+213,5,<,5,Baylor,Big 12,3-0,1196,4,W 70-17 H Rice,Week 4Sep 27[5],2015,0.0,
+214,6,<,6,Notre Dame,Ind,4-0,1163,7,W 62-27 H Massachusetts,Week 4Sep 27[5],2015,2.0,
+215,7,<,9,UCLA,Pac-12,4-0,1156,10,W 56-30 A #16 Arizona,Week 4Sep 27[5],2015,3.0,
+216,8,<,7,Georgia,SEC,4-0,1147,6,W 48-6 H Southern,Week 4Sep 27[5],2015,-1.0,
+217,9,<,8,LSU,SEC,3-0,1075,8,W 34-24 A Syracuse,Week 4Sep 27[5],2015,4.0,
+218,10,<,18,Utah (1),Pac-12,4-0,1034,12,W 62-20 A #13 Oregon,Week 4Sep 27[5],2015,11.0,
+219,11,<,10,Florida State,ACC,3-0,888,9,DNP,Week 4Sep 27[5],2015,-2.0,
+220,12,<,11,Clemson,ACC,3-0,853,11,DNP,Week 4Sep 27[5],2015,-1.0,
+221,13,<,12,Alabama,SEC,3-1,850,13,W 34-0 H Louisiana-Monroe,Week 4Sep 27[5],2015,-11.0,
+222,14,<,14,Texas A&M,SEC,4-0,776,15,W 28-21 (1OT) N Arkansas (Southwest Classic),Week 4Sep 27[5],2015,3.0,
+223,15,<,15,Oklahoma,Big 12,3-0,747,14,DNP,Week 4Sep 27[5],2015,1.0,
+224,16,<,17,Northwestern,Big Ten,4-0,566,17,W 24-19 H Ball State,Week 4Sep 27[5],2015,7.0,
+225,17,<,19,USC,Pac-12,3-1,509,16,W 42-14 A Arizona State,Week 4Sep 27[5],2015,-11.0,
+226,18,<,21,Stanford,Pac-12,3-1,486,20,W 42-24 A Oregon State,Week 4Sep 27[5],2015,8.0,
+227,19,<,22,Wisconsin,Big Ten,3-1,309,18,W 28-0 H Hawaii,Week 4Sep 27[5],2015,5.0,
+228,20,<,24,Oklahoma State,Big 12,4-0,281,19,W 30-27 A Texas,Week 4Sep 27[5],2015,5.0,
+229,21,<,NR,Mississippi State,SEC,3-1,211,22,W 17-9 A Auburn,Week 4Sep 27[5],2015,5.0,
+230,22,<,NR,Michigan,Big Ten,3-1,209,RV,W 31-0 H #22 BYU,Week 4Sep 27[5],2015,4.0,
+231,23,<,NR,West Virginia,Big 12,3-0,179,21,W 45-6 H Maryland,Week 4Sep 27[5],2015,3.0,
+232,24,<,NR,California,Pac-12,4-0,149,24,W 30-24 A Washington,Week 4Sep 27[5],2015,2.0,
+233,25,<,NR,Florida,SEC,4-0,140,23,W 28-27 H Tennessee,Week 4Sep 27[5],2015,1.0,
+234,RV,<,NR,Toledo,MAC,3-0,68,RV,W 37-7 H Arkansas State,Week 4Sep 27[5],2015,0.0,
+235,RV,<,13,Oregon,Pac-12,2-2,64,24,L 62-20 H #18 Utah,Week 4Sep 27[5],2015,-14.0,
+236,RV,<,16,Arizona,Pac-12,3-1,48,RV,L 56-30 H #9 UCLA,Week 4Sep 27[5],2015,-6.0,
+237,RV,<,NR,Boise State,MWC,3-1,38,RV,W 56-14 A Virginia,Week 4Sep 27[5],2015,0.0,
+238,RV,<,NR,Iowa,Big Ten,4-0,37,RV,W 62-16 H North Texas,Week 4Sep 27[5],2015,0.0,
+239,RV,<,NR,Texas Tech,Big 12,3-1,36,RV,L 55-52 H #3 TCU,Week 4Sep 27[5],2015,0.0,
+240,RV,<,NR,Houston,AAC,3-0,23,RV,W 59-14 H Texas State,Week 4Sep 27[5],2015,0.0,
+241,RV,<,NR,Duke,ACC,3-1,18,RV,W 34-20 H #20 Georgia Tech,Week 4Sep 27[5],2015,0.0,
+242,RV,<,NR,Temple,AAC,3-0,17,RV,DNP,Week 4Sep 27[5],2015,0.0,
+243,RV,<,NR,Miami (FL),ACC,3-0,14,RV,DNP,Week 4Sep 27[5],2015,0.0,
+244,RV,<,NR,Kansas State,Big 12,3-0,12,RV,DNP,Week 4Sep 27[5],2015,0.0,
+245,RV,<,NR,Memphis,AAC,4-0,11,RV,W 53-46 H Cincinnati,Week 4Sep 27[5],2015,0.0,
+246,RV,<,NR,NC State,ACC,4-0,10,RV,W 63-13 A South Alabama,Week 4Sep 27[5],2015,0.0,
+247,RV,<,NR,Navy,AAC,3-0,9,RV,W 28-18 A Connecticut,Week 4Sep 27[5],2015,0.0,
+248,RV,<,22,BYU,Ind,2-2,5,RV,L 31-0 A Michigan,Week 4Sep 27[5],2015,-7.0,
+249,RV,<,NR,Minnesota,Big Ten,3-1,5,RV,W 27-24 H Ohio,Week 4Sep 27[5],2015,0.0,
+250,RV,<,NR,Tennessee,SEC,2-2,4,RV,L 28-27 A Florida,Week 4Sep 27[5],2015,0.0,
+251,NR,<,20,Georgia Tech,ACC,2-2,0,RV,L 34-20 A Duke,Week 4Sep 27[5],2015,-12.0,
+252,NR,<,25,Missouri,SEC,3-1,0,RV,L 21-13 A Kentucky,Week 4Sep 27[5],2015,-4.0,
+253,NR,<,NR,Arizona State,Pac-12,2-2,0,NR,L 42-14 H #19 USC,Week 4Sep 27[5],2015,0.0,
+254,NR,<,NR,Arkansas,SEC,1-3,0,NR,L 28-21 (1OT) N #14 Texas A&M (Southwest Classic),Week 4Sep 27[5],2015,0.0,
+255,NR,<,NR,Auburn,SEC,2-2,0,RV,L 17-9 H Mississippi State,Week 4Sep 27[5],2015,-8.0,
+256,NR,<,NR,Illinois,Big Ten,3-1,0,RV,W 27-25 H Middle Tennessee,Week 4Sep 27[5],2015,0.0,
+257,NR,<,NR,Indiana,Big Ten,4-0,0,RV,W 31-24 A Wake Forest,Week 4Sep 27[5],2015,0.0,
+258,NR,<,NR,Kentucky,SEC,3-1,0,RV,W 21-13 H #25 Missouri,Week 4Sep 27[5],2015,0.0,
+259,NR,<,NR,Penn State,Big Ten,3-1,0,NR,W 37-21 H San Diego State,Week 4Sep 27[5],2015,0.0,
+260,NR,<,NR,Texas,Big 12,1-3,0,NR,L 30-27 H #24 Oklahoma State,Week 4Sep 27[5],2015,0.0,
+261,1,<,1,Ohio State (38),Big Ten,5-0,1444,1,W 34-27 A Indiana,Week 5Oct 4[6],2015,0.0,
+262,2,<,4,TCU (5),Big 12,5-0,1371,2,W 50-7 H Texas,Week 5Oct 4[6],2015,1.0,
+263,3,<,5,Baylor (10),Big 12,4-0,1364,4,W 63-35 N Texas Tech,Week 5Oct 4[6],2015,2.0,
+264,4,<,2,Michigan State,Big Ten,5-0,1291,3,W 24-21 H Purdue,Week 5Oct 4[6],2015,-2.0,
+265,5,<,10,Utah (7),Pac-12,4-0,1254,7,DNP,Week 5Oct 4[6],2015,13.0,
+266,6,<,12,Clemson,ACC,4-0,1217,6,W 24-22 H #6 Notre Dame,Week 5Oct 4[6],2015,5.0,
+267,7,<,9,LSU,SEC,4-0,1212,5,W 44-22 H Eastern Michigan,Week 5Oct 4[6],2015,1.0,
+268,8,<,13,Alabama,SEC,4-1,1026,10,W 38-10 A #8 Georgia,Week 5Oct 4[6],2015,4.0,
+269,9,<,14,Texas A&M (1),SEC,5-0,1009,11,W 30-17 H #21 Mississippi State,Week 5Oct 4[6],2015,5.0,
+270,10,<,15,Oklahoma,Big 12,4-0,976,9,W 44-24 H #23 West Virginia,Week 5Oct 4[6],2015,5.0,
+271,11,<,25,Florida,SEC,5-0,935,12,W 38-10 H #3 Mississippi,Week 5Oct 4[6],2015,15.0,
+272,12,<,11,Florida State,ACC,4-0,922,8,W 24-16 A Wake Forest,Week 5Oct 4[6],2015,-2.0,
+273,13,<,16,Northwestern,Big Ten,5-0,753,14,W 27-0 H Minnesota,Week 5Oct 4[6],2015,4.0,
+274,14,<,3,Mississippi,SEC,4-1,731,13,L 38-10 A #25 Florida,Week 5Oct 4[6],2015,-11.0,
+275,15,<,6,Notre Dame,Ind,4-1,721,15,L 24-22 A #12 Clemson,Week 5Oct 4[6],2015,-9.0,
+276,16,<,18,Stanford,Pac-12,4-1,617,18,W 55-17 H Arizona,Week 5Oct 4[6],2015,5.0,
+277,17,<,17,USC,Pac-12,3-1,498,17,DNP,Week 5Oct 4[6],2015,2.0,
+278,18,<,22,Michigan,Big Ten,4-1,452,21,W 28-0 A Maryland,Week 5Oct 4[6],2015,8.0,
+279,19,<,8,Georgia,SEC,4-1,441,16,L 38-10 H #13 Alabama,Week 5Oct 4[6],2015,-12.0,
+280,20,<,7,UCLA,Pac-12,4-1,415,20,L 38-23 H Arizona State,Week 5Oct 4[6],2015,-11.0,
+281,21,<,20,Oklahoma State,Big 12,5-0,332,19,W 36-34 H Kansas State,Week 5Oct 4[6],2015,3.0,
+282,22,<,NR,Iowa,Big Ten,5-0,254,23,W 10-6 A #19 Wisconsin,Week 5Oct 4[6],2015,4.0,
+283,23,<,24,California,Pac-12,5-0,233,22,W 34-28 H Washington State,Week 5Oct 4[6],2015,3.0,
+284,24,<,NR,Toledo,MAC,4-0,87,RV,W 24-10 A Ball State,Week 5Oct 4[6],2015,2.0,
+285,25,<,NR,Boise State,MWC,4-1,65,24,W 55-0 H Hawaii,Week 5Oct 4[6],2015,1.0,
+286,RV,<,NR,Oregon,Pac-12,3-2,39,RV,W 41-24 A Colorado,Week 5Oct 4[6],2015,-13.0,
+287,RV,<,NR,Duke,ACC,4-1,31,RV,W 9-7 H Boston College,Week 5Oct 4[6],2015,0.0,
+288,RV,<,NR,Houston,AAC,4-0,31,RV,W 38-24 A Tulsa,Week 5Oct 4[6],2015,0.0,
+289,RV,<,NR,Temple,AAC,4-0,23,RV,W 37-3 A Charlotte,Week 5Oct 4[6],2015,0.0,
+290,RV,<,NR,Memphis,AAC,5-0,19,25,W 24-17 A South Florida,Week 5Oct 4[6],2015,0.0,
+291,RV,<,NR,Navy,AAC,4-0,19,RV,W 33-11 H Air Force,Week 5Oct 4[6],2015,0.0,
+292,RV,<,NR,Arizona State,Pac-12,3-2,15,RV,W 38-23 A #7 UCLA,Week 5Oct 4[6],2015,0.0,
+293,RV,<,21,Mississippi State,SEC,3-2,11,RV,L 30-17 A #14 Texas A&M,Week 5Oct 4[6],2015,0.0,
+294,RV,<,23,West Virginia,Big 12,3-1,8,RV,L 44-24 A #15 Oklahoma,Week 5Oct 4[6],2015,0.0,
+295,RV,<,NR,Texas Tech,Big 12,3-2,4,NR,L 63-35 N #5 Baylor,Week 5Oct 4[6],2015,0.0,
+296,RV,<,NR,BYU,Ind,3-2,3,NR,W 30-13 H Connecticut,Week 5Oct 4[6],2015,-4.0,
+297,RV,<,NR,Kansas State,Big 12,3-1,1,RV,L 36-34 A #20 Oklahoma State,Week 5Oct 4[6],2015,0.0,
+298,RV,<,NR,Missouri,SEC,4-1,1,RV,W 24-10 H South Carolina,Week 5Oct 4[6],2015,-1.0,
+299,NR,<,19,Wisconsin,Big Ten,3-2,0,RV,L 10-6 H Iowa,Week 5Oct 4[6],2015,-4.0,
+300,NR,<,NR,Arizona,Pac-12,3-2,0,RV,L 55-17 A #18 Stanford,Week 5Oct 4[6],2015,-10.0,
+301,NR,<,NR,Arkansas,SEC,2-3,0,NR,W 24-20 A Tennessee,Week 5Oct 4[6],2015,0.0,
+302,NR,<,NR,Boston College,ACC,3-2,0,NR,L 9-7 A Duke,Week 5Oct 4[6],2015,0.0,
+303,NR,<,NR,Georgia Tech,ACC,2-3,0,NR,L 38-31 H North Carolina,Week 5Oct 4[6],2015,0.0,
+304,NR,<,NR,Illinois,Big Ten,4-1,0,RV,W 14-13 H Nebraska,Week 5Oct 4[6],2015,0.0,
+305,NR,<,NR,Indiana,Big Ten,4-1,0,RV,L 34-27 H #1 Ohio State,Week 5Oct 4[6],2015,0.0,
+306,NR,<,NR,Kentucky,SEC,4-1,0,RV,W 34-27 (1OT) H Eastern Kentucky,Week 5Oct 4[6],2015,0.0,
+307,NR,<,NR,Louisville,ACC,2-3,0,NR,W 20-13 A NC State,Week 5Oct 4[6],2015,0.0,
+308,NR,<,NR,Minnesota,Big Ten,3-2,0,NR,L 27-0 A #16 Northwestern,Week 5Oct 4[6],2015,0.0,
+309,NR,<,NR,North Carolina,ACC,4-1,0,RV,W 38-31 A Georgia Tech,Week 5Oct 4[6],2015,0.0,
+310,NR,<,NR,Penn State,Big Ten,4-1,0,NR,W 20-14 H Army,Week 5Oct 4[6],2015,0.0,
+311,NR,<,NR,Tennessee,SEC,2-3,0,NR,L 24-20 H Arkansas,Week 5Oct 4[6],2015,0.0,
+312,1,<,1,Ohio State (27),Big Ten,6-0,1411,*1,W 49-28 H Maryland,Week 6Oct 11[7],2015,0.0,
+313,2,<,3,Baylor (13),Big 12,5-0,1390,*2,W 66-7 A Kansas,Week 6Oct 11[7],2015,3.0,
+314,3,<,2,TCU (3),Big 12,6-0,1354,*3,W 52-45 A Kansas State,Week 6Oct 11[7],2015,1.0,
+315,4,<,5,Utah (16),Pac-12,5-0,1350,*7,W 30-24 H #23 California,Week 6Oct 11[7],2015,6.0,
+316,5,<,6,Clemson (1),ACC,5-0,1260,6,W 43-24 H Georgia Tech,Week 6Oct 11[7],2015,7.0,
+317,6,<,7,LSU,SEC,5-0,1231,*5,W 45-24 A South Carolina (Baton Rouge),Week 6Oct 11[7],2015,3.0,
+318,7,<,4,Michigan State,Big Ten,6-0,1139,*4,W 31-24 A Rutgers,Week 6Oct 11[7],2015,-5.0,
+319,8,<,11,Florida,SEC,6-0,1075,11,W 21-3 A Missouri,Week 6Oct 11[7],2015,17.0,
+320,9,<,9,Texas A&M (1),SEC,5-0,1046,10,DNP,Week 6Oct 11[7],2015,5.0,
+321,10,<,8,Alabama,SEC,5-1,1034,9,W 27-14 H Arkansas,Week 6Oct 11[7],2015,3.0,
+322,11,<,12,Florida State,ACC,5-0,937,8,W 29-24 H Miami (FL),Week 6Oct 11[7],2015,0.0,
+323,12,<,18,Michigan,Big Ten,5-1,894,14,W 38-0 H #13 Northwestern,Week 6Oct 11[7],2015,10.0,
+324,13,<,14,Mississippi,SEC,5-1,803,12,W 52-3 H New Mexico State,Week 6Oct 11[7],2015,-10.0,
+325,14,<,15,Notre Dame,Ind,5-1,766,13,W 41-24 H Navy,Week 6Oct 11[7],2015,-8.0,
+326,15,<,16,Stanford,Pac-12,4-1,662,16,DNP,Week 6Oct 11[7],2015,3.0,
+327,16,<,21,Oklahoma State,Big 12,6-0,614,15,W 33-26 (1OT) A West Virginia,Week 6Oct 11[7],2015,4.0,
+328,17,<,22,Iowa,Big Ten,6-0,520,17,W 29-20 H Illinois,Week 6Oct 11[7],2015,9.0,
+329,18,<,20,UCLA,Pac-12,4-1,487,18,DNP,Week 6Oct 11[7],2015,-11.0,
+330,19,<,10,Oklahoma,Big 12,4-1,342,19,L 24-17 N Texas,Week 6Oct 11[7],2015,-4.0,
+331,20,<,13,Northwestern,Big Ten,5-1,317,21,L 38-0 A #18 Michigan,Week 6Oct 11[7],2015,-4.0,
+332,21,<,25,Boise State,MWC,5-1,260,20,W 41-10 A Colorado State,Week 6Oct 11[7],2015,5.0,
+333,22,<,24,Toledo,MAC,5-0,237,25,W 38-7 H Kent State,Week 6Oct 11[7],2015,4.0,
+334,23,<,23,California,Pac-12,5-1,204,23,L 30-24 A #5 Utah,Week 6Oct 11[7],2015,1.0,
+335,24,<,NR,Houston,AAC,5-0,121,RV,W 49-28 H SMU,Week 6Oct 11[7],2015,2.0,
+336,25,<,NR,Duke,ACC,5-1,114,24,W 44-3 A Army,Week 6Oct 11[7],2015,1.0,
+337,RV,<,NR,Temple,AAC,5-0,96,RV,W 49-10 H Tulane,Week 6Oct 11[7],2015,0.0,
+338,RV,<,NR,Memphis,AAC,5-0,59,22,DNP,Week 6Oct 11[7],2015,0.0,
+339,RV,<,NR,Arizona State,Pac-12,4-2,27,RV,W 48-23 H Colorado,Week 6Oct 11[7],2015,0.0,
+340,RV,<,NR,Mississippi State,SEC,4-2,19,RV,W 45-17 H Troy,Week 6Oct 11[7],2015,-5.0,
+341,RV,<,19,Georgia,SEC,4-2,16,RV,L 38-31 A Tennessee,Week 6Oct 11[7],2015,-18.0,
+342,RV,<,NR,Texas Tech,Big 12,4-2,10,RV,W 66-31 H Iowa State,Week 6Oct 11[7],2015,0.0,
+343,RV,<,NR,BYU,Ind,4-2,8,NR,W 45-38 H East Carolina,Week 6Oct 11[7],2015,0.0,
+344,RV,<,17,USC,Pac-12,3-2,5,RV,L 17-12 H Washington,Week 6Oct 11[7],2015,-9.0,
+345,RV,<,NR,Western Kentucky,CUSA,5-1,5,NR,W 58-28 H Middle Tennessee,Week 6Oct 11[7],2015,0.0,
+346,RV,<,NR,Kentucky,SEC,4-1,4,RV,DNP,Week 6Oct 11[7],2015,0.0,
+347,RV,<,NR,Penn State,Big Ten,5-1,4,RV,W 29-7 H Indiana,Week 6Oct 11[7],2015,0.0,
+348,RV,<,NR,Navy,AAC,4-1,3,RV,L 41-24 A #15 Notre Dame,Week 6Oct 11[7],2015,0.0,
+349,RV,<,NR,North Carolina,ACC,4-1,1,RV,DNP,Week 6Oct 11[7],2015,0.0,
+350,NR,<,NR,Arizona,Pac-12,4-2,0,RV,W 44-7 H Oregon State,Week 6Oct 11[7],2015,0.0,
+351,NR,<,NR,Arkansas,SEC,2-4,0,NR,L 27-14 A #8 Alabama,Week 6Oct 11[7],2015,0.0,
+352,NR,<,NR,Georgia Tech,ACC,2-4,0,NR,L 43-24 A #6 Clemson,Week 6Oct 11[7],2015,0.0,
+353,NR,<,NR,Illinois,Big Ten,4-2,0,RV,L 29-20 A #22 Iowa,Week 6Oct 11[7],2015,0.0,
+354,NR,<,NR,Kansas State,Big 12,3-2,0,RV,L 52-45 H #2 TCU,Week 6Oct 11[7],2015,0.0,
+355,NR,<,NR,Oregon,Pac-12,3-3,0,NR,L 45-38 (2OT) H Washington State,Week 6Oct 11[7],2015,0.0,
+356,NR,<,NR,Tennessee,SEC,3-3,0,RV,W 38-31 H #19 Georgia,Week 6Oct 11[7],2015,0.0,
+357,NR,<,NR,Texas,Big 12,2-4,0,RV,W 24-17 N #10 Oklahoma,Week 6Oct 11[7],2015,0.0,
+358,NR,<,NR,Washington,Pac-12,3-2,0,RV,W 17-12 A #17 USC,Week 6Oct 11[7],2015,0.0,
+359,NR,<,NR,West Virginia,Big 12,3-2,0,RV,L 33-26 (1OT) H #21 Oklahoma State,Week 6Oct 11[7],2015,-3.0,
+360,NR,<,NR,Wisconsin,Big Ten,4-2,0,RV,W 23-21 A Nebraska,Week 6Oct 11[7],2015,-7.0,
+361,1,<,1,Ohio State (28),Big Ten,7-0,1428,*1,W 38-10 H Penn State,Week 7Oct 18[8],2015,0.0,
+362,2,<,2,Baylor (12),Big 12,6-0,1416,*2,W 62-38 H West Virginia,Week 7Oct 18[8],2015,1.0,
+363,3,<,4,Utah (16),Pac-12,6-0,1362,*7,W 34-18 H Arizona State,Week 7Oct 18[8],2015,2.0,
+364,4,<,3,TCU (3),Big 12,7-0,1338,*3,W 45-21 A Iowa State,Week 7Oct 18[8],2015,-2.0,
+365,5,<,6,LSU (1),SEC,6-0,1306,*5,W 35-28 H #8 Florida,Week 7Oct 18[8],2015,2.0,
+366,6,<,5,Clemson (1),ACC,6-0,1252,6,W 34-17 H Boston College,Week 7Oct 18[8],2015,0.0,
+367,7,<,7,Michigan State,Big Ten,7-0,1202,4,W 27-23 A #12 Michigan,Week 7Oct 18[8],2015,-3.0,
+368,8,<,10,Alabama,SEC,6-1,1133,8,W 41-23 A #9 Texas A&M,Week 7Oct 18[8],2015,0.0,
+369,9,<,11,Florida State,ACC,6-0,1041,9,W 41-21 H Louisville,Week 7Oct 18[8],2015,3.0,
+370,10,<,15,Stanford,Pac-12,5-1,917,11,W 56-35 H #18 UCLA,Week 7Oct 18[8],2015,6.0,
+371,11,<,14,Notre Dame,Ind,6-1,898,10,W 41-31 H USC,Week 7Oct 18[8],2015,4.0,
+372,12,<,17,Iowa,Big Ten,7-0,820,13,W 40-10 A #20 Northwestern,Week 7Oct 18[8],2015,10.0,
+373,13,<,8,Florida,SEC,6-1,785,14,L 35-28 A #6 LSU,Week 7Oct 18[8],2015,-2.0,
+374,14,<,16,Oklahoma State,Big 12,6-0,735,12,DNP,Week 7Oct 18[8],2015,7.0,
+375,15,<,9,Texas A&M,SEC,5-1,614,16,L 41-23 H #10 Alabama,Week 7Oct 18[8],2015,-6.0,
+376,15,<,12,Michigan,Big Ten,5-2,614,17,L 27-23 H #7 Michigan State,Week 7Oct 18[8],2015,3.0,
+377,17,<,19,Oklahoma,Big 12,5-1,565,15,W 55-0 A Kansas State,Week 7Oct 18[8],2015,-7.0,
+378,18,<,NR,Memphis,AAC,6-0,554,17,W 37-24 H #13 Mississippi,Week 7Oct 18[8],2015,8.0,
+379,19,<,22,Toledo,MAC,6-0,346,20,W 63-20 H Eastern Washington,Week 7Oct 18[8],2015,5.0,
+380,20,<,23,California,Pac-12,5-1,337,19,DNP,Week 7Oct 18[8],2015,3.0,
+381,21,<,24,Houston,AAC,6-0,318,22,W 42-7 A Tulane,Week 7Oct 18[8],2015,5.0,
+382,22,<,NR,Temple,AAC,6-0,217,24,W 30-16 H UCF,Week 7Oct 18[8],2015,4.0,
+383,23,<,25,Duke,ACC,5-1,211,21,DNP,Week 7Oct 18[8],2015,3.0,
+384,24,<,13,Mississippi,SEC,5-2,158,23,L 37-24 A Memphis,Week 7Oct 18[8],2015,-10.0,
+385,25,<,NR,Pittsburgh,ACC,5-1,73,RV,W 31-28 A Georgia Tech,Week 7Oct 18[8],2015,1.0,
+386,RV,<,NR,Mississippi State,SEC,5-2,63,RV,W 45-20 H Louisiana Tech,Week 7Oct 18[8],2015,0.0,
+387,RV,<,NR,BYU,Ind,5-2,21,RV,W 38-24 H Cincinnati,Week 7Oct 18[8],2015,0.0,
+388,RV,<,18,UCLA,Pac-12,4-2,18,RV,L 56-35 A #15 Stanford,Week 7Oct 18[8],2015,-6.0,
+389,RV,<,NR,North Carolina,ACC,5-1,17,RV,W 50-14 H Wake Forest,Week 7Oct 18[8],2015,0.0,
+390,RV,<,NR,Texas Tech,Big 12,5-2,14,RV,W 30-20 A Kansas,Week 7Oct 18[8],2015,0.0,
+391,RV,<,NR,Georgia,SEC,5-2,12,25,W 9-6 H Missouri,Week 7Oct 18[8],2015,-7.0,
+392,RV,<,NR,Western Kentucky,CUSA,6-1,11,RV,W 55-28 A North Texas,Week 7Oct 18[8],2015,0.0,
+393,RV,<,NR,Arizona State,Pac-12,4-3,10,NR,L 34-18 A #4 Utah,Week 7Oct 18[8],2015,0.0,
+394,RV,<,NR,Wisconsin,Big Ten,5-2,8,RV,W 24-7 H Purdue,Week 7Oct 18[8],2015,0.0,
+395,RV,<,NR,Utah State,MWC,4-2,7,RV,W 52-26 H #21 Boise State,Week 7Oct 18[8],2015,0.0,
+396,RV,<,20,Northwestern,Big Ten,5-2,4,RV,L 40-10 H #17 Iowa,Week 7Oct 18[8],2015,-13.0,
+397,NR,<,21,Boise State,MWC,5-2,0,RV,L 52-26 A Utah State,Week 7Oct 18[8],2015,-1.0,
+398,NR,<,NR,Arizona,Pac-12,5-2,0,RV,W 38-31 A Colorado,Week 7Oct 18[8],2015,0.0,
+399,NR,<,NR,Bowling Green,MAC,5-2,0,RV,W 59-10 H Akron,Week 7Oct 18[8],2015,0.0,
+400,NR,<,NR,Illinois,Big Ten,4-2,0,RV,DNP,Week 7Oct 18[8],2015,0.0,
+401,NR,<,NR,Marshall,CUSA,6-1,0,RV,W 33-17 A Florida Atlantic,Week 7Oct 18[8],2015,0.0,
+402,NR,<,NR,Navy,AAC,4-1,0,RV,DNP,Week 7Oct 18[8],2015,0.0,
+403,NR,<,NR,Oregon,Pac-12,4-3,0,RV,W 26-20 A Washington,Week 7Oct 18[8],2015,0.0,
+404,NR,<,NR,Tennessee,SEC,3-3,0,NR,DNP,Week 7Oct 18[8],2015,0.0,
+405,NR,<,NR,USC,Pac-12,3-3,0,NR,L 41-31 A #14 Notre Dame,Week 7Oct 18[8],2015,-9.0,
+406,NR,<,NR,Washington State,Pac-12,4-2,0,RV,W 52-31 H Oregon State,Week 7Oct 18[8],2015,0.0,
+407,NR,<,NR,West Virginia,Big 12,3-3,0,NR,L 62-38 A #2 Baylor,Week 7Oct 18[8],2015,0.0,
+408,1,<,1,Ohio State (39),Big Ten,8-0,1466,*1,W 49-7 A Rutgers,Week 8Oct 25[9],2015,0.0,
+409,2,<,2,Baylor (7),Big 12,7-0,1417,*2,W 45-27 H Iowa State,Week 8Oct 25[9],2015,0.0,
+410,3,<,6,Clemson (6),ACC,7-0,1378,*6,W 58-0 A Miami (FL),Week 8Oct 25[9],2015,2.0,
+411,4,<,5,LSU (5),SEC,7-0,1344,*4,W 48-20 H Western Kentucky,Week 8Oct 25[9],2015,2.0,
+412,5,<,4,TCU (3),Big 12,7-0,1327,*3,DNP,Week 8Oct 25[9],2015,-2.0,
+413,6,<,7,Michigan State,Big Ten,8-0,1250,5,W 52-26 H Indiana,Week 8Oct 25[9],2015,1.0,
+414,7,<,8,Alabama (1),SEC,7-1,1163,7,W 19-14 H Tennessee,Week 8Oct 25[9],2015,3.0,
+415,8,<,10,Stanford,Pac-12,6-1,1062,8,W 31-14 H Washington,Week 8Oct 25[9],2015,7.0,
+416,9,<,11,Notre Dame,Ind,6-1,997,9,DNP,Week 8Oct 25[9],2015,5.0,
+417,10,<,12,Iowa,Big Ten,7-0,934,11,DNP,Week 8Oct 25[9],2015,7.0,
+418,11,<,13,Florida,SEC,6-1,867,12,DNP,Week 8Oct 25[9],2015,-3.0,
+419,12,<,14,Oklahoma State,Big 12,7-0,864,10,W 58-10 H Kansas,Week 8Oct 25[9],2015,4.0,
+420,13,<,3,Utah,Pac-12,6-1,838,14,L 42-24 A USC,Week 8Oct 25[9],2015,-9.0,
+421,14,<,17,Oklahoma,Big 12,6-1,697,13,W 63-27 H Texas Tech,Week 8Oct 25[9],2015,5.0,
+422,15,<,15,Michigan,Big Ten,5-2,666,17,DNP,Week 8Oct 25[9],2015,-3.0,
+423,16,<,18,Memphis,AAC,7-0,660,16,W 66-42 A Tulsa,Week 8Oct 25[9],2015,10.0,
+424,17,<,9,Florida State,ACC,6-1,571,15,L 22-16 A Georgia Tech,Week 8Oct 25[9],2015,-6.0,
+425,18,<,21,Houston,AAC,7-0,411,19,W 59-10 A UCF,Week 8Oct 25[9],2015,6.0,
+426,19,<,24,Mississippi,SEC,6-2,368,21,W 23-3 H #15 Texas A&M,Week 8Oct 25[9],2015,-6.0,
+427,20,<,19,Toledo,MAC,7-0,365,20,W 51-35 A Massachusetts,Week 8Oct 25[9],2015,2.0,
+428,21,<,22,Temple,AAC,7-0,307,22,W 24-14 A East Carolina,Week 8Oct 25[9],2015,5.0,
+429,22,<,23,Duke,ACC,6-1,274,18,W 45-43 (4OT) A Virginia Tech,Week 8Oct 25[9],2015,3.0,
+430,23,<,25,Pittsburgh,ACC,6-1,161,24,W 23-20 A Syracuse,Week 8Oct 25[9],2015,3.0,
+431,24,<,NR,UCLA,Pac-12,5-2,110,25,W 40-24 H #20 California,Week 8Oct 25[9],2015,-6.0,
+432,25,<,NR,Mississippi State,SEC,6-2,103,RV,W 42-16 H Kentucky,Week 8Oct 25[9],2015,1.0,
+433,RV,<,15,Texas A&M,SEC,5-2,73,RV,L 23-3 A #24 Mississippi,Week 8Oct 25[9],2015,-17.0,
+434,RV,<,NR,North Carolina,ACC,6-1,46,RV,W 26-13 H Virginia,Week 8Oct 25[9],2015,0.0,
+435,RV,<,NR,USC,Pac-12,4-3,33,RV,W 42-24 H #3 Utah,Week 8Oct 25[9],2015,0.0,
+436,RV,<,NR,BYU,Ind,6-2,18,RV,W 70-6 H Wagner,Week 8Oct 25[9],2015,0.0,
+437,RV,<,NR,Georgia,SEC,5-2,17,23,DNP,Week 8Oct 25[9],2015,0.0,
+438,RV,<,NR,Wisconsin,Big Ten,6-2,15,RV,W 24-13 A Illinois,Week 8Oct 25[9],2015,0.0,
+439,RV,<,NR,Northwestern,Big Ten,6-2,10,RV,W 30-28 A Nebraska,Week 8Oct 25[9],2015,-6.0,
+440,RV,<,NR,Appalachian State,Sun Belt,6-1,6,NR,W 31-13 H Georgia Southern,Week 8Oct 25[9],2015,0.0,
+441,RV,<,20,California,Pac-12,5-2,5,RV,L 40-24 A UCLA,Week 8Oct 25[9],2015,-3.0,
+442,RV,<,NR,Washington State,Pac-12,5-2,2,RV,W 45-42 A Arizona,Week 8Oct 25[9],2015,0.0,
+443,NR,<,NR,Arizona State,Pac-12,4-4,0,NR,DNP,Week 8Oct 25[9],2015,0.0,
+444,NR,<,NR,Boise State,MWC,6-2,0,RV,W 34-14 H Wyoming,Week 8Oct 25[9],2015,-5.0,
+445,NR,<,NR,Georgia Tech,ACC,3-5,0,NR,W 22-16 H #9 Florida State,Week 8Oct 25[9],2015,0.0,
+446,NR,<,NR,Marshall,CUSA,7-1,0,RV,W 30-13 H North Texas,Week 8Oct 25[9],2015,0.0,
+447,NR,<,NR,Navy,AAC,5-1,0,RV,W 31-14 H Tulane,Week 8Oct 25[9],2015,0.0,
+448,NR,<,NR,Oregon,Pac-12,4-3,0,RV,DNP,Week 8Oct 25[9],2015,0.0,
+449,NR,<,NR,Tennessee,SEC,3-4,0,NR,L 19-14 A #8 Alabama,Week 8Oct 25[9],2015,0.0,
+450,NR,<,NR,West Virginia,Big 12,3-3,0,NR,DNP,Week 8Oct 25[9],2015,0.0,
+451,1,<,1,Ohio State (39),Big Ten,8-0,1465,*1,DNP,Week 9Nov 1[10],2015,0.0,3
+452,2,<,2,Baylor (6),Big 12,7-0,1408,*2,DNP,Week 9Nov 1[10],2015,0.0,6
+453,3,<,3,Clemson (6),ACC,8-0,1381,*5,W 56-41 A NC State,Week 9Nov 1[10],2015,3.0,1
+454,4,<,4,LSU (5),SEC,7-0,1346,*4,DNP,Week 9Nov 1[10],2015,1.0,2
+455,5,<,5,TCU (4),Big 12,8-0,1336,*3,W 40-10 H West Virginia,Week 9Nov 1[10],2015,-1.0,8
+456,6,<,6,Michigan State,Big Ten,8-0,1249,6,DNP,Week 9Nov 1[10],2015,1.0,7
+457,7,<,7,Alabama (1),SEC,7-1,1160,7,DNP,Week 9Nov 1[10],2015,1.0,4
+458,8,<,9,Notre Dame,Ind,7-1,1019,9,W 24-20 A #21 Temple,Week 9Nov 1[10],2015,3.0,5
+459,9,<,8,Stanford,Pac-12,7-1,1014,8,W 30-28 A Washington State,Week 9Nov 1[10],2015,1.0,11
+460,10,<,10,Iowa,Big Ten,8-0,954,11,W 31-15 H Maryland,Week 9Nov 1[10],2015,2.0,9
+461,11,<,11,Florida,SEC,7-1,923,12,W 27-3 N Georgia,Week 9Nov 1[10],2015,2.0,10
+462,12,<,12,Oklahoma State,Big 12,8-0,879,10,W 70-53 A Texas Tech,Week 9Nov 1[10],2015,2.0,14
+463,13,<,13,Utah,Pac-12,7-1,809,14,W 27-12 H Oregon State,Week 9Nov 1[10],2015,-10.0,12
+464,14,<,14,Oklahoma,Big 12,7-1,712,13,W 62-7 A Kansas,Week 9Nov 1[10],2015,3.0,15
+465,15,<,16,Memphis,AAC,8-0,683,16,W 41-13 H Tulane,Week 9Nov 1[10],2015,3.0,13
+466,16,<,15,Michigan,Big Ten,6-2,613,17,W 29-26 A Minnesota,Week 9Nov 1[10],2015,-1.0,17
+467,17,<,17,Florida State,ACC,7-1,571,15,W 45-21 H Syracuse,Week 9Nov 1[10],2015,-8.0,16
+468,18,<,18,Houston,AAC,8-0,466,18,W 34-0 H Vanderbilt,Week 9Nov 1[10],2015,3.0,25
+469,19,<,19,Mississippi,SEC,7-2,414,19,W 27-19 A Auburn,Week 9Nov 1[10],2015,5.0,18
+470,20,<,20,Toledo,MAC,7-0,366,20,DNP,Week 9Nov 1[10],2015,-1.0,24
+471,21,<,NR,North Carolina,ACC,7-1,248,21,W 26-19 A #23 Pittsburgh,Week 9Nov 1[10],2015,5.0,NR
+472,22,<,24,UCLA,Pac-12,6-2,190,22,W 35-31 H Colorado,Week 9Nov 1[10],2015,4.0,23
+473,23,<,21,Temple,AAC,7-1,175,23,L 24-20 H #9 Notre Dame,Week 9Nov 1[10],2015,-1.0,22
+474,24,<,25,Mississippi State,SEC,6-2,144,25,DNP,Week 9Nov 1[10],2015,2.0,20
+475,25,<,NR,Texas A&M,SEC,6-2,101,24,W 35-28 H South Carolina,Week 9Nov 1[10],2015,-10.0,19
+476,RV,<,NR,Wisconsin,Big Ten,7-2,64,RV,W 48-10 H Rutgers,Week 9Nov 1[10],2015,0.0,NR
+477,RV,<,NR,USC,Pac-12,5-3,57,RV,W 27-21 A California,Week 9Nov 1[10],2015,0.0,NR
+478,RV,<,NR,BYU,Ind,6-2,27,RV,DNP,Week 9Nov 1[10],2015,0.0,NR
+479,RV,<,NR,Northwestern,Big Ten,6-2,21,RV,DNP,Week 9Nov 1[10],2015,0.0,21
+480,RV,<,22,Duke,ACC,6-2,7,RV,L 30-27 H Miami (FL),Week 9Nov 1[10],2015,-3.0,NR
+481,RV,<,NR,Penn State,Big Ten,7-2,5,RV,W 39-0 H Illinois,Week 9Nov 1[10],2015,0.0,NR
+482,RV,<,NR,Appalachian State,Sun Belt,7-1,4,RV,W 44-41 (3OT) H Troy,Week 9Nov 1[10],2015,0.0,NR
+483,RV,<,NR,Boise State,MWC,7-2,4,RV,DNP,Week 9Nov 1[10],2015,0.0,NR
+484,RV,<,NR,California,Pac-12,5-3,4,NR,L 27-21 H USC,Week 9Nov 1[10],2015,-6.0,NR
+485,RV,<,23,Pittsburgh,ACC,6-2,2,RV,L 26-19 H North Carolina,Week 9Nov 1[10],2015,-1.0,NR
+486,RV,<,NR,Tennessee,SEC,4-4,2,NR,W 52-21 A Kentucky,Week 9Nov 1[10],2015,0.0,NR
+487,RV,<,NR,Navy,AAC,6-1,1,RV,W 29-17 H South Florida,Week 9Nov 1[10],2015,0.0,NR
+488,RV,<,NR,Washington State,Pac-12,5-3,1,RV,L 30-28 H #8 Stanford,Week 9Nov 1[10],2015,0.0,NR
+489,NR,<,NR,Marshall,CUSA,8-1,0,RV,W 34-10 A Charlotte,Week 9Nov 1[10],2015,0.0,NR
+490,NR,<,NR,Oregon,Pac-12,5-3,0,RV,W 61-55 (3OT) A Arizona State,Week 9Nov 1[10],2015,0.0,NR
+491,NR,<,NR,Western Kentucky,CUSA,7-2,0,RV,W 55-30 A Old Dominion,Week 9Nov 1[10],2015,0.0,NR
+492,1,<,3,Clemson (31),ACC,9-0,1489,*2,W 23-13 H #17 Florida State,Week 10Nov 8[11],2015,2.0,1
+493,2,<,1,Ohio State (26),Big Ten,9-0,1460,*1,W 28-14 H Minnesota,Week 10Nov 8[11],2015,-1.0,3
+494,3,<,7,Alabama (2),SEC,8-1,1376,*4,W 30-16 H #4 LSU,Week 10Nov 8[11],2015,4.0,2
+495,4,<,2,Baylor (2),Big 12,8-0,1351,*3,W 31-24 A Kansas State,Week 10Nov 8[11],2015,-2.0,6
+496,5,<,12,Oklahoma State,Big 12,9-0,1256,5,W 49-29 H #5 TCU,Week 10Nov 8[11],2015,7.0,8
+497,6,<,8,Notre Dame,Ind,8-1,1219,6,W 42-30 A Pittsburgh,Week 10Nov 8[11],2015,3.0,4
+498,7,<,9,Stanford,Pac-12,8-1,1144,7,W 42-10 A Colorado,Week 10Nov 8[11],2015,1.0,7
+499,8,<,10,Iowa,Big Ten,9-0,1091,8,W 35-27 A Indiana,Week 10Nov 8[11],2015,2.0,5
+500,9,<,4,LSU,SEC,7-1,1050,9,L 30-16 A #7 Alabama,Week 10Nov 8[11],2015,-5.0,9
+501,10,<,13,Utah,Pac-12,8-1,900,13,W 34-23 A Washington,Week 10Nov 8[11],2015,3.0,10
+502,11,<,11,Florida,SEC,8-1,887,10,W 9-7 H Vanderbilt,Week 10Nov 8[11],2015,0.0,11
+503,12,<,14,Oklahoma,Big 12,8-1,858,11,W 52-16 H Iowa State,Week 10Nov 8[11],2015,2.0,12
+504,13,<,5,TCU,Big 12,8-1,841,12,L 49-29 A #12 Oklahoma State,Week 10Nov 8[11],2015,-8.0,15
+505,14,<,6,Michigan State,Big Ten,8-1,807,14,L 39-38 A Nebraska,Week 10Nov 8[11],2015,-8.0,13
+506,15,<,16,Michigan,Big Ten,7-2,684,15,W 49-16 H Rutgers,Week 10Nov 8[11],2015,0.0,14
+507,16,<,18,Houston,AAC,9-0,561,16,W 33-30 H Connecticut,Week 10Nov 8[11],2015,2.0,24
+508,17,<,21,North Carolina,ACC,8-1,506,17,W 66-31 H Duke,Week 10Nov 8[11],2015,9.0,23
+509,18,<,22,UCLA,Pac-12,7-2,403,18,W 41-0 A Oregon State,Week 10Nov 8[11],2015,6.0,19
+510,19,<,17,Florida State,ACC,7-2,379,18,L 23-13 A #3 Clemson,Week 10Nov 8[11],2015,-2.0,16
+511,20,<,24,Mississippi State,SEC,7-2,357,20,W 31-13 A Missouri,Week 10Nov 8[11],2015,5.0,17
+512,21,<,23,Temple,AAC,8-1,310,21,W 60-40 A SMU,Week 10Nov 8[11],2015,0.0,22
+513,22,<,NR,Navy,AAC,7-1,218,23,W 45-20 A #15 Memphis,Week 10Nov 8[11],2015,4.0,20
+514,23,<,NR,Wisconsin,Big Ten,8-2,183,22,W 31-24 A Maryland,Week 10Nov 8[11],2015,3.0,25
+515,24,<,NR,Northwestern,Big Ten,7-2,177,24,W 23-21 H Penn State,Week 10Nov 8[11],2015,2.0,18
+516,25,<,15,Memphis,AAC,8-1,137,25,L 45-20 H Navy,Week 10Nov 8[11],2015,-9.0,21
+517,RV,<,NR,USC,Pac-12,6-3,104,RV,W 38-30 H Arizona,Week 10Nov 8[11],2015,0.0,NR
+518,RV,<,NR,BYU,Ind,7-2,35,RV,W 17-16 A San Jose State,Week 10Nov 8[11],2015,0.0,NR
+519,RV,<,19,Mississippi,SEC,7-3,22,RV,L 53-52 (1OT) H Arkansas,Week 10Nov 8[11],2015,-8.0,NR
+520,RV,<,25,Texas A&M,SEC,6-3,6,RV,L 26-10 H Auburn,Week 10Nov 8[11],2015,0.0,NR
+521,RV,<,NR,Boise State,MWC,7-2,6,RV,DNP,Week 10Nov 8[11],2015,0.0,NR
+522,RV,<,20,Toledo,MAC,7-1,4,RV,L 32-27 H Northern Illinois,Week 10Nov 8[11],2015,-6.0,NR
+523,RV,<,NR,Washington State,Pac-12,6-3,2,RV,W 38-24 H Arizona State,Week 10Nov 8[11],2015,0.0,NR
+524,RV,<,NR,Western Kentucky,CUSA,8-2,2,RV,W 35-19 H Florida Atlantic,Week 10Nov 8[11],2015,0.0,NR
+525,NR,<,NR,Appalachian State,Sun Belt,7-2,0,RV,L 40-27 H Arkansas State,Week 10Nov 8[11],2015,0.0,NR
+526,NR,<,NR,Arkansas,SEC,5-4,0,RV,W 53-52 (1OT) A #19 Mississippi,Week 10Nov 8[11],2015,0.0,NR
+527,NR,<,NR,Bowling Green,MAC,7-2,0,RV,W 62-24 H Ohio,Week 10Nov 8[11],2015,0.0,NR
+528,NR,<,NR,Georgia,SEC,6-3,0,RV,W 27-3 H Kentucky,Week 10Nov 8[11],2015,0.0,NR
+529,NR,<,NR,Oregon,Pac-12,6-3,0,RV,W 44-28 H California,Week 10Nov 8[11],2015,0.0,NR
+530,NR,<,NR,Pittsburgh,ACC,6-3,0,RV,L 42-30 H #8 Notre Dame,Week 10Nov 8[11],2015,-3.0,NR
+531,1,<,1,Clemson (34),ACC,10-0,1496,*1,W 37-27 A Syracuse,Week 11Nov 15[12],2015,2.0,1
+532,2,<,2,Ohio State (23),Big Ten,10-0,1460,*2,W 28-3 A Illinois,Week 11Nov 15[12],2015,-1.0,3
+533,3,<,3,Alabama (4),SEC,9-1,1424,*3,W 31-6 A #20 Mississippi State,Week 11Nov 15[12],2015,4.0,2
+534,4,<,5,Oklahoma State,Big 12,10-0,1301,4,W 35-31 A Iowa State,Week 11Nov 15[12],2015,8.0,6
+535,5,<,6,Notre Dame,Ind,9-1,1286,5,W 28-7 H Wake Forest,Week 11Nov 15[12],2015,3.0,4
+536,6,<,8,Iowa,Big Ten,10-0,1216,6,W 40-35 H Minnesota,Week 11Nov 15[12],2015,4.0,5
+537,7,<,12,Oklahoma,Big 12,9-1,1182,7,W 44-34 A #4 Baylor,Week 11Nov 15[12],2015,7.0,7
+538,8,<,11,Florida,SEC,9-1,1055,8,W 24-14 A South Carolina,Week 11Nov 15[12],2015,3.0,8
+539,9,<,14,Michigan State,Big Ten,9-1,1008,9,W 24-7 H Maryland,Week 11Nov 15[12],2015,-3.0,9
+540,10,<,4,Baylor,Big 12,8-1,946,10,L 44-34 H #12 Oklahoma,Week 11Nov 15[12],2015,-8.0,10
+541,11,<,13,TCU,Big 12,9-1,857,11,W 23-17 H Kansas,Week 11Nov 15[12],2015,-6.0,18
+542,12,<,17,North Carolina,ACC,9-1,791,12,W 59-21 H Miami (FL),Week 11Nov 15[12],2015,9.0,17
+543,13,<,16,Houston,AAC,10-0,790,14,W 35-34 H #25 Memphis,Week 11Nov 15[12],2015,5.0,19
+544,14,<,15,Michigan,Big Ten,8-2,738,13,W 48-41 (2OT) A Indiana,Week 11Nov 15[12],2015,2.0,12
+545,15,<,7,Stanford,Pac-12,8-2,668,15,L 38-36 H Oregon,Week 11Nov 15[12],2015,-6.0,11
+546,16,<,19,Florida State,ACC,8-2,559,16,W 34-17 H NC State,Week 11Nov 15[12],2015,1.0,14
+547,17,<,9,LSU,SEC,7-2,549,17,L 31-14 H Arkansas,Week 11Nov 15[12],2015,-13.0,15
+548,18,<,10,Utah,Pac-12,8-2,514,18,L 37-30 (2OT) A Arizona,Week 11Nov 15[12],2015,-5.0,13
+549,19,<,22,Navy,AAC,8-1,465,19,W 55-14 H SMU,Week 11Nov 15[12],2015,7.0,16
+550,20,<,24,Northwestern,Big Ten,8-2,397,21,W 21-14 H Purdue,Week 11Nov 15[12],2015,6.0,20
+551,21,<,23,Wisconsin,Big Ten,8-2,338,20,DNP,Week 11Nov 15[12],2015,5.0,25
+552,22,<,NR,USC,Pac-12,7-3,201,24,W 27-24 A Colorado,Week 11Nov 15[12],2015,4.0,24
+553,23,<,NR,Oregon,Pac-12,7-3,170,22,W 38-36 A #7 Stanford,Week 11Nov 15[12],2015,3.0,23
+554,24,<,NR,Washington State,Pac-12,7-3,167,23,W 31-27 A #18 UCLA,Week 11Nov 15[12],2015,2.0,NR
+555,25,<,NR,Mississippi,SEC,7-3,44,RV,DNP,Week 11Nov 15[12],2015,-6.0,22
+556,RV,<,NR,Toledo,MAC,8-1,39,RV,W 28-23 A Central Michigan,Week 11Nov 15[12],2015,-6.0,NR
+557,RV,<,NR,Arkansas,SEC,6-4,35,RV,W 31-14 A #9 LSU,Week 11Nov 15[12],2015,0.0,NR
+558,RV,<,25,Memphis,AAC,8-2,32,RV,L 35-34 A #16 Houston,Week 11Nov 15[12],2015,-11.0,21
+559,RV,<,20,Mississippi State,SEC,7-3,25,25,L 31-6 H #3 Alabama,Week 11Nov 15[12],2015,-2.0,NR
+560,RV,<,18,UCLA,Pac-12,7-3,18,RV,L 31-27 H Washington State,Week 11Nov 15[12],2015,-4.0,NR
+561,RV,<,NR,Pittsburgh,ACC,7-3,15,RV,W 31-13 A Duke,Week 11Nov 15[12],2015,0.0,NR
+562,RV,<,21,Temple,AAC,8-2,13,RV,L 44-23 A South Florida,Week 11Nov 15[12],2015,-3.0,NR
+563,RV,<,NR,Georgia,SEC,7-3,8,RV,W 20-13 A Auburn,Week 11Nov 15[12],2015,0.0,NR
+564,RV,<,NR,Texas A&M,SEC,7-3,8,RV,W 41-17 H Western Carolina,Week 11Nov 15[12],2015,-1.0,NR
+565,RV,<,NR,Bowling Green,MAC,8-2,4,RV,W 41-27 A Western Michigan,Week 11Nov 15[12],2015,0.0,NR
+566,RV,<,NR,Western Kentucky,CUSA,8-2,4,RV,DNP,Week 11Nov 15[12],2015,0.0,NR
+567,RV,<,NR,Air Force,MWC,7-3,1,NR,W 35-28 H Utah State,Week 11Nov 15[12],2015,0.0,NR
+568,RV,<,NR,Arkansas State,Sun Belt,7-3,1,RV,W 59-21 A Louisiana-Monroe,Week 11Nov 15[12],2015,0.0,NR
+569,NR,<,NR,Appalachian State,Sun Belt,8-2,0,RV,W 47-20 A Idaho,Week 11Nov 15[12],2015,0.0,NR
+570,NR,<,NR,Boise State,MWC,7-3,0,NR,L 31-24 H New Mexico,Week 11Nov 15[12],2015,0.0,NR
+571,NR,<,NR,BYU,Ind,7-3,0,RV,L 20-16 A Missouri,Week 11Nov 15[12],2015,0.0,NR
+572,NR,<,NR,California,Pac-12,6-4,0,NR,W 54-24 H Oregon State,Week 11Nov 15[12],2015,0.0,NR
+573,NR,<,NR,Louisville,ACC,6-4,0,RV,W 38-31 H Virginia,Week 11Nov 15[12],2015,0.0,NR
+574,NR,<,NR,Marshall,CUSA,9-2,0,RV,W 52-0 H FIU,Week 11Nov 15[12],2015,0.0,NR
+575,NR,<,NR,Penn State,Big Ten,7-3,0,NR,DNP,Week 11Nov 15[12],2015,0.0,NR
+576,NR,<,NR,Tennessee,SEC,6-4,0,NR,W 24-0 H North Texas,Week 11Nov 15[12],2015,0.0,NR
+577,NR,<,NR,West Virginia,Big 12,5-4,0,NR,W 38-20 H Texas,Week 11Nov 15[12],2015,0.0,NR
+578,1,<,1,Clemson (55),ACC,11-0,1518,*1,W 33-13 H Wake Forest,Week 12Nov 22[13],2015,0.0,1
+579,2,<,3,Alabama (6),SEC,10-1,1469,*2,W 56-6 H Charleston Southern,Week 12Nov 22[13],2015,1.0,2
+580,3,<,6,Iowa,Big Ten,11-0,1325,*3,W 40-20 H Purdue,Week 12Nov 22[13],2015,5.0,4
+581,4,<,5,Notre Dame,Ind,10-1,1317,4,W 19-16 N Boston College,Week 12Nov 22[13],2015,2.0,6
+582,5,<,7,Oklahoma,Big 12,10-1,1295,5,W 30-29 H #11 TCU,Week 12Nov 22[13],2015,7.0,3
+583,6,<,9,Michigan State,Big Ten,10-1,1286,6,W 17-14 A #2 Ohio State,Week 12Nov 22[13],2015,8.0,5
+584,7,<,10,Baylor,Big 12,9-1,1161,7,W 45-35 A #4 Oklahoma State,Week 12Nov 22[13],2015,-3.0,7
+585,8,<,2,Ohio State,Big Ten,10-1,1051,8,L 17-14 H #9 Michigan State,Week 12Nov 22[13],2015,-6.0,8
+586,9,<,4,Oklahoma State,Big 12,10-1,995,10,L 45-35 H #10 Baylor,Week 12Nov 22[13],2015,-4.0,11
+587,10,<,8,Florida,SEC,10-1,926,9,W 20-14 (1OT) H Florida Atlantic,Week 12Nov 22[13],2015,1.0,12
+588,11,<,12,North Carolina,ACC,10-1,900,11,W 30-27 (1OT) A Virginia Tech,Week 12Nov 22[13],2015,6.0,14
+589,12,<,14,Michigan,Big Ten,9-2,855,12,W 28-16 A Penn State,Week 12Nov 22[13],2015,3.0,10
+590,13,<,15,Stanford,Pac-12,9-2,816,12,W 35-22 H California,Week 12Nov 22[13],2015,-6.0,9
+591,14,<,16,Florida State,ACC,9-2,680,14,W 52-13 H Chattanooga,Week 12Nov 22[13],2015,5.0,13
+592,15,<,11,TCU,Big 12,9-2,652,16,L 30-29 A #7 Oklahoma,Week 12Nov 22[13],2015,-2.0,19
+593,16,<,19,Navy,AAC,9-1,647,15,W 44-21 A Tulsa,Week 12Nov 22[13],2015,6.0,15
+594,17,<,20,Northwestern,Big Ten,9-2,593,17,W 13-7 A #21 Wisconsin,Week 12Nov 22[13],2015,7.0,16
+595,18,<,23,Oregon,Pac-12,8-3,470,18,W 48-28 H #22 USC,Week 12Nov 22[13],2015,8.0,17
+596,19,<,25,Mississippi,SEC,8-3,358,19,W 38-17 H #17 LSU,Week 12Nov 22[13],2015,7.0,18
+597,20,<,24,Washington State,Pac-12,8-3,354,20,W 27-3 H Colorado,Week 12Nov 22[13],2015,6.0,20
+598,21,<,13,Houston,AAC,10-1,275,21,L 20-17 A Connecticut,Week 12Nov 22[13],2015,-5.0,NR
+599,22,<,NR,UCLA,Pac-12,8-3,230,23,W 17-9 A #18 Utah,Week 12Nov 22[13],2015,-4.0,22
+600,23,<,NR,Mississippi State,SEC,8-3,132,22,W 51-50 A Arkansas,Week 12Nov 22[13],2015,-3.0,21
+601,24,<,NR,Toledo,MAC,9-1,123,RV,W 44-28 A Bowling Green,Week 12Nov 22[13],2015,2.0,24
+602,25,<,NR,Temple,AAC,9-2,107,24,W 31-12 H Memphis,Week 12Nov 22[13],2015,-4.0,25
+603,RV,<,18,Utah,Pac-12,8-3,100,25,L 17-9 H UCLA,Week 12Nov 22[13],2015,-16.0,23
+604,RV,<,NR,Pittsburgh,ACC,8-3,60,RV,W 45-34 H Louisville,Week 12Nov 22[13],2015,0.0,NR
+605,RV,<,17,LSU,SEC,7-3,33,RV,L 38-17 A #25 Mississippi,Week 12Nov 22[13],2015,-17.0,NR
+606,RV,<,NR,Texas A&M,SEC,8-3,27,RV,W 25-0 A Vanderbilt,Week 12Nov 22[13],2015,0.0,NR
+607,RV,<,21,Wisconsin,Big Ten,8-3,21,RV,L 13-7 H #20 Northwestern,Week 12Nov 22[13],2015,-3.0,NR
+608,RV,<,NR,Air Force,MWC,8-3,15,RV,W 37-30 A Boise State,Week 12Nov 22[13],2015,0.0,NR
+609,RV,<,22,USC,Pac-12,7-4,8,RV,L 48-28 A #23 Oregon,Week 12Nov 22[13],2015,0.0,NR
+610,RV,<,NR,Arkansas,SEC,6-5,7,RV,L 51-50 H Mississippi State,Week 12Nov 22[13],2015,0.0,NR
+611,RV,<,NR,Western Kentucky,CUSA,9-2,6,RV,W 63-7 A FIU,Week 12Nov 22[13],2015,0.0,NR
+612,RV,<,NR,Georgia,SEC,8-3,5,RV,W 23-17 (1OT) H Georgia Southern,Week 12Nov 22[13],2015,0.0,NR
+613,RV,<,NR,BYU,Ind,8-3,3,RV,W 52-10 H Fresno State,Week 12Nov 22[13],2015,0.0,NR
+614,RV,<,NR,Tennessee,SEC,7-4,2,NR,W 19-8 A Missouri,Week 12Nov 22[13],2015,0.0,NR
+615,RV,<,NR,Arkansas State,Sun Belt,7-3,1,RV,DNP,Week 12Nov 22[13],2015,0.0,NR
+616,RV,<,NR,South Florida,AAC,7-4,1,NR,W 65-27 H Cincinnati,Week 12Nov 22[13],2015,0.0,NR
+617,RV,<,NR,West Virginia,Big 12,6-4,1,RV,W 49-0 A Kansas,Week 12Nov 22[13],2015,0.0,NR
+618,NR,<,NR,Appalachian State,Sun Belt,8-2,0,RV,DNP,Week 12Nov 22[13],2015,0.0,NR
+619,NR,<,NR,Bowling Green,MAC,8-3,0,RV,L 44-28 H Toledo,Week 12Nov 22[13],2015,0.0,NR
+620,NR,<,NR,San Diego State,MWC,8-3,0,RV,W 52-14 A UNLV,Week 12Nov 22[13],2015,0.0,NR
+621,1,<,1,Clemson (53),ACC,12-0,1511,*1,W 37-32 A South Carolina,Week 13Nov 29,2015,0.0,1
+622,2,<,2,Alabama (8),SEC,11-1,1469,*2,W 29-13 A Auburn,Week 13Nov 29,2015,1.0,2
+623,3,<,5,Oklahoma,Big 12,11-1,1367,*4,W 58-23 A #9 Oklahoma State,Week 13Nov 29,2015,4.0,3
+624,4,<,3,Iowa,Big Ten,12-0,1345,*3,W 28-20 A Nebraska,Week 13Nov 29,2015,2.0,4
+625,5,<,6,Michigan State,Big Ten,11-1,1318,5,W 55-16 A Penn State,Week 13Nov 29,2015,4.0,5
+626,6,<,8,Ohio State,Big Ten,11-1,1197,6,W 42-13 A #12 Michigan,Week 13Nov 29,2015,-4.0,6
+627,7,<,13,Stanford,Pac-12,10-2,1137,7,W 38-36 H #4 Notre Dame,Week 13Nov 29,2015,8.0,7
+628,8,<,11,North Carolina,ACC,11-1,1085,8,W 45-34 A NC State,Week 13Nov 29,2015,4.0,10
+629,9,<,4,Notre Dame,Ind,10-2,1022,10,L 38-36 A #13 Stanford,Week 13Nov 29,2015,-4.0,8
+630,10,<,14,Florida State,ACC,10-2,951,9,W 27-2 A #10 Florida,Week 13Nov 29,2015,6.0,9
+631,11,<,15,TCU,Big 12,10-2,927,11,W 28-21 (2OT) H #7 Baylor,Week 13Nov 29,2015,0.0,11
+632,12,<,7,Baylor,Big 12,9-2,842,12,L 28-21 (2OT) A #15 TCU,Week 13Nov 29,2015,-2.0,12
+633,13,<,17,Northwestern,Big Ten,10-2,711,13,W 24-14 A Illinois,Week 13Nov 29,2015,7.0,14
+634,14,<,9,Oklahoma State,Big 12,10-2,699,14,L 58-23 H #5 Oklahoma,Week 13Nov 29,2015,-10.0,17
+635,15,<,18,Oregon,Pac-12,9-3,616,16,W 52-42 H Oregon State,Week 13Nov 29,2015,8.0,16
+636,16,<,19,Mississippi,SEC,9-3,584,17,W 38-27 A #23 Mississippi State,Week 13Nov 29,2015,9.0,13
+637,17,<,21,Houston,AAC,11-1,571,18,W 52-31 H #16 Navy,Week 13Nov 29,2015,-4.0,19
+638,18,<,10,Florida,SEC,10-2,566,15,L 27-2 H #14 Florida State,Week 13Nov 29,2015,-10.0,18
+639,19,<,12,Michigan,Big Ten,9-3,518,19,L 42-13 H #8 Ohio State,Week 13Nov 29,2015,-5.0,15
+640,20,<,25,Temple,AAC,10-2,269,21,W 27-3 H Connecticut,Week 13Nov 29,2015,6.0,22
+641,21,<,NR,Utah,Pac-12,9-3,244,20,W 20-14 H Colorado,Week 13Nov 29,2015,-3.0,24
+642,22,<,16,Navy,AAC,9-2,206,22,L 52-31 A #21 Houston,Week 13Nov 29,2015,-3.0,23
+643,23,<,NR,LSU,SEC,8-3,199,23,W 19-7 H Texas A&M,Week 13Nov 29,2015,-6.0,21
+644,24,<,NR,USC,Pac-12,8-4,189,24,W 40-21 H #22 UCLA,Week 13Nov 29,2015,-2.0,20
+645,25,<,NR,Wisconsin,Big Ten,9-3,124,25,W 31-21 A Minnesota,Week 13Nov 29,2015,-4.0,NR
+646,RV,<,NR,Georgia,SEC,9-3,47,RV,W 13-7 A Georgia Tech,Week 13Nov 29,2015,0.0,NR
+647,RV,<,NR,Western Kentucky,CUSA,10-2,24,RV,W 49-28 H Marshall,Week 13Nov 29,2015,0.0,NR
+648,RV,<,NR,BYU,Ind,9-3,20,NR,W 51-28 A Utah State,Week 13Nov 29,2015,0.0,NR
+649,RV,<,NR,Arkansas,SEC,7-5,17,NR,W 28-3 H Missouri,Week 13Nov 29,2015,0.0,NR
+650,RV,<,NR,Memphis,AAC,9-3,9,RV,W 63-0 H SMU,Week 13Nov 29,2015,0.0,NR
+651,RV,<,NR,South Florida,AAC,8-4,9,NR,W 44-3 A UCF,Week 13Nov 29,2015,0.0,NR
+652,RV,<,NR,Tennessee,SEC,8-4,9,NR,W 53-28 H Vanderbilt,Week 13Nov 29,2015,0.0,25
+653,RV,<,20,Washington State,Pac-12,8-4,8,RV,L 45-10 A Washington,Week 13Nov 29,2015,-2.0,NR
+654,RV,<,22,UCLA,Pac-12,8-4,4,RV,L 40-21 A USC,Week 13Nov 29,2015,0.0,NR
+655,RV,<,23,Mississippi State,SEC,8-4,4,RV,L 38-27 H #19 Mississippi,Week 13Nov 29,2015,0.0,NR
+656,RV,<,NR,San Diego State,MWC,9-3,3,RV,W 31-14 H Nevada,Week 13Nov 29,2015,0.0,NR
+657,RV,<,NR,Arkansas State,Sun Belt,8-3,2,RV,W 52-28 A New Mexico State,Week 13Nov 29,2015,0.0,NR
+658,RV,<,24,Toledo,MAC,9-2,1,RV,L 35-30 H Western Michigan,Week 13Nov 29,2015,0.0,NR
+659,RV,<,NR,West Virginia,Big 12,7-4,1,NR,W 30-6 H Iowa State,Week 13Nov 29,2015,0.0,NR
+660,NR,<,NR,Appalachian State,Sun Belt,9-2,0,RV,W 28-7 H Louisiana-Lafayette,Week 13Nov 29,2015,0.0,NR
+661,NR,<,NR,Bowling Green,MAC,9-3,0,RV,W 48-10 A Ball State,Week 13Nov 29,2015,0.0,NR
+662,NR,<,NR,Texas A&M,SEC,8-4,0,RV,L 19-7 A LSU,Week 13Nov 29,2015,0.0,NR
+663,1,<,1,Clemson (51),ACC,13-0,1510,*1,W 45-37 N #8 North Carolina (ACC CG),Week 14Dec 6,2015,0.0,1
+664,2,<,2,Alabama (9),SEC,12-1,1465,*2,W 29-15 N #18 Florida (SEC CG),Week 14Dec 6,2015,0.0,2
+665,3,<,5,Michigan State (1),Big Ten,12-1,1382,4,W 16-13 N #4 Iowa (Big Ten CG),Week 14Dec 6,2015,3.0,3
+666,4,<,3,Oklahoma,Big 12,11-1,1376,3,DNP,Week 14Dec 6,2015,1.0,4
+667,5,<,7,Stanford,Pac-12,11-2,1221,6,W 41-22 N #24 USC (Pac-12 CG),Week 14Dec 6,2015,8.0,6
+668,6,<,4,Iowa,Big Ten,12-1,1214,7,L 16-13 N #5 Michigan State (Big Ten CG),Week 14Dec 6,2015,-3.0,5
+669,7,<,6,Ohio State,Big Ten,11-1,1208,5,DNP,Week 14Dec 6,2015,1.0,7
+670,8,<,9,Notre Dame,Ind,10-2,1070,9,DNP,Week 14Dec 6,2015,-4.0,8
+671,9,<,10,Florida State,ACC,10-2,972,8,DNP,Week 14Dec 6,2015,5.0,9
+672,10,<,8,North Carolina,ACC,11-2,949,11,DNP,Week 14Dec 6,2015,1.0,10
+673,11,<,11,TCU,Big 12,10-2,936,10,DNP,Week 14Dec 6,2015,4.0,11
+674,12,<,13,Northwestern,Big Ten,10-2,776,12,DNP,Week 14Dec 6,2015,5.0,13
+675,13,<,14,Oklahoma State,Big 12,10-2,767,13,DNP,Week 14Dec 6,2015,-4.0,16
+676,14,<,17,Houston,AAC,12-1,710,16,W 24-13 H #20 Temple (AAC CG),Week 14Dec 6,2015,7.0,18
+677,15,<,15,Oregon,Pac-12,9-3,685,14,DNP,Week 14Dec 6,2015,3.0,15
+678,16,<,16,Mississippi,SEC,9-3,656,15,DNP,Week 14Dec 6,2015,3.0,12
+679,17,<,19,Michigan,Big Ten,9-3,578,17,DNP,Week 14Dec 6,2015,-5.0,14
+680,18,<,12,Baylor,Big 12,9-3,426,19,L 23-17 H Texas,Week 14Dec 6,2015,-11.0,17
+681,19,<,18,Florida,SEC,10-3,420,18,L 29-15 N #2 Alabama (SEC CG),Week 14Dec 6,2015,-9.0,19
+682,20,<,21,Utah,Pac-12,9-3,323,20,DNP,Week 14Dec 6,2015,6.0,22
+683,21,<,22,Navy,AAC,9-2,271,22,DNP,Week 14Dec 6,2015,-5.0,21
+684,22,<,23,LSU,SEC,8-3,270,21,DNP,Week 14Dec 6,2015,4.0,20
+685,23,<,25,Wisconsin,Big Ten,9-3,197,23,DNP,Week 14Dec 6,2015,3.0,NR
+686,24,<,20,Temple,AAC,10-3,94,24,L 24-13 A #17 Houston (AAC CG),Week 14Dec 6,2015,1.0,24
+687,25,<,NR,Western Kentucky,CUSA,11-2,70,RV,W 45-28 H Southern Miss (C-USA CG),Week 14Dec 6,2015,1.0,NR
+688,RV,<,NR,Georgia,SEC,9-3,67,25,DNP,Week 14Dec 6,2015,0.0,NR
+689,RV,<,24,USC,Pac-12,8-5,57,RV,L 41-22 N #7 Stanford (Pac-12 CG),Week 14Dec 6,2015,0.0,25
+690,RV,<,NR,BYU,Ind,9-3,28,RV,DNP,Week 14Dec 6,2015,0.0,NR
+691,RV,<,NR,Tennessee,SEC,8-4,23,RV,DNP,Week 14Dec 6,2015,0.0,23
+692,RV,<,NR,San Diego State,MWC,10-3,22,RV,W 27-24 H Air Force (MWC CG),Week 14Dec 6,2015,0.0,NR
+693,RV,<,NR,Arkansas,SEC,7-5,20,NR,DNP,Week 14Dec 6,2015,0.0,NR
+694,RV,<,NR,Washington State,Pac-12,8-4,20,RV,DNP,Week 14Dec 6,2015,-6.0,NR
+695,RV,<,NR,Memphis,AAC,9-3,10,RV,DNP,Week 14Dec 6,2015,0.0,NR
+696,RV,<,NR,Bowling Green,MAC,10-3,8,RV,W 34-14 N Northern Illinois,Week 14Dec 6,2015,0.0,NR
+697,RV,<,NR,South Florida,AAC,8-4,8,NR,DNP,Week 14Dec 6,2015,0.0,NR
+698,RV,<,NR,Mississippi State,SEC,8-4,6,RV,DNP,Week 14Dec 6,2015,-3.0,NR
+699,RV,<,NR,Toledo,MAC,9-2,4,NR,DNP,Week 14Dec 6,2015,-2.0,NR
+700,RV,<,NR,UCLA,Pac-12,8-4,4,RV,DNP,Week 14Dec 6,2015,-4.0,NR
+701,RV,<,NR,Arkansas State,Sun Belt,9-3,2,RV,W 55-17 H Texas State,Week 14Dec 6,2015,0.0,NR
+702,NR,<,NR,Appalachian State,Sun Belt,10-2,0,RV,W 34-27 A South Alabama,Week 14Dec 6,2015,0.0,NR
+703,NR,<,NR,Louisville,ACC,7-5,0,RV,DNP,Week 14Dec 6,2015,0.0,NR
+704,NR,<,NR,Pittsburgh,ACC,8-4,0,RV,DNP,Week 14Dec 6,2015,0.0,NR
+705,NR,<,NR,Texas A&M,SEC,8-4,0,RV,DNP,Week 14Dec 6,2015,0.0,NR
+706,1,<,2,Alabama (61),SEC,14-1,1525,*1,W 45-40 N #1 Clemson (CFP Final),Week 15 (Final)Jan 12[14],2015,,
+707,2,<,1,Clemson,ACC,14-1,1464,2,L 45-40 N #2 Alabama (CFP Final),Week 15 (Final)Jan 12[14],2015,,
+708,3,<,5,Stanford,Pac-12,12-2,1360,3,W 45-16 N #6 Iowa (Rose),Week 15 (Final)Jan 12[14],2015,,
+709,4,<,7,Ohio State,Big Ten,12-1,1342,4,W 44-28 N #8 Notre Dame (Fiesta),Week 15 (Final)Jan 12[14],2015,,
+710,5,<,4,Oklahoma,Big 12,11-2,1270,5,L 37-17 N #1 Clemson (CFP Semi/Orange),Week 15 (Final)Jan 12[14],2015,,
+711,6,<,3,Michigan State,Big Ten,12-2,1227,6,L 38-0 N #2 Alabama (CFP Semi/Cotton),Week 15 (Final)Jan 12[14],2015,,
+712,7,<,11,TCU,Big 12,11-2,1098,7,W 47-41 (3OT) N #15 Oregon (Alamo),Week 15 (Final)Jan 12[14],2015,,
+713,8,<,14,Houston,AAC,13-1,1050,8,W 38-24 N #9 Florida State (Peach),Week 15 (Final)Jan 12[14],2015,,
+714,9,<,6,Iowa,Big Ten,12-2,981,10,L 45-16 N #5 Stanford (Rose),Week 15 (Final)Jan 12[14],2015,,
+715,10,<,16,Mississippi,SEC,10-3,975,9,W 48-20 N #13 Oklahoma State (Sugar),Week 15 (Final)Jan 12[14],2015,,
+716,11,<,8,Notre Dame,Ind,10-3,953,12,L 44-28 N #7 Ohio State (Fiesta),Week 15 (Final)Jan 12[14],2015,,
+717,12,<,17,Michigan,Big Ten,10-3,911,11,W 41-7 N #19 Florida (Citrus),Week 15 (Final)Jan 12[14],2015,,
+718,13,<,18,Baylor,Big 12,10-3,820,13,W 49-38 N #10 North Carolina (Russell Athletic),Week 15 (Final)Jan 12[14],2015,,
+719,14,<,9,Florida State,ACC,10-3,630,14,L 38-24 N #14 Houston (Peach),Week 15 (Final)Jan 12[14],2015,,
+720,15,<,10,North Carolina,ACC,11-3,563,15,L 49-38 N #18 Baylor (Russell Athletic),Week 15 (Final)Jan 12[14],2015,,
+721,16,<,22,LSU,SEC,9-3,546,17,W 56-27 N Texas Tech (Texas),Week 15 (Final)Jan 12[14],2015,,
+722,17,<,20,Utah,Pac-12,10-3,499,16,W 35-28 N BYU (Las Vegas),Week 15 (Final)Jan 12[14],2015,,
+723,18,<,21,Navy,AAC,11-2,465,18,W 44-28 N Pittsburgh (Military),Week 15 (Final)Jan 12[14],2015,,
+724,19,<,15,Oregon,Pac-12,9-4,391,20,L 47-41 (3OT) N #11 TCU (Alamo),Week 15 (Final)Jan 12[14],2015,,
+725,20,<,13,Oklahoma State,Big 12,10-3,372,19,L 48-20 N #16 Mississippi (Sugar),Week 15 (Final)Jan 12[14],2015,,
+726,21,<,23,Wisconsin,Big Ten,10-3,332,21,W 23-21 N USC (Holiday),Week 15 (Final)Jan 12[14],2015,,
+727,22,<,NR,Tennessee,SEC,9-4,260,23,W 45-6 N #12 Northwestern (Outback),Week 15 (Final)Jan 12[14],2015,,
+728,23,<,12,Northwestern,Big Ten,10-3,203,22,L 45-6 N Tennessee (Outback),Week 15 (Final)Jan 12[14],2015,,
+729,24,<,25,Western Kentucky,CUSA,12-2,128,RV,W 45-35 N South Florida (Miami Beach),Week 15 (Final)Jan 12[14],2015,,
+730,25,<,19,Florida,SEC,10-4,126,25,L 41-7 N #17 Michigan (Citrus),Week 15 (Final)Jan 12[14],2015,,
+731,RV,<,NR,Georgia,SEC,10-3,109,24,W 24-17 N Penn State (Taxslayer),Week 15 (Final)Jan 12[14],2015,,
+732,RV,<,NR,Washington State,Pac-12,9-4,51,RV,W 20-14 N Miami (FL) (Sun),Week 15 (Final)Jan 12[14],2015,,
+733,RV,<,NR,Mississippi State,SEC,9-4,47,RV,W 51-28 N NC State (Belk),Week 15 (Final)Jan 12[14],2015,,
+734,RV,<,NR,San Diego State,MWC,11-3,44,RV,W 42-7 N Cincinnati (Hawaii),Week 15 (Final)Jan 12[14],2015,,
+735,RV,<,NR,Arkansas,SEC,8-5,28,RV,W 45-23 N Kansas State (Liberty),Week 15 (Final)Jan 12[14],2015,,
+736,RV,<,NR,Toledo,MAC,10-2,28,RV,W 32-17 N #24 Temple (Boca Raton),Week 15 (Final)Jan 12[14],2015,,
+737,RV,<,NR,USC,Pac-12,8-6,10,RV,L 23-21 N #23 Wisconsin (Holiday),Week 15 (Final)Jan 12[14],2015,,
+738,RV,<,NR,Appalachian State,Sun Belt,11-2,7,RV,W 31-29 N Ohio (Camellia),Week 15 (Final)Jan 12[14],2015,,
+739,RV,<,NR,Boise State,MWC,9-4,4,RV,W 55-7 N Northern Illinois (Poinsettia),Week 15 (Final)Jan 12[14],2015,,
+740,RV,<,NR,Duke,ACC,8-5,3,RV,W 44-41 (1OT) N Indiana (Pinstripe),Week 15 (Final)Jan 12[14],2015,,
+741,RV,<,24,Temple,AAC,10-4,2,RV,L 32-17 N Toledo (Boca Raton),Week 15 (Final)Jan 12[14],2015,,
+742,RV,<,NR,BYU,Ind,9-4,1,NR,L 35-28 N #20 Utah (Las Vegas),Week 15 (Final)Jan 12[14],2015,,
+743,NR,<,NR,Georgia Southern,Sun Belt,9-4,0,RV,W 58-27 N Bowling Green (GoDaddy),Week 15 (Final)Jan 12[14],2015,,
+744,NR,<,NR,Louisville,ACC,8-5,0,RV,W 27-21 N Texas A&M (Music City),Week 15 (Final)Jan 12[14],2015,,
+745,NR,<,NR,Marshall,CUSA,10-3,0,RV,W 16-10 N Connecticut (St. Petersburg),Week 15 (Final)Jan 12[14],2015,,
+746,NR,<,NR,Memphis,AAC,9-4,0,RV,L 31-10 N Auburn (Birmingham),Week 15 (Final)Jan 12[14],2015,,
+747,NR,<,NR,West Virginia,Big 12,8-5,0,RV,W 43-42 N Arizona State (Cactus),Week 15 (Final)Jan 12[14],2015,,

@@ -1,0 +1,759 @@
+,Rank,Rank.1,Rank.2,Team (FPV),Conf,Rec,Pts,CP,Last Week,Date,Year,3WT,CFP
+0,1,<,1,Clemson (52),ACC,0-0,1540,*1,DNP,PreseasonAug 19[1],2019,,
+1,2,<,2,Alabama (10),SEC,0-0,1496,*2,DNP,PreseasonAug 19[1],2019,,
+2,3,<,7,Georgia,SEC,0-0,1403,3,DNP,PreseasonAug 19[1],2019,,
+3,4,<,4,Oklahoma,Big 12,0-0,1331,4,DNP,PreseasonAug 19[1],2019,,
+4,5,<,3,Ohio State,Big Ten,0-0,1261,5,DNP,PreseasonAug 19[1],2019,,
+5,6,<,6,LSU,SEC,0-0,1199,6,DNP,PreseasonAug 19[1],2019,,
+6,7,<,14,Michigan,Big Ten,0-0,1164,7,DNP,PreseasonAug 19[1],2019,,
+7,8,<,7,Florida,SEC,0-0,1054,8,DNP,PreseasonAug 19[1],2019,,
+8,9,<,5,Notre Dame,Ind,0-0,1044,9,DNP,PreseasonAug 19[1],2019,,
+9,10,<,9,Texas,Big 12,0-0,1005,10,DNP,PreseasonAug 19[1],2019,,
+10,11,<,NR,Oregon,Pac-12,0-0,860,13,DNP,PreseasonAug 19[1],2019,,
+11,12,<,16,Texas A&M,SEC,0-0,852,11,DNP,PreseasonAug 19[1],2019,,
+12,13,<,13,Washington,Pac-12,0-0,786,12,DNP,PreseasonAug 19[1],2019,,
+13,14,<,NR,Utah,Pac-12,0-0,772,15,DNP,PreseasonAug 19[1],2019,,
+14,15,<,17,Penn State,Big Ten,0-0,651,14,DNP,PreseasonAug 19[1],2019,,
+15,16,<,NR,Auburn,SEC,0-0,578,16,DNP,PreseasonAug 19[1],2019,,
+16,17,<,11,UCF,AAC,0-0,410,17,DNP,PreseasonAug 19[1],2019,,
+17,18,<,NR,Michigan State,Big Ten,0-0,377,20,DNP,PreseasonAug 19[1],2019,,
+18,19,<,NR,Wisconsin,Big Ten,0-0,370,17,DNP,PreseasonAug 19[1],2019,,
+19,20,<,25,Iowa,Big Ten,0-0,330,19,DNP,PreseasonAug 19[1],2019,,
+20,21,<,NR,Iowa State,Big 12,0-0,302,24,DNP,PreseasonAug 19[1],2019,,
+21,22,<,15,Syracuse,ACC,0-0,209,22,DNP,PreseasonAug 19[1],2019,,
+22,23,<,10,Washington State,Pac-12,0-0,200,21,DNP,PreseasonAug 19[1],2019,,
+23,24,<,NR,Nebraska,Big Ten,0-0,154,RV,DNP,PreseasonAug 19[1],2019,,
+24,25,<,NR,Stanford,Pac-12,0-0,141,23,DNP,PreseasonAug 19[1],2019,,
+25,RV,<,NR,Missouri,SEC,0-0,117,NR,DNP,PreseasonAug 19[1],2019,,
+26,RV,<,19,Army,Ind,0-0,94,RV,DNP,PreseasonAug 19[1],2019,,
+27,RV,<,NR,Mississippi State,SEC,0-0,87,RV,DNP,PreseasonAug 19[1],2019,,
+28,RV,<,NR,Miami (FL),ACC,0-0,70,RV,DNP,PreseasonAug 19[1],2019,,
+29,RV,<,21,Northwestern,Big Ten,0-0,63,25,DNP,PreseasonAug 19[1],2019,,
+30,RV,<,NR,TCU,Big 12,0-0,57,RV,DNP,PreseasonAug 19[1],2019,,
+31,RV,<,NR,Virginia,ACC,0-0,44,RV,DNP,PreseasonAug 19[1],2019,,
+32,RV,<,23,Boise State,MWC,0-0,38,RV,DNP,PreseasonAug 19[1],2019,,
+33,RV,<,24,Cincinnati,AAC,0-0,16,RV,DNP,PreseasonAug 19[1],2019,,
+34,RV,<,NR,South Carolina,SEC,0-0,15,RV,DNP,PreseasonAug 19[1],2019,,
+35,RV,<,NR,Virginia Tech,ACC,0-0,12,RV,DNP,PreseasonAug 19[1],2019,,
+36,RV,<,18,Fresno State,MWC,0-0,8,RV,DNP,PreseasonAug 19[1],2019,,
+37,RV,<,22,Utah State,MWC,0-0,8,RV,DNP,PreseasonAug 19[1],2019,,
+38,RV,<,NR,Minnesota,Big Ten,0-0,7,RV,DNP,PreseasonAug 19[1],2019,,
+39,RV,<,NR,Memphis,AAC,0-0,6,RV,DNP,PreseasonAug 19[1],2019,,
+40,RV,<,NR,Appalachian State,Sun Belt,0-0,5,RV,DNP,PreseasonAug 19[1],2019,,
+41,RV,<,20,West Virginia,Big 12,0-0,3,RV,DNP,PreseasonAug 19[1],2019,,
+42,RV,<,NR,Arizona State,Pac-12,0-0,3,RV,DNP,PreseasonAug 19[1],2019,,
+43,RV,<,NR,Oklahoma State,Big 12,0-0,3,RV,DNP,PreseasonAug 19[1],2019,,
+44,RV,<,NR,UAB,CUSA,0-0,3,NR,DNP,PreseasonAug 19[1],2019,,
+45,RV,<,NR,Arizona,Pac-12,0-0,1,NR,DNP,PreseasonAug 19[1],2019,,
+46,RV,<,NR,USC,Pac-12,0-0,1,RV,DNP,PreseasonAug 19[1],2019,,
+47,NR,<,12,Kentucky,SEC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+48,NR,<,NR,Baylor,Big 12,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+49,NR,<,NR,Boston College,ACC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+50,NR,<,NR,Duke,ACC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+51,NR,<,NR,Florida State,ACC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+52,NR,<,NR,Houston,AAC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+53,NR,<,NR,Mississippi,SEC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+54,NR,<,NR,NC State,ACC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+55,NR,<,NR,North Texas,CUSA,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+56,NR,<,NR,Temple,AAC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+57,NR,<,NR,Tennessee,SEC,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+58,NR,<,NR,Troy,Sun Belt,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+59,NR,<,NR,UCLA,Pac-12,0-0,0,RV,DNP,PreseasonAug 19[1],2019,,
+60,1,<,1,Clemson (54),ACC,1-0,1542,*1,W 52-14 H Georgia Tech,Week 1Sep 3[2],2019,,
+61,2,<,2,Alabama (8),SEC,1-0,1493,*2,W 42-3 H Duke,Week 1Sep 3[2],2019,,
+62,3,<,3,Georgia,SEC,1-0,1407,3,W 30-6 A Vanderbilt,Week 1Sep 3[2],2019,,
+63,4,<,4,Oklahoma,Big 12,1-0,1337,4,W 49-31 H Houston,Week 1Sep 3[2],2019,,
+64,5,<,5,Ohio State,Big Ten,1-0,1270,5,W 45-21 H Florida Atlantic,Week 1Sep 3[2],2019,,
+65,6,<,6,LSU,SEC,1-0,1233,6,W 55-3 H Georgia Southern,Week 1Sep 3[2],2019,,
+66,7,<,7,Michigan,Big Ten,1-0,1126,7,W 40-21 H Middle Tennessee,Week 1Sep 3[2],2019,,
+67,8,<,9,Notre Dame,Ind,1-0,1037,8,W 35-17 A Louisville,Week 1Sep 3[2],2019,,
+68,9,<,10,Texas,Big 12,1-0,1032,9,W 45-14 H Louisiana Tech,Week 1Sep 3[2],2019,,
+69,10,<,16,Auburn,SEC,1-0,958,13,W 27-21 N #11 Oregon,Week 1Sep 3[2],2019,,
+70,11,<,8,Florida,SEC,1-0,940,10,W 24-20 N Miami (FL),Week 1Sep 3[2],2019,,
+71,12,<,12,Texas A&M,SEC,1-0,862,11,W 41-7 H Texas State,Week 1Sep 3[2],2019,,
+72,13,<,14,Utah,Pac-12,1-0,826,15,W 30-12 A BYU,Week 1Sep 3[2],2019,,
+73,14,<,13,Washington,Pac-12,1-0,768,12,W 47-14 H Eastern Washington,Week 1Sep 3[2],2019,,
+74,15,<,15,Penn State,Big Ten,1-0,688,14,W 79-7 H Idaho,Week 1Sep 3[2],2019,,
+75,16,<,11,Oregon,Pac-12,0-1,568,18,L 27-21 N #16 Auburn,Week 1Sep 3[2],2019,,
+76,17,<,19,Wisconsin,Big Ten,1-0,519,16,W 49-0 A South Florida,Week 1Sep 3[2],2019,,
+77,18,<,17,UCF,AAC,1-0,445,17,W 62-0 H Florida A&M,Week 1Sep 3[2],2019,,
+78,19,<,18,Michigan State,Big Ten,1-0,409,20,W 28-7 H Tulsa,Week 1Sep 3[2],2019,,
+79,20,<,20,Iowa,Big Ten,1-0,351,19,W 38-14 H Miami (OH),Week 1Sep 3[2],2019,,
+80,21,<,22,Syracuse,ACC,1-0,246,22,W 24-0 A Liberty,Week 1Sep 3[2],2019,,
+81,22,<,23,Washington State,Pac-12,1-0,244,21,W 58-7 H New Mexico State,Week 1Sep 3[2],2019,,
+82,23,<,25,Stanford,Pac-12,1-0,198,23,W 17-7 H Northwestern,Week 1Sep 3[2],2019,,
+83,24,<,NR,Boise State,MWC,1-0,179,24,W 36-31 A Florida State,Week 1Sep 3[2],2019,,
+84,25,<,21,Iowa State,Big 12,1-0,86,RV,W 29-26 (3OT) H Northern Iowa,Week 1Sep 3[2],2019,,
+85,25,<,24,Nebraska,Big Ten,1-0,86,25,W 35-21 H South Alabama,Week 1Sep 3[2],2019,,
+86,RV,<,NR,Virginia,ACC,1-0,73,RV,W 30-14 A Pittsburgh,Week 1Sep 3[2],2019,,
+87,RV,<,NR,TCU,Big 12,1-0,61,RV,W 39-7 H Arkansas-Pine Bluff,Week 1Sep 3[2],2019,,
+88,RV,<,NR,Mississippi State,SEC,1-0,50,RV,W 38-28 A Louisiana,Week 1Sep 3[2],2019,,
+89,RV,<,NR,Cincinnati,AAC,1-0,48,RV,W 24-14 H UCLA,Week 1Sep 3[2],2019,,
+90,RV,<,NR,Army,Ind,1-0,31,RV,W 14-7 H Rice,Week 1Sep 3[2],2019,,
+91,RV,<,NR,Miami (FL),ACC,0-1,10,RV,L 24-20 N #8 Florida,Week 1Sep 3[2],2019,,
+92,RV,<,NR,Oklahoma State,Big 12,1-0,8,RV,W 52-36 A Oregon State,Week 1Sep 3[2],2019,,
+93,RV,<,NR,Memphis,AAC,1-0,6,RV,W 15-10 H Mississippi,Week 1Sep 3[2],2019,,
+94,RV,<,NR,Appalachian State,Sun Belt,1-0,4,RV,W 42-7 H East Tennessee State,Week 1Sep 3[2],2019,,
+95,RV,<,NR,Arizona State,Pac-12,1-0,4,RV,W 30-7 H Kent State,Week 1Sep 3[2],2019,,
+96,RV,<,NR,Minnesota,Big Ten,1-0,2,RV,W 28-21 H South Dakota State,Week 1Sep 3[2],2019,,
+97,RV,<,NR,Boston College,ACC,1-0,1,RV,W 35-28 H Virginia Tech,Week 1Sep 3[2],2019,,
+98,RV,<,NR,North Carolina,ACC,1-0,1,RV,W 24-20 N South Carolina,Week 1Sep 3[2],2019,,
+99,RV,<,NR,USC,Pac-12,1-0,1,RV,W 31-23 H Fresno State,Week 1Sep 3[2],2019,,
+100,NR,<,NR,Fresno State,MWC,0-1,0,RV,L 31-23 A USC,Week 1Sep 3[2],2019,,
+101,NR,<,NR,Hawaii,MWC,1-0,0,RV,W 45-38 H Arizona,Week 1Sep 3[2],2019,,
+102,NR,<,NR,Kentucky,SEC,1-0,0,RV,W 38-24 H Toledo,Week 1Sep 3[2],2019,,
+103,NR,<,NR,Navy,AAC,1-0,0,RV,W 45-7 H Holy Cross,Week 1Sep 3[2],2019,,
+104,NR,<,NR,NC State,ACC,1-0,0,RV,W 34-6 H East Carolina,Week 1Sep 3[2],2019,,
+105,NR,<,NR,Northwestern,Big Ten,0-1,0,RV,L 17-7 A #23 Stanford,Week 1Sep 3[2],2019,,
+106,NR,<,NR,Troy,Sun Belt,1-0,0,RV,W 43-14 H Campbell,Week 1Sep 3[2],2019,,
+107,NR,<,NR,Tulane,AAC,1-0,0,RV,W 42-14 H FIU,Week 1Sep 3[2],2019,,
+108,NR,<,NR,Wyoming,MWC,1-0,0,RV,W 37-31 H Missouri,Week 1Sep 3[2],2019,,
+109,1,<,1,Clemson (56),ACC,2-0,1544,*1,W 24-10 H #12 Texas A&M,Week 2Sep 8[3],2019,,
+110,2,<,2,Alabama (6),SEC,2-0,1489,*2,W 62-10 H New Mexico State,Week 2Sep 8[3],2019,,
+111,3,<,3,Georgia,SEC,2-0,1385,3,W 63-17 H Murray State,Week 2Sep 8[3],2019,,
+112,4,<,6,LSU,SEC,2-0,1336,5,W 45-38 A #9 Texas,Week 2Sep 8[3],2019,,
+113,5,<,4,Oklahoma,Big 12,2-0,1315,4,W 70-14 H South Dakota,Week 2Sep 8[3],2019,,
+114,6,<,5,Ohio State,Big Ten,2-0,1291,6,W 42-0 H Cincinnati,Week 2Sep 8[3],2019,,
+115,7,<,8,Notre Dame,Ind,1-0,1072,7,DNP,Week 2Sep 8[3],2019,,
+116,8,<,10,Auburn,SEC,2-0,1056,9,W 24-6 H Tulane,Week 2Sep 8[3],2019,,
+117,9,<,11,Florida,SEC,2-0,997,8,W 45-0 H Tennessee-Martin,Week 2Sep 8[3],2019,,
+118,10,<,7,Michigan,Big Ten,2-0,936,10,W 24-21 (2OT) H Army,Week 2Sep 8[3],2019,,
+119,11,<,13,Utah,Pac-12,2-0,905,12,W 35-17 H Northern Illinois,Week 2Sep 8[3],2019,,
+120,12,<,9,Texas,Big 12,1-1,877,13,L 45-38 H #6 LSU,Week 2Sep 8[3],2019,,
+121,13,<,15,Penn State,Big Ten,2-0,781,11,W 45-13 H Buffalo,Week 2Sep 8[3],2019,,
+122,14,<,17,Wisconsin,Big Ten,2-0,714,14,W 61-0 H Central Michigan,Week 2Sep 8[3],2019,,
+123,15,<,16,Oregon,Pac-12,1-1,677,17,W 77-6 H Nevada,Week 2Sep 8[3],2019,,
+124,16,<,12,Texas A&M,SEC,1-1,643,15,L 24-10 A #1 Clemson,Week 2Sep 8[3],2019,,
+125,17,<,18,UCF,AAC,2-0,544,16,W 48-14 A Florida Atlantic,Week 2Sep 8[3],2019,,
+126,18,<,19,Michigan State,Big Ten,2-0,495,19,W 51-17 H Western Michigan,Week 2Sep 8[3],2019,,
+127,19,<,20,Iowa,Big Ten,2-0,473,18,W 30-0 H Rutgers,Week 2Sep 8[3],2019,,
+128,20,<,22,Washington State,Pac-12,2-0,343,20,W 59-17 H Northern Colorado,Week 2Sep 8[3],2019,,
+129,21,<,NR,Maryland,Big Ten,2-0,207,25,W 63-20 H #21 Syracuse,Week 2Sep 8[3],2019,,
+130,22,<,24,Boise State,MWC,2-0,164,22,W 14-7 H Marshall,Week 2Sep 8[3],2019,,
+131,23,<,14,Washington,Pac-12,1-1,161,21,L 20-19 H California,Week 2Sep 8[3],2019,,
+132,24,<,NR,USC,Pac-12,2-0,137,24,W 45-20 H #23 Stanford,Week 2Sep 8[3],2019,,
+133,25,<,NR,Virginia,ACC,2-0,122,RV,W 52-17 H William & Mary,Week 2Sep 8[3],2019,,
+134,RV,<,25,Iowa State,Big 12,1-0,96,RV,DNP,Week 2Sep 8[3],2019,,
+135,RV,<,NR,California,Pac-12,2-0,95,RV,W 20-19 A #14 Washington,Week 2Sep 8[3],2019,,
+136,RV,<,NR,Mississippi State,SEC,2-0,73,23,W 38-15 H Southern Miss,Week 2Sep 8[3],2019,,
+137,RV,<,NR,TCU,Big 12,1-0,66,RV,DNP,Week 2Sep 8[3],2019,,
+138,RV,<,NR,North Carolina,ACC,2-0,48,RV,W 28-25 H Miami (FL),Week 2Sep 8[3],2019,,
+139,RV,<,NR,Army,Ind,1-1,42,RV,L 24-21 (2OT) A #7 Michigan,Week 2Sep 8[3],2019,,
+140,RV,<,NR,Colorado,Pac-12,2-0,21,RV,W 34-31 (1OT) H #25 Nebraska,Week 2Sep 8[3],2019,,
+141,RV,<,NR,Oklahoma State,Big 12,2-0,20,RV,W 56-14 H McNeese State,Week 2Sep 8[3],2019,,
+142,RV,<,NR,Memphis,AAC,2-0,12,RV,W 55-24 H Southern,Week 2Sep 8[3],2019,,
+143,RV,<,NR,Arizona State,Pac-12,2-0,4,RV,W 19-7 H Sacramento State,Week 2Sep 8[3],2019,,
+144,RV,<,21,Syracuse,ACC,1-1,2,NR,L 63-20 A Maryland,Week 2Sep 8[3],2019,,
+145,RV,<,NR,Appalachian State,Sun Belt,2-0,2,RV,W 56-41 H Charlotte,Week 2Sep 8[3],2019,,
+146,RV,<,NR,Boston College,ACC,2-0,2,RV,W 45-13 H Richmond,Week 2Sep 8[3],2019,,
+147,RV,<,NR,Kentucky,SEC,2-0,2,RV,W 38-17 H Eastern Michigan,Week 2Sep 8[3],2019,,
+148,RV,<,NR,Minnesota,Big Ten,2-0,1,RV,W 38-35 (2OT) A Fresno State,Week 2Sep 8[3],2019,,
+149,NR,<,23,Stanford,Pac-12,1-1,0,RV,L 45-20 A USC,Week 2Sep 8[3],2019,,
+150,NR,<,25,Nebraska,Big Ten,1-1,0,RV,L 34-31 (1OT) A Colorado,Week 2Sep 8[3],2019,,
+151,NR,<,NR,Hawaii,MWC,2-0,0,RV,W 31-28 H Oregon State,Week 2Sep 8[3],2019,,
+152,NR,<,NR,Navy,AAC,1-0,0,RV,DNP,Week 2Sep 8[3],2019,,
+153,NR,<,NR,NC State,ACC,2-0,0,RV,W 41-0 H Western Carolina,Week 2Sep 8[3],2019,,
+154,NR,<,NR,Troy,Sun Belt,1-0,0,RV,DNP,Week 2Sep 8[3],2019,,
+155,NR,<,NR,Tulane,AAC,1-1,0,RV,L 24-6 A #10 Auburn,Week 2Sep 8[3],2019,,
+156,NR,<,NR,Wake Forest,ACC,2-0,0,RV,W 41-21 A Rice,Week 2Sep 8[3],2019,,
+157,NR,<,NR,Wyoming,MWC,2-0,0,RV,W 23-14 A Texas State,Week 2Sep 8[3],2019,,
+158,1,<,1,Clemson (57),ACC,3-0,1545,*1,W 41-6 A Syracuse,Week 3Sep 15[4],2019,0,
+159,2,<,2,Alabama (5),SEC,3-0,1488,*2,W 47-23 A South Carolina,Week 3Sep 15[4],2019,0,
+160,3,<,3,Georgia,SEC,3-0,1386,3,W 55-0 H Arkansas State,Week 3Sep 15[4],2019,0,
+161,4,<,4,LSU,SEC,3-0,1339,5,W 65-14 H Northwestern State,Week 3Sep 15[4],2019,+2,
+162,5,<,5,Oklahoma,Big 12,3-0,1310,4,W 48-14 A UCLA,Week 3Sep 15[4],2019,-1,
+163,6,<,6,Ohio State,Big Ten,3-0,1292,6,W 51-10 A Indiana,Week 3Sep 15[4],2019,-1,
+164,7,<,7,Notre Dame,Ind,2-0,1099,7,W 66-14 H New Mexico,Week 3Sep 15[4],2019,+1,
+165,8,<,8,Auburn,SEC,3-0,1079,9,W 55-16 H Kent State,Week 3Sep 15[4],2019,+2,
+166,9,<,9,Florida,SEC,3-0,959,8,W 29-21 A Kentucky,Week 3Sep 15[4],2019,+2,
+167,10,<,11,Utah,Pac-12,3-0,929,11,W 31-0 H Idaho State,Week 3Sep 15[4],2019,+3,
+168,11,<,10,Michigan,Big Ten,2-0,917,10,DNP,Week 3Sep 15[4],2019,-4,
+169,12,<,12,Texas,Big 12,2-1,888,13,W 48-13 A Rice,Week 3Sep 15[4],2019,-3,
+170,13,<,13,Penn State,Big Ten,3-0,726,12,W 17-10 H Pittsburgh,Week 3Sep 15[4],2019,+1,
+171,13,<,14,Wisconsin,Big Ten,2-0,726,14,DNP,Week 3Sep 15[4],2019,+4,
+172,15,<,17,UCF,AAC,3-0,703,16,W 45-27 H Stanford,Week 3Sep 15[4],2019,+3,
+173,16,<,15,Oregon,Pac-12,2-1,670,17,W 35-3 H Montana,Week 3Sep 15[4],2019,0,
+174,17,<,16,Texas A&M,SEC,2-1,665,15,W 62-3 H Lamar,Week 3Sep 15[4],2019,-5,
+175,18,<,19,Iowa,Big Ten,3-0,539,18,W 18-17 A Iowa State,Week 3Sep 15[4],2019,+2,
+176,19,<,20,Washington State,Pac-12,3-0,452,19,W 31-24 A Houston,Week 3Sep 15[4],2019,+3,
+177,20,<,22,Boise State,MWC,3-0,277,20,W 45-10 H Portland State,Week 3Sep 15[4],2019,+4,
+178,21,<,25,Virginia,ACC,3-0,252,22,W 31-24 H Florida State,Week 3Sep 15[4],2019,+5,
+179,22,<,23,Washington,Pac-12,2-1,183,21,W 52-20 H Hawaii,Week 3Sep 15[4],2019,-8,
+180,23,<,NR,California,Pac-12,3-0,164,23,W 23-17 H North Texas,Week 3Sep 15[4],2019,--,
+181,24,<,NR,Arizona State,Pac-12,3-0,156,24,W 10-7 A #18 Michigan State,Week 3Sep 15[4],2019,+2,
+182,25,<,NR,TCU,Big 12,2-0,104,RV,W 34-13 A Purdue,Week 3Sep 15[4],2019,+1,
+183,RV,<,NR,Kansas State,Big 12,3-0,91,25,W 31-24 A Mississippi State,Week 3Sep 15[4],2019,--,
+184,RV,<,NR,Oklahoma State,Big 12,3-0,51,RV,W 40-21 A Tulsa,Week 3Sep 15[4],2019,--,
+185,RV,<,NR,Army,Ind,2-1,50,RV,W 31-13 A UTSA,Week 3Sep 15[4],2019,--,
+186,RV,<,18,Michigan State,Big Ten,2-1,37,RV,L 10-7 H Arizona State,Week 3Sep 15[4],2019,-7,
+187,RV,<,NR,Memphis,AAC,3-0,26,RV,W 42-6 A South Alabama,Week 3Sep 15[4],2019,--,
+188,RV,<,NR,Wake Forest,ACC,3-0,14,RV,W 24-18 H North Carolina,Week 3Sep 15[4],2019,--,
+189,RV,<,NR,BYU,Ind,2-1,12,RV,W 30-27 (1OT) H #24 USC,Week 3Sep 15[4],2019,--,
+190,RV,<,NR,Iowa State,Big 12,1-1,7,RV,L 18-17 H #19 Iowa,Week 3Sep 15[4],2019,-1,
+191,RV,<,NR,Temple,AAC,2-0,7,RV,W 20-17 H #21 Maryland,Week 3Sep 15[4],2019,--,
+192,RV,<,NR,Mississippi State,SEC,2-1,4,RV,L 31-24 H Kansas State,Week 3Sep 15[4],2019,--,
+193,RV,<,NR,Appalachian State,Sun Belt,2-0,2,RV,DNP,Week 3Sep 15[4],2019,--,
+194,RV,<,NR,Minnesota,Big Ten,3-0,1,RV,W 35-32 H Georgia Southern,Week 3Sep 15[4],2019,--,
+195,NR,<,21,Maryland,Big Ten,2-1,0,NR,L 20-17 A Temple,Week 3Sep 15[4],2019,--,
+196,NR,<,24,USC,Pac-12,2-1,0,NR,L 30-27 (1OT) A BYU,Week 3Sep 15[4],2019,--,
+197,NR,<,NR,Arizona,Pac-12,2-1,0,RV,W 28-14 H Texas Tech,Week 3Sep 15[4],2019,--,
+198,NR,<,NR,Duke,ACC,2-1,0,RV,W 41-18 A Middle Tennessee,Week 3Sep 15[4],2019,--,
+199,NR,<,NR,Kentucky,SEC,2-1,0,RV,L 29-21 H #9 Florida,Week 3Sep 15[4],2019,--,
+200,NR,<,NR,Navy,AAC,2-0,0,RV,W 42-10 H East Carolina,Week 3Sep 15[4],2019,--,
+201,NR,<,NR,Nebraska,Big Ten,2-1,0,RV,W 44-8 H Northern Illinois,Week 3Sep 15[4],2019,-1,
+202,NR,<,NR,SMU,AAC,3-0,0,RV,W 47-17 H Texas State,Week 3Sep 15[4],2019,--,
+203,NR,<,NR,Tulane,AAC,2-1,0,RV,W 58-6 H Missouri State,Week 3Sep 15[4],2019,--,
+204,NR,<,NR,Wyoming,MWC,3-0,0,RV,W 21-16 H Idaho,Week 3Sep 15[4],2019,--,
+205,1,<,1,Clemson (55),ACC,4-0,1543,*1,W 52-10 H Charlotte,Week 4Sep 22[5],2019,0,
+206,2,<,2,Alabama (6),SEC,4-0,1485,*2,W 49-7 H Southern Mississippi,Week 4Sep 22[5],2019,0,
+207,3,<,3,Georgia (1),SEC,4-0,1400,*3,W 23-17 H #7 Notre Dame,Week 4Sep 22[5],2019,0,
+208,4,<,4,LSU,SEC,4-0,1344,5,W 66-38 A Vanderbilt,Week 4Sep 22[5],2019,0,
+209,5,<,6,Ohio State,Big Ten,4-0,1288,6,W 76-5 H Miami (OH),Week 4Sep 22[5],2019,+1,
+210,6,<,5,Oklahoma,Big 12,3-0,1283,4,DNP,Week 4Sep 22[5],2019,-1,
+211,7,<,8,Auburn,SEC,4-0,1169,7,W 28-20 A #17 Texas A&M,Week 4Sep 22[5],2019,+1,
+212,8,<,13,Wisconsin,Big Ten,3-0,1071,9,W 35-14 H #11 Michigan,Week 4Sep 22[5],2019,+6,
+213,9,<,9,Florida,SEC,4-0,1022,8,W 34-3 H Tennessee,Week 4Sep 22[5],2019,0,
+214,10,<,7,Notre Dame,Ind,2-1,989,10,L 23-17 A #3 Georgia,Week 4Sep 22[5],2019,-3,
+215,11,<,12,Texas,Big 12,3-1,968,12,W 36-30 H Oklahoma State,Week 4Sep 22[5],2019,+1,
+216,12,<,13,Penn State,Big Ten,3-0,848,11,DNP,Week 4Sep 22[5],2019,+1,
+217,13,<,16,Oregon,Pac-12,3-1,839,13,W 21-6 A Stanford,Week 4Sep 22[5],2019,+2,
+218,14,<,18,Iowa,Big Ten,3-0,714,14,DNP,Week 4Sep 22[5],2019,+5,
+219,15,<,23,California,Pac-12,4-0,547,16,W 28-20 A Mississippi,Week 4Sep 22[5],2019,+11,
+220,16,<,20,Boise State,MWC,4-0,524,15,W 30-19 H Air Force,Week 4Sep 22[5],2019,+6,
+221,17,<,22,Washington,Pac-12,3-1,498,17,W 45-19 A BYU,Week 4Sep 22[5],2019,+6,
+222,18,<,21,Virginia,ACC,4-0,430,18,W 28-17 H Old Dominion,Week 4Sep 22[5],2019,+7,
+223,19,<,10,Utah,Pac-12,3-1,426,19,L 30-23 A USC,Week 4Sep 22[5],2019,-8,
+224,20,<,11,Michigan,Big Ten,2-1,287,20,L 35-14 A #13 Wisconsin,Week 4Sep 22[5],2019,-10,
+225,21,<,NR,USC,Pac-12,3-1,257,25,W 30-23 H #10 Utah,Week 4Sep 22[5],2019,+3,
+226,22,<,15,UCF,AAC,3-1,252,23,L 35-34 A Pittsburgh,Week 4Sep 22[5],2019,-5,
+227,23,<,17,Texas A&M,SEC,2-2,233,21,L 28-20 H #8 Auburn,Week 4Sep 22[5],2019,-7,
+228,24,<,NR,Kansas State,Big 12,3-0,230,22,DNP,Week 4Sep 22[5],2019,--,
+229,25,<,NR,Michigan State,Big Ten,3-1,104,RV,W 31-10 A Northwestern,Week 4Sep 22[5],2019,-7,
+230,RV,<,NR,Wake Forest,ACC,4-0,73,24,W 49-7 H Elon,Week 4Sep 22[5],2019,--,
+231,RV,<,NR,Oklahoma State,Big 12,3-1,57,RV,L 36-30 A #12 Texas,Week 4Sep 22[5],2019,--,
+232,RV,<,NR,SMU,AAC,4-0,55,RV,W 41-38 A #25 TCU,Week 4Sep 22[5],2019,--,
+233,RV,<,NR,Army,Ind,3-1,46,RV,W 52-21 H Morgan State,Week 4Sep 22[5],2019,--,
+234,RV,<,NR,Memphis,AAC,3-0,42,RV,DNP,Week 4Sep 22[5],2019,--,
+235,RV,<,NR,Iowa State,Big 12,2-1,31,RV,W 72-20 H Louisiana Monroe,Week 4Sep 22[5],2019,--,
+236,RV,<,NR,Appalachian State,Sun Belt,3-0,24,RV,W 34-31 A North Carolina,Week 4Sep 22[5],2019,--,
+237,RV,<,19,Washington State,Pac-12,3-1,21,RV,L 67-63 H UCLA,Week 4Sep 22[5],2019,-6,
+238,RV,<,NR,Mississippi State,SEC,3-1,14,RV,W 28-13 H Kentucky,Week 4Sep 22[5],2019,--,
+239,RV,<,NR,Missouri,SEC,3-1,14,NR,W 34-14 H South Carolina,Week 4Sep 22[5],2019,--,
+240,RV,<,NR,Pittsburgh,ACC,2-2,6,NR,W 35-34 H #15 UCF,Week 4Sep 22[5],2019,--,
+241,RV,<,24,Arizona State,Pac-12,3-1,5,RV,L 34-31 H Colorado,Week 4Sep 22[5],2019,--,
+242,RV,<,NR,Colorado,Pac-12,3-1,5,RV,W 34-31 A #24 Arizona State,Week 4Sep 22[5],2019,--,
+243,RV,<,NR,Minnesota,Big Ten,3-0,5,RV,DNP,Week 4Sep 22[5],2019,--,
+244,RV,<,NR,Tulane,AAC,3-1,1,RV,W 38-31 H Houston,Week 4Sep 22[5],2019,--,
+245,NR,<,25,TCU,Big 12,2-1,0,RV,L 41-38 H SMU,Week 4Sep 22[5],2019,--,
+246,NR,<,NR,Arizona,Pac-12,2-1,0,RV,DNP,Week 4Sep 22[5],2019,--,
+247,NR,<,NR,Duke,ACC,2-1,0,RV,DNP,Week 4Sep 22[5],2019,--,
+248,NR,<,NR,Hawaii,MWC,3-1,0,RV,W 35-16 H Central Arkansas,Week 4Sep 22[5],2019,--,
+249,NR,<,NR,Navy,AAC,2-0,0,RV,DNP,Week 4Sep 22[5],2019,--,
+250,NR,<,NR,Nebraska,Big Ten,3-1,0,RV,W 42-38 A Illinois,Week 4Sep 22[5],2019,--,
+251,NR,<,NR,Utah State,MWC,2-1,0,RV,W 23-17 A San Diego State,Week 4Sep 22[5],2019,--,
+252,1,<,2,Alabama (29),SEC,5-0,1478,*1,W 59-31 H Mississippi,Week 5Sep 29[6],2019,+1,
+253,2,<,1,Clemson (18),ACC,5-0,1426,*2,W 21-20 A North Carolina,Week 5Sep 29[6],2019,-1,
+254,3,<,3,Georgia (4),SEC,4-0,1375,*3,DNP,Week 5Sep 29[6],2019,0,
+255,4,<,5,Ohio State (7),Big Ten,5-0,1324,*5,W 48-7 A Nebraska,Week 5Sep 29[6],2019,+2,
+256,5,<,4,LSU,SEC,4-0,1322,6,DNP,Week 5Sep 29[6],2019,-1,
+257,6,<,6,Oklahoma,Big 12,4-0,1264,4,W 55-16 H Texas Tech,Week 5Sep 29[6],2019,-1,
+258,7,<,7,Auburn (3),SEC,5-0,1186,7,W 56-23 H Mississippi State,Week 5Sep 29[6],2019,+1,
+259,8,<,8,Wisconsin,Big Ten,4-0,1046,9,W 24-15 H Northwestern,Week 5Sep 29[6],2019,+5,
+260,9,<,10,Notre Dame,Ind,3-1,996,10,W 35-20 H #18 Virginia,Week 5Sep 29[6],2019,-2,
+261,10,<,9,Florida,SEC,5-0,986,8,W 38-0 H Towson,Week 5Sep 29[6],2019,-1,
+262,11,<,11,Texas,Big 12,3-1,919,12,DNP,Week 5Sep 29[6],2019,+1,
+263,12,<,12,Penn State,Big Ten,4-0,878,11,W 59-0 A Maryland,Week 5Sep 29[6],2019,+2,
+264,13,<,13,Oregon,Pac-12,3-1,817,13,DNP,Week 5Sep 29[6],2019,+3,
+265,14,<,14,Iowa,Big Ten,4-0,731,14,W 48-3 H Middle Tennessee,Week 5Sep 29[6],2019,+4,
+266,15,<,17,Washington,Pac-12,4-1,603,16,W 28-14 H #21 USC,Week 5Sep 29[6],2019,+7,
+267,16,<,16,Boise State,MWC,4-0,559,15,DNP,Week 5Sep 29[6],2019,+4,
+268,17,<,19,Utah,Pac-12,4-1,534,17,W 38-13 H Washington State,Week 5Sep 29[6],2019,-7,
+269,18,<,22,UCF,AAC,4-1,352,19,W 56-21 H Connecticut,Week 5Sep 29[6],2019,-3,
+270,19,<,20,Michigan,Big Ten,3-1,350,18,W 52-0 H Rutgers,Week 5Sep 29[6],2019,-8,
+271,20,<,NR,Arizona State,Pac-12,4-1,249,RV,W 24-17 A #15 California,Week 5Sep 29[6],2019,+4,
+272,21,<,NR,Oklahoma State,Big 12,4-1,215,25,W 26-13 H #24 Kansas State,Week 5Sep 29[6],2019,+5,
+273,22,<,NR,Wake Forest,ACC,5-0,190,20,W 27-24 A Boston College,Week 5Sep 29[6],2019,+4,
+274,23,<,18,Virginia,ACC,4-1,186,22,L 35-20 A #10 Notre Dame,Week 5Sep 29[6],2019,-2,
+275,24,<,NR,SMU,AAC,5-0,151,RV,W 48-21 A South Florida,Week 5Sep 29[6],2019,+2,
+276,25,<,23,Texas A&M,SEC,3-2,147,21,W 31-27 N Arkansas,Week 5Sep 29[6],2019,-8,
+277,25,<,25,Michigan State,Big Ten,4-1,147,23,W 40-31 H Indiana,Week 5Sep 29[6],2019,+1,
+278,RV,<,15,California,Pac-12,4-1,141,RV,L 24-17 H Arizona State,Week 5Sep 29[6],2019,-3,
+279,RV,<,NR,Memphis,AAC,4-0,71,23,W 35-23 H Navy,Week 5Sep 29[6],2019,--,
+280,RV,<,NR,Appalachian State,Sun Belt,4-0,50,RV,W 56-37 H Coastal Carolina,Week 5Sep 29[6],2019,--,
+281,RV,<,NR,Army,Ind,3-1,44,RV,DNP,Week 5Sep 29[6],2019,--,
+282,RV,<,NR,Missouri,SEC,3-1,26,NR,DNP,Week 5Sep 29[6],2019,--,
+283,RV,<,NR,Baylor,Big 12,4-0,19,RV,W 23-21 H Iowa State,Week 5Sep 29[6],2019,--,
+284,RV,<,NR,Colorado,Pac-12,3-1,19,RV,DNP,Week 5Sep 29[6],2019,--,
+285,RV,<,NR,Minnesota,Big Ten,4-0,15,RV,W 38-31 A Purdue,Week 5Sep 29[6],2019,--,
+286,RV,<,21,USC,Pac-12,3-2,7,RV,L 28-14 A #17 Washington,Week 5Sep 29[6],2019,--,
+287,RV,<,24,Kansas State,Big 12,3-1,1,RV,L 26-13 A Oklahoma State,Week 5Sep 29[6],2019,--,
+288,RV,<,NR,Tulane,AAC,3-1,1,RV,DNP,Week 5Sep 29[6],2019,--,
+289,NR,<,NR,Air Force,MWC,3-1,0,RV,W 41-24 H San Jose State,Week 5Sep 29[6],2019,--,
+290,NR,<,NR,Duke,ACC,3-1,0,RV,W 45-10 A Virginia Tech,Week 5Sep 29[6],2019,--,
+291,NR,<,NR,Hawaii,MWC,4-1,0,RV,W 54-3 A Nevada,Week 5Sep 29[6],2019,--,
+292,NR,<,NR,Mississippi State,SEC,3-2,0,RV,L 56-23 A #7 Auburn,Week 5Sep 29[6],2019,--,
+293,NR,<,NR,TCU,Big 12,3-1,0,RV,W 51-14 H Kansas,Week 5Sep 29[6],2019,-1,
+294,NR,<,NR,Utah State,MWC,3-1,0,RV,W 34-24 H Colorado State,Week 5Sep 29[6],2019,--,
+295,NR,<,NR,Washington State,Pac-12,3-2,0,RV,L 38-13 A #19 Utah,Week 5Sep 29[6],2019,-7,
+296,NR,<,NR,Wyoming,MWC,4-1,0,RV,W 53-17 H UNLV,Week 5Sep 29[6],2019,--,
+297,1,<,1,Alabama (32),SEC,5-0,1503,*1,DNP,Week 6Oct 6[7],2019,+1,
+298,2,<,2,Clemson (15),ACC,5-0,1433,*2,DNP,Week 6Oct 6[7],2019,-1,
+299,3,<,3,Georgia (3),SEC,5-0,1393,3,W 43-14 A Tennessee,Week 6Oct 6[7],2019,0,
+300,3,<,4,Ohio State (10),Big Ten,6-0,1393,*4,W 34-10 H #25 Michigan State,Week 6Oct 6[7],2019,+2,
+301,5,<,5,LSU (2),SEC,5-0,1352,6,W 42-6 H Utah State,Week 6Oct 6[7],2019,-1,
+302,6,<,6,Oklahoma,Big 12,5-0,1268,5,W 45-20 A Kansas,Week 6Oct 6[7],2019,0,
+303,7,<,10,Florida,SEC,6-0,1163,7,W 24-13 H #7 Auburn,Week 6Oct 6[7],2019,+2,
+304,8,<,8,Wisconsin,Big Ten,5-0,1105,8,W 48-0 H Kent State,Week 6Oct 6[7],2019,0,
+305,9,<,9,Notre Dame,Ind,4-1,1046,10,W 52-0 H Bowling Green,Week 6Oct 6[7],2019,+1,
+306,10,<,12,Penn State,Big Ten,5-0,958,9,W 35-7 H Purdue,Week 6Oct 6[7],2019,+2,
+307,11,<,11,Texas,Big 12,4-1,947,11,W 42-31 A West Virginia,Week 6Oct 6[7],2019,0,
+308,12,<,7,Auburn,SEC,5-1,920,12,L 24-13 A #10 Florida,Week 6Oct 6[7],2019,-5,
+309,13,<,13,Oregon,Pac-12,4-1,828,13,W 17-7 H California,Week 6Oct 6[7],2019,0,
+310,14,<,16,Boise State,MWC,5-0,654,14,W 38-13 A UNLV,Week 6Oct 6[7],2019,+2,
+311,15,<,17,Utah,Pac-12,4-1,624,15,DNP,Week 6Oct 6[7],2019,+4,
+312,16,<,19,Michigan,Big Ten,4-1,618,16,W 10-3 H #14 Iowa,Week 6Oct 6[7],2019,+4,
+313,17,<,14,Iowa,Big Ten,4-1,454,18,L 10-3 A #19 Michigan,Week 6Oct 6[7],2019,-3,
+314,18,<,20,Arizona State,Pac-12,4-1,388,24,DNP,Week 6Oct 6[7],2019,+8,
+315,19,<,22,Wake Forest,ACC,5-0,380,17,DNP,Week 6Oct 6[7],2019,+7,
+316,20,<,23,Virginia,ACC,4-1,353,19,DNP,Week 6Oct 6[7],2019,-2,
+317,21,<,24,SMU,AAC,6-0,285,22,W 43-37 (3OT) H Tulsa,Week 6Oct 6[7],2019,+5,
+318,22,<,NR,Baylor,Big 12,5-0,260,23,W 31-12 A Kansas State,Week 6Oct 6[7],2019,--,
+319,23,<,NR,Memphis,AAC,5-0,189,20,W 52-33 A Louisiana-Monroe,Week 6Oct 6[7],2019,+3,
+320,24,<,25,Texas A&M,SEC,3-2,165,21,DNP,Week 6Oct 6[7],2019,-1,
+321,25,<,NR,Cincinnati,AAC,4-1,118,RV,W 27-24 H #18 UCF,Week 6Oct 6[7],2019,--,
+322,RV,<,NR,Minnesota,Big Ten,5-0,80,25,W 40-17 H Illinois,Week 6Oct 6[7],2019,--,
+323,RV,<,NR,Missouri,SEC,4-1,64,NR,W 42-10 H Troy,Week 6Oct 6[7],2019,--,
+324,RV,<,NR,Appalachian State,Sun Belt,4-0,61,RV,DNP,Week 6Oct 6[7],2019,--,
+325,RV,<,15,Washington,Pac-12,4-2,54,RV,L 23-13 A Stanford,Week 6Oct 6[7],2019,-9,
+326,RV,<,NR,Tulane,AAC,4-1,25,RV,W 42-33 A Army,Week 6Oct 6[7],2019,--,
+327,RV,<,NR,California,Pac-12,4-2,20,RV,L 17-7 A #13 Oregon,Week 6Oct 6[7],2019,-11,
+328,RV,<,25,Michigan State,Big Ten,4-2,17,RV,L 34-10 A #4 Ohio State,Week 6Oct 6[7],2019,-1,
+329,RV,<,NR,Arizona,Pac-12,4-1,11,RV,W 35-30 A Colorado,Week 6Oct 6[7],2019,--,
+330,RV,<,18,UCF,AAC,4-2,9,RV,L 27-24 A Cincinnati,Week 6Oct 6[7],2019,-4,
+331,RV,<,NR,Iowa State,Big 12,3-2,5,NR,W 49-24 H TCU,Week 6Oct 6[7],2019,--,
+332,RV,<,NR,USC,Pac-12,3-2,5,NR,DNP,Week 6Oct 6[7],2019,-5,
+333,RV,<,NR,Pittsburgh,ACC,4-2,2,NR,W 33-30 A Duke,Week 6Oct 6[7],2019,--,
+334,NR,<,21,Oklahoma State,Big 12,4-2,0,NR,L 45-35 A Texas Tech,Week 6Oct 6[7],2019,--,
+335,NR,<,NR,Army,Ind,3-2,0,RV,L 42-33 H Tulane,Week 6Oct 6[7],2019,--,
+336,NR,<,NR,Hawaii,MWC,4-1,0,RV,DNP,Week 6Oct 6[7],2019,--,
+337,NR,<,NR,Mississippi State,SEC,3-2,0,RV,DNP,Week 6Oct 6[7],2019,--,
+338,NR,<,NR,Navy,AAC,3-1,0,RV,W 34-25 H Air Force,Week 6Oct 6[7],2019,--,
+339,NR,<,NR,San Diego State,MWC,4-1,0,RV,W 24-10 A Colorado State,Week 6Oct 6[7],2019,--,
+340,NR,<,NR,TCU,Big 12,3-2,0,RV,L 49-24 A Iowa State,Week 6Oct 6[7],2019,--,
+341,NR,<,NR,Temple,AAC,4-1,0,RV,W 27-17 A East Carolina,Week 6Oct 6[7],2019,--,
+342,NR,<,NR,Washington State,Pac-12,3-2,0,RV,DNP,Week 6Oct 6[7],2019,--,
+343,1,<,1,Alabama (30),SEC,6-0,1503,*1,W 47-28 A #24 Texas A&M,Week 7Oct 13[8],2019,0,
+344,2,<,5,LSU (12),SEC,6-0,1449,*3,W 42-28 H #7 Florida,Week 7Oct 13[8],2019,+3,
+345,3,<,2,Clemson (11),ACC,6-0,1427,*2,W 45-14 H Florida State,Week 7Oct 13[8],2019,-1,
+346,4,<,3,Ohio State (9),Big Ten,6-0,1404,*4,DNP,Week 7Oct 13[8],2019,0,
+347,5,<,6,Oklahoma,Big 12,6-0,1333,5,W 34-27 N #11 Texas,Week 7Oct 13[8],2019,+1,
+348,6,<,8,Wisconsin,Big Ten,6-0,1245,6,W 38-0 H Michigan State,Week 7Oct 13[8],2019,+2,
+349,7,<,10,Penn State,Big Ten,6-0,1129,7,W 17-12 A #17 Iowa,Week 7Oct 13[8],2019,+5,
+350,8,<,9,Notre Dame,Ind,5-1,1042,8,W 30-27 H USC,Week 7Oct 13[8],2019,+1,
+351,9,<,7,Florida,SEC,6-1,1041,9,L 42-28 A #5 LSU,Week 7Oct 13[8],2019,+1,
+352,10,<,3,Georgia,SEC,5-1,995,10,L 20-17 (2OT) H South Carolina,Week 7Oct 13[8],2019,-7,
+353,11,<,12,Auburn,SEC,5-1,985,11,DNP,Week 7Oct 13[8],2019,-4,
+354,12,<,13,Oregon,Pac-12,5-1,906,12,W 45-3 H Colorado,Week 7Oct 13[8],2019,+1,
+355,13,<,15,Utah,Pac-12,5-1,729,14,W 52-7 A Oregon State,Week 7Oct 13[8],2019,+4,
+356,14,<,14,Boise State,MWC,6-0,716,13,W 59-37 H Hawaii,Week 7Oct 13[8],2019,+2,
+357,15,<,11,Texas,Big 12,4-2,672,15,L 34-27 N #6 Oklahoma,Week 7Oct 13[8],2019,-4,
+358,16,<,16,Michigan,Big Ten,5-1,648,16,W 42-25 A Illinois,Week 7Oct 13[8],2019,+3,
+359,17,<,18,Arizona State,Pac-12,5-1,524,17,W 38-34 H Washington State,Week 7Oct 13[8],2019,+3,
+360,18,<,22,Baylor,Big 12,6-0,470,18,W 33-30 (2OT) H Texas Tech,Week 7Oct 13[8],2019,+8,
+361,19,<,21,SMU,AAC,6-0,398,19,DNP,Week 7Oct 13[8],2019,+5,
+362,20,<,NR,Minnesota,Big Ten,6-0,330,20,W 34-7 H Nebraska,Week 7Oct 13[8],2019,+6,
+363,21,<,25,Cincinnati,AAC,5-1,308,21,W 38-23 A Houston,Week 7Oct 13[8],2019,--,
+364,22,<,NR,Missouri,SEC,5-1,233,NR,W 38-27 H Mississippi,Week 7Oct 13[8],2019,+4,
+365,23,<,17,Iowa,Big Ten,4-2,210,22,L 17-12 H #10 Penn State,Week 7Oct 13[8],2019,-9,
+366,24,<,NR,Appalachian State,Sun Belt,5-0,148,24,W 17-7 A Louisiana,Week 7Oct 13[8],2019,+2,
+367,25,<,NR,Washington,Pac-12,5-2,107,23,W 51-27 A Arizona,Week 7Oct 13[8],2019,-10,
+368,RV,<,NR,Tulane,AAC,5-1,55,RV,W 49-7 H Connecticut,Week 7Oct 13[8],2019,--,
+369,RV,<,NR,Iowa State,Big 12,4-2,36,RV,W 38-14 A West Virginia,Week 7Oct 13[8],2019,--,
+370,RV,<,NR,Temple,AAC,5-1,31,25,W 30-28 H #23 Memphis,Week 7Oct 13[8],2019,--,
+371,RV,<,19,Wake Forest,ACC,5-1,25,RV,L 62-59 H Louisville,Week 7Oct 13[8],2019,-4,
+372,RV,<,NR,California,Pac-12,4-2,20,RV,DNP,Week 7Oct 13[8],2019,--,
+373,RV,<,20,Virginia,ACC,4-2,8,RV,L 17-9 A Miami (FL),Week 7Oct 13[8],2019,-3,
+374,RV,<,23,Memphis,AAC,5-1,6,RV,L 30-28 A Temple,Week 7Oct 13[8],2019,--,
+375,RV,<,NR,South Carolina,SEC,3-3,4,RV,W 30-27 (1OT) A #3 Georgia,Week 7Oct 13[8],2019,--,
+376,RV,<,NR,USC,Pac-12,3-3,4,NR,L 30-27 A #9 Notre Dame,Week 7Oct 13[8],2019,--,
+377,RV,<,24,Texas A&M,SEC,3-3,3,RV,L 47-28 H #1 Alabama,Week 7Oct 13[8],2019,-1,
+378,RV,<,NR,UCF,AAC,4-2,3,RV,DNP,Week 7Oct 13[8],2019,-8,
+379,RV,<,NR,San Diego State,MWC,5-1,2,RV,W 26-22 H Wyoming,Week 7Oct 13[8],2019,--,
+380,RV,<,NR,Louisiana Tech,CUSA,5-1,1,RV,W 69-21 H Massachusetts,Week 7Oct 13[8],2019,--,
+381,NR,<,NR,Duke,ACC,4-2,0,RV,W 41-23 H Georgia Tech,Week 7Oct 13[8],2019,--,
+382,NR,<,NR,Navy,AAC,4-1,0,RV,W 45-17 A Tulsa,Week 7Oct 13[8],2019,--,
+383,NR,<,NR,Pittsburgh,ACC,4-2,0,RV,DNP,Week 7Oct 13[8],2019,--,
+384,1,<,1,Alabama (24),SEC,7-0,1486,*1,W 35-13 H Tennessee,Week 8Oct 20[9],2019,0,
+385,2,<,2,LSU (16),SEC,7-0,1462,*3,W 36-13 A Mississippi State,Week 8Oct 20[9],2019,+3,
+386,3,<,4,Ohio State (13),Big Ten,7-0,1429,*4,W 52-3 A Northwestern,Week 8Oct 20[9],2019,0,
+387,4,<,3,Clemson (9),ACC,7-0,1408,*2,W 45-10 A Louisville,Week 8Oct 20[9],2019,-2,
+388,5,<,5,Oklahoma,Big 12,7-0,1343,5,W 52-14 H West Virginia,Week 8Oct 20[9],2019,+1,
+389,6,<,7,Penn State,Big Ten,7-0,1224,6,W 28-21 H #16 Michigan,Week 8Oct 20[9],2019,+4,
+390,7,<,9,Florida,SEC,7-1,1138,8,W 38-27 A South Carolina,Week 8Oct 20[9],2019,0,
+391,8,<,8,Notre Dame,Ind,5-1,1058,7,DNP,Week 8Oct 20[9],2019,+1,
+392,9,<,11,Auburn,SEC,6-1,1054,10,W 51-10 A Arkansas,Week 8Oct 20[9],2019,+3,
+393,10,<,10,Georgia,SEC,6-1,1031,9,W 21-0 H Kentucky,Week 8Oct 20[9],2019,-7,
+394,11,<,12,Oregon,Pac-12,6-1,979,11,W 35-31 A #25 Washington,Week 8Oct 20[9],2019,+2,
+395,12,<,13,Utah,Pac-12,6-1,852,12,W 21-3 H #17 Arizona State,Week 8Oct 20[9],2019,+3,
+396,13,<,6,Wisconsin,Big Ten,6-1,767,13,L 24-23 A Illinois,Week 8Oct 20[9],2019,-5,
+397,14,<,18,Baylor,Big 12,7-0,732,14,W 45-27 A Oklahoma State,Week 8Oct 20[9],2019,+8,
+398,15,<,15,Texas,Big 12,5-2,627,15,W 50-48 H Kansas,Week 8Oct 20[9],2019,-4,
+399,16,<,19,SMU,AAC,7-0,587,17,W 45-21 H Temple,Week 8Oct 20[9],2019,+5,
+400,17,<,20,Minnesota,Big Ten,7-0,577,16,W 42-7 A Rutgers,Week 8Oct 20[9],2019,+9,
+401,18,<,21,Cincinnati,AAC,6-1,468,18,W 24-13 H Tulsa,Week 8Oct 20[9],2019,+7,
+402,19,<,16,Michigan,Big Ten,5-2,440,20,L 28-21 A #7 Penn State,Week 8Oct 20[9],2019,-3,
+403,20,<,23,Iowa,Big Ten,5-2,347,19,W 26-20 H Purdue,Week 8Oct 20[9],2019,-3,
+404,21,<,24,Appalachian State,Sun Belt,6-0,286,22,W 52-7 H Louisiana Monroe,Week 8Oct 20[9],2019,+5,
+405,22,<,14,Boise State,MWC,6-1,225,21,L 28-25 A BYU,Week 8Oct 20[9],2019,-8,
+406,23,<,NR,Iowa State,Big 12,5-2,185,RV,W 34-24 A Texas Tech,Week 8Oct 20[9],2019,+3,
+407,24,<,17,Arizona State,Pac-12,5-2,134,24,L 21-3 A #13 Utah,Week 8Oct 20[9],2019,-6,
+408,25,<,NR,Wake Forest,ACC,6-1,118,23,W 22-20 H Florida State,Week 8Oct 20[9],2019,-6,
+409,RV,<,NR,Memphis,AAC,6-1,87,25,W 47-17 H Tulane,Week 8Oct 20[9],2019,-3,
+410,RV,<,NR,Virginia,ACC,5-2,29,RV,W 48-14 H Duke,Week 8Oct 20[9],2019,-6,
+411,RV,<,NR,Pittsburgh,ACC,5-2,17,RV,W 27-20 A Syracuse,Week 8Oct 20[9],2019,--,
+412,RV,<,NR,San Diego State,MWC,6-1,17,RV,W 27-17 A San Jose State,Week 8Oct 20[9],2019,--,
+413,RV,<,25,Washington,Pac-12,5-3,15,RV,L 35-31 H #12 Oregon,Week 8Oct 20[9],2019,--,
+414,RV,<,NR,Navy,AAC,5-1,9,RV,W 35-3 H South Florida,Week 8Oct 20[9],2019,--,
+415,RV,<,NR,Texas A&M,SEC,4-3,6,RV,W 24-17 A Mississippi,Week 8Oct 20[9],2019,-2,
+416,RV,<,22,Missouri,SEC,5-2,4,NR,L 21-14 A Vanderbilt,Week 8Oct 20[9],2019,--,
+417,RV,<,NR,UCF,AAC,5-2,3,RV,W 41-28 H East Carolina,Week 8Oct 20[9],2019,--,
+418,RV,<,NR,USC,Pac-12,4-3,3,NR,W 41-14 H Arizona,Week 8Oct 20[9],2019,--,
+419,RV,<,NR,Louisiana Tech,CUSA,6-1,2,RV,W 45-30 H Southern Miss,Week 8Oct 20[9],2019,--,
+420,RV,<,NR,Tulane,AAC,5-2,1,RV,L 47-17 A Memphis,Week 8Oct 20[9],2019,--,
+421,NR,<,NR,Indiana,Big Ten,5-2,0,RV,W 34-28 A Maryland,Week 8Oct 20[9],2019,--,
+422,NR,<,NR,Temple,AAC,5-2,0,RV,L 45-21 A #19 SMU,Week 8Oct 20[9],2019,--,
+423,NR,<,NR,UAB,CUSA,6-1,0,RV,W 38-14 H Old Dominion,Week 8Oct 20[9],2019,--,
+424,NR,<,NR,Utah State,MWC,4-2,0,RV,W 36-10 H Nevada,Week 8Oct 20[9],2019,--,
+425,NR,<,NR,Virginia Tech,ACC,5-2,0,RV,W 43-41 (6OT) H North Carolina,Week 8Oct 20[9],2019,--,
+426,1,<,2,LSU (17),SEC,8-0,1476,*2,W 23-20 H #9 Auburn,Week 9Oct 27[10],2019,+1,
+427,2,<,1,Alabama (21),SEC,8-0,1474,*1,W 48-7 H Arkansas,Week 9Oct 27[10],2019,-1,
+428,3,<,3,Ohio State (17),Big Ten,8-0,1468,*4,W 38-7 H #13 Wisconsin,Week 9Oct 27[10],2019,+1,
+429,4,<,4,Clemson (7),ACC,8-0,1406,*3,W 59-7 H Boston College,Week 9Oct 27[10],2019,-1,
+430,5,<,6,Penn State,Big Ten,8-0,1302,5,W 28-7 A Michigan State,Week 9Oct 27[10],2019,+2,
+431,6,<,7,Florida,SEC,7-1,1226,6,DNP,Week 9Oct 27[10],2019,+3,
+432,7,<,11,Oregon,Pac-12,7-1,1108,8,W 37-35 H Washington State,Week 9Oct 27[10],2019,+5,
+433,8,<,10,Georgia,SEC,6-1,1093,7,DNP,Week 9Oct 27[10],2019,+2,
+434,9,<,12,Utah,Pac-12,7-1,1032,10,W 35-0 H California,Week 9Oct 27[10],2019,+4,
+435,10,<,5,Oklahoma,Big 12,7-1,1017,9,L 48-41 A Kansas State,Week 9Oct 27[10],2019,-5,
+436,11,<,9,Auburn,SEC,6-2,910,12,L 23-20 A #2 LSU,Week 9Oct 27[10],2019,0,
+437,12,<,14,Baylor,Big 12,7-0,882,11,DNP,Week 9Oct 27[10],2019,+6,
+438,13,<,17,Minnesota,Big Ten,8-0,778,13,W 52-10 H Maryland,Week 9Oct 27[10],2019,+7,
+439,14,<,19,Michigan,Big Ten,6-2,744,15,W 45-14 H #8 Notre Dame,Week 9Oct 27[10],2019,+2,
+440,15,<,16,SMU,AAC,8-0,666,14,W 34-31 A Houston,Week 9Oct 27[10],2019,+4,
+441,16,<,8,Notre Dame,Ind,5-2,563,16,L 45-14 A #19 Michigan,Week 9Oct 27[10],2019,-8,
+442,17,<,18,Cincinnati,AAC,6-1,524,18,DNP,Week 9Oct 27[10],2019,+4,
+443,18,<,13,Wisconsin,Big Ten,6-2,513,17,L 38-7 A #3 Ohio State,Week 9Oct 27[10],2019,-12,
+444,19,<,20,Iowa,Big Ten,6-2,456,19,W 20-0 A Northwestern,Week 9Oct 27[10],2019,+4,
+445,20,<,21,Appalachian State,Sun Belt,7-0,393,20,W 30-3 A South Alabama,Week 9Oct 27[10],2019,+4,
+446,21,<,22,Boise State,MWC,6-1,280,21,DNP,Week 9Oct 27[10],2019,-7,
+447,22,<,NR,Kansas State,Big 12,5-2,218,25,W 48-41 H #5 Oklahoma,Week 9Oct 27[10],2019,--,
+448,23,<,25,Wake Forest,ACC,6-1,200,22,DNP,Week 9Oct 27[10],2019,+3,
+449,24,<,NR,Memphis,AAC,7-1,188,23,W 42-41 A Tulsa,Week 9Oct 27[10],2019,+2,
+450,25,<,NR,San Diego State,MWC,7-1,50,RV,W 20-17 A UNLV,Week 9Oct 27[10],2019,+1,
+451,RV,<,15,Texas,Big 12,5-3,49,24,L 37-27 A TCU,Week 9Oct 27[10],2019,-11,
+452,RV,<,NR,Navy,AAC,6-1,43,RV,W 41-38 H Tulane,Week 9Oct 27[10],2019,--,
+453,RV,<,NR,UCF,AAC,6-2,33,RV,W 63-21 A Temple,Week 9Oct 27[10],2019,--,
+454,RV,<,NR,Washington,Pac-12,5-3,19,RV,DNP,Week 9Oct 27[10],2019,-1,
+455,RV,<,NR,Texas A&M,SEC,5-3,14,RV,W 49-30 H Mississippi State,Week 9Oct 27[10],2019,--,
+456,RV,<,NR,USC,Pac-12,5-3,11,NR,W 35-31 A Colorado,Week 9Oct 27[10],2019,--,
+457,RV,<,NR,Louisiana Tech,CUSA,7-1,6,RV,W 42-21 A UTEP,Week 9Oct 27[10],2019,--,
+458,RV,<,NR,Indiana,Big Ten,6-2,4,RV,W 38-31 A Nebraska,Week 9Oct 27[10],2019,--,
+459,RV,<,23,Iowa State,Big 12,5-3,1,RV,L 34-27 H Oklahoma State,Week 9Oct 27[10],2019,--,
+460,RV,<,NR,North Dakota State,Other,8-0,1,NR,W 23-16 A South Dakota State,Week 9Oct 27[10],2019,--,
+461,RV,<,NR,Oklahoma State,Big 12,5-3,1,RV,W 34-27 A #23 Iowa State,Week 9Oct 27[10],2019,--,
+462,RV,<,NR,Pittsburgh,ACC,5-3,1,NR,L 16-12 H Miami (FL),Week 9Oct 27[10],2019,--,
+463,NR,<,24,Arizona State,Pac-12,5-3,0,RV,L 42-32 A UCLA,Week 9Oct 27[10],2019,-9,
+464,NR,<,NR,Air Force,MWC,6-2,0,RV,W 31-7 H Utah State,Week 9Oct 27[10],2019,--,
+465,NR,<,NR,UAB,CUSA,6-1,0,RV,DNP,Week 9Oct 27[10],2019,--,
+466,NR,<,NR,Virginia,ACC,5-3,0,RV,L 28-21 A Louisville,Week 9Oct 27[10],2019,--,
+467,NR,<,NR,Virginia Tech,ACC,5-2,0,RV,DNP,Week 9Oct 27[10],2019,--,
+468,NR,<,NR,Wyoming,MWC,6-2,0,RV,W 31-3 H Nevada,Week 9Oct 27[10],2019,--,
+469,1,<,1,LSU (17),SEC,8-0,1479,*2,DNP,Week 10Nov 3[11],2019,+1,2
+470,2,<,2,Alabama (21),SEC,8-0,1472,*1,DNP,Week 10Nov 3[11],2019,-1,3
+471,3,<,3,Ohio State (17),Big Ten,8-0,1467,*4,DNP,Week 10Nov 3[11],2019,0,1
+472,4,<,4,Clemson (7),ACC,9-0,1406,*3,W 59-14 H Wofford,Week 10Nov 3[11],2019,0,5
+473,5,<,5,Penn State,Big Ten,8-0,1306,5,DNP,Week 10Nov 3[11],2019,+1,4
+474,6,<,8,Georgia,SEC,7-1,1196,6,W 24-17 N #6 Florida,Week 10Nov 3[11],2019,+4,6
+475,7,<,7,Oregon,Pac-12,8-1,1180,7,W 56-24 A USC,Week 10Nov 3[11],2019,+4,7
+476,8,<,9,Utah,Pac-12,8-1,1090,9,W 33-28 A Washington,Week 10Nov 3[11],2019,+4,8
+477,9,<,10,Oklahoma,Big 12,7-1,1045,8,DNP,Week 10Nov 3[11],2019,-4,9
+478,10,<,6,Florida,SEC,7-2,938,11,L 24-17 N #8 Georgia,Week 10Nov 3[11],2019,-3,10
+479,11,<,12,Baylor,Big 12,8-0,909,10,W 17-14 H West Virginia,Week 10Nov 3[11],2019,+3,12
+480,12,<,11,Auburn,SEC,7-2,901,12,W 20-14 H Mississippi,Week 10Nov 3[11],2019,-3,11
+481,13,<,13,Minnesota,Big Ten,8-0,831,13,DNP,Week 10Nov 3[11],2019,+4,17
+482,14,<,14,Michigan,Big Ten,7-2,780,14,W 38-7 A Maryland,Week 10Nov 3[11],2019,+5,14
+483,15,<,16,Notre Dame,Ind,6-2,571,15,W 21-20 H Virginia Tech,Week 10Nov 3[11],2019,-7,15
+484,16,<,18,Wisconsin,Big Ten,6-2,558,16,DNP,Week 10Nov 3[11],2019,-3,13
+485,17,<,17,Cincinnati,AAC,7-1,527,17,W 46-43 A East Carolina,Week 10Nov 3[11],2019,+1,20
+486,18,<,19,Iowa,Big Ten,6-2,491,18,DNP,Week 10Nov 3[11],2019,+2,18
+487,19,<,24,Memphis,AAC,8-1,448,19,W 54-48 H #15 SMU,Week 10Nov 3[11],2019,+7,21
+488,20,<,22,Kansas State,Big 12,6-2,364,22,W 38-10 A Kansas,Week 10Nov 3[11],2019,--,16
+489,21,<,21,Boise State,MWC,7-1,310,21,W 52-42 A San Jose State,Week 10Nov 3[11],2019,+1,22
+490,22,<,23,Wake Forest,ACC,7-1,296,20,W 44-10 H NC State,Week 10Nov 3[11],2019,+3,19
+491,23,<,15,SMU,AAC,8-1,250,23,L 54-48 A #24 Memphis,Week 10Nov 3[11],2019,-7,25
+492,24,<,25,San Diego State,MWC,7-1,87,24,DNP,Week 10Nov 3[11],2019,+2,NR
+493,25,<,NR,Navy,AAC,7-1,83,25,W 56-10 A Connecticut,Week 10Nov 3[11],2019,+1,24
+494,RV,<,NR,UCF,AAC,7-2,52,RV,W 44-29 H Houston,Week 10Nov 3[11],2019,--,NR
+495,RV,<,NR,Texas,Big 12,5-3,37,RV,DNP,Week 10Nov 3[11],2019,-11,NR
+496,RV,<,NR,Indiana,Big Ten,7-2,27,RV,W 34-3 H Northwestern,Week 10Nov 3[11],2019,--,NR
+497,RV,<,NR,Texas A&M,SEC,6-3,19,RV,W 45-14 H Texas San Antonio,Week 10Nov 3[11],2019,--,NR
+498,RV,<,NR,Oklahoma State,Big 12,6-3,11,RV,W 34-27 H TCU,Week 10Nov 3[11],2019,--,23
+499,RV,<,NR,Louisiana Tech,CUSA,7-1,7,RV,DNP,Week 10Nov 3[11],2019,--,NR
+500,RV,<,20,Appalachian State,Sun Belt,7-1,5,RV,L 24-21 H Georgia Southern,Week 10Nov 3[11],2019,-5,NR
+501,RV,<,NR,Pittsburgh,ACC,6-3,2,RV,W 20-10 A Georgia Tech,Week 10Nov 3[11],2019,--,NR
+502,RV,<,NR,Washington,Pac-12,5-4,2,NR,L 33-28 H #7 Oregon,Week 10Nov 3[11],2019,--,NR
+503,RV,<,NR,Iowa State,Big 12,5-3,1,NR,DNP,Week 10Nov 3[11],2019,-3,NR
+504,RV,<,NR,North Dakota State,MVC,9-0,1,NR,W 56-17 A Youngstown State,Week 10Nov 3[11],2019,--,NR
+505,RV,<,NR,Virginia,ACC,6-3,1,RV,W 38-31 A North Carolina,Week 10Nov 3[11],2019,--,NR
+506,NR,<,NR,Air Force,MWC,7-2,0,RV,W 17-13 H Army,Week 10Nov 3[11],2019,--,NR
+507,NR,<,NR,Wyoming,MWC,6-2,0,RV,DNP,Week 10Nov 3[11],2019,--,NR
+508,1,<,1,LSU (54),SEC,9-0,1542,*1,W 46-41 A #2 Alabama,Week 11Nov 10[12],2019,0,1
+509,2,<,3,Ohio State (5),Big Ten,9-0,1480,*2,W 73-14 H Maryland,Week 11Nov 10[12],2019,+1,2
+510,3,<,4,Clemson (3),ACC,10-0,1441,*3,W 55-10 A NC State,Week 11Nov 10[12],2019,+1,3
+511,4,<,2,Alabama,SEC,8-1,1312,4,L 46-41 H #1 LSU,Week 11Nov 10[12],2019,-2,5
+512,5,<,6,Georgia,SEC,8-1,1267,5,W 27-0 H Missouri,Week 11Nov 10[12],2019,+3,4
+513,6,<,7,Oregon,Pac-12,8-1,1224,6,DNP,Week 11Nov 10[12],2019,+1,6
+514,7,<,13,Minnesota,Big Ten,9-0,1164,7,W 31-26 H #5 Penn State,Week 11Nov 10[12],2019,+6,8
+515,8,<,8,Utah,Pac-12,8-1,1099,9,DNP,Week 11Nov 10[12],2019,+1,7
+516,9,<,5,Penn State,Big Ten,8-1,1003,11,L 31-26 A #13 Minnesota,Week 11Nov 10[12],2019,-4,9
+517,10,<,9,Oklahoma,Big 12,8-1,1000,8,W 42-41 H Iowa State,Week 11Nov 10[12],2019,0,10
+518,11,<,10,Florida,SEC,8-2,934,12,W 56-0 H Vanderbilt,Week 11Nov 10[12],2019,-5,11
+519,12,<,11,Baylor,Big 12,9-0,932,10,W 29-23 (3OT) A TCU,Week 11Nov 10[12],2019,0,13
+520,13,<,12,Auburn,SEC,7-2,871,13,DNP,Week 11Nov 10[12],2019,-2,12
+521,14,<,14,Michigan,Big Ten,7-2,744,14,DNP,Week 11Nov 10[12],2019,0,15
+522,15,<,16,Wisconsin,Big Ten,7-2,657,15,W 24-22 H #18 Iowa,Week 11Nov 10[12],2019,+3,14
+523,16,<,15,Notre Dame,Ind,7-2,593,16,W 38-7 A Duke,Week 11Nov 10[12],2019,0,16
+524,17,<,17,Cincinnati,AAC,8-1,567,17,W 48-3 H Connecticut,Week 11Nov 10[12],2019,0,17
+525,18,<,19,Memphis,AAC,8-1,510,18,DNP,Week 11Nov 10[12],2019,+6,18
+526,19,<,21,Boise State,MWC,8-1,371,19,W 20-17 (1OT) H Wyoming,Week 11Nov 10[12],2019,+2,21
+527,20,<,23,SMU,AAC,9-1,346,20,W 59-51 H East Carolina,Week 11Nov 10[12],2019,-5,NR
+528,21,<,25,Navy,AAC,7-1,228,21,DNP,Week 11Nov 10[12],2019,+5,23
+529,22,<,NR,Texas,Big 12,6-3,199,23,W 27-24 H #20 Kansas State,Week 11Nov 10[12],2019,+4,19
+530,23,<,18,Iowa,Big Ten,6-3,197,22,L 24-22 A #16 Wisconsin,Week 11Nov 10[12],2019,-4,20
+531,24,<,NR,Indiana,Big Ten,7-2,108,25,DNP,Week 11Nov 10[12],2019,+2,NR
+532,25,<,NR,Oklahoma State,Big 12,6-3,77,RV,DNP,Week 11Nov 10[12],2019,+1,22
+533,RV,<,NR,Appalachian State,Sun Belt,8-1,73,24,W 20-15 A South Carolina,Week 11Nov 10[12],2019,-6,25
+534,RV,<,20,Kansas State,Big 12,6-3,67,RV,L 27-24 A Texas,Week 11Nov 10[12],2019,-4,24
+535,RV,<,NR,Texas A&M,SEC,6-3,42,RV,DNP,Week 11Nov 10[12],2019,--,NR
+536,RV,<,22,Wake Forest,ACC,7-2,38,RV,L 36-17 A Virginia Tech,Week 11Nov 10[12],2019,-3,NR
+537,RV,<,NR,Louisiana Tech,CUSA,8-1,25,RV,W 52-17 H North Texas,Week 11Nov 10[12],2019,--,NR
+538,RV,<,NR,Virginia,ACC,7-3,12,RV,W 33-28 H Georgia Tech,Week 11Nov 10[12],2019,--,NR
+539,RV,<,24,San Diego State,MWC,7-2,7,RV,L 17-13 H Nevada,Week 11Nov 10[12],2019,-1,NR
+540,RV,<,NR,Iowa State,Big 12,5-4,4,NR,L 42-41 A #9 Oklahoma,Week 11Nov 10[12],2019,--,NR
+541,RV,<,NR,Virginia Tech,ACC,6-3,4,RV,W 36-17 H #22 Wake Forest,Week 11Nov 10[12],2019,--,NR
+542,RV,<,NR,Washington,Pac-12,6-4,3,NR,W 19-7 A Oregon State,Week 11Nov 10[12],2019,--,NR
+543,RV,<,NR,Air Force,MWC,7-2,2,RV,DNP,Week 11Nov 10[12],2019,--,NR
+544,RV,<,NR,Pittsburgh,ACC,6-3,2,NR,DNP,Week 11Nov 10[12],2019,--,NR
+545,RV,<,NR,UCF,AAC,7-3,2,RV,L 34-31 A Tulsa,Week 11Nov 10[12],2019,--,NR
+546,RV,<,NR,Illinois,Big Ten,6-4,1,NR,W 37-34 A Michigan State,Week 11Nov 10[12],2019,--,NR
+547,RV,<,NR,North Dakota State,MVC,10-0,1,NR,W 57-21 H Western Illnois,Week 11Nov 10[12],2019,--,NR
+548,RV,<,NR,USC,Pac-12,6-4,1,NR,W 31-26 A Arizona State,Week 11Nov 10[12],2019,--,NR
+549,NR,<,NR,Louisiana,Sun Belt,7-2,0,RV,W 48-7 A Coastal Carolina,Week 11Nov 10[12],2019,--,NR
+550,NR,<,NR,Wyoming,MWC,6-3,0,RV,L 20-17 (1OT) A #21 Boise State,Week 11Nov 10[12],2019,--,NR
+551,1,<,1,LSU (54),SEC,10-0,1542,*1,W 58-37 A Mississippi,Week 12Nov 17[13],2019,0,1
+552,2,<,2,Ohio State (5),Big Ten,10-0,1478,*2,W 56-21 A Rutgers,Week 12Nov 17[13],2019,+1,2
+553,3,<,3,Clemson (3),ACC,11-0,1442,*3,W 52-3 H Wake Forest,Week 12Nov 17[13],2019,+1,3
+554,4,<,5,Georgia,SEC,9-1,1343,4,W 21-14 A #13 Auburn,Week 12Nov 17[13],2019,+2,4
+555,5,<,4,Alabama,SEC,9-1,1263,5,W 38-7 A Mississippi State,Week 12Nov 17[13],2019,-3,5
+556,6,<,6,Oregon,Pac-12,9-1,1243,6,W 34-6 H Arizona,Week 12Nov 17[13],2019,+1,6
+557,7,<,8,Utah,Pac-12,9-1,1155,8,W 49-3 H UCLA,Week 12Nov 17[13],2019,+1,7
+558,8,<,10,Oklahoma,Big 12,9-1,1144,7,W 34-31 A #12 Baylor,Week 12Nov 17[13],2019,+1,9
+559,9,<,9,Penn State,Big Ten,9-1,1030,9,W 34-27 H #24 Indiana,Week 12Nov 17[13],2019,-4,8
+560,10,<,11,Florida,SEC,9-2,984,10,W 23-6 A Missouri,Week 12Nov 17[13],2019,0,11
+561,11,<,7,Minnesota,Big Ten,9-1,902,11,L 23-19 A #23 Iowa,Week 12Nov 17[13],2019,+2,10
+562,12,<,14,Michigan,Big Ten,8-2,829,12,W 44-10 H Michigan State,Week 12Nov 17[13],2019,+2,13
+563,13,<,12,Baylor,Big 12,9-1,787,13,L 34-31 H #10 Oklahoma,Week 12Nov 17[13],2019,-2,14
+564,14,<,15,Wisconsin,Big Ten,8-2,746,14,W 37-21 A Nebraska,Week 12Nov 17[13],2019,+2,12
+565,15,<,16,Notre Dame,Ind,8-2,676,15,W 52-20 H #21 Navy,Week 12Nov 17[13],2019,0,16
+566,16,<,13,Auburn,SEC,7-3,623,16,L 21-14 H #5 Georgia,Week 12Nov 17[13],2019,-4,15
+567,17,<,17,Cincinnati,AAC,9-1,536,17,W 20-17 A South Florida,Week 12Nov 17[13],2019,0,19
+568,18,<,18,Memphis,AAC,9-1,520,18,W 45-27 A Houston,Week 12Nov 17[13],2019,+1,18
+569,19,<,23,Iowa,Big Ten,7-3,493,20,W 23-19 H #7 Minnesota,Week 12Nov 17[13],2019,-1,17
+570,20,<,19,Boise State,MWC,9-1,379,19,W 42-9 H New Mexico,Week 12Nov 17[13],2019,+1,20
+571,21,<,20,SMU,AAC,9-1,328,21,DNP,Week 12Nov 17[13],2019,+2,25
+572,22,<,25,Oklahoma State,Big 12,7-3,200,23,W 31-13 H Kansas,Week 12Nov 17[13],2019,+4,21
+573,23,<,NR,Appalachian State,Sun Belt,9-1,154,22,W 56-27 A Georgia State,Week 12Nov 17[13],2019,+3,24
+574,24,<,NR,Texas A&M,SEC,7-3,132,24,W 30-6 H South Carolina,Week 12Nov 17[13],2019,+2,NR
+575,25,<,NR,Virginia Tech,ACC,7-3,61,RV,W 45-0 A Georgia Tech,Week 12Nov 17[13],2019,--,NR
+576,RV,<,24,Indiana,Big Ten,7-3,47,RV,L 34-27 A #9 Penn State,Week 12Nov 17[13],2019,--,NR
+577,RV,<,NR,Iowa State,Big 12,6-4,31,NR,W 23-21 H #22 Texas,Week 12Nov 17[13],2019,--,22
+578,RV,<,NR,Virginia,ACC,7-3,23,RV,DNP,Week 12Nov 17[13],2019,--,NR
+579,RV,<,21,Navy,AAC,7-2,13,RV,L 52-20 A #16 Notre Dame,Week 12Nov 17[13],2019,-1,NR
+580,RV,<,NR,Air Force,MWC,8-2,12,RV,W 38-21 A Colorado State,Week 12Nov 17[13],2019,--,NR
+581,RV,<,NR,Pittsburgh,ACC,7-3,9,RV,W 34-27 (1OT) H North Carolina,Week 12Nov 17[13],2019,--,NR
+582,RV,<,NR,San Diego State,MWC,8-2,7,25,W 17-7 H Fresno State,Week 12Nov 17[13],2019,-2,NR
+583,RV,<,NR,USC,Pac-12,7-4,6,RV,W 41-17 A California,Week 12Nov 17[13],2019,--,23
+584,RV,<,NR,Washington,Pac-12,6-4,6,NR,DNP,Week 12Nov 17[13],2019,--,NR
+585,RV,<,22,Texas,Big 12,6-4,4,NR,L 23-21 A Iowa State,Week 12Nov 17[13],2019,--,NR
+586,RV,<,NR,Illinois,Big Ten,6-4,1,NR,DNP,Week 12Nov 17[13],2019,--,NR
+587,RV,<,NR,North Dakota State,MVC,11-0,1,NR,W 49-14 H South Dakota,Week 12Nov 17[13],2019,--,NR
+588,NR,<,NR,Kansas State,Big 12,6-4,0,RV,L 24-20 H West Virginia,Week 12Nov 17[13],2019,-6,NR
+589,NR,<,NR,Louisiana,Sun Belt,8-2,0,RV,W 37-27 A South Alabama,Week 12Nov 17[13],2019,--,NR
+590,NR,<,NR,Louisiana Tech,CUSA,8-2,0,RV,L 31-10 A Marshall,Week 12Nov 17[13],2019,--,NR
+591,NR,<,NR,Temple,AAC,7-3,0,RV,W 29-21 H Tulane,Week 12Nov 17[13],2019,--,NR
+592,NR,<,NR,Wake Forest,ACC,7-3,0,RV,L 52-3 A #3 Clemson,Week 12Nov 17[13],2019,-4,NR
+593,1,<,1,LSU (50),SEC,11-0,1537,*1,W 56-20 H Arkansas,Week 13Nov 24[14],2019,0,2
+594,2,<,2,Ohio State (9),Big Ten,11-0,1486,*2,W 28-17 H #9 Penn State,Week 13Nov 24[14],2019,0,1
+595,3,<,3,Clemson (3),ACC,11-0,1440,*3,DNP,Week 13Nov 24[14],2019,0,3
+596,4,<,4,Georgia,SEC,10-1,1347,4,W 19-13 H #24 Texas A&M,Week 13Nov 24[14],2019,+1,4
+597,5,<,5,Alabama,SEC,10-1,1283,5,W 66-3 H Western Carolina,Week 13Nov 24[14],2019,-1,5
+598,6,<,7,Utah,Pac-12,10-1,1231,6,W 35-7 A Arizona,Week 13Nov 24[14],2019,+2,6
+599,7,<,8,Oklahoma,Big 12,10-1,1189,7,W 28-24 H TCU,Week 13Nov 24[14],2019,+3,7
+600,8,<,10,Florida,SEC,9-2,1058,8,DNP,Week 13Nov 24[14],2019,+3,11
+601,9,<,11,Minnesota,Big Ten,10-1,996,9,W 38-22 A Northwestern,Week 13Nov 24[14],2019,-2,8
+602,10,<,12,Michigan,Big Ten,9-2,913,11,W 39-14 A Indiana,Week 13Nov 24[14],2019,+4,13
+603,11,<,13,Baylor,Big 12,10-1,910,10,W 24-10 H Texas,Week 13Nov 24[14],2019,+1,9
+604,12,<,9,Penn State,Big Ten,9-2,903,12,L 28-17 A #2 Ohio State,Week 13Nov 24[14],2019,-3,10
+605,13,<,14,Wisconsin,Big Ten,9-2,791,14,W 45-24 H Purdue,Week 13Nov 24[14],2019,+2,12
+606,14,<,6,Oregon,Pac-12,9-2,784,13,L 31-28 A Arizona State,Week 13Nov 24[14],2019,-8,14
+607,15,<,15,Notre Dame,Ind,9-2,701,15,W 40-7 H Boston College,Week 13Nov 24[14],2019,+1,16
+608,16,<,16,Auburn,SEC,8-3,635,16,W 52-0 H Samford,Week 13Nov 24[14],2019,-3,15
+609,17,<,18,Memphis,AAC,10-1,535,18,W 49-10 A South Florida,Week 13Nov 24[14],2019,+1,18
+610,18,<,17,Cincinnati,AAC,10-1,518,17,W 15-13 H Temple,Week 13Nov 24[14],2019,-1,19
+611,19,<,19,Iowa,Big Ten,8-3,510,20,W 19-10 H Illinois,Week 13Nov 24[14],2019,+4,17
+612,20,<,20,Boise State,MWC,10-1,410,19,W 56-21 A Utah State,Week 13Nov 24[14],2019,-1,20
+613,21,<,22,Oklahoma State,Big 12,8-3,266,21,W 20-13 A West Virginia,Week 13Nov 24[14],2019,+4,21
+614,22,<,23,Appalachian State,Sun Belt,10-1,206,22,W 35-13 H Texas State,Week 13Nov 24[14],2019,+4,25
+615,23,<,25,Virginia Tech,ACC,8-3,147,23,W 28-0 H Pittsburgh,Week 13Nov 24[14],2019,+3,24
+616,24,<,NR,Navy,AAC,8-2,99,24,W 35-28 H #21 SMU,Week 13Nov 24[14],2019,-3,NR
+617,25,<,NR,USC,Pac-12,8-4,79,25,W 52-35 H UCLA,Week 13Nov 24[14],2019,+1,22
+618,RV,<,NR,Iowa State,Big 12,7-4,74,RV,W 41-31 H Kansas,Week 13Nov 24[14],2019,--,23
+619,RV,<,NR,Virginia,ACC,8-3,38,RV,W 55-27 H Liberty,Week 13Nov 24[14],2019,--,NR
+620,RV,<,24,Texas A&M,SEC,7-4,27,RV,L 19-13 A #4 Georgia,Week 13Nov 24[14],2019,--,NR
+621,RV,<,NR,Air Force,MWC,9-2,22,RV,W 44-22 A New Mexico,Week 13Nov 24[14],2019,--,NR
+622,RV,<,21,SMU,AAC,9-2,9,RV,L 35-28 A Navy,Week 13Nov 24[14],2019,-6,NR
+623,RV,<,NR,Arizona State,Pac-12,6-5,4,NR,W 31-28 H #6 Oregon,Week 13Nov 24[14],2019,--,NR
+624,RV,<,NR,Louisiana,Sun Belt,9-2,1,RV,W 53-3 H Troy,Week 13Nov 24[14],2019,--,NR
+625,RV,<,NR,North Dakota State,MVC,12-0,1,NR,W 21-7 A Southern Illinois,Week 13Nov 24[14],2019,--,NR
+626,NR,<,NR,Hawaii,MWC,8-4,0,RV,W 14-11 H San Diego State,Week 13Nov 24[14],2019,--,NR
+627,NR,<,NR,Indiana,Big Ten,7-4,0,RV,L 39-14 H #12 Michigan,Week 13Nov 24[14],2019,-2,NR
+628,NR,<,NR,San Diego State,MWC,8-3,0,RV,L 14-11 A Hawaii,Week 13Nov 24[14],2019,--,NR
+629,NR,<,NR,Temple,AAC,7-4,0,RV,L 15-13 A #17 Cincinnati,Week 13Nov 24[14],2019,--,NR
+630,NR,<,NR,Wake Forest,ACC,8-3,0,RV,W 39-27 H Duke,Week 13Nov 24[14],2019,--,NR
+631,1,<,1,LSU (40),SEC,12-0,1528,*1,W 50-7 H Texas A&M,Week 14Dec 1[15],2019,0,2
+632,2,<,2,Ohio State (19),Big Ten,12-0,1498,*2,W 56-27 A #10 Michigan,Week 14Dec 1[15],2019,0,1
+633,3,<,3,Clemson (3),ACC,12-0,1437,*3,W 38-3 A South Carolina,Week 14Dec 1[15],2019,0,3
+634,4,<,4,Georgia,SEC,11-1,1356,4,W 52-7 A Georgia Tech,Week 14Dec 1[15],2019,0,4
+635,5,<,6,Utah,Pac-12,11-1,1275,5,W 45-15 H Colorado,Week 14Dec 1[15],2019,+2,5
+636,6,<,7,Oklahoma,Big 12,11-1,1257,6,W 34-16 A #21 Oklahoma State,Week 14Dec 1[15],2019,+2,6
+637,7,<,8,Florida,SEC,10-2,1135,7,W 40-17 H Florida State,Week 14Dec 1[15],2019,+3,9
+638,8,<,11,Baylor,Big 12,11-1,1074,8,W 61-6 A Kansas,Week 14Dec 1[15],2019,+5,7
+639,9,<,5,Alabama,SEC,10-2,995,9,L 48-45 A #16 Auburn,Week 14Dec 1[15],2019,-4,12
+640,10,<,13,Wisconsin,Big Ten,10-2,971,10,W 38-17 A #9 Minnesota,Week 14Dec 1[15],2019,+4,8
+641,11,<,16,Auburn,SEC,9-3,957,12,W 48-45 H #5 Alabama,Week 14Dec 1[15],2019,+5,11
+642,12,<,12,Penn State,Big Ten,10-2,890,11,W 27-6 H Rutgers,Week 14Dec 1[15],2019,-3,10
+643,13,<,14,Oregon,Pac-12,10-2,799,13,W 24-10 H Oregon State,Week 14Dec 1[15],2019,-7,13
+644,14,<,15,Notre Dame,Ind,10-2,734,14,W 45-24 A Stanford,Week 14Dec 1[15],2019,+1,15
+645,15,<,9,Minnesota,Big Ten,10-2,683,15,L 38-17 H #13 Wisconsin,Week 14Dec 1[15],2019,-4,18
+646,16,<,17,Memphis,AAC,11-1,615,16,W 34-24 H #18 Cincinnati,Week 14Dec 1[15],2019,+2,17
+647,17,<,10,Michigan,Big Ten,9-3,603,18,L 56-27 H #2 Ohio State,Week 14Dec 1[15],2019,-5,14
+648,18,<,19,Iowa,Big Ten,9-3,537,19,W 27-24 A Nebraska,Week 14Dec 1[15],2019,+1,16
+649,19,<,20,Boise State,MWC,11-1,463,17,W 31-24 A Colorado State,Week 14Dec 1[15],2019,+1,19
+650,20,<,22,Appalachian State,Sun Belt,11-1,288,20,W 48-13 A Troy,Week 14Dec 1[15],2019,+3,21
+651,21,<,18,Cincinnati,AAC,10-2,237,21,L 34-24 A #17 Memphis,Week 14Dec 1[15],2019,-4,20
+652,22,<,NR,Virginia,ACC,9-3,231,22,W 39-30 H #23 Virginia Tech,Week 14Dec 1[15],2019,+4,23
+653,23,<,24,Navy,AAC,9-2,216,23,W 56-41 A Houston,Week 14Dec 1[15],2019,+3,24
+654,24,<,25,USC,Pac-12,8-4,157,24,DNP,Week 14Dec 1[15],2019,+2,22
+655,25,<,NR,Air Force,MWC,10-2,65,25,W 20-6 H Wyoming,Week 14Dec 1[15],2019,+1,NR
+656,RV,<,NR,SMU,AAC,10-2,50,RV,W 37-20 H Tulane,Week 14Dec 1[15],2019,-5,NR
+657,RV,<,21,Oklahoma State,Big 12,8-4,36,RV,L 34-16 H #7 Oklahoma,Week 14Dec 1[15],2019,-4,25
+658,RV,<,NR,Kansas State,Big 12,8-4,36,RV,W 27-17 H Iowa State,Week 14Dec 1[15],2019,--,NR
+659,RV,<,23,Virginia Tech,ACC,8-4,6,RV,L 39-30 A Virginia,Week 14Dec 1[15],2019,-1,NR
+660,RV,<,NR,UCF,AAC,9-3,6,RV,W 34-7 H South Florida,Week 14Dec 1[15],2019,--,NR
+661,RV,<,NR,Iowa State,Big 12,7-5,5,RV,L 27-17 A Kansas State,Week 14Dec 1[15],2019,--,NR
+662,RV,<,NR,Arizona State,Pac-12,7-5,4,RV,W 24-14 H Arizona,Week 14Dec 1[15],2019,--,NR
+663,RV,<,NR,California,Pac-12,7-5,3,NR,W 28-18 A UCLA,Week 14Dec 1[15],2019,--,NR
+664,RV,<,NR,Washington,Pac-12,7-5,2,NR,W 31-13 H Washington State,Week 14Dec 1[15],2019,--,NR
+665,RV,<,NR,North Dakota State,MVC,12-0,1,NR,DNP,Week 14Dec 1[15],2019,--,NR
+666,NR,<,NR,Hawaii,MWC,9-4,0,RV,W 52-31 H Army,Week 14Dec 1[15],2019,--,NR
+667,NR,<,NR,Indiana,Big Ten,8-4,0,RV,W 44-41 (2OT) A Purdue,Week 14Dec 1[15],2019,--,NR
+668,NR,<,NR,Louisiana,Sun Belt,10-2,0,RV,W 31-30 H Louisiana Monroe,Week 14Dec 1[15],2019,--,NR
+669,NR,<,NR,San Diego State,MWC,9-3,0,RV,W 13-3 H BYU,Week 14Dec 1[15],2019,--,NR
+670,NR,<,NR,Temple,AAC,8-4,0,RV,W 49-17 H Connecticut,Week 14Dec 1[15],2019,--,NR
+671,NR,<,NR,Tennessee,SEC,7-5,0,RV,W 28-10 H Vanderbilt,Week 14Dec 1[15],2019,--,NR
+672,1,<,1,LSU (47),SEC,13-0,1535,*1,W 37-10 N #4 Georgia (SEC CG),Week 15Dec 8[16],2019,0,1
+673,2,<,2,Ohio State (12),Big Ten,13-0,1488,*2,W 34-21 N #10 Wisconsin (Big Ten CG),Week 15Dec 8[16],2019,0,2
+674,3,<,3,Clemson (3),ACC,13-0,1441,*3,W 62-17 N #22 Virginia (ACC CG),Week 15Dec 8[16],2019,0,3
+675,4,<,6,Oklahoma,Big 12,12-1,1364,4,W 30-23 (1OT) N #8 Baylor (Big 12 CG),Week 15Dec 8[16],2019,+3,4
+676,5,<,4,Georgia,SEC,11-2,1241,5,L 37-10 N #1 LSU (SEC CG),Week 15Dec 8[16],2019,-1,5
+677,6,<,7,Florida,SEC,10-2,1167,7,DNP,Week 15Dec 8[16],2019,-5,9
+678,7,<,13,Oregon,Pac-12,11-2,1141,6,W 37-15 N #5 Utah (Pac-12 CG),Week 15Dec 8[16],2019,+7,6
+679,8,<,8,Baylor,Big 12,11-2,1039,8,L 30-23 (1OT) N #6 Oklahoma (Big 12 CG),Week 15Dec 8[16],2019,+3,7
+680,9,<,9,Alabama,SEC,10-2,1011,9,DNP,Week 15Dec 8[16],2019,-4,13
+681,9,<,11,Auburn,SEC,9-3,1011,13,DNP,Week 15Dec 8[16],2019,+7,12
+682,11,<,10,Wisconsin,Big Ten,10-3,944,11,L 34-21 N #2 Ohio State (Big Ten CG),Week 15Dec 8[16],2019,+2,8
+683,12,<,5,Utah,Pac-12,11-2,909,10,L 37-15 N #13 Oregon (Pac-12 CG),Week 15Dec 8[16],2019,-6,11
+684,13,<,12,Penn State,Big Ten,10-2,888,12,DNP,Week 15Dec 8[16],2019,-1,10
+685,14,<,14,Notre Dame,Ind,10-2,709,14,DNP,Week 15Dec 8[16],2019,+1,15
+686,15,<,16,Memphis,AAC,12-1,675,15,W 29-24 H #21 Cincinnati (AAC CG),Week 15Dec 8[16],2019,+2,17
+687,16,<,15,Minnesota,Big Ten,10-2,645,16,DNP,Week 15Dec 8[16],2019,-7,18
+688,17,<,17,Michigan,Big Ten,9-3,597,17,DNP,Week 15Dec 8[16],2019,-7,14
+689,18,<,19,Boise State,MWC,12-1,500,18,W 31-10 H Hawaii (MWC CG),Week 15Dec 8[16],2019,+2,19
+690,19,<,18,Iowa,Big Ten,9-3,494,19,DNP,Week 15Dec 8[16],2019,0,16
+691,20,<,20,Appalachian State,Sun Belt,12-1,355,20,W 45-38 H Louisiana (Sun Belt CG),Week 15Dec 8[16],2019,+2,20
+692,21,<,23,Navy,AAC,9-2,246,21,DNP,Week 15Dec 8[16],2019,+3,23
+693,22,<,24,USC,Pac-12,8-4,195,23,DNP,Week 15Dec 8[16],2019,+3,22
+694,23,<,21,Cincinnati,AAC,10-3,183,22,L 29-24 A #16 Memphis (AAC CG),Week 15Dec 8[16],2019,--,21
+695,24,<,25,Air Force,MWC,10-2,97,24,DNP,Week 15Dec 8[16],2019,+2,NR
+696,25,<,NR,Oklahoma State,Big 12,8-4,70,RV,DNP,Week 15Dec 8[16],2019,-4,25
+697,RV,<,NR,SMU,AAC,10-2,63,RV,DNP,Week 15Dec 8[16],2019,--,NR
+698,RV,<,22,Virginia,ACC,9-4,55,25,L 62-17 N #3 Clemson (ACC CG),Week 15Dec 8[16],2019,--,24
+699,RV,<,NR,Kansas State,Big 12,8-4,50,RV,DNP,Week 15Dec 8[16],2019,--,NR
+700,RV,<,NR,Florida Atlantic,CUSA,10-3,7,RV,W 49-6 H UAB (C-USA CG),Week 15Dec 8[16],2019,--,NR
+701,RV,<,NR,Texas A&M,SEC,7-5,7,NR,DNP,Week 15Dec 8[16],2019,--,NR
+702,RV,<,NR,Arizona State,Pac-12,7-5,5,RV,DNP,Week 15Dec 8[16],2019,--,NR
+703,RV,<,NR,Iowa State,Big 12,7-5,5,RV,DNP,Week 15Dec 8[16],2019,--,NR
+704,RV,<,NR,UCF,AAC,9-3,5,RV,DNP,Week 15Dec 8[16],2019,--,NR
+705,RV,<,NR,California,Pac-12,7-5,4,RV,DNP,Week 15Dec 8[16],2019,--,NR
+706,RV,<,NR,Washington,Pac-12,7-5,3,NR,DNP,Week 15Dec 8[16],2019,--,NR
+707,RV,<,NR,North Dakota State,MVC,13-0,1,NR,DNP,Week 15Dec 8[16],2019,--,NR
+708,NR,<,NR,Hawaii,MWC,9-5,0,RV,L 31-10 A #19 Boise State (MWC CG),Week 15Dec 8[16],2019,--,NR
+709,NR,<,NR,Indiana,Big Ten,8-4,0,RV,DNP,Week 15Dec 8[16],2019,--,NR
+710,NR,<,NR,Kentucky,SEC,7-5,0,RV,DNP,Week 15Dec 8[16],2019,--,NR
+711,NR,<,NR,Louisiana,Sun Belt,10-3,0,RV,L 45-38 A #20 Appalachian State (Sun Belt CG),Week 15Dec 8[16],2019,--,NR
+712,NR,<,NR,San Diego State,MWC,9-3,0,RV,DNP,Week 15Dec 8[16],2019,--,NR
+713,NR,<,NR,Tennessee,SEC,7-5,0,RV,DNP,Week 15Dec 8[16],2019,--,NR
+714,NR,<,NR,Virginia Tech,ACC,8-4,0,RV,DNP,Week 15Dec 8[16],2019,-3,NR
+715,1,<,1,LSU (62),SEC,15-0,1550,1,W 42-25 N #3 Clemson (CFP Final),Week 16 (Final)Jan 14[17],2019,,
+716,2,<,3,Clemson,ACC,14-1,1487,2,L 42-25 N #1 LSU (CFP Final),Week 16 (Final)Jan 14[17],2019,,
+717,3,<,2,Ohio State,Big Ten,13-1,1426,3,L 29-23 N #3 Clemson (CFP Semi/Fiesta ),Week 16 (Final)Jan 14[17],2019,,
+718,4,<,5,Georgia,SEC,12-2,1336,4,W 26-14 N #8 Baylor (Sugar),Week 16 (Final)Jan 14[17],2019,,
+719,5,<,7,Oregon,Pac-12,12-2,1249,5,W 28-27 N #11 Wisconsin (Rose),Week 16 (Final)Jan 14[17],2019,,
+720,6,<,6,Florida,SEC,11-2,1211,7,W 36-28 N Virginia (Orange),Week 16 (Final)Jan 14[17],2019,,
+721,7,<,4,Oklahoma,Big 12,12-2,1179,6,L 63-28 N #1 LSU (CFP Semi/Peach ),Week 16 (Final)Jan 14[17],2019,,
+722,8,<,9,Alabama,SEC,11-2,1159,8,W 35-16 N #17 Michigan (Citrus),Week 16 (Final)Jan 14[17],2019,,
+723,9,<,13,Penn State,Big Ten,11-2,1038,9,W 53-39 N #15 Memphis (Cotton),Week 16 (Final)Jan 14[17],2019,,
+724,10,<,16,Minnesota,Big Ten,11-2,952,10,W 31-24 N #9 Auburn (Outback),Week 16 (Final)Jan 14[17],2019,,
+725,11,<,11,Wisconsin,Big Ten,10-4,883,13,L 28-27 N #7 Oregon (Rose),Week 16 (Final)Jan 14[17],2019,,
+726,12,<,14,Notre Dame,Ind,11-2,879,11,W 33-9 N Iowa State (Camping World),Week 16 (Final)Jan 14[17],2019,,
+727,13,<,8,Baylor,Big 12,11-3,827,12,L 26-14 N #5 Georgia (Sugar),Week 16 (Final)Jan 14[17],2019,,
+728,14,<,9,Auburn,SEC,9-4,726,14,L 31-24 N #16 Minnesota (Outback),Week 16 (Final)Jan 14[17],2019,,
+729,15,<,19,Iowa,Big Ten,10-3,699,15,W 49-24 N #22 USC (Holiday),Week 16 (Final)Jan 14[17],2019,,
+730,16,<,12,Utah,Pac-12,11-3,543,16,L 38-10 N Texas (Alamo),Week 16 (Final)Jan 14[17],2019,,
+731,17,<,15,Memphis,AAC,12-2,528,17,L 53-39 N #13 Penn State (Cotton),Week 16 (Final)Jan 14[17],2019,,
+732,18,<,17,Michigan,Big Ten,9-4,468,19,L 35-16 N #9 Alabama (Citrus),Week 16 (Final)Jan 14[17],2019,,
+733,19,<,20,Appalachian State,Sun Belt,13-1,466,18,W 31-17 N UAB (New Orleans),Week 16 (Final)Jan 14[17],2019,,
+734,20,<,21,Navy,AAC,11-2,415,20,W 20-17 N Kansas State (Liberty),Week 16 (Final)Jan 14[17],2019,,
+735,21,<,23,Cincinnati,AAC,11-3,343,21,W 38-6 N Boston College (Birmingham),Week 16 (Final)Jan 14[17],2019,,
+736,22,<,24,Air Force,MWC,11-2,209,23,W 31-21 N Washington State (Cheez-It),Week 16 (Final)Jan 14[17],2019,,
+737,23,<,18,Boise State,MWC,12-2,188,22,L 38-7 N Washington (Las Vegas),Week 16 (Final)Jan 14[17],2019,,
+738,24,<,NR,UCF,AAC,10-3,78,24,W 48-25 N Marshall (Gasparilla),Week 16 (Final)Jan 14[17],2019,,
+739,25,<,NR,Texas,Big 12,8-5,69,RV,W 38-10 N #12 Utah (Alamo),Week 16 (Final)Jan 14[17],2019,,
+740,RV,<,NR,Texas A&M,SEC,8-5,54,RV,W 24-21 N #25 Oklahoma State (Texas),Week 16 (Final)Jan 14[17],2019,,
+741,RV,<,NR,Florida Atlantic,CUSA,11-3,46,RV,W 52-28 N SMU (Boca Raton),Week 16 (Final)Jan 14[17],2019,,
+742,RV,<,NR,Washington,Pac-12,8-5,39,RV,W 38-7 N #18 Boise State (Las Vegas),Week 16 (Final)Jan 14[17],2019,,
+743,RV,<,NR,Virginia,ACC,9-5,28,25,L 36-28 N #6 Florida (Orange),Week 16 (Final)Jan 14[17],2019,,
+744,RV,<,22,USC,Pac-12,8-5,16,RV,L 49-24 N #19 Iowa (Holiday),Week 16 (Final)Jan 14[17],2019,,
+745,RV,<,NR,San Diego State,MWC,10-3,13,RV,W 48-11 N Western Michigan (New Mexico),Week 16 (Final)Jan 14[17],2019,,
+746,RV,<,NR,Arizona State,Pac-12,8-5,12,NR,W 20-14 N Florida State (Sun),Week 16 (Final)Jan 14[17],2019,,
+747,RV,<,NR,SMU,AAC,10-3,10,RV,L 52-28 N Florida Atlantic (Boca Raton),Week 16 (Final)Jan 14[17],2019,,
+748,RV,<,NR,Tennessee,SEC,8-5,8,RV,W 23-22 N Indiana (Gator),Week 16 (Final)Jan 14[17],2019,,
+749,RV,<,NR,California,Pac-12,8-5,6,RV,W 35-20 N Illinois (Redbox),Week 16 (Final)Jan 14[17],2019,,
+750,RV,<,NR,Kansas State,Big 12,8-5,2,RV,L 20-17 N #21 Navy (Liberty),Week 16 (Final)Jan 14[17],2019,,
+751,RV,<,NR,Kentucky,SEC,8-5,2,RV,W 37-30 N Virginia Tech (Belk),Week 16 (Final)Jan 14[17],2019,,
+752,RV,<,NR,Louisiana,Sun Belt,11-3,2,RV,W 27-17 N Miami (OH) (LendingTree),Week 16 (Final)Jan 14[17],2019,,
+753,RV,<,NR,Louisiana Tech,CUSA,10-3,2,RV,W 14-0 N Miami (FL) (Independence),Week 16 (Final)Jan 14[17],2019,,
+754,RV,<,NR,North Dakota State,MVC,16-0,2,NR,W 28-20 H James Madison (FCS Final),Week 16 (Final)Jan 14[17],2019,,
+755,NR,<,25,Oklahoma State,Big 12,8-5,0,RV,L 24-21 N Texas A&M (Texas),Week 16 (Final)Jan 14[17],2019,,
+756,NR,<,NR,Hawaii,MWC,10-5,0,RV,W 38-34 H BYU (Hawaii),Week 16 (Final)Jan 14[17],2019,,
+757,NR,<,NR,Louisville,ACC,8-5,0,RV,W 38-28 N Mississippi State (Music City),Week 16 (Final)Jan 14[17],2019,,

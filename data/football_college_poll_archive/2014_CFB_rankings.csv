@@ -1,0 +1,752 @@
+,Rank,Rank.1,Rank.2,Team (FPV),Conf,Rec,Pts,CP,Last Week,Date,Year,CFP
+0,1,<,1,Florida State (57),ACC,0-0,1496,*1,DNP,PreseasonAug 17[1],2014,
+1,2,<,7,Alabama (1),SEC,0-0,1361,2,DNP,PreseasonAug 17[1],2014,
+2,3,<,9,Oregon (1),Pac-12,0-0,1334,*4,DNP,PreseasonAug 17[1],2014,
+3,4,<,6,Oklahoma (1),Big 12,0-0,1324,*3,DNP,PreseasonAug 17[1],2014,
+4,5,<,12,Ohio State,Big Ten,0-0,1207,*6,DNP,PreseasonAug 17[1],2014,
+5,6,<,2,Auburn,SEC,0-0,1198,5,DNP,PreseasonAug 17[1],2014,
+6,7,<,16,UCLA,Pac-12,0-0,1106,7,DNP,PreseasonAug 17[1],2014,
+7,8,<,3,Michigan State,Big Ten,0-0,1080,8,DNP,PreseasonAug 17[1],2014,
+8,9,<,4,South Carolina,SEC,0-0,1015,*9,DNP,PreseasonAug 17[1],2014,
+9,10,<,13,Baylor,Big 12,0-0,966,10,DNP,PreseasonAug 17[1],2014,
+10,11,<,11,Stanford,Pac-12,0-0,885,11,DNP,PreseasonAug 17[1],2014,
+11,12,<,NR,Georgia,SEC,0-0,843,12,DNP,PreseasonAug 17[1],2014,
+12,13,<,14,LSU,SEC,0-0,776,13,DNP,PreseasonAug 17[1],2014,
+13,14,<,22,Wisconsin,Big Ten,0-0,637,14,DNP,PreseasonAug 17[1],2014,
+14,15,<,19,USC,Pac-12,0-0,626,15,DNP,PreseasonAug 17[1],2014,
+15,16,<,8,Clemson,ACC,0-0,536,16,DNP,PreseasonAug 17[1],2014,
+16,17,<,21,Notre Dame,Ind,0-0,445,17,DNP,PreseasonAug 17[1],2014,
+17,18,<,NR,Mississippi,SEC,0-0,424,19,DNP,PreseasonAug 17[1],2014,
+18,19,<,20,Arizona State,Pac-12,0-0,357,18,DNP,PreseasonAug 17[1],2014,
+19,20,<,NR,Kansas State,Big 12,0-0,242,21,DNP,PreseasonAug 17[1],2014,
+20,21,<,18,Texas A&M,SEC,0-0,238,20,DNP,PreseasonAug 17[1],2014,
+21,22,<,NR,Nebraska,Big Ten,0-0,226,22,DNP,PreseasonAug 17[1],2014,
+22,23,<,NR,North Carolina,ACC,0-0,194,23,DNP,PreseasonAug 17[1],2014,
+23,24,<,5,Missouri,SEC,0-0,134,RV,DNP,PreseasonAug 17[1],2014,
+24,25,<,25,Washington,Pac-12,0-0,130,25,DNP,PreseasonAug 17[1],2014,
+25,RV,<,10,UCF,AAC,0-0,94,RV,DNP,PreseasonAug 17[1],2014,
+26,RV,<,NR,Florida,SEC,0-0,87,RV,DNP,PreseasonAug 17[1],2014,
+27,RV,<,NR,Texas,Big 12,0-0,86,24,DNP,PreseasonAug 17[1],2014,
+28,RV,<,23,Duke,ACC,0-0,71,RV,DNP,PreseasonAug 17[1],2014,
+29,RV,<,NR,Iowa,Big Ten,0-0,68,RV,DNP,PreseasonAug 17[1],2014,
+30,RV,<,15,Louisville,ACC,0-0,48,RV,DNP,PreseasonAug 17[1],2014,
+31,RV,<,NR,Marshall,CUSA,0-0,41,RV,DNP,PreseasonAug 17[1],2014,
+32,RV,<,17,Oklahoma State,Big 12,0-0,37,RV,DNP,PreseasonAug 17[1],2014,
+33,RV,<,NR,Virginia Tech,ACC,0-0,26,RV,DNP,PreseasonAug 17[1],2014,
+34,RV,<,NR,TCU,Big 12,0-0,23,RV,DNP,PreseasonAug 17[1],2014,
+35,RV,<,NR,Mississippi State,SEC,0-0,22,RV,DNP,PreseasonAug 17[1],2014,
+36,RV,<,NR,Michigan,Big Ten,0-0,19,RV,DNP,PreseasonAug 17[1],2014,
+37,RV,<,NR,Texas Tech,Big 12,0-0,19,RV,DNP,PreseasonAug 17[1],2014,
+38,RV,<,NR,Miami (FL),ACC,0-0,16,RV,DNP,PreseasonAug 17[1],2014,
+39,RV,<,NR,Cincinnati,AAC,0-0,15,RV,DNP,PreseasonAug 17[1],2014,
+40,RV,<,NR,Boise State,MWC,0-0,10,RV,DNP,PreseasonAug 17[1],2014,
+41,RV,<,NR,Oregon State,Pac-12,0-0,10,RV,DNP,PreseasonAug 17[1],2014,
+42,RV,<,NR,BYU,Ind,0-0,8,RV,DNP,PreseasonAug 17[1],2014,
+43,RV,<,NR,Northwestern,Big Ten,0-0,8,RV,DNP,PreseasonAug 17[1],2014,
+44,RV,<,NR,Penn State,Big Ten,0-0,5,NR,DNP,PreseasonAug 17[1],2014,
+45,RV,<,24,Vanderbilt,SEC,0-0,2,NR,DNP,PreseasonAug 17[1],2014,
+46,RV,<,NR,Navy,Ind,0-0,2,NR,DNP,PreseasonAug 17[1],2014,
+47,RV,<,NR,Louisiana,Sun Belt,0-0,1,RV,DNP,PreseasonAug 17[1],2014,
+48,RV,<,NR,Nevada,MWC,0-0,1,NR,DNP,PreseasonAug 17[1],2014,
+49,RV,<,NR,Utah State,MWC,0-0,1,NR,DNP,PreseasonAug 17[1],2014,
+50,NR,<,NR,Arizona,Pac-12,0-0,0,RV,DNP,PreseasonAug 17[1],2014,
+51,NR,<,NR,Arkansas,SEC,0-0,0,RV,DNP,PreseasonAug 17[1],2014,
+52,NR,<,NR,Fresno State,MWC,0-0,0,RV,DNP,PreseasonAug 17[1],2014,
+53,NR,<,NR,Georgia Tech,ACC,0-0,0,RV,DNP,PreseasonAug 17[1],2014,
+54,NR,<,NR,Houston,AAC,0-0,0,RV,DNP,PreseasonAug 17[1],2014,
+55,NR,<,NR,Minnesota,Big Ten,0-0,0,RV,DNP,PreseasonAug 17[1],2014,
+56,NR,<,NR,Northern Illinois,MAC,0-0,0,RV,DNP,PreseasonAug 17[1],2014,
+57,1,<,1,Florida State (46),ACC,1-0,1456,*1,W 37-31 N Oklahoma State (Cowboys Classic),Week 1Sep 2[4],2014,
+58,2,<,2,Alabama (1),SEC,1-0,1317,2,W 33-23 N West Virginia (Chick-fil-A Kickoff),Week 1Sep 2[4],2014,
+59,3,<,3,Oregon (5),Pac-12,1-0,1314,*4,W 62-13 H South Dakota,Week 1Sep 2[4],2014,
+60,4,<,4,Oklahoma (2),Big 12,1-0,1283,*3,W 48-16 H Louisiana Tech,Week 1Sep 2[4],2014,
+61,5,<,6,Auburn,SEC,1-0,1186,5,W 45-21 H Arkansas,Week 1Sep 2[4],2014,
+62,6,<,12,Georgia (2),SEC,1-0,1114,*8,W 45-21 H #16 Clemson,Week 1Sep 2[4],2014,
+63,7,<,8,Michigan State,Big Ten,1-0,1093,6,W 45-7 H Jacksonville State,Week 1Sep 2[4],2014,
+64,8,<,5,Ohio State,Big Ten,1-0,982,7,W 34-17 A Navy,Week 1Sep 2[4],2014,
+65,9,<,21,Texas A&M (2),SEC,1-0,978,13,W 52-28 A #9 South Carolina,Week 1Sep 2[4],2014,
+66,10,<,10,Baylor,Big 12,1-0,962,9,W 45-0 H SMU,Week 1Sep 2[4],2014,
+67,11,<,7,UCLA,Pac-12,1-0,944,11,W 28-20 A Virginia,Week 1Sep 2[4],2014,
+68,12,<,13,LSU (1),SEC,1-0,926,12,W 28-24 N #14 Wisconsin (Advocare Texas Kickoff),Week 1Sep 2[4],2014,
+69,13,<,11,Stanford,Pac-12,1-0,886,10,W 45-0 H UC Davis,Week 1Sep 2[4],2014,
+70,14,<,15,USC,Pac-12,1-0,729,14,W 52-13 H Fresno State,Week 1Sep 2[4],2014,
+71,15,<,18,Mississippi,SEC,1-0,525,17,W 35-13 N Boise State (Chick-fil-A Kickoff),Week 1Sep 2[4],2014,
+72,16,<,17,Notre Dame,Ind,1-0,519,15,W 48-17 H Rice,Week 1Sep 2[4],2014,
+73,17,<,19,Arizona State,Pac-12,1-0,431,16,W 45-14 H Weber State,Week 1Sep 2[4],2014,
+74,18,<,14,Wisconsin,Big Ten,0-1,364,19,L 28-24 N #13 LSU (Advocare Texas Kickoff),Week 1Sep 2[4],2014,
+75,19,<,22,Nebraska,Big Ten,1-0,352,18,W 55-7 H Florida Atlantic,Week 1Sep 2[4],2014,
+76,20,<,20,Kansas State,Big 12,1-0,325,20,W 55-16 H Stephen F. Austin,Week 1Sep 2[4],2014,
+77,21,<,9,South Carolina,SEC,0-1,196,21,L 52-28 H #21 Texas A&M,Week 1Sep 2[4],2014,
+78,21,<,23,North Carolina,ACC,1-0,196,23,W 56-29 H Liberty,Week 1Sep 2[4],2014,
+79,23,<,16,Clemson,ACC,0-1,164,24,L 45-21 A #12 Georgia,Week 1Sep 2[4],2014,
+80,24,<,24,Missouri,SEC,1-0,147,22,W 38-18 H South Dakota State,Week 1Sep 2[4],2014,
+81,25,<,NR,Louisville,ACC,1-0,141,RV,W 31-13 H Miami (FL),Week 1Sep 2[4],2014,
+82,RV,<,NR,Texas,Big 12,1-0,126,25,W 38-7 H North Texas,Week 1Sep 2[4],2014,
+83,RV,<,NR,Oklahoma State,Big 12,0-1,94,RV,L 37-31 N #1 Florida State (Cowboys Classic),Week 1Sep 2[4],2014,
+84,RV,<,NR,Duke,ACC,1-0,60,RV,W 52-13 H Elon,Week 1Sep 2[4],2014,
+85,RV,<,NR,Florida,SEC,0-0,49,RV,DNP,Week 1Sep 2[4],2014,
+86,RV,<,NR,Mississippi State,SEC,1-0,49,RV,W 49-0 H Southern Miss,Week 1Sep 2[4],2014,
+87,RV,<,NR,Penn State,Big Ten,1-0,49,NR,W 26-24 N UCF,Week 1Sep 2[4],2014,
+88,RV,<,NR,Michigan,Big Ten,1-0,38,RV,W 52-14 H Appalachian State,Week 1Sep 2[4],2014,
+89,RV,<,NR,TCU,Big 12,1-0,29,RV,W 48-14 H Samford,Week 1Sep 2[4],2014,
+90,RV,<,NR,Washington,Pac-12,1-0,27,RV,W 17-16 A Hawaii,Week 1Sep 2[4],2014,
+91,RV,<,NR,BYU,Ind,1-0,21,RV,W 35-10 A Connecticut,Week 1Sep 2[4],2014,
+92,RV,<,NR,Iowa,Big Ten,1-0,18,RV,W 31-23 H Northern Iowa,Week 1Sep 2[4],2014,
+93,RV,<,NR,Marshall,CUSA,1-0,18,RV,W 42-27 A Miami (OH),Week 1Sep 2[4],2014,
+94,RV,<,NR,Virginia Tech,ACC,1-0,17,RV,W 34-9 H William & Mary,Week 1Sep 2[4],2014,
+95,RV,<,NR,Tennessee,SEC,1-0,14,NR,W 38-7 H Utah State,Week 1Sep 2[4],2014,
+96,RV,<,NR,Cincinnati,AAC,0-0,8,RV,DNP,Week 1Sep 2[4],2014,
+97,RV,<,NR,Texas Tech,Big 12,1-0,7,RV,W 42-35 H Central Arkansas,Week 1Sep 2[4],2014,
+98,RV,<,NR,West Virginia,Big 12,0-1,7,RV,L 33-23 N #2 Alabama (Chick-fil-A Kickoff),Week 1Sep 2[4],2014,
+99,RV,<,NR,Rutgers,Big Ten,1-0,6,RV,W 41-38 A Washington State,Week 1Sep 2[4],2014,
+100,RV,<,NR,Arizona,Pac-12,1-0,4,RV,W 58-13 H UNLV,Week 1Sep 2[4],2014,
+101,RV,<,NR,North Dakota State,Other,1-0,2,NR,W 34-14 A Iowa State,Week 1Sep 2[4],2014,
+102,RV,<,NR,Louisiana,Sun Belt,1-0,1,RV,W 45-6 H Southern,Week 1Sep 2[4],2014,
+103,RV,<,NR,Pittsburgh,ACC,1-0,1,RV,W 62-0 H Delaware,Week 1Sep 2[4],2014,
+104,NR,<,NR,Boise State,MWC,0-1,0,RV,L 35-13 N #18 Mississippi (Chick-fil-A Kickoff),Week 1Sep 2[4],2014,
+105,NR,<,NR,Colorado State,MWC,1-0,0,RV,W 31-17 N Colorado,Week 1Sep 2[4],2014,
+106,NR,<,NR,Memphis,AAC,1-0,0,RV,W 63-0 H Austin Peay,Week 1Sep 2[4],2014,
+107,NR,<,NR,Minnesota,Big Ten,1-0,0,RV,W 42-20 H Eastern Illinois,Week 1Sep 2[4],2014,
+108,NR,<,NR,Northern Illinois,MAC,1-0,0,RV,W 55-3 H Presbyterian,Week 1Sep 2[4],2014,
+109,NR,<,NR,Oregon State,Pac-12,1-0,0,RV,W 29-14 H Portland State,Week 1Sep 2[4],2014,
+110,NR,<,NR,Temple,AAC,1-0,0,RV,W 37-7 A Vanderbilt,Week 1Sep 2[4],2014,
+111,1,<,1,Florida State (38),ACC,2-0,1463,*1,W 37-12 H Citadel,Week 2Sep 7[5],2014,
+112,2,<,3,Oregon (16),Pac-12,2-0,1415,*4,W 46-27 H #7 Michigan State,Week 2Sep 7[5],2014,
+113,3,<,2,Alabama (1),SEC,2-0,1334,*2,W 41-0 H Florida Atlantic,Week 2Sep 7[5],2014,
+114,4,<,4,Oklahoma (2),Big 12,2-0,1303,*3,W 52-7 A Tulsa,Week 2Sep 7[5],2014,
+115,5,<,5,Auburn,SEC,2-0,1236,5,W 59-13 H San Jose State,Week 2Sep 7[5],2014,
+116,6,<,6,Georgia (1),SEC,1-0,1201,*6,DNP,Week 2Sep 7[5],2014,
+117,7,<,9,Texas A&M (2),SEC,2-0,1101,8,W 73-3 H Lamar,Week 2Sep 7[5],2014,
+118,8,<,10,Baylor,Big 12,2-0,1043,7,W 70-6 H Northwestern State,Week 2Sep 7[5],2014,
+119,9,<,14,USC,Pac-12,2-0,1039,10,W 13-10 A #13 Stanford,Week 2Sep 7[5],2014,
+120,10,<,12,LSU,SEC,2-0,1029,9,W 56-0 H Sam Houston State,Week 2Sep 7[5],2014,
+121,11,<,16,Notre Dame,Ind,2-0,815,11,W 31-0 H Michigan,Week 2Sep 7[5],2014,
+122,12,<,11,UCLA,Pac-12,2-0,779,12,W 42-35 H Memphis,Week 2Sep 7[5],2014,
+123,13,<,7,Michigan State,Big Ten,1-1,751,13,L 46-27 A #3 Oregon,Week 2Sep 7[5],2014,
+124,14,<,15,Mississippi,SEC,2-0,703,15,W 41-3 A Vanderbilt,Week 2Sep 7[5],2014,
+125,15,<,13,Stanford,Pac-12,1-1,592,16,L 13-10 H #14 USC,Week 2Sep 7[5],2014,
+126,16,<,17,Arizona State,Pac-12,2-0,570,14,W 58-23 A New Mexico,Week 2Sep 7[5],2014,
+127,17,<,NR,Virginia Tech,ACC,2-0,532,19,W 35-21 A #8 Ohio State,Week 2Sep 7[5],2014,
+128,18,<,18,Wisconsin,Big Ten,1-1,391,17,W 37-3 H Western Illinois,Week 2Sep 7[5],2014,
+129,19,<,20,Kansas State,Big 12,2-0,285,20,W 32-28 A Iowa State,Week 2Sep 7[5],2014,
+130,20,<,24,Missouri,SEC,2-0,237,22,W 49-24 A Toledo,Week 2Sep 7[5],2014,
+131,21,<,25,Louisville,ACC,2-0,234,RV,W 66-21 H Murray State,Week 2Sep 7[5],2014,
+132,22,<,8,Ohio State,Big Ten,1-1,222,18,L 35-21 H Virginia Tech,Week 2Sep 7[5],2014,
+133,23,<,23,Clemson,ACC,1-1,206,24,W 73-7 H South Carolina State,Week 2Sep 7[5],2014,
+134,24,<,21,South Carolina,SEC,1-1,199,23,W 33-23 H East Carolina,Week 2Sep 7[5],2014,
+135,25,<,NR,BYU,Ind,2-0,179,RV,W 41-7 A Texas,Week 2Sep 7[5],2014,
+136,RV,<,19,Nebraska,Big Ten,2-0,153,21,W 31-24 H McNeese State,Week 2Sep 7[5],2014,
+137,RV,<,21,North Carolina,ACC,2-0,118,25,W 31-27 H San Diego State,Week 2Sep 7[5],2014,
+138,RV,<,NR,Oklahoma State,Big 12,1-1,92,RV,W 40-23 H Missouri State,Week 2Sep 7[5],2014,
+139,RV,<,NR,Florida,SEC,1-0,70,RV,W 65-0 H Eastern Michigan,Week 2Sep 7[5],2014,
+140,RV,<,NR,Duke,ACC,2-0,43,RV,W 34-17 A Troy,Week 2Sep 7[5],2014,
+141,RV,<,NR,Penn State,Big Ten,2-0,35,NR,W 21-3 H Akron,Week 2Sep 7[5],2014,
+142,RV,<,NR,TCU,Big 12,1-0,31,RV,DNP,Week 2Sep 7[5],2014,
+143,RV,<,NR,Mississippi State,SEC,2-0,29,RV,W 47-34 H UAB,Week 2Sep 7[5],2014,
+144,RV,<,NR,Marshall,CUSA,2-0,18,RV,W 48-7 H Rhode Island,Week 2Sep 7[5],2014,
+145,RV,<,NR,Tennessee,SEC,2-0,14,NR,W 34-19 H Arkansas State,Week 2Sep 7[5],2014,
+146,RV,<,NR,Iowa,Big Ten,2-0,10,RV,W 17-13 H Ball State,Week 2Sep 7[5],2014,
+147,RV,<,NR,Cincinnati,AAC,0-0,6,RV,DNP,Week 2Sep 7[5],2014,
+148,RV,<,NR,West Virginia,Big 12,1-1,6,RV,W 54-0 H Towson,Week 2Sep 7[5],2014,
+149,RV,<,NR,Washington,Pac-12,2-0,4,RV,W 59-52 H Eastern Washington,Week 2Sep 7[5],2014,
+150,RV,<,NR,North Dakota State,Other,2-0,3,NR,W 24-7 A Weber State,Week 2Sep 7[5],2014,
+151,RV,<,NR,Pittsburgh,ACC,2-0,3,RV,W 30-20 A Boston College,Week 2Sep 7[5],2014,
+152,RV,<,NR,Texas Tech,Big 12,2-0,3,RV,W 30-26 A UTEP,Week 2Sep 7[5],2014,
+153,RV,<,NR,Utah,Pac-12,2-0,2,NR,W 59-27 H Fresno State,Week 2Sep 7[5],2014,
+154,RV,<,NR,Arizona,Pac-12,2-0,1,RV,W 26-23 A UTSA,Week 2Sep 7[5],2014,
+155,NR,<,NR,Boise State,MWC,1-1,0,RV,W 37-24 H Colorado State,Week 2Sep 7[5],2014,
+156,NR,<,NR,Memphis,AAC,1-1,0,RV,L 42-35 A #11 UCLA,Week 2Sep 7[5],2014,
+157,NR,<,NR,Michigan,Big Ten,1-1,0,RV,L 31-0 A #16 Notre Dame,Week 2Sep 7[5],2014,
+158,NR,<,NR,Minnesota,Big Ten,2-0,0,RV,W 35-24 H Middle Tennessee,Week 2Sep 7[5],2014,
+159,NR,<,NR,Northern Illinois,MAC,2-0,0,RV,W 23-15 A Northwestern,Week 2Sep 7[5],2014,
+160,NR,<,NR,Oregon State,Pac-12,2-0,0,RV,W 38-30 A Hawaii,Week 2Sep 7[5],2014,
+161,NR,<,NR,Rutgers,Big Ten,2-0,0,RV,W 38-25 H Howard,Week 2Sep 7[5],2014,
+162,1,<,1,Florida State (37),ACC,2-0,1466,*1,DNP,Week 3Sep 14[6],2014,
+163,2,<,2,Oregon (17),Pac-12,3-0,1424,*3,W 48-14 H Wyoming,Week 3Sep 14[6],2014,
+164,3,<,3,Alabama (1),SEC,3-0,1346,*2,W 52-12 H Southern Miss,Week 3Sep 14[6],2014,
+165,4,<,4,Oklahoma (2),Big 12,3-0,1325,*4,W 34-10 H Tennessee,Week 3Sep 14[6],2014,
+166,5,<,5,Auburn,SEC,2-0,1252,5,DNP,Week 3Sep 14[6],2014,
+167,6,<,7,Texas A&M (3),SEC,3-0,1195,7,W 38-10 H Rice,Week 3Sep 14[6],2014,
+168,7,<,8,Baylor,Big 12,3-0,1134,6,W 63-21 A Buffalo,Week 3Sep 14[6],2014,
+169,8,<,10,LSU,SEC,3-0,1114,8,W 31-0 H Louisiana-Monroe,Week 3Sep 14[6],2014,
+170,9,<,11,Notre Dame,Ind,3-0,917,9,W 30-14 H Purdue,Week 3Sep 14[6],2014,
+171,10,<,14,Mississippi,SEC,3-0,840,12,DNP,Week 3Sep 14[6],2014,
+172,11,<,13,Michigan State,Big Ten,1-1,832,11,DNP,Week 3Sep 14[6],2014,
+173,12,<,12,UCLA,Pac-12,3-0,807,10,W 20-17 N Texas,Week 3Sep 14[6],2014,
+174,13,<,6,Georgia,SEC,1-1,729,14,L 38-35 A #23 Clemson,Week 3Sep 14[6],2014,
+175,14,<,24,South Carolina,SEC,2-1,718,16,W 38-35 H #6 Georgia,Week 3Sep 14[6],2014,
+176,15,<,16,Arizona State,Pac-12,3-0,680,13,W 38-24 A Colorado,Week 3Sep 14[6],2014,
+177,16,<,15,Stanford,Pac-12,2-1,560,15,W 35-0 H Army,Week 3Sep 14[6],2014,
+178,17,<,9,USC,Pac-12,2-1,459,21,L 37-31 A Boston College,Week 3Sep 14[6],2014,
+179,18,<,20,Missouri,SEC,3-0,446,19,W 38-10 H UCF,Week 3Sep 14[6],2014,
+180,19,<,18,Wisconsin,Big Ten,1-1,414,17,DNP,Week 3Sep 14[6],2014,
+181,20,<,19,Kansas State,Big 12,2-0,326,20,DNP,Week 3Sep 14[6],2014,
+182,21,<,25,BYU,Ind,3-0,246,23,W 33-25 H Houston,Week 3Sep 14[6],2014,
+183,22,<,23,Clemson,ACC,1-1,209,24,DNP,Week 3Sep 14[6],2014,
+184,23,<,22,Ohio State,Big Ten,2-1,204,18,W 66-0 H Kent State,Week 3Sep 14[6],2014,
+185,24,<,NR,Nebraska,Big Ten,3-0,172,22,W 55-19 A Fresno State,Week 3Sep 14[6],2014,
+186,25,<,NR,Oklahoma State,Big 12,2-1,126,RV,W 43-13 H UTSA,Week 3Sep 14[6],2014,
+187,RV,<,NR,North Carolina,ACC,2-0,82,25,DNP,Week 3Sep 14[6],2014,
+188,RV,<,NR,Duke,ACC,3-0,55,RV,W 41-3 H Kansas,Week 3Sep 14[6],2014,
+189,RV,<,NR,Mississippi State,SEC,3-0,55,RV,W 35-3 A South Alabama,Week 3Sep 14[6],2014,
+190,RV,<,17,Virginia Tech,ACC,2-1,54,RV,L 28-21 H East Carolina,Week 3Sep 14[6],2014,
+191,RV,<,NR,Penn State,Big Ten,3-0,51,RV,W 13-10 A Rutgers,Week 3Sep 14[6],2014,
+192,RV,<,NR,East Carolina,AAC,2-1,44,RV,W 28-21 A #17 Virginia Tech,Week 3Sep 14[6],2014,
+193,RV,<,NR,TCU,Big 12,2-0,42,RV,W 30-7 H Minnesota,Week 3Sep 14[6],2014,
+194,RV,<,NR,Pittsburgh,ACC,3-0,40,RV,W 42-25 A FIU,Week 3Sep 14[6],2014,
+195,RV,<,NR,Florida,SEC,2-0,31,RV,W 36-30 (3OT) H Kentucky,Week 3Sep 14[6],2014,
+196,RV,<,NR,Marshall,CUSA,3-0,28,RV,W 44-14 H Ohio,Week 3Sep 14[6],2014,
+197,RV,<,NR,Boston College,ACC,2-1,22,RV,W 37-31 H #9 USC,Week 3Sep 14[6],2014,
+198,RV,<,NR,Washington,Pac-12,3-0,14,RV,W 44-19 H Illinois,Week 3Sep 14[6],2014,
+199,RV,<,NR,West Virginia,Big 12,2-1,14,RV,W 40-37 A Maryland,Week 3Sep 14[6],2014,
+200,RV,<,NR,Cincinnati,AAC,1-0,10,RV,W 58-34 H Toledo,Week 3Sep 14[6],2014,
+201,RV,<,NR,Virginia,ACC,2-1,6,RV,W 23-21 H #21 Louisville,Week 3Sep 14[6],2014,
+202,RV,<,NR,Arizona,Pac-12,3-0,3,RV,W 35-28 H Nevada,Week 3Sep 14[6],2014,
+203,RV,<,NR,Arkansas,SEC,2-1,3,RV,W 49-28 A Texas Tech,Week 3Sep 14[6],2014,
+204,RV,<,NR,North Dakota State,Other,3-0,3,NR,W 58-0 H Incarnate Word,Week 3Sep 14[6],2014,
+205,RV,<,21,Louisville,ACC,2-1,2,RV,L 23-21 A Virginia,Week 3Sep 14[6],2014,
+206,NR,<,NR,Boise State,MWC,2-1,0,RV,W 38-21 A Connecticut,Week 3Sep 14[6],2014,
+207,NR,<,NR,Memphis,AAC,1-1,0,RV,DNP,Week 3Sep 14[6],2014,
+208,NR,<,NR,NC State,ACC,3-0,0,RV,W 49-17 A South Florida,Week 3Sep 14[6],2014,
+209,NR,<,NR,Northern Illinois,MAC,3-0,0,RV,W 48-34 A UNLV,Week 3Sep 14[6],2014,
+210,NR,<,NR,Oregon State,Pac-12,2-0,0,RV,DNP,Week 3Sep 14[6],2014,
+211,1,<,1,Florida State (34),ACC,3-0,1439,*1,W 23-17 (1OT) H #22 Clemson,Week 4Sep 21[7],2014,
+212,2,<,2,Oregon (12),Pac-12,4-0,1400,*4,W 38-31 A Washington State,Week 4Sep 21[7],2014,
+213,3,<,3,Alabama (6),SEC,4-0,1377,*2,W 42-21 H Florida,Week 4Sep 21[7],2014,
+214,4,<,4,Oklahoma (4),Big 12,4-0,1343,*3,W 45-33 A West Virginia,Week 4Sep 21[7],2014,
+215,5,<,5,Auburn,SEC,3-0,1268,5,W 20-14 A #20 Kansas State,Week 4Sep 21[7],2014,
+216,6,<,6,Texas A&M (4),SEC,4-0,1232,7,W 58-6 A SMU,Week 4Sep 21[7],2014,
+217,7,<,7,Baylor,Big 12,3-0,1143,6,DNP,Week 4Sep 21[7],2014,
+218,8,<,9,Notre Dame,Ind,3-0,967,8,DNP,Week 4Sep 21[7],2014,
+219,9,<,11,Michigan State,Big Ten,2-1,905,9,W 73-14 H Eastern Michigan,Week 4Sep 21[7],2014,
+220,10,<,10,Mississippi,SEC,3-0,889,11,DNP,Week 4Sep 21[7],2014,
+221,11,<,12,UCLA,Pac-12,3-0,806,10,DNP,Week 4Sep 21[7],2014,
+222,12,<,13,Georgia,SEC,2-1,789,13,W 66-0 H Troy,Week 4Sep 21[7],2014,
+223,13,<,14,South Carolina,SEC,3-1,764,15,W 48-34 A Vanderbilt,Week 4Sep 21[7],2014,
+224,14,<,NR,Mississippi State,SEC,4-0,706,16,W 34-29 A #8 LSU,Week 4Sep 21[7],2014,
+225,15,<,15,Arizona State,Pac-12,3-0,702,12,DNP,Week 4Sep 21[7],2014,
+226,16,<,16,Stanford,Pac-12,2-1,564,14,DNP,Week 4Sep 21[7],2014,
+227,17,<,8,LSU,SEC,3-1,541,18,L 34-29 H Mississippi State,Week 4Sep 21[7],2014,
+228,18,<,17,USC,Pac-12,2-1,459,22,DNP,Week 4Sep 21[7],2014,
+229,19,<,19,Wisconsin,Big Ten,2-1,451,17,W 68-17 H Bowling Green,Week 4Sep 21[7],2014,
+230,20,<,21,BYU,Ind,4-0,376,21,W 41-33 H Virginia,Week 4Sep 21[7],2014,
+231,21,<,24,Nebraska,Big Ten,4-0,296,19,W 41-31 H Miami (FL),Week 4Sep 21[7],2014,
+232,22,<,23,Ohio State,Big Ten,2-1,196,20,DNP,Week 4Sep 21[7],2014,
+233,23,<,NR,East Carolina,AAC,3-1,180,24,W 70-41 H North Carolina,Week 4Sep 21[7],2014,
+234,24,<,25,Oklahoma State,Big 12,2-1,132,RV,DNP,Week 4Sep 21[7],2014,
+235,25,<,20,Kansas State,Big 12,2-1,131,25,L 20-14 H #5 Auburn,Week 4Sep 21[7],2014,
+236,RV,<,NR,Duke,ACC,4-0,86,23,W 47-13 H Tulane,Week 4Sep 21[7],2014,
+237,RV,<,NR,Penn State,Big Ten,4-0,81,RV,W 48-7 H Massachusetts,Week 4Sep 21[7],2014,
+238,RV,<,22,Clemson,ACC,1-2,48,RV,L 23-17 (1OT) A #1 Florida State,Week 4Sep 21[7],2014,
+239,RV,<,NR,TCU,Big 12,2-0,35,RV,DNP,Week 4Sep 21[7],2014,
+240,RV,<,NR,Marshall,CUSA,4-0,33,RV,W 48-17 A Akron,Week 4Sep 21[7],2014,
+241,RV,<,NR,Utah,Pac-12,3-0,31,RV,W 26-10 A Michigan,Week 4Sep 21[7],2014,
+242,RV,<,NR,Washington,Pac-12,4-0,30,RV,W 45-14 H Georgia State,Week 4Sep 21[7],2014,
+243,RV,<,NR,Georgia Tech,ACC,4-0,22,RV,W 27-24 A Virginia Tech,Week 4Sep 21[7],2014,
+244,RV,<,NR,Boston College,ACC,3-1,19,RV,W 40-10 H Maine,Week 4Sep 21[7],2014,
+245,RV,<,NR,West Virginia,Big 12,2-2,15,RV,L 45-33 H #4 Oklahoma,Week 4Sep 21[7],2014,
+246,RV,<,NR,Cincinnati,AAC,2-0,11,RV,W 31-24 H Miami (OH),Week 4Sep 21[7],2014,
+247,RV,<,NR,Arizona,Pac-12,4-0,9,RV,W 49-45 H California,Week 4Sep 21[7],2014,
+248,RV,<,NR,Arkansas,SEC,3-1,9,RV,W 52-14 H Northern Illinois,Week 4Sep 21[7],2014,
+249,RV,<,18,Missouri,SEC,3-1,5,RV,L 31-27 H Indiana,Week 4Sep 21[7],2014,
+250,RV,<,NR,Oregon State,Pac-12,3-0,5,RV,W 28-7 H San Diego State,Week 4Sep 21[7],2014,
+251,RV,<,NR,North Dakota State,Other,4-0,3,NR,W 22-10 H Montana,Week 4Sep 21[7],2014,
+252,RV,<,NR,Indiana,Big Ten,2-1,1,NR,W 31-27 A #18 Missouri,Week 4Sep 21[7],2014,
+253,RV,<,NR,Pittsburgh,ACC,3-1,1,NR,L 24-20 H Iowa,Week 4Sep 21[7],2014,
+254,NR,<,NR,Boise State,MWC,3-1,0,RV,W 34-9 H Louisiana-Lafayette,Week 4Sep 21[7],2014,
+255,NR,<,NR,Iowa,Big Ten,3-1,0,RV,W 24-20 A Pittsburgh,Week 4Sep 21[7],2014,
+256,NR,<,NR,Louisville,ACC,3-1,0,RV,W 34-3 A FIU,Week 4Sep 21[7],2014,
+257,NR,<,NR,Memphis,AAC,2-1,0,RV,W 36-17 H Middle Tennessee,Week 4Sep 21[7],2014,
+258,NR,<,NR,NC State,ACC,4-0,0,RV,DNP,Week 4Sep 21[7],2014,
+259,1,<,1,Florida State (27),ACC,4-0,1416,*2,W 56-41 A NC State,Week 5Sep 28[8],2014,
+260,2,<,2,Oregon (13),Pac-12,4-0,1405,*4,DNP,Week 5Sep 28[8],2014,
+261,3,<,3,Alabama (13),SEC,4-0,1387,*1,DNP,Week 5Sep 28[8],2014,
+262,4,<,4,Oklahoma (7),Big 12,4-0,1357,*3,DNP,Week 5Sep 28[8],2014,
+263,5,<,5,Auburn,SEC,4-0,1272,5,W 45-17 H Louisiana Tech,Week 5Sep 28[8],2014,
+264,6,<,6,Texas A&M,SEC,5-0,1206,7,W 35-25 (1OT) N Arkansas,Week 5Sep 28[8],2014,
+265,7,<,7,Baylor,Big 12,4-0,1149,6,W 49-28 A Iowa State,Week 5Sep 28[8],2014,
+266,8,<,11,UCLA,Pac-12,4-0,975,9,W 62-27 A #15 Arizona State,Week 5Sep 28[8],2014,
+267,9,<,8,Notre Dame,Ind,4-0,972,8,W 31-15 N Syracuse,Week 5Sep 28[8],2014,
+268,10,<,9,Michigan State,Big Ten,3-1,944,10,W 56-14 H Wyoming,Week 5Sep 28[8],2014,
+269,11,<,10,Mississippi,SEC,4-0,906,11,W 24-3 H Memphis,Week 5Sep 28[8],2014,
+270,12,<,14,Mississippi State,SEC,4-0,848,14,DNP,Week 5Sep 28[8],2014,
+271,13,<,12,Georgia,SEC,3-1,788,12,W 35-32 H Tennessee,Week 5Sep 28[8],2014,
+272,14,<,16,Stanford,Pac-12,3-1,643,13,W 20-13 A Washington,Week 5Sep 28[8],2014,
+273,15,<,17,LSU,SEC,4-1,636,15,W 63-7 H New Mexico State,Week 5Sep 28[8],2014,
+274,16,<,18,USC,Pac-12,3-1,560,20,W 35-10 H Oregon State,Week 5Sep 28[8],2014,
+275,17,<,19,Wisconsin,Big Ten,3-1,502,16,W 27-10 H South Florida,Week 5Sep 28[8],2014,
+276,18,<,20,BYU,Ind,4-0,450,19,DNP,Week 5Sep 28[8],2014,
+277,19,<,21,Nebraska,Big Ten,5-0,445,17,W 45-14 H Illinois,Week 5Sep 28[8],2014,
+278,20,<,22,Ohio State,Big Ten,3-1,298,18,W 50-28 H Cincinnati,Week 5Sep 28[8],2014,
+279,21,<,24,Oklahoma State,Big 12,3-1,246,23,W 45-35 H Texas Tech,Week 5Sep 28[8],2014,
+280,22,<,23,East Carolina,AAC,3-1,237,21,DNP,Week 5Sep 28[8],2014,
+281,23,<,25,Kansas State,Big 12,3-1,216,22,W 58-28 H UTEP,Week 5Sep 28[8],2014,
+282,24,<,NR,Missouri,SEC,4-1,145,RV,W 21-20 A #13 South Carolina,Week 5Sep 28[8],2014,
+283,25,<,NR,TCU,Big 12,3-0,109,25,W 56-0 A SMU,Week 5Sep 28[8],2014,
+284,RV,<,15,Arizona State,Pac-12,3-1,97,24,L 62-27 H #11 UCLA,Week 5Sep 28[8],2014,
+285,RV,<,13,South Carolina,SEC,3-2,61,RV,L 21-20 H Missouri,Week 5Sep 28[8],2014,
+286,RV,<,NR,Clemson,ACC,2-2,52,RV,W 50-35 H North Carolina,Week 5Sep 28[8],2014,
+287,RV,<,NR,Arizona,Pac-12,4-0,43,RV,DNP,Week 5Sep 28[8],2014,
+288,RV,<,NR,Marshall,CUSA,4-0,40,RV,DNP,Week 5Sep 28[8],2014,
+289,RV,<,NR,Georgia Tech,ACC,4-0,37,RV,DNP,Week 5Sep 28[8],2014,
+290,RV,<,NR,West Virginia,Big 12,2-2,24,RV,DNP,Week 5Sep 28[8],2014,
+291,RV,<,NR,Arkansas,SEC,3-2,18,RV,L 35-28 (1OT) N #6 Texas A&M,Week 5Sep 28[8],2014,
+292,RV,<,NR,Maryland,Big Ten,4-1,5,NR,W 37-15 A Indiana,Week 5Sep 28[8],2014,
+293,RV,<,NR,Louisville,ACC,4-1,4,RV,W 20-10 H Wake Forest,Week 5Sep 28[8],2014,
+294,RV,<,NR,North Dakota State,Other,4-0,3,NR,DNP,Week 5Sep 28[8],2014,
+295,RV,<,NR,Washington,Pac-12,4-1,2,RV,L 20-13 H #16 Stanford,Week 5Sep 28[8],2014,
+296,RV,<,NR,NC State,ACC,4-1,1,NR,L 56-41 H #1 Florida State,Week 5Sep 28[8],2014,
+297,RV,<,NR,Virginia,ACC,3-2,1,NR,W 45-13 H Kent State,Week 5Sep 28[8],2014,
+298,NR,<,NR,Cincinnati,AAC,2-1,0,RV,L 50-28 A #22 Ohio State,Week 5Sep 28[8],2014,
+299,NR,<,NR,Duke,ACC,4-1,0,RV,L 22-10 A Miami (FL),Week 5Sep 28[8],2014,
+300,NR,<,NR,Iowa,Big Ten,4-1,0,RV,W 24-10 A Purdue,Week 5Sep 28[8],2014,
+301,NR,<,NR,Minnesota,Big Ten,4-1,0,RV,W 30-14 A Michigan,Week 5Sep 28[8],2014,
+302,NR,<,NR,North Carolina,ACC,2-2,0,RV,L 50-35 A Clemson,Week 5Sep 28[8],2014,
+303,NR,<,NR,Texas,Big 12,2-2,0,RV,W 23-0 A Kansas,Week 5Sep 28[8],2014,
+304,1,<,1,Florida State (35),ACC,5-0,1461,*1,W 43-3 H Wake Forest,Week 6Oct 5[9],2014,
+305,2,<,5,Auburn (23),SEC,5-0,1459,*2,W 41-7 H #15 LSU,Week 6Oct 5[9],2014,
+306,3,<,11,Mississippi,SEC,5-0,1320,4,W 23-17 H #3 Alabama,Week 6Oct 5[9],2014,
+307,3,<,12,Mississippi State (2),SEC,5-0,1320,6,W 48-31 H #6 Texas A&M,Week 6Oct 5[9],2014,
+308,5,<,7,Baylor,Big 12,5-0,1258,*3,W 28-7 A Texas,Week 6Oct 5[9],2014,
+309,6,<,9,Notre Dame,Ind,5-0,1186,5,W 17-14 H #14 Stanford,Week 6Oct 5[9],2014,
+310,7,<,3,Alabama,SEC,4-1,1060,7,L 23-17 A #11 Mississippi,Week 6Oct 5[9],2014,
+311,8,<,10,Michigan State,Big Ten,4-1,981,8,W 27-22 H #19 Nebraska,Week 6Oct 5[9],2014,
+312,9,<,25,TCU,Big 12,4-0,979,12,W 37-33 H #4 Oklahoma,Week 6Oct 5[9],2014,
+313,10,<,NR,Arizona,Pac-12,5-0,951,13,W 31-24 A #2 Oregon,Week 6Oct 5[9],2014,
+314,11,<,4,Oklahoma,Big 12,4-1,904,9,L 37-33 A #25 TCU,Week 6Oct 5[9],2014,
+315,12,<,2,Oregon,Pac-12,4-1,888,11,L 31-24 H Arizona,Week 6Oct 5[9],2014,
+316,13,<,13,Georgia,SEC,4-1,854,10,W 44-17 H Vanderbilt,Week 6Oct 5[9],2014,
+317,14,<,6,Texas A&M,SEC,5-1,731,14,L 48-31 A #12 Mississippi State,Week 6Oct 5[9],2014,
+318,15,<,20,Ohio State,Big Ten,4-1,534,15,W 52-24 A Maryland,Week 6Oct 5[9],2014,
+319,16,<,21,Oklahoma State,Big 12,4-1,527,18,W 37-20 H Iowa State,Week 6Oct 5[9],2014,
+320,17,<,23,Kansas State,Big 12,4-1,486,16,W 45-13 H Texas Tech,Week 6Oct 5[9],2014,
+321,18,<,8,UCLA,Pac-12,4-1,460,17,L 30-28 H Utah,Week 6Oct 5[9],2014,
+322,19,<,22,East Carolina,AAC,4-1,344,19,W 45-24 H SMU,Week 6Oct 5[9],2014,
+323,20,<,NR,Arizona State,Pac-12,4-1,325,20,W 38-34 A #16 USC,Week 6Oct 5[9],2014,
+324,21,<,19,Nebraska,Big Ten,5-1,283,21,L 27-22 A #10 Michigan State,Week 6Oct 5[9],2014,
+325,22,<,NR,Georgia Tech,ACC,5-0,235,23,W 28-17 H Miami (FL),Week 6Oct 5[9],2014,
+326,23,<,24,Missouri,SEC,4-1,212,24,DNP,Week 6Oct 5[9],2014,
+327,24,<,NR,Utah,Pac-12,4-1,206,RV,W 30-28 A #8 UCLA,Week 6Oct 5[9],2014,
+328,25,<,14,Stanford,Pac-12,3-2,143,22,L 17-14 A #9 Notre Dame,Week 6Oct 5[9],2014,
+329,RV,<,NR,Clemson,ACC,3-2,92,25,W 41-0 H NC State,Week 6Oct 5[9],2014,
+330,RV,<,NR,Marshall,CUSA,5-0,78,RV,W 56-14 A Old Dominion,Week 6Oct 5[9],2014,
+331,RV,<,16,USC,Pac-12,3-2,61,RV,L 38-34 H Arizona State,Week 6Oct 5[9],2014,
+332,RV,<,NR,Louisville,ACC,5-1,36,RV,W 28-6 A Syracuse,Week 6Oct 5[9],2014,
+333,RV,<,15,LSU,SEC,4-2,35,RV,L 41-7 A #5 Auburn,Week 6Oct 5[9],2014,
+334,RV,<,18,BYU,Ind,4-1,26,RV,L 35-20 H Utah State,Week 6Oct 5[9],2014,
+335,RV,<,NR,West Virginia,Big 12,3-2,18,RV,W 33-14 H Kansas,Week 6Oct 5[9],2014,
+336,RV,<,NR,Arkansas,SEC,3-2,14,RV,DNP,Week 6Oct 5[9],2014,
+337,RV,<,17,Wisconsin,Big Ten,3-2,7,RV,L 20-14 A Northwestern,Week 6Oct 5[9],2014,
+338,RV,<,NR,California,Pac-12,4-1,6,RV,W 60-59 A Washington State,Week 6Oct 5[9],2014,
+339,RV,<,NR,Penn State,Big Ten,4-1,5,RV,DNP,Week 6Oct 5[9],2014,
+340,RV,<,NR,Kentucky,SEC,4-1,4,RV,W 45-38 H South Carolina,Week 6Oct 5[9],2014,
+341,RV,<,NR,Rutgers,Big Ten,5-1,4,RV,W 26-24 H Rutgers,Week 6Oct 5[9],2014,
+342,RV,<,NR,North Dakota State,Other,5-0,3,NR,W 17-10 A Western Illinois,Week 6Oct 5[9],2014,
+343,RV,<,NR,Minnesota,Big Ten,4-1,2,RV,DNP,Week 6Oct 5[9],2014,
+344,RV,<,NR,South Carolina,SEC,3-3,1,NR,L 45-38 A Kentucky,Week 6Oct 5[9],2014,
+345,RV,<,NR,Virginia,ACC,4-2,1,NR,W 24-19 H Pittsburgh,Week 6Oct 5[9],2014,
+346,NR,<,NR,Duke,ACC,4-1,0,RV,DNP,Week 6Oct 5[9],2014,
+347,NR,<,NR,Iowa,Big Ten,4-1,0,RV,DNP,Week 6Oct 5[9],2014,
+348,NR,<,NR,Memphis,AAC,3-2,0,RV,W 41-14 A Cincinnati,Week 6Oct 5[9],2014,
+349,NR,<,NR,Washington,Pac-12,4-1,0,RV,DNP,Week 6Oct 5[9],2014,
+350,1,<,3,Mississippi State (45),SEC,6-0,1480,*1,W 38-23 H #2 Auburn,Week 7Oct 12[10],2014,
+351,2,<,1,Florida State (12),ACC,6-0,1415,*2,W 38-20 A Syracuse,Week 7Oct 12[10],2014,
+352,3,<,3,Mississippi (3),SEC,6-0,1413,*3,W 35-20 A #14 Texas A&M,Week 7Oct 12[10],2014,
+353,4,<,5,Baylor,Big 12,6-0,1317,4,W 61-58 H #9 TCU,Week 7Oct 12[10],2014,
+354,5,<,6,Notre Dame,Ind,6-0,1228,5,W 50-43 H North Carolina,Week 7Oct 12[10],2014,
+355,6,<,2,Auburn,SEC,5-1,1144,8,L 38-23 A #3 Mississippi State,Week 7Oct 12[10],2014,
+356,7,<,7,Alabama,SEC,5-1,1068,7,W 14-13 A Arkansas,Week 7Oct 12[10],2014,
+357,8,<,8,Michigan State,Big Ten,5-1,1015,6,W 45-31 A Purdue,Week 7Oct 12[10],2014,
+358,9,<,12,Oregon,Pac-12,5-1,1014,9,W 42-30 A #18 UCLA,Week 7Oct 12[10],2014,
+359,10,<,13,Georgia,SEC,5-1,981,10,W 34-0 A #23 Missouri,Week 7Oct 12[10],2014,
+360,11,<,11,Oklahoma,Big 12,5-1,935,11,W 31-26 N Texas,Week 7Oct 12[10],2014,
+361,12,<,9,TCU,Big 12,4-1,917,12,L 61-58 A #5 Baylor,Week 7Oct 12[10],2014,
+362,13,<,15,Ohio State,Big Ten,4-1,648,13,DNP,Week 7Oct 12[10],2014,
+363,14,<,17,Kansas State,Big 12,4-1,626,14,DNP,Week 7Oct 12[10],2014,
+364,15,<,16,Oklahoma State,Big 12,5-1,620,15,W 27-20 H Kansas,Week 7Oct 12[10],2014,
+365,16,<,10,Arizona,Pac-12,5-1,590,17,L 28-26 H USC,Week 7Oct 12[10],2014,
+366,17,<,20,Arizona State,Pac-12,4-1,459,18,DNP,Week 7Oct 12[10],2014,
+367,18,<,19,East Carolina,AAC,5-1,449,16,W 28-17 A South Florida,Week 7Oct 12[10],2014,
+368,19,<,21,Nebraska,Big Ten,5-1,402,19,DNP,Week 7Oct 12[10],2014,
+369,20,<,24,Utah,Pac-12,4-1,305,23,DNP,Week 7Oct 12[10],2014,
+370,21,<,14,Texas A&M,SEC,5-2,264,21,L 35-20 H #3 Mississippi,Week 7Oct 12[10],2014,
+371,22,<,NR,USC,Pac-12,4-2,258,25,W 28-26 A #10 Arizona,Week 7Oct 12[10],2014,
+372,23,<,25,Stanford,Pac-12,4-2,223,20,W 34-17 H Washington State,Week 7Oct 12[10],2014,
+373,24,<,NR,Clemson,ACC,4-2,188,22,W 23-17 H Louisville,Week 7Oct 12[10],2014,
+374,25,<,NR,Marshall,CUSA,6-0,148,24,W 49-24 H Middle Tennessee,Week 7Oct 12[10],2014,
+375,RV,<,18,UCLA,Pac-12,4-2,110,RV,L 42-30 H #12 Oregon,Week 7Oct 12[10],2014,
+376,RV,<,NR,LSU,SEC,5-2,67,RV,W 30-27 A Florida,Week 7Oct 12[10],2014,
+377,RV,<,NR,Duke,ACC,5-1,45,RV,W 31-25 A #22 Georgia Tech,Week 7Oct 12[10],2014,
+378,RV,<,NR,Kentucky,SEC,5-1,36,RV,W 48-14 H Louisiana-Monroe,Week 7Oct 12[10],2014,
+379,RV,<,NR,Minnesota,Big Ten,5-1,36,RV,W 24-17 H Northwestern,Week 7Oct 12[10],2014,
+380,RV,<,NR,West Virginia,Big 12,4-2,27,RV,W 37-34 A Texas Tech,Week 7Oct 12[10],2014,
+381,RV,<,NR,Washington,Pac-12,5-1,22,RV,W 31-7 A California,Week 7Oct 12[10],2014,
+382,RV,<,22,Georgia Tech,ACC,5-1,11,RV,L 31-25 H Duke,Week 7Oct 12[10],2014,
+383,RV,<,NR,Arkansas,SEC,3-3,10,NR,L 14-13 H #7 Alabama,Week 7Oct 12[10],2014,
+384,RV,<,NR,Louisville,ACC,5-2,7,NR,L 23-17 A Clemson,Week 7Oct 12[10],2014,
+385,RV,<,NR,Rutgers,Big Ten,5-1,7,RV,DNP,Week 7Oct 12[10],2014,
+386,RV,<,NR,Iowa,Big Ten,5-1,6,RV,W 45-29 H Indiana,Week 7Oct 12[10],2014,
+387,RV,<,NR,Colorado State,MWC,5-1,3,RV,W 31-24 A Nevada,Week 7Oct 12[10],2014,
+388,RV,<,NR,North Dakota State,Other,6-0,3,NR,W 38-10 H Southern Illinois,Week 7Oct 12[10],2014,
+389,RV,<,NR,South Carolina,SEC,3-3,1,NR,DNP,Week 7Oct 12[10],2014,
+390,RV,<,NR,Virginia,ACC,4-2,1,NR,DNP,Week 7Oct 12[10],2014,
+391,RV,<,NR,Wisconsin,Big Ten,4-2,1,RV,W 38-28 H Illinois,Week 7Oct 12[10],2014,
+392,NR,<,23,Missouri,SEC,4-2,0,RV,L 34-0 H #13 Georgia,Week 7Oct 12[10],2014,
+393,NR,<,NR,BYU,Ind,4-2,0,RV,L 31-24 (1OT) A UCF,Week 7Oct 12[10],2014,
+394,NR,<,NR,Oregon State,Pac-12,4-1,0,RV,DNP,Week 7Oct 12[10],2014,
+395,1,<,1,Mississippi State (43),SEC,6-0,1480,*1,DNP,Week 8Oct 19[11],2014,
+396,2,<,2,Florida State (14),ACC,7-0,1433,*2,W 31-27 H #5 Notre Dame,Week 8Oct 19[11],2014,
+397,3,<,3,Mississippi (3),SEC,7-0,1404,*3,W 34-3 H Tennessee,Week 8Oct 19[11],2014,
+398,4,<,7,Alabama,SEC,6-1,1235,4,W 59-0 H #21 Texas A&M,Week 8Oct 19[11],2014,
+399,5,<,6,Auburn,SEC,5-1,1231,6,DNP,Week 8Oct 19[11],2014,
+400,6,<,9,Oregon,Pac-12,6-1,1142,7,W 45-20 H Washington,Week 8Oct 19[11],2014,
+401,7,<,5,Notre Dame,Ind,6-1,1133,8,L 31-27 A #2 Florida State,Week 8Oct 19[11],2014,
+402,8,<,8,Michigan State,Big Ten,6-1,1066,5,W 56-17 A Indiana,Week 8Oct 19[11],2014,
+403,9,<,10,Georgia,SEC,6-1,1055,9,W 45-32 A Arkansas,Week 8Oct 19[11],2014,
+404,10,<,12,TCU,Big 12,5-1,962,10,W 42-9 H #15 Oklahoma State,Week 8Oct 19[11],2014,
+405,11,<,14,Kansas State,Big 12,5-1,905,11,W 31-30 A #11 Oklahoma,Week 8Oct 19[11],2014,
+406,12,<,4,Baylor,Big 12,6-1,858,13,L 41-27 A West Virginia,Week 8Oct 19[11],2014,
+407,13,<,13,Ohio State,Big Ten,5-1,753,12,W 56-17 H Rutgers,Week 8Oct 19[11],2014,
+408,14,<,17,Arizona State,Pac-12,5-1,643,14,W 26-10 H #23 Stanford,Week 8Oct 19[11],2014,
+409,15,<,16,Arizona,Pac-12,5-1,639,15,DNP,Week 8Oct 19[11],2014,
+410,16,<,19,Nebraska,Big Ten,6-1,537,16,W 38-17 A Northwestern,Week 8Oct 19[11],2014,
+411,17,<,11,Oklahoma,Big 12,5-2,461,18,L 31-30 H #14 Kansas State,Week 8Oct 19[11],2014,
+412,18,<,18,East Carolina,AAC,5-1,445,17,DNP,Week 8Oct 19[11],2014,
+413,19,<,20,Utah,Pac-12,5-1,437,19,W 29-23 (2OT) A Oregon State,Week 8Oct 19[11],2014,
+414,20,<,22,USC,Pac-12,5-2,356,21,W 56-28 H Colorado,Week 8Oct 19[11],2014,
+415,21,<,24,Clemson,ACC,5-2,283,20,W 17-13 A Boston College,Week 8Oct 19[11],2014,
+416,22,<,NR,West Virginia,Big 12,5-2,272,25,W 41-27 H #4 Baylor,Week 8Oct 19[11],2014,
+417,23,<,25,Marshall,CUSA,7-0,184,22,W 45-13 A FIU,Week 8Oct 19[11],2014,
+418,24,<,NR,LSU,SEC,6-2,177,23,W 41-3 H Kentucky,Week 8Oct 19[11],2014,
+419,25,<,NR,UCLA,Pac-12,5-2,118,RV,W 36-34 A California,Week 8Oct 19[11],2014,
+420,RV,<,NR,Duke,ACC,6-1,108,RV,W 20-13 H Virginia,Week 8Oct 19[11],2014,
+421,RV,<,15,Oklahoma State,Big 12,5-2,91,RV,L 42-9 A #12 TCU,Week 8Oct 19[11],2014,
+422,RV,<,NR,Minnesota,Big Ten,6-1,61,24,W 39-38 H Purdue,Week 8Oct 19[11],2014,
+423,RV,<,NR,Colorado State,MWC,6-1,12,RV,W 16-13 H Utah State,Week 8Oct 19[11],2014,
+424,RV,<,23,Stanford,Pac-12,4-3,4,RV,L 26-10 A #17 Arizona State,Week 8Oct 19[11],2014,
+425,RV,<,NR,Louisville,ACC,6-2,4,NR,W 30-18 H NC State,Week 8Oct 19[11],2014,
+426,RV,<,NR,Missouri,SEC,5-2,4,RV,W 42-13 A Florida,Week 8Oct 19[11],2014,
+427,RV,<,NR,Maryland,Big Ten,5-2,3,NR,W 38-31 H Iowa,Week 8Oct 19[11],2014,
+428,RV,<,NR,North Dakota State,Other,7-0,3,NR,W 34-17 H Indiana State,Week 8Oct 19[11],2014,
+429,RV,<,21,Texas A&M,SEC,5-3,1,NR,L 59-0 A #7 Alabama,Week 8Oct 19[11],2014,
+430,NR,<,NR,Washington,Pac-12,5-2,0,RV,L 45-20 A #9 Oregon,Week 8Oct 19[11],2014,
+431,NR,<,NR,Wisconsin,Big Ten,4-2,0,RV,DNP,Week 8Oct 19[11],2014,
+432,1,<,1,Mississippi State (46),SEC,7-0,1486,*1,W 45-31 A Kentucky,Week 9Oct 26[12],2014,1
+433,2,<,2,Florida State (14),ACC,7-0,1453,*2,DNP,Week 9Oct 26[12],2014,2
+434,3,<,4,Alabama,SEC,7-1,1290,3,W 34-20 A Tennessee,Week 9Oct 26[12],2014,6
+435,4,<,5,Auburn,SEC,6-1,1267,4,W 42-35 H South Carolina,Week 9Oct 26[12],2014,3
+436,5,<,6,Oregon,Pac-12,7-1,1199,6,W 59-41 A California,Week 9Oct 26[12],2014,5
+437,6,<,7,Notre Dame,Ind,6-1,1161,7,DNP,Week 9Oct 26[12],2014,10
+438,7,<,3,Mississippi,SEC,7-1,1095,9,L 10-7 A #24 LSU,Week 9Oct 26[12],2014,4
+439,8,<,8,Michigan State,Big Ten,7-1,1086,5,W 35-11 H Michigan,Week 9Oct 26[12],2014,8
+440,9,<,9,Georgia,SEC,6-1,1074,8,DNP,Week 9Oct 26[12],2014,11
+441,10,<,10,TCU,Big 12,6-1,1030,10,W 82-27 H Texas Tech,Week 9Oct 26[12],2014,7
+442,11,<,11,Kansas State,Big 12,6-1,930,11,W 23-0 H Texas,Week 9Oct 26[12],2014,9
+443,12,<,12,Baylor,Big 12,6-1,839,12,DNP,Week 9Oct 26[12],2014,13
+444,13,<,13,Ohio State,Big Ten,6-1,676,13,W 31-24 (2OT) A Penn State,Week 9Oct 26[12],2014,16
+445,14,<,15,Arizona,Pac-12,6-1,669,15,W 59-37 A Washington State,Week 9Oct 26[12],2014,12
+446,15,<,14,Arizona State,Pac-12,6-1,667,14,W 24-10 A Washington,Week 9Oct 26[12],2014,14
+447,16,<,24,LSU,SEC,7-2,574,17,W 10-7 H #3 Mississippi,Week 9Oct 26[12],2014,19
+448,17,<,16,Nebraska,Big Ten,7-1,535,16,W 42-24 H Rutgers,Week 9Oct 26[12],2014,15
+449,18,<,19,Utah,Pac-12,6-1,524,18,W 24-21 H #20 USC,Week 9Oct 26[12],2014,17
+450,19,<,17,Oklahoma,Big 12,5-2,430,20,DNP,Week 9Oct 26[12],2014,18
+451,20,<,22,West Virginia,Big 12,6-2,379,22,W 34-10 A Oklahoma State,Week 9Oct 26[12],2014,20
+452,21,<,18,East Carolina,AAC,6-1,366,19,W 31-21 H Connecticut,Week 9Oct 26[12],2014,23
+453,22,<,21,Clemson,ACC,6-2,265,21,W 16-6 H Syracuse,Week 9Oct 26[12],2014,21
+454,23,<,23,Marshall,CUSA,8-0,184,23,W 35-16 H Florida Atlantic,Week 9Oct 26[12],2014,NR
+455,24,<,NR,Duke,ACC,6-1,121,24,DNP,Week 9Oct 26[12],2014,24
+456,25,<,25,UCLA,Pac-12,6-2,106,25,W 40-37 (2OT) A Colorado,Week 9Oct 26[12],2014,22
+457,RV,<,NR,Colorado State,MWC,7-1,29,RV,W 45-31 H Wyoming,Week 9Oct 26[12],2014,NR
+458,RV,<,20,USC,Pac-12,5-3,22,RV,L 24-21 A #19 Utah,Week 9Oct 26[12],2014,NR
+459,RV,<,NR,Wisconsin,Big Ten,5-2,14,RV,W 52-7 H Maryland,Week 9Oct 26[12],2014,NR
+460,RV,<,NR,Stanford,Pac-12,5-3,9,RV,W 38-14 H Oregon State,Week 9Oct 26[12],2014,NR
+461,RV,<,NR,Louisville,ACC,6-2,8,RV,DNP,Week 9Oct 26[12],2014,25
+462,RV,<,NR,Missouri,SEC,6-2,7,RV,W 24-14 H Vanderbilt,Week 9Oct 26[12],2014,NR
+463,RV,<,NR,North Dakota State,Other,8-0,3,NR,W 47-7 A South Dakota,Week 9Oct 26[12],2014,NR
+464,RV,<,NR,Oklahoma State,Big 12,5-3,2,NR,L 34-10 H #22 West Virginia,Week 9Oct 26[12],2014,NR
+465,NR,<,NR,Boise State,MWC,6-2,0,RV,W 55-30 H BYU,Week 9Oct 26[12],2014,NR
+466,NR,<,NR,Georgia Tech,ACC,6-2,0,RV,W 56-28 A Pittsburgh,Week 9Oct 26[12],2014,NR
+467,NR,<,NR,Minnesota,Big Ten,6-2,0,RV,L 28-24 A Illinois,Week 9Oct 26[12],2014,NR
+468,NR,<,NR,Texas A&M,SEC,5-3,0,RV,DNP,Week 9Oct 26[12],2014,NR
+469,1,<,1,Mississippi State (45),SEC,8-0,1484,*1,W 17-10 H Arkansas,Week 10Nov 2[13],2014,1
+470,2,<,2,Florida State (15),ACC,8-0,1452,*2,W 42-31 A Louisville,Week 10Nov 2[13],2014,2
+471,3,<,4,Auburn,SEC,7-1,1345,3,W 35-31 A #7 Mississippi,Week 10Nov 2[13],2014,3
+472,4,<,3,Alabama,SEC,7-1,1281,4,DNP,Week 10Nov 2[13],2014,5
+473,5,<,5,Oregon,Pac-12,8-1,1275,5,W 45-16 H Stanford,Week 10Nov 2[13],2014,4
+474,6,<,10,TCU,Big 12,7-1,1148,7,W 31-30 A #20 West Virginia,Week 10Nov 2[13],2014,6
+475,7,<,8,Michigan State,Big Ten,7-1,1120,6,DNP,Week 10Nov 2[13],2014,8
+476,8,<,6,Notre Dame,Ind,7-1,1096,8,W 49-39 A Navy,Week 10Nov 2[13],2014,10
+477,9,<,11,Kansas State,Big 12,7-1,1049,9,W 48-14 H Oklahoma State,Week 10Nov 2[13],2014,7
+478,10,<,12,Baylor,Big 12,7-1,961,10,W 60-14 H Kansas,Week 10Nov 2[13],2014,12
+479,11,<,15,Arizona State,Pac-12,7-1,831,12,W 19-16 (1OT) H #18 Utah,Week 10Nov 2[13],2014,9
+480,12,<,7,Mississippi,SEC,7-2,828,13,L 35-31 H #4 Auburn,Week 10Nov 2[13],2014,11
+481,13,<,13,Ohio State,Big Ten,7-1,780,11,W 55-14 H Illinois,Week 10Nov 2[13],2014,14
+482,14,<,16,LSU,SEC,7-2,717,15,DNP,Week 10Nov 2[13],2014,16
+483,15,<,17,Nebraska,Big Ten,8-1,680,14,W 35-14 H Purdue,Week 10Nov 2[13],2014,13
+484,16,<,19,Oklahoma,Big 12,6-2,574,16,W 59-14 A Iowa State,Week 10Nov 2[13],2014,15
+485,17,<,9,Georgia,SEC,6-2,465,17,L 38-20 N Florida,Week 10Nov 2[13],2014,20
+486,18,<,25,UCLA,Pac-12,7-2,464,18,W 17-7 H #14 Arizona,Week 10Nov 2[13],2014,18
+487,19,<,22,Clemson,ACC,6-2,341,19,DNP,Week 10Nov 2[13],2014,21
+488,20,<,18,Utah,Pac-12,6-2,327,22,L 19-16 (1OT) A #15 Arizona State,Week 10Nov 2[13],2014,17
+489,21,<,14,Arizona,Pac-12,6-2,325,21,L 17-7 A #25 UCLA,Week 10Nov 2[13],2014,19
+490,22,<,24,Duke,ACC,7-1,288,20,W 51-48 (2OT) A Pittsburgh,Week 10Nov 2[13],2014,22
+491,23,<,23,Marshall,CUSA,8-0,238,22,DNP,Week 10Nov 2[13],2014,NR
+492,24,<,20,West Virginia,Big 12,6-3,159,25,L 31-30 H #10 TCU,Week 10Nov 2[13],2014,23
+493,25,<,NR,Wisconsin,Big Ten,6-2,83,24,W 37-0 A Rutgers,Week 10Nov 2[13],2014,25
+494,RV,<,NR,Colorado State,MWC,8-1,67,RV,W 38-31 A San Jose State,Week 10Nov 2[13],2014,NR
+495,RV,<,NR,USC,Pac-12,6-3,48,RV,W 44-17 A Washington State,Week 10Nov 2[13],2014,NR
+496,RV,<,NR,Missouri,SEC,7-2,42,RV,W 20-10 H Kentucky,Week 10Nov 2[13],2014,NR
+497,RV,<,NR,Georgia Tech,ACC,7-2,15,RV,W 35-10 H Virginia,Week 10Nov 2[13],2014,24
+498,RV,<,NR,Louisville,ACC,6-3,7,RV,L 42-31 H #2 Florida State,Week 10Nov 2[13],2014,NR
+499,RV,<,NR,North Dakota State,Other,9-0,4,NR,W 37-17 H South Dakota State,Week 10Nov 2[13],2014,NR
+500,RV,<,NR,Stanford,Pac-12,5-4,4,NR,L 45-16 A #5 Oregon,Week 10Nov 2[13],2014,NR
+501,RV,<,NR,Florida,SEC,4-3,1,NR,W 38-20 N #9 Georgia,Week 10Nov 2[13],2014,NR
+502,RV,<,NR,Texas A&M,SEC,6-3,1,NR,W 21-16 H Louisiana-Monroe,Week 10Nov 2[13],2014,NR
+503,NR,<,21,East Carolina,AAC,6-2,0,RV,L 20-10 A Temple,Week 10Nov 2[13],2014,NR
+504,NR,<,NR,Boise State,MWC,6-2,0,RV,DNP,Week 10Nov 2[13],2014,NR
+505,NR,<,NR,Cincinnati,AAC,5-3,0,RV,W 38-14 A Tulane,Week 10Nov 2[13],2014,NR
+506,NR,<,NR,Iowa,Big Ten,6-2,0,RV,W 48-7 H Northwestern,Week 10Nov 2[13],2014,NR
+507,NR,<,NR,Miami (FL),ACC,6-3,0,RV,W 47-20 H North Carolina,Week 10Nov 2[13],2014,NR
+508,NR,<,NR,Minnesota,Big Ten,6-2,0,RV,DNP,Week 10Nov 2[13],2014,NR
+509,1,<,1,Mississippi State (48),SEC,9-0,1488,*1,W 45-16 H Tennessee-Martin,Week 11Nov 9[14],2014,1
+510,2,<,2,Florida State (12),ACC,9-0,1446,*2,W 34-20 H Virginia,Week 11Nov 9[14],2014,3
+511,3,<,5,Oregon,Pac-12,9-1,1334,*4,W 51-27 A #20 Utah,Week 11Nov 9[14],2014,2
+512,4,<,4,Alabama,SEC,8-1,1326,3,W 20-13 (1OT) A #14 LSU,Week 11Nov 9[14],2014,5
+513,5,<,6,TCU,Big 12,8-1,1273,5,W 41-20 H #9 Kansas State,Week 11Nov 9[14],2014,4
+514,6,<,10,Baylor,Big 12,8-1,1193,6,W 48-14 A #16 Oklahoma,Week 11Nov 9[14],2014,7
+515,7,<,11,Arizona State,Pac-12,8-1,1142,8,W 55-31 H #8 Notre Dame,Week 11Nov 9[14],2014,6
+516,8,<,13,Ohio State,Big Ten,8-1,1086,7,W 49-37 A #7 Michigan State,Week 11Nov 9[14],2014,8
+517,9,<,3,Auburn,SEC,7-2,981,9,L 41-38 H Texas A&M,Week 11Nov 9[14],2014,9
+518,10,<,12,Mississippi,SEC,8-2,948,10,W 48-0 H Presbyterian,Week 11Nov 9[14],2014,10
+519,11,<,15,Nebraska,Big Ten,8-1,830,11,DNP,Week 11Nov 9[14],2014,16
+520,12,<,7,Michigan State,Big Ten,7-2,782,12,L 49-37 H #13 Ohio State,Week 11Nov 9[14],2014,12
+521,13,<,9,Kansas State,Big 12,7-2,742,13,L 41-20 A #6 TCU,Week 11Nov 9[14],2014,13
+522,14,<,18,UCLA,Pac-12,8-2,691,15,W 44-30 A Washington,Week 11Nov 9[14],2014,11
+523,15,<,8,Notre Dame,Ind,7-2,630,16,L 55-31 A #11 Arizona State,Week 11Nov 9[14],2014,18
+524,16,<,17,Georgia,SEC,7-2,622,14,W 63-31 A Kentucky,Week 11Nov 9[14],2014,15
+525,17,<,21,Arizona,Pac-12,7-2,471,18,W 38-20 H Colorado,Week 11Nov 9[14],2014,14
+526,18,<,19,Clemson,ACC,7-2,457,17,W 34-20 A Wake Forest,Week 11Nov 9[14],2014,19
+527,19,<,22,Duke,ACC,8-1,431,19,W 27-10 A Syracuse,Week 11Nov 9[14],2014,21
+528,20,<,14,LSU,SEC,7-3,429,20,L 20-13 (1OT) H #4 Alabama,Week 11Nov 9[14],2014,17
+529,21,<,23,Marshall,CUSA,9-0,297,21,W 63-17 A Southern Miss,Week 11Nov 9[14],2014,NR
+530,22,<,25,Wisconsin,Big Ten,7-2,225,22,W 34-16 A Purdue,Week 11Nov 9[14],2014,20
+531,23,<,NR,Colorado State,MWC,9-1,128,25,W 49-22 H Hawaii,Week 11Nov 9[14],2014,NR
+532,24,<,NR,Georgia Tech,ACC,8-2,127,23,W 56-23 A NC State,Week 11Nov 9[14],2014,22
+533,25,<,20,Utah,Pac-12,6-3,87,RV,L 51-27 H #5 Oregon,Week 11Nov 9[14],2014,23
+534,RV,<,16,Oklahoma,Big 12,6-3,85,24,L 48-14 H #10 Baylor,Week 11Nov 9[14],2014,NR
+535,RV,<,NR,Texas A&M,SEC,7-3,83,RV,W 41-38 A #3 Auburn,Week 11Nov 9[14],2014,24
+536,RV,<,NR,Missouri,SEC,7-2,68,RV,DNP,Week 11Nov 9[14],2014,NR
+537,RV,<,NR,USC,Pac-12,6-3,47,RV,DNP,Week 11Nov 9[14],2014,NR
+538,RV,<,NR,Minnesota,Big Ten,7-2,26,RV,W 51-14 H Iowa,Week 11Nov 9[14],2014,25
+539,RV,<,NR,Louisville,ACC,7-3,12,RV,W 38-19 A Boston College,Week 11Nov 9[14],2014,NR
+540,RV,<,24,West Virginia,Big 12,6-4,6,NR,L 33-16 A Texas,Week 11Nov 9[14],2014,NR
+541,RV,<,NR,Stanford,Pac-12,5-4,4,RV,DNP,Week 11Nov 9[14],2014,NR
+542,RV,<,NR,Boise State,MWC,7-2,1,RV,W 60-49 A New Mexico,Week 11Nov 9[14],2014,NR
+543,RV,<,NR,Georgia Southern,Sun Belt,8-2,1,NR,W 28-25 A Texas State,Week 11Nov 9[14],2014,NR
+544,RV,<,NR,Miami (FL),ACC,6-3,1,RV,DNP,Week 11Nov 9[14],2014,NR
+545,NR,<,NR,Cincinnati,AAC,5-3,0,RV,DNP,Week 11Nov 9[14],2014,NR
+546,NR,<,NR,East Carolina,AAC,6-2,0,RV,DNP,Week 11Nov 9[14],2014,NR
+547,NR,<,NR,Florida,SEC,5-3,0,RV,W 34-10 A Vanderbilt,Week 11Nov 9[14],2014,NR
+548,1,<,2,Florida State (43),ACC,10-0,1476,*1,W 30-26 A Miami (FL),Week 12Nov 16[15],2014,3
+549,2,<,4,Alabama (16),SEC,9-1,1439,*2,W 25-20 H #1 Mississippi State,Week 12Nov 16[15],2014,1
+550,3,<,3,Oregon (1),Pac-12,9-1,1385,*3,DNP,Week 12Nov 16[15],2014,2
+551,4,<,1,Mississippi State,SEC,9-1,1289,4,L 25-20 A #4 Alabama,Week 12Nov 16[15],2014,4
+552,5,<,5,TCU,Big 12,9-1,1237,5,W 34-30 A Kansas,Week 12Nov 16[15],2014,5
+553,6,<,6,Baylor,Big 12,8-1,1232,6,DNP,Week 12Nov 16[15],2014,7
+554,7,<,8,Ohio State,Big Ten,9-1,1167,7,W 31-24 A Minnesota,Week 12Nov 16[15],2014,6
+555,8,<,10,Mississippi,SEC,8-2,1064,8,DNP,Week 12Nov 16[15],2014,8
+556,9,<,16,Georgia,SEC,8-2,948,10,W 34-7 H #9 Auburn,Week 12Nov 16[15],2014,10
+557,10,<,12,Michigan State,Big Ten,8-2,941,9,W 37-15 A Maryland,Week 12Nov 16[15],2014,11
+558,11,<,14,UCLA,Pac-12,8-2,876,12,DNP,Week 12Nov 16[15],2014,9
+559,12,<,13,Kansas State,Big 12,7-2,868,11,DNP,Week 12Nov 16[15],2014,12
+560,13,<,7,Arizona State,Pac-12,8-2,720,14,L 35-27 A Oregon State,Week 12Nov 16[15],2014,13
+561,14,<,22,Wisconsin,Big Ten,8-2,707,15,W 59-24 H #11 Nebraska,Week 12Nov 16[15],2014,16
+562,15,<,17,Arizona,Pac-12,8-2,695,13,W 27-26 H Washington,Week 12Nov 16[15],2014,15
+563,16,<,9,Auburn,SEC,7-3,531,17,L 34-7 A #16 Georgia,Week 12Nov 16[15],2014,14
+564,17,<,24,Georgia Tech,ACC,9-2,523,16,W 28-6 H #18 Clemson,Week 12Nov 16[15],2014,18
+565,18,<,21,Marshall,CUSA,10-0,383,18,W 41-14 H Rice,Week 12Nov 16[15],2014,NR
+566,19,<,NR,Missouri,SEC,8-2,376,20,W 34-27 A Texas A&M,Week 12Nov 16[15],2014,20
+567,20,<,25,Utah,Pac-12,7-3,349,21,W 20-17 (2OT) A Stanford,Week 12Nov 16[15],2014,17
+568,21,<,11,Nebraska,Big Ten,8-2,291,19,L 59-24 A #22 Wisconsin,Week 12Nov 16[15],2014,23
+569,22,<,23,Colorado State,MWC,9-1,281,23,DNP,Week 12Nov 16[15],2014,NR
+570,23,<,NR,Oklahoma,Big 12,7-3,206,22,W 42-30 A Texas Tech,Week 12Nov 16[15],2014,21
+571,24,<,NR,USC,Pac-12,7-3,195,24,W 38-30 H California,Week 12Nov 16[15],2014,19
+572,25,<,19,Duke,ACC,8-2,85,25,L 17-16 H Virginia Tech,Week 12Nov 16[15],2014,NR
+573,RV,<,15,Notre Dame,Ind,7-3,74,RV,L 43-40 (1OT) H Northwestern,Week 12Nov 16[15],2014,NR
+574,RV,<,18,Clemson,ACC,7-3,52,RV,L 28-6 A #24 Georgia Tech,Week 12Nov 16[15],2014,22
+575,RV,<,NR,Boise State,MWC,8-2,29,RV,W 38-29 H San Diego State,Week 12Nov 16[15],2014,NR
+576,RV,<,NR,Louisville,ACC,7-3,29,RV,DNP,Week 12Nov 16[15],2014,24
+577,RV,<,20,LSU,SEC,7-4,26,RV,L 17-0 A Arkansas,Week 12Nov 16[15],2014,NR
+578,RV,<,NR,Minnesota,Big Ten,7-3,10,RV,L 31-24 H #8 Ohio State,Week 12Nov 16[15],2014,25
+579,RV,<,NR,West Virginia,Big 12,6-4,8,RV,DNP,Week 12Nov 16[15],2014,NR
+580,RV,<,NR,Miami (FL),ACC,6-4,3,RV,L 30-26 H #2 Florida State,Week 12Nov 16[15],2014,NR
+581,RV,<,NR,Texas A&M,SEC,7-4,3,RV,L 34-27 H Missouri,Week 12Nov 16[15],2014,NR
+582,RV,<,NR,Arkansas,SEC,5-5,2,RV,W 17-0 H #20 LSU,Week 12Nov 16[15],2014,NR
+583,NR,<,NR,Cincinnati,AAC,6-3,0,RV,W 54-46 H East Carolina,Week 12Nov 16[15],2014,NR
+584,NR,<,NR,Iowa,Big Ten,7-3,0,RV,W 30-14 A Illinois,Week 12Nov 16[15],2014,NR
+585,NR,<,NR,Northern Illinois,MAC,8-2,0,RV,W 27-24 H Toledo,Week 12Nov 16[15],2014,NR
+586,NR,<,NR,Stanford,Pac-12,5-5,0,RV,L 20-17 (2OT) H #25 Utah,Week 12Nov 16[15],2014,NR
+587,NR,<,NR,Texas,Big 12,6-5,0,RV,W 28-7 A Oklahoma State,Week 12Nov 16[15],2014,NR
+588,1,<,1,Florida State (37),ACC,11-0,1458,*2,W 20-17 H Boston College,Week 13Nov 23[16],2014,3
+589,2,<,2,Alabama (21),SEC,10-1,1445,*1,W 48-14 H Western Carolina,Week 13Nov 23[16],2014,1
+590,3,<,3,Oregon (2),Pac-12,10-1,1393,*3,W 44-10 H Colorado,Week 13Nov 23[16],2014,2
+591,4,<,4,Mississippi State,SEC,10-1,1301,4,W 51-0 H Vanderbilt,Week 13Nov 23[16],2014,4
+592,5,<,6,Baylor,Big 12,9-1,1234,6,W 49-28 H Oklahoma State,Week 13Nov 23[16],2014,7
+593,6,<,5,TCU,Big 12,9-1,1233,5,DNP,Week 13Nov 23[16],2014,5
+594,7,<,7,Ohio State,Big Ten,10-1,1163,7,W 42-27 H Indiana,Week 13Nov 23[16],2014,6
+595,8,<,9,Georgia,SEC,9-2,1002,9,W 55-9 H Charleston Southern,Week 13Nov 23[16],2014,9
+596,9,<,11,UCLA,Pac-12,9-2,998,10,W 38-20 H #24 USC,Week 13Nov 23[16],2014,8
+597,10,<,10,Michigan State,Big Ten,9-2,971,8,W 45-3 H Rutgers,Week 13Nov 23[16],2014,10
+598,11,<,12,Kansas State,Big 12,8-2,898,11,W 26-20 A West Virginia,Week 13Nov 23[16],2014,12
+599,12,<,15,Arizona,Pac-12,9-2,807,12,W 42-10 A #20 Utah,Week 13Nov 23[16],2014,11
+600,13,<,13,Arizona State,Pac-12,9-2,790,13,W 52-31 H Washington State,Week 13Nov 23[16],2014,13
+601,14,<,14,Wisconsin,Big Ten,9-2,764,14,W 26-24 A Iowa,Week 13Nov 23[16],2014,14
+602,15,<,16,Auburn,SEC,8-3,597,16,W 31-7 H Samford,Week 13Nov 23[16],2014,15
+603,16,<,17,Georgia Tech,ACC,9-2,581,15,DNP,Week 13Nov 23[16],2014,16
+604,17,<,19,Missouri,SEC,9-2,525,17,W 29-21 A Tennessee,Week 13Nov 23[16],2014,17
+605,18,<,8,Mississippi,SEC,8-3,398,19,L 30-0 A Arkansas,Week 13Nov 23[16],2014,19
+606,19,<,18,Marshall,CUSA,11-0,384,20,W 23-18 A UAB,Week 13Nov 23[16],2014,24
+607,20,<,23,Oklahoma,Big 12,8-3,363,18,W 44-7 H Kansas,Week 13Nov 23[16],2014,20
+608,21,<,22,Colorado State,MWC,10-1,346,21,W 58-20 H New Mexico,Week 13Nov 23[16],2014,NR
+609,22,<,NR,Minnesota,Big Ten,8-3,232,22,W 28-24 A #21 Nebraska,Week 13Nov 23[16],2014,18
+610,23,<,NR,Clemson,ACC,8-3,198,24,W 28-0 H Georgia State,Week 13Nov 23[16],2014,21
+611,24,<,NR,Louisville,ACC,8-3,191,23,W 31-28 A Notre Dame,Week 13Nov 23[16],2014,22
+612,25,<,NR,Boise State,MWC,9-2,96,25,W 63-14 A Wyoming,Week 13Nov 23[16],2014,23
+613,RV,<,NR,Arkansas,SEC,6-5,40,RV,W 30-0 H #8 Mississippi,Week 13Nov 23[16],2014,NR
+614,RV,<,NR,LSU,SEC,7-4,39,RV,DNP,Week 13Nov 23[16],2014,NR
+615,RV,<,20,Utah,Pac-12,7-4,14,RV,L 42-10 H #15 Arizona,Week 13Nov 23[16],2014,25
+616,RV,<,21,Nebraska,Big Ten,8-3,14,RV,L 28-24 H Minnesota,Week 13Nov 23[16],2014,NR
+617,RV,<,25,Duke,ACC,8-3,9,RV,L 45-20 H North Carolina,Week 13Nov 23[16],2014,NR
+618,RV,<,24,USC,Pac-12,7-4,8,RV,L 38-20 A #11 UCLA,Week 13Nov 23[16],2014,NR
+619,RV,<,NR,Memphis,AAC,8-3,3,NR,W 31-20 H South Florida,Week 13Nov 23[16],2014,NR
+620,RV,<,NR,Texas A&M,SEC,7-4,2,RV,DNP,Week 13Nov 23[16],2014,NR
+621,RV,<,NR,West Virginia,Big 12,6-5,2,NR,L 26-20 H #12 Kansas State,Week 13Nov 23[16],2014,NR
+622,RV,<,NR,UCF,AAC,7-3,1,NR,W 53-7 H SMU,Week 13Nov 23[16],2014,NR
+623,NR,<,NR,Cincinnati,AAC,7-3,0,RV,W 41-0 H Connecticut,Week 13Nov 23[16],2014,NR
+624,NR,<,NR,Iowa,Big Ten,7-4,0,RV,L 26-24 H #14 Wisconsin,Week 13Nov 23[16],2014,NR
+625,NR,<,NR,Louisiana Tech,CUSA,7-4,0,RV,L 30-27 (1OT) A Old Dominion,Week 13Nov 23[16],2014,NR
+626,NR,<,NR,Northern Illinois,MAC,9-2,0,RV,W 21-14 A Ohio,Week 13Nov 23[16],2014,NR
+627,NR,<,NR,Notre Dame,Ind,7-4,0,RV,L 31-28 H Louisville,Week 13Nov 23[16],2014,NR
+628,NR,<,NR,Stanford,Pac-12,6-5,0,RV,W 38-17 A California,Week 13Nov 23[16],2014,NR
+629,NR,<,NR,Texas,Big 12,6-5,0,RV,DNP,Week 13Nov 23[16],2014,NR
+630,NR,<,NR,Utah State,MWC,9-3,0,RV,W 41-7 H San Jose State,Week 13Nov 23[16],2014,NR
+631,1,<,2,Alabama (25),SEC,11-1,1426,*1,W 55-44 H #15 Auburn,Week 14Nov 30[17],2014,1
+632,2,<,1,Florida State (29),ACC,12-0,1423,*2,W 24-19 H Florida,Week 14Nov 30[17],2014,4
+633,3,<,3,Oregon (5),Pac-12,11-1,1391,*3,W 47-19 A Oregon State,Week 14Nov 30[17],2014,2
+634,4,<,6,TCU,Big 12,10-1,1274,4,W 48-10 A Texas,Week 14Nov 30[17],2014,3
+635,5,<,5,Baylor,Big 12,10-1,1243,5,W 48-46 N Texas Tech,Week 14Nov 30[17],2014,6
+636,6,<,7,Ohio State,Big Ten,11-1,1192,6,W 42-28 H Michigan,Week 14Nov 30[17],2014,5
+637,7,<,10,Michigan State,Big Ten,10-2,1048,7,W 34-10 A Penn State,Week 14Nov 30[17],2014,8
+638,8,<,12,Arizona,Pac-12,10-2,1027,8,W 42-35 H #13 Arizona State,Week 14Nov 30[17],2014,7
+639,9,<,11,Kansas State,Big 12,9-2,995,9,W 51-13 H Kansas,Week 14Nov 30[17],2014,9
+640,10,<,4,Mississippi State,SEC,10-2,944,10,L 31-17 A #18 Mississippi,Week 14Nov 30[17],2014,10
+641,11,<,14,Wisconsin,Big Ten,10-2,910,11,W 34-24 H #22 Minnesota,Week 14Nov 30[17],2014,13
+642,12,<,16,Georgia Tech,ACC,10-2,823,12,W 30-24 (1OT) A #8 Georgia,Week 14Nov 30[17],2014,11
+643,13,<,18,Mississippi,SEC,9-3,753,14,W 31-17 H #4 Mississippi State,Week 14Nov 30[17],2014,12
+644,14,<,17,Missouri,SEC,10-2,740,13,W 21-14 H Arkansas,Week 14Nov 30[17],2014,16
+645,15,<,8,Georgia,SEC,9-3,606,15,L 30-24 (1OT) H #16 Georgia Tech,Week 14Nov 30[17],2014,14
+646,16,<,9,UCLA,Pac-12,9-3,512,17,L 31-10 H Stanford,Week 14Nov 30[17],2014,15
+647,17,<,13,Arizona State,Pac-12,9-3,495,18,L 42-35 A #12 Arizona,Week 14Nov 30[17],2014,17
+648,18,<,20,Oklahoma,Big 12,8-3,485,16,DNP,Week 14Nov 30[17],2014,20
+649,19,<,23,Clemson,ACC,9-3,418,19,W 35-17 H South Carolina,Week 14Nov 30[17],2014,18
+650,20,<,15,Auburn,SEC,8-4,358,21,L 55-44 A #2 Alabama,Week 14Nov 30[17],2014,19
+651,21,<,24,Louisville,ACC,9-3,346,20,W 44-40 H Kentucky,Week 14Nov 30[17],2014,21
+652,22,<,25,Boise State,MWC,10-2,265,22,W 50-19 H Utah State,Week 14Nov 30[17],2014,22
+653,23,<,NR,LSU,SEC,8-4,145,24,W 23-17 A Texas A&M,Week 14Nov 30[17],2014,24
+654,24,<,NR,Utah,Pac-12,8-4,79,RV,W 38-34 A Colorado,Week 14Nov 30[17],2014,23
+655,25,<,NR,Nebraska,Big Ten,9-3,64,23,W 37-34 (1OT) A Iowa,Week 14Nov 30[17],2014,NR
+656,RV,<,NR,USC,Pac-12,8-4,61,RV,W 49-14 H Notre Dame,Week 14Nov 30[17],2014,25
+657,RV,<,22,Minnesota,Big Ten,8-4,47,25,L 34-24 A #14 Wisconsin,Week 14Nov 30[17],2014,NR
+658,RV,<,19,Marshall,CUSA,11-1,22,RV,L 67-66 (1OT) H Western Kentucky,Week 14Nov 30[17],2014,NR
+659,RV,<,NR,Duke,ACC,9-3,22,RV,W 41-21 H Wake Forest,Week 14Nov 30[17],2014,NR
+660,RV,<,NR,Memphis,AAC,9-3,21,RV,W 41-10 H Connecticut,Week 14Nov 30[17],2014,NR
+661,RV,<,21,Colorado State,MWC,10-2,18,RV,L 27-24 A Air Force,Week 14Nov 30[17],2014,NR
+662,RV,<,NR,Air Force,MWC,9-3,7,RV,W 27-24 H #21 Colorado State,Week 14Nov 30[17],2014,NR
+663,RV,<,NR,Stanford,Pac-12,7-5,4,RV,W 31-10 A #9 UCLA,Week 14Nov 30[17],2014,NR
+664,RV,<,NR,West Virginia,Big 12,7-5,4,NR,W 37-24 A Iowa State,Week 14Nov 30[17],2014,NR
+665,RV,<,NR,Northern Illinois,MAC,10-2,3,RV,W 31-21 A Western Michigan,Week 14Nov 30[17],2014,NR
+666,RV,<,NR,UCF,AAC,8-3,3,RV,W 16-0 A South Florida,Week 14Nov 30[17],2014,NR
+667,RV,<,NR,Cincinnati,AAC,8-3,1,RV,W 14-6 A Temple,Week 14Nov 30[17],2014,NR
+668,NR,<,NR,Arkansas,SEC,6-6,0,RV,L 21-14 A #17 Missouri,Week 14Nov 30[17],2014,NR
+669,NR,<,NR,Louisiana Tech,CUSA,8-4,0,RV,W 76-31 H Rice,Week 14Nov 30[17],2014,NR
+670,1,<,1,Alabama (27),SEC,12-1,1452,*1,W 42-13 N #14 Missouri (SEC CG),Week 15Dec 7[18],2014,1
+671,2,<,2,Florida State (25),ACC,13-0,1436,*2,W 37-35 N #9 Georgia Tech (ACC CG),Week 15Dec 7[18],2014,3
+672,3,<,3,Oregon (8),Pac-12,12-1,1426,*3,W 51-13 N #11 Arizona (Pac-12 CG),Week 15Dec 7[18],2014,2
+673,4,<,5,Baylor,Big 12,11-1,1265,5,W 38-27 H #10 Kansas State,Week 15Dec 7[18],2014,5
+674,5,<,6,Ohio State,Big Ten,12-1,1262,4,W 59-0 N #17 Wisconsin (Big Ten CG),Week 15Dec 7[18],2014,4
+675,6,<,4,TCU,Big 12,11-1,1257,*6,W 55-3 H Iowa State,Week 15Dec 7[18],2014,6
+676,7,<,7,Michigan State,Big Ten,10-2,1105,7,DNP,Week 15Dec 7[18],2014,8
+677,8,<,10,Mississippi State,SEC,10-2,1070,8,DNP,Week 15Dec 7[18],2014,7
+678,9,<,13,Mississippi,SEC,9-3,976,12,DNP,Week 15Dec 7[18],2014,9
+679,10,<,12,Georgia Tech,ACC,10-3,876,9,L 37-35 N #2 Florida State (ACC CG),Week 15Dec 7[18],2014,12
+680,11,<,9,Kansas State,Big 12,9-3,875,10,L 38-27 A #5 Baylor,Week 15Dec 7[18],2014,11
+681,12,<,8,Arizona,Pac-12,10-3,819,11,L 51-13 N #3 Oregon (Pac-12 CG),Week 15Dec 7[18],2014,10
+682,13,<,15,Georgia,SEC,9-3,745,13,DNP,Week 15Dec 7[18],2014,13
+683,14,<,16,UCLA,Pac-12,9-3,663,15,DNP,Week 15Dec 7[18],2014,14
+684,15,<,17,Arizona State,Pac-12,9-3,602,16,DNP,Week 15Dec 7[18],2014,15
+685,16,<,14,Missouri,SEC,10-3,599,14,L 42-13 N #1 Alabama (SEC CG),Week 15Dec 7[18],2014,16
+686,17,<,11,Wisconsin,Big Ten,10-3,542,17,L 59-0 N #4 Ohio State (Big Ten CG),Week 15Dec 7[18],2014,18
+687,18,<,19,Clemson,ACC,9-3,509,18,DNP,Week 15Dec 7[18],2014,17
+688,19,<,20,Auburn,SEC,8-4,450,19,DNP,Week 15Dec 7[18],2014,19
+689,20,<,21,Louisville,ACC,9-3,406,20,DNP,Week 15Dec 7[18],2014,21
+690,21,<,22,Boise State,MWC,11-2,368,21,W 28-14 H Fresno State (MWC CG),Week 15Dec 7[18],2014,20
+691,22,<,23,LSU,SEC,8-4,221,23,DNP,Week 15Dec 7[18],2014,23
+692,23,<,24,Utah,Pac-12,8-4,134,25,DNP,Week 15Dec 7[18],2014,22
+693,24,<,NR,USC,Pac-12,8-4,112,RV,DNP,Week 15Dec 7[18],2014,24
+694,25,<,25,Nebraska,Big Ten,9-3,79,22,DNP,Week 15Dec 7[18],2014,NR
+695,RV,<,NR,Minnesota,Big Ten,8-4,58,RV,DNP,Week 15Dec 7[18],2014,25
+696,RV,<,18,Oklahoma,Big 12,8-4,46,24,L 38-35 (1OT) H Oklahoma State,Week 15Dec 7[18],2014,NR
+697,RV,<,NR,Marshall,CUSA,12-1,36,RV,W 26-23 H Louisiana Tech (C-USA CG),Week 15Dec 7[18],2014,NR
+698,RV,<,NR,Memphis,AAC,9-3,34,RV,DNP,Week 15Dec 7[18],2014,NR
+699,RV,<,NR,Duke,ACC,9-3,32,RV,DNP,Week 15Dec 7[18],2014,NR
+700,RV,<,NR,Colorado State,MWC,10-2,13,RV,DNP,Week 15Dec 7[18],2014,NR
+701,RV,<,NR,Northern Illinois,MAC,11-2,11,RV,W 51-17 N Bowling Green (MAC CG),Week 15Dec 7[18],2014,NR
+702,RV,<,NR,Air Force,MWC,9-3,7,RV,DNP,Week 15Dec 7[18],2014,NR
+703,RV,<,NR,Cincinnati,AAC,9-3,5,RV,W 38-31 H Houston,Week 15Dec 7[18],2014,NR
+704,RV,<,NR,UCF,AAC,9-3,4,RV,W 32-30 A East Carolina,Week 15Dec 7[18],2014,NR
+705,RV,<,NR,West Virginia,Big 12,7-5,4,NR,DNP,Week 15Dec 7[18],2014,NR
+706,RV,<,NR,Stanford,Pac-12,7-5,1,RV,DNP,Week 15Dec 7[18],2014,NR
+707,NR,<,NR,BYU,Ind,8-4,0,RV,DNP,Week 15Dec 7[18],2014,NR
+708,1,<,5,Ohio State (59),Big Ten,14-1,1475,*1,W 42-20 N #3 Oregon (CFP Final),Week 16 (Final)Jan 13[19],2014,
+709,2,<,3,Oregon,Pac-12,13-2,1402,2,L 42-20 N #5 Ohio State (CFP Final),Week 16 (Final)Jan 13[19],2014,
+710,3,<,6,TCU,Big 12,12-1,1349,3,W 42-3 N #9 Mississippi (Peach),Week 16 (Final)Jan 13[19],2014,
+711,4,<,1,Alabama,SEC,12-2,1297,4,L 42-35 N #5 Ohio State (CFP Semi/Sugar),Week 16 (Final)Jan 13[19],2014,
+712,5,<,2,Florida State,ACC,13-1,1212,6,L 59-20 N #3 Oregon (CFP Semi/Rose),Week 16 (Final)Jan 13[19],2014,
+713,5,<,7,Michigan State,Big Ten,11-2,1212,5,W 42-41 N #4 Baylor (Cotton),Week 16 (Final)Jan 13[19],2014,
+714,7,<,4,Baylor,Big 12,11-2,1098,8,L 42-41 N #7 Michigan State (Cotton),Week 16 (Final)Jan 13[19],2014,
+715,8,<,10,Georgia Tech,ACC,11-3,1071,7,W 49-34 N #8 Mississippi State (Orange),Week 16 (Final)Jan 13[19],2014,
+716,9,<,13,Georgia,SEC,10-3,925,9,W 37-14 N #20 Louisville (Belk),Week 16 (Final)Jan 13[19],2014,
+717,10,<,14,UCLA,Pac-12,10-3,908,10,W 40-35 N #11 Kansas State (Alamo),Week 16 (Final)Jan 13[19],2014,
+718,11,<,8,Mississippi State,SEC,10-3,767,12,L 49-34 N #10 Georgia Tech (Orange),Week 16 (Final)Jan 13[19],2014,
+719,12,<,15,Arizona State,Pac-12,10-3,756,14,W 36-31 N Duke (Sun),Week 16 (Final)Jan 13[19],2014,
+720,13,<,17,Wisconsin,Big Ten,11-3,724,13,W 34-31 (1OT) N #19 Auburn (Outback),Week 16 (Final)Jan 13[19],2014,
+721,14,<,16,Missouri,SEC,11-3,710,11,W 33-17 N Minnesota (Citrus),Week 16 (Final)Jan 13[19],2014,
+722,15,<,18,Clemson,ACC,10-3,683,15,W 40-6 N Oklahoma (Russell Athletic),Week 16 (Final)Jan 13[19],2014,
+723,16,<,21,Boise State,MWC,12-2,653,16,W 38-30 N #12 Arizona (Fiesta),Week 16 (Final)Jan 13[19],2014,
+724,17,<,9,Mississippi,SEC,9-4,543,19,L 42-3 N #6 TCU (Peach),Week 16 (Final)Jan 13[19],2014,
+725,18,<,11,Kansas State,Big 12,9-4,509,18,L 40-35 N #14 UCLA (Alamo),Week 16 (Final)Jan 13[19],2014,
+726,19,<,12,Arizona,Pac-12,10-4,499,17,L 38-30 N #21 Boise State (Fiesta),Week 16 (Final)Jan 13[19],2014,
+727,20,<,24,USC,Pac-12,9-4,315,21,W 45-42 N #25 Nebraska (Holiday),Week 16 (Final)Jan 13[19],2014,
+728,21,<,23,Utah,Pac-12,9-4,302,20,W 45-10 N Colorado State (Las Vegas),Week 16 (Final)Jan 13[19],2014,
+729,22,<,19,Auburn,SEC,8-5,216,23,L 34-31 (1OT) N #17 Wisconsin (Outback),Week 16 (Final)Jan 13[19],2014,
+730,23,<,NR,Marshall,CUSA,13-1,161,22,W 52-23 N Northern Illinois (Boca Raton),Week 16 (Final)Jan 13[19],2014,
+731,24,<,20,Louisville,ACC,9-4,116,24,L 37-14 N #13 Georgia (Belk),Week 16 (Final)Jan 13[19],2014,
+732,25,<,NR,Memphis,AAC,10-3,94,25,W 55-48 (2OT) N BYU (Miami Beach),Week 16 (Final)Jan 13[19],2014,
+733,RV,<,NR,Notre Dame,Ind,8-5,28,RV,W 31-28 N #22 LSU (Music City),Week 16 (Final)Jan 13[19],2014,
+734,RV,<,NR,Stanford,Pac-12,8-5,27,RV,W 45-21 N Maryland (Foster Farms),Week 16 (Final)Jan 13[19],2014,
+735,RV,<,25,Nebraska,Big Ten,9-4,22,RV,L 45-42 N #24 USC (Holiday),Week 16 (Final)Jan 13[19],2014,
+736,RV,<,NR,Air Force,MWC,10-3,21,RV,W 38-24 N Western Michigan (Idaho Potato),Week 16 (Final)Jan 13[19],2014,
+737,RV,<,NR,Duke,ACC,9-4,18,RV,L 36-31 N #15 Arizona State (Sun),Week 16 (Final)Jan 13[19],2014,
+738,RV,<,22,LSU,SEC,8-5,12,RV,L 31-28 N Notre Dame (Music City),Week 16 (Final)Jan 13[19],2014,
+739,RV,<,NR,Utah State,MWC,10-4,11,RV,W 21-6 N UTEP (New Mexico),Week 16 (Final)Jan 13[19],2014,
+740,RV,<,NR,Arkansas,SEC,7-6,10,RV,W 31-7 N Texas (Texas),Week 16 (Final)Jan 13[19],2014,
+741,RV,<,NR,Minnesota,Big Ten,8-5,9,RV,L 33-17 N #16 Missouri (Citrus),Week 16 (Final)Jan 13[19],2014,
+742,RV,<,NR,Oklahoma,Big 12,8-5,7,RV,L 40-6 N #18 Clemson (Russell Athletic),Week 16 (Final)Jan 13[19],2014,
+743,RV,<,NR,Texas A&M,SEC,8-5,7,RV,L 45-21 N Stanford (Foster Farms),Week 16 (Final)Jan 13[19],2014,
+744,RV,<,NR,Northern Illinois,MAC,11-3,4,RV,L 52-23 N Marshall (Boca Raton),Week 16 (Final)Jan 13[19],2014,
+745,RV,<,NR,Colorado State,MWC,10-3,2,NR,L 45-10 N #23 Utah (Las Vegas),Week 16 (Final)Jan 13[19],2014,
+746,NR,<,NR,Louisiana Tech,CUSA,9-5,0,RV,W 35-18 N Illinois (Heart of Dallas),Week 16 (Final)Jan 13[19],2014,
+747,NR,<,NR,Navy,Ind,8-5,0,RV,W 17-16 N San Diego State (Poinsettia),Week 16 (Final)Jan 13[19],2014,
+748,NR,<,NR,Oklahoma State,Big 12,7-6,0,RV,W 30-22 N Washington (Cactus),Week 16 (Final)Jan 13[19],2014,
+749,NR,<,NR,Rutgers,Big Ten,8-5,0,RV,W 40-21 N North Carolina (Quick Lane),Week 16 (Final)Jan 13[19],2014,
+750,NR,<,NR,Washington,Pac-12,8-6,0,RV,L 30-22 N Oklahoma State (Cactus),Week 16 (Final)Jan 13[19],2014,
