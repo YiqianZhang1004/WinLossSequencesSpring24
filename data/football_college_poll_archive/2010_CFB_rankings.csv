@@ -1,0 +1,742 @@
+,Rank,Rank.1,Rank.2,Team (FPV),Conf,Rec,Pts,CP,Last Week,Date,Year,BCS
+0,1,<,1,Alabama (54),SEC,0-0,1491,*1,DNP,PreseasonAug 21,2010,
+1,2,<,5,Ohio State (3),Big Ten,0-0,1400,*2,DNP,PreseasonAug 21,2010,
+2,3,<,4,Boise State (1),WAC,0-0,1336,5,DNP,PreseasonAug 21,2010,
+3,4,<,3,Florida,SEC,0-0,1237,3,DNP,PreseasonAug 21,2010,
+4,5,<,2,Texas (1),Big 12,0-0,1223,4,DNP,PreseasonAug 21,2010,
+5,6,<,6,TCU,MWC,0-0,1160,7,DNP,PreseasonAug 21,2010,
+6,7,<,NR,Oklahoma (1),Big 12,0-0,1104,8,DNP,PreseasonAug 21,2010,
+7,8,<,14,Nebraska,Big 12,0-0,1033,9,DNP,PreseasonAug 21,2010,
+8,9,<,7,Iowa,Big Ten,0-0,1007,10,DNP,PreseasonAug 21,2010,
+9,10,<,10,Virginia Tech,ACC,0-0,973,6,DNP,PreseasonAug 21,2010,
+10,11,<,11,Oregon,Pac-10,0-0,870,11,DNP,PreseasonAug 21,2010,
+11,12,<,16,Wisconsin,Big Ten,0-0,822,12,DNP,PreseasonAug 21,2010,
+12,13,<,19,Miami (FL),ACC,0-0,785,13,DNP,PreseasonAug 21,2010,
+13,14,<,22,USC,Pac-10,0-0,590,NR,DNP,PreseasonAug 21,2010,
+14,15,<,15,Pittsburgh,Big East,0-0,516,15,DNP,PreseasonAug 21,2010,
+15,16,<,13,Georgia Tech,ACC,0-0,511,17,DNP,PreseasonAug 21,2010,
+16,17,<,NR,Arkansas,SEC,0-0,496,19,DNP,PreseasonAug 21,2010,
+17,18,<,NR,North Carolina,ACC,0-0,397,18,DNP,PreseasonAug 21,2010,
+18,19,<,9,Penn State,Big Ten,0-0,382,14,DNP,PreseasonAug 21,2010,
+19,20,<,NR,Florida State,ACC,0-0,379,20,DNP,PreseasonAug 21,2010,
+20,21,<,17,LSU,SEC,0-0,300,16,DNP,PreseasonAug 21,2010,
+21,22,<,NR,Auburn,SEC,0-0,296,23,DNP,PreseasonAug 21,2010,
+22,23,<,NR,Georgia,SEC,0-0,206,21,DNP,PreseasonAug 21,2010,
+23,24,<,NR,Oregon State,Pac-10,0-0,198,22,DNP,PreseasonAug 21,2010,
+24,25,<,25,West Virginia,Big East,0-0,184,24,DNP,PreseasonAug 21,2010,
+25,RV,<,8,Cincinnati,Big East,0-0,108,RV,DNP,PreseasonAug 21,2010,
+26,RV,<,NR,Stanford,Pac-10,0-0,81,RV,DNP,PreseasonAug 21,2010,
+27,RV,<,18,Utah,MWC,0-0,80,24,DNP,PreseasonAug 21,2010,
+28,RV,<,NR,South Carolina,SEC,0-0,71,RV,DNP,PreseasonAug 21,2010,
+29,RV,<,NR,Houston,CUSA,0-0,66,RV,DNP,PreseasonAug 21,2010,
+30,RV,<,NR,Connecticut,Big East,0-0,32,RV,DNP,PreseasonAug 21,2010,
+31,RV,<,NR,Notre Dame,Ind,0-0,31,RV,DNP,PreseasonAug 21,2010,
+32,RV,<,NR,Missouri,Big 12,0-0,27,RV,DNP,PreseasonAug 21,2010,
+33,RV,<,12,BYU,MWC,0-0,19,RV,DNP,PreseasonAug 21,2010,
+34,RV,<,24,Clemson,ACC,0-0,15,RV,DNP,PreseasonAug 21,2010,
+35,RV,<,NR,Arizona,Pac-10,0-0,15,RV,DNP,PreseasonAug 21,2010,
+36,RV,<,21,Texas Tech,Big 12,0-0,14,RV,DNP,PreseasonAug 21,2010,
+37,RV,<,NR,Navy,Ind,0-0,12,RV,DNP,PreseasonAug 21,2010,
+38,RV,<,NR,Washington,Pac-10,0-0,8,RV,DNP,PreseasonAug 21,2010,
+39,RV,<,NR,Texas A&M,Big 12,0-0,7,RV,DNP,PreseasonAug 21,2010,
+40,RV,<,20,Mississippi,SEC,0-0,6,RV,DNP,PreseasonAug 21,2010,
+41,RV,<,NR,Oklahoma State,Big 12,0-0,3,RV,DNP,PreseasonAug 21,2010,
+42,RV,<,23,Central Michigan,MAC,0-0,2,RV,DNP,PreseasonAug 21,2010,
+43,RV,<,NR,Middle Tennessee,Sun Belt,0-0,2,NR,DNP,PreseasonAug 21,2010,
+44,RV,<,NR,Temple,MAC,0-0,2,RV,DNP,PreseasonAug 21,2010,
+45,RV,<,NR,Boston College,ACC,0-0,1,RV,DNP,PreseasonAug 21,2010,
+46,RV,<,NR,SMU,CUSA,0-0,1,RV,DNP,PreseasonAug 21,2010,
+47,RV,<,NR,UCF,CUSA,0-0,1,NR,DNP,PreseasonAug 21,2010,
+48,NR,<,NR,Arizona State,Pac-10,0-0,0,RV,DNP,PreseasonAug 21,2010,
+49,NR,<,NR,California,Pac-10,0-0,0,RV,DNP,PreseasonAug 21,2010,
+50,NR,<,NR,Michigan State,Big Ten,0-0,0,RV,DNP,PreseasonAug 21,2010,
+51,NR,<,NR,Mississippi State,SEC,0-0,0,RV,DNP,PreseasonAug 21,2010,
+52,NR,<,NR,Nevada,WAC,0-0,0,RV,DNP,PreseasonAug 21,2010,
+53,NR,<,NR,Northern Illinois,MAC,0-0,0,RV,DNP,PreseasonAug 21,2010,
+54,NR,<,NR,Northwestern,Big Ten,0-0,0,RV,DNP,PreseasonAug 21,2010,
+55,NR,<,NR,South Florida,Big East,0-0,0,RV,DNP,PreseasonAug 21,2010,
+56,1,<,1,Alabama (47),SEC,1-0,1484,*1,W 48-3 H San Jose State,Week 1Sep 7,2010,
+57,2,<,2,Ohio State (4),Big Ten,1-0,1412,*2,W 45-7 H Marshall,Week 1Sep 7,2010,
+58,3,<,3,Boise State (8),WAC,1-0,1399,3,W 33-30 N #10 Virginia Tech,Week 1Sep 7,2010,
+59,4,<,6,TCU,MWC,1-0,1256,5,W 30-21 N #24 Oregon State,Week 1Sep 7,2010,
+60,5,<,5,Texas (1),Big 12,1-0,1192,4,W 34-17 A Rice,Week 1Sep 7,2010,
+61,6,<,8,Nebraska,Big 12,1-0,1105,7,W 49-10 H Western Kentucky,Week 1Sep 7,2010,
+62,7,<,11,Oregon,Pac-10,1-0,1077,8,W 72-0 H New Mexico,Week 1Sep 7,2010,
+63,8,<,4,Florida,SEC,1-0,1065,6,W 34-12 H Miami (OH),Week 1Sep 7,2010,
+64,9,<,9,Iowa,Big Ten,1-0,1044,9,W 37-7 H Eastern Illinois,Week 1Sep 7,2010,
+65,10,<,7,Oklahoma,Big 12,1-0,917,10,W 31-24 H Utah State,Week 1Sep 7,2010,
+66,11,<,12,Wisconsin,Big Ten,1-0,881,11,W 41-21 A UNLV,Week 1Sep 7,2010,
+67,12,<,13,Miami (FL),ACC,1-0,877,12,W 45-0 H Florida A&M,Week 1Sep 7,2010,
+68,13,<,10,Virginia Tech,ACC,0-1,782,13,L 33-30 N #3 Boise State,Week 1Sep 7,2010,
+69,14,<,17,Arkansas,SEC,1-0,572,15,W 44-3 H Tennessee Tech,Week 1Sep 7,2010,
+70,15,<,16,Georgia Tech,ACC,1-0,555,17,W 41-10 H South Carolina State,Week 1Sep 7,2010,
+71,16,<,14,USC,Pac-10,1-0,520,NR,W 49-36 A Hawaii,Week 1Sep 7,2010,
+72,17,<,20,Florida State,ACC,1-0,504,18,W 59-6 H Samford,Week 1Sep 7,2010,
+73,18,<,19,Penn State,Big Ten,1-0,418,14,W 44-14 H Youngstown State,Week 1Sep 7,2010,
+74,19,<,21,LSU,SEC,1-0,384,16,W 30-24 N #18 North Carolina,Week 1Sep 7,2010,
+75,20,<,NR,Utah,MWC,1-0,365,20,W 27-24 (1OT) H #15 Pittsburgh,Week 1Sep 7,2010,
+76,21,<,22,Auburn,SEC,1-0,362,20,W 52-26 H Arkansas State,Week 1Sep 7,2010,
+77,22,<,23,Georgia,SEC,1-0,353,19,W 55-7 H Louisiana-Lafayette,Week 1Sep 7,2010,
+78,23,<,25,West Virginia,Big East,1-0,226,22,W 31-0 H Coastal Carolina,Week 1Sep 7,2010,
+79,24,<,NR,South Carolina,SEC,1-0,164,25,W 41-13 H Southern Miss,Week 1Sep 7,2010,
+80,25,<,NR,Stanford,Pac-10,1-0,96,RV,W 52-17 H Sacramento State,Week 1Sep 7,2010,
+81,RV,<,NR,Michigan,Big Ten,1-0,71,RV,W 30-10 H Connecticut,Week 1Sep 7,2010,
+82,RV,<,NR,Houston,CUSA,1-0,60,RV,W 68-28 H Texas State,Week 1Sep 7,2010,
+83,RV,<,15,Pittsburgh,Big East,0-1,59,RV,L 27-24 (1OT) A Utah,Week 1Sep 7,2010,
+84,RV,<,24,Oregon State,Pac-10,0-1,58,RV,L 30-21 N #6 TCU,Week 1Sep 7,2010,
+85,RV,<,18,North Carolina,ACC,0-1,45,RV,L 30-24 N #21 LSU,Week 1Sep 7,2010,
+86,RV,<,NR,Notre Dame,Ind,1-0,38,RV,W 23-12 H Purdue,Week 1Sep 7,2010,
+87,RV,<,NR,Arizona,Pac-10,1-0,30,23,W 41-2 A Toledo,Week 1Sep 7,2010,
+88,RV,<,NR,BYU,MWC,1-0,30,24,W 23-17 H Washington,Week 1Sep 7,2010,
+89,RV,<,NR,Missouri,Big 12,1-0,25,RV,W 23-13 N Illinois,Week 1Sep 7,2010,
+90,RV,<,NR,Fresno State,WAC,1-0,24,RV,W 28-14 H Cincinnati,Week 1Sep 7,2010,
+91,RV,<,NR,Kansas State,Big 12,1-0,12,RV,W 31-22 H UCLA,Week 1Sep 7,2010,
+92,RV,<,NR,Clemson,ACC,1-0,11,RV,W 35-10 H North Texas,Week 1Sep 7,2010,
+93,RV,<,NR,Texas A&M,Big 12,1-0,10,RV,W 48-7 H Stephen F. Austin,Week 1Sep 7,2010,
+94,RV,<,NR,Oklahoma State,Big 12,1-0,7,RV,W 65-17 H Washington State,Week 1Sep 7,2010,
+95,RV,<,NR,Cincinnati,Big East,0-1,4,RV,L 28-14 A Fresno State,Week 1Sep 7,2010,
+96,RV,<,NR,Texas Tech,Big 12,1-0,3,RV,W 35-27 H SMU,Week 1Sep 7,2010,
+97,RV,<,NR,Michigan State,Big Ten,1-0,2,RV,W 38-14 H Western Michigan,Week 1Sep 7,2010,
+98,RV,<,NR,East Carolina,CUSA,1-0,1,NR,W 51-49 H Tulsa,Week 1Sep 7,2010,
+99,NR,<,NR,Air Force,MWC,1-0,0,RV,W 65-21 H Northwestern State,Week 1Sep 7,2010,
+100,NR,<,NR,Arizona State,Pac-10,1-0,0,RV,W 54-9 H Portland State,Week 1Sep 7,2010,
+101,NR,<,NR,Boston College,ACC,1-0,0,RV,W 38-20 H Weber State,Week 1Sep 7,2010,
+102,NR,<,NR,California,Pac-10,1-0,0,RV,W 52-3 H UC Davis,Week 1Sep 7,2010,
+103,NR,<,NR,Connecticut,Big East,0-1,0,RV,L 30-10 A Michigan,Week 1Sep 7,2010,
+104,NR,<,NR,Maryland,ACC,1-0,0,RV,W 17-14 N Navy,Week 1Sep 7,2010,
+105,NR,<,NR,Mississippi State,SEC,1-0,0,RV,W 49-7 H Memphis,Week 1Sep 7,2010,
+106,NR,<,NR,NC State,ACC,1-0,0,RV,W 48-7 H Western Carolina,Week 1Sep 7,2010,
+107,NR,<,NR,Nevada,WAC,1-0,0,RV,W 49-24 H Eastern Washington,Week 1Sep 7,2010,
+108,NR,<,NR,Northwestern,Big Ten,1-0,0,RV,W 23-21 A Vanderbilt,Week 1Sep 7,2010,
+109,NR,<,NR,South Florida,Big East,1-0,0,RV,W 59-14 H Stony Brook,Week 1Sep 7,2010,
+110,NR,<,NR,Temple,MAC,1-0,0,RV,W 31-24 H Villanova,Week 1Sep 7,2010,
+111,NR,<,NR,Tennessee,SEC,1-0,0,RV,W 50-0 H Tennessee-Martin,Week 1Sep 7,2010,
+112,NR,<,NR,Washington,Pac-10,0-1,0,RV,L 23-17 A BYU,Week 1Sep 7,2010,
+113,1,<,1,Alabama (52),SEC,2-0,1466,*1,W 24-3 H #18 Penn State,Week 2Sep 12,2010,
+114,2,<,2,Ohio State (5),Big Ten,2-0,1410,*2,W 36-24 H #12 Miami (FL),Week 2Sep 12,2010,
+115,3,<,3,Boise State (1),WAC,1-0,1306,3,DNP,Week 2Sep 12,2010,
+116,4,<,4,TCU,MWC,2-0,1235,5,W 62-7 H Tennessee Tech,Week 2Sep 12,2010,
+117,5,<,7,Oregon,Pac-10,2-0,1172,6,W 48-13 A Tennessee,Week 2Sep 12,2010,
+118,6,<,5,Texas (1),Big 12,2-0,1150,4,W 34-7 H Wyoming,Week 2Sep 12,2010,
+119,7,<,10,Oklahoma,Big 12,2-0,1123,9,W 47-17 H #17 Florida State,Week 2Sep 12,2010,
+120,8,<,6,Nebraska,Big 12,2-0,1083,8,W 38-17 H Idaho,Week 2Sep 12,2010,
+121,9,<,9,Iowa,Big Ten,2-0,1037,10,W 35-7 H Iowa State,Week 2Sep 12,2010,
+122,10,<,8,Florida,SEC,2-0,1036,7,W 38-14 H South Florida,Week 2Sep 12,2010,
+123,11,<,11,Wisconsin,Big Ten,2-0,855,11,W 27-14 H San Jose State,Week 2Sep 12,2010,
+124,12,<,14,Arkansas,SEC,2-0,755,13,W 31-7 H Louisiana-Monroe,Week 2Sep 12,2010,
+125,13,<,24,South Carolina,SEC,2-0,642,16,W 17-6 H #22 Georgia,Week 2Sep 12,2010,
+126,14,<,20,Utah,MWC,2-0,627,14,W 38-10 H UNLV,Week 2Sep 12,2010,
+127,15,<,19,LSU,SEC,2-0,595,12,W 27-3 A Vanderbilt,Week 2Sep 12,2010,
+128,16,<,21,Auburn,SEC,2-0,538,15,W 17-14 A Mississippi State,Week 2Sep 12,2010,
+129,17,<,12,Miami (FL),ACC,1-1,530,17,L 36-24 A #2 Ohio State,Week 2Sep 12,2010,
+130,18,<,16,USC,Pac-10,2-0,481,NR,W 17-14 H Virginia,Week 2Sep 12,2010,
+131,19,<,25,Stanford,Pac-10,2-0,446,19,W 35-0 A UCLA,Week 2Sep 12,2010,
+132,20,<,NR,Michigan,Big Ten,2-0,437,22,W 28-24 A Notre Dame,Week 2Sep 12,2010,
+133,21,<,23,West Virginia,Big East,2-0,197,21,W 24-21 (1OT) A Marshall,Week 2Sep 12,2010,
+134,22,<,18,Penn State,Big Ten,1-1,171,20,L 24-3 A #1 Alabama,Week 2Sep 12,2010,
+135,23,<,NR,Houston,CUSA,2-0,169,23,W 54-24 H UTEP,Week 2Sep 12,2010,
+136,24,<,NR,Arizona,Pac-10,2-0,138,18,W 52-6 H Citadel,Week 2Sep 12,2010,
+137,25,<,NR,Oregon State,Pac-10,0-1,75,RV,DNP,Week 2Sep 12,2010,
+138,RV,<,NR,Pittsburgh,Big East,1-1,62,RV,W 38-16 H New Hampshire,Week 2Sep 12,2010,
+139,RV,<,NR,Fresno State,WAC,1-0,48,RV,DNP,Week 2Sep 12,2010,
+140,RV,<,NR,Air Force,MWC,2-0,46,RV,W 35-14 H BYU,Week 2Sep 12,2010,
+141,RV,<,NR,California,Pac-10,2-0,45,24,W 52-7 H Colorado,Week 2Sep 12,2010,
+142,RV,<,22,Georgia,SEC,1-1,42,RV,L 17-6 A #24 South Carolina,Week 2Sep 12,2010,
+143,RV,<,17,Florida State,ACC,1-1,41,RV,L 47-17 A #10 Oklahoma,Week 2Sep 12,2010,
+144,RV,<,NR,Missouri,Big 12,2-0,37,25,W 50-6 H McNeese State,Week 2Sep 12,2010,
+145,RV,<,15,Georgia Tech,ACC,1-1,35,RV,L 28-25 A Kansas,Week 2Sep 12,2010,
+146,RV,<,NR,Clemson,ACC,2-0,25,RV,W 58-21 H Presbyterian,Week 2Sep 12,2010,
+147,RV,<,NR,North Carolina,ACC,0-1,23,RV,DNP,Week 2Sep 12,2010,
+148,RV,<,NR,Texas A&M,Big 12,2-0,18,RV,W 48-16 H Louisiana Tech,Week 2Sep 12,2010,
+149,RV,<,NR,Texas Tech,Big 12,2-0,17,RV,W 52-17 A New Mexico,Week 2Sep 12,2010,
+150,RV,<,NR,Michigan State,Big Ten,2-0,15,RV,W 30-17 A Florida Atlantic,Week 2Sep 12,2010,
+151,RV,<,NR,James Madison,Other,2-0,11,NR,W 21-16 A #13 Virginia Tech,Week 2Sep 12,2010,
+152,RV,<,NR,Kansas State,Big 12,2-0,10,RV,W 48-24 H Missouri State,Week 2Sep 12,2010,
+153,RV,<,NR,Oklahoma State,Big 12,2-0,10,RV,W 41-38 H Troy,Week 2Sep 12,2010,
+154,RV,<,NR,Maryland,ACC,2-0,6,RV,W 62-3 H Morgan State,Week 2Sep 12,2010,
+155,RV,<,NR,East Carolina,CUSA,2-0,4,RV,W 49-27 H Memphis,Week 2Sep 12,2010,
+156,RV,<,NR,Nevada,WAC,2-0,2,RV,W 51-6 H Colorado State,Week 2Sep 12,2010,
+157,RV,<,NR,Baylor,Big 12,2-0,1,NR,W 34-6 H Buffalo,Week 2Sep 12,2010,
+158,RV,<,NR,Boston College,ACC,2-0,1,RV,W 26-13 H Kent State,Week 2Sep 12,2010,
+159,RV,<,NR,NC State,ACC,2-0,1,NR,W 28-21 A UCF,Week 2Sep 12,2010,
+160,RV,<,NR,Northwestern,Big Ten,2-0,1,RV,W 37-3 H Illinois State,Week 2Sep 12,2010,
+161,NR,<,13,Virginia Tech,ACC,0-2,0,RV,L 21-16 H James Madison,Week 2Sep 12,2010,
+162,NR,<,NR,Arizona State,Pac-10,2-0,0,RV,W 41-20 H Northern Arizona,Week 2Sep 12,2010,
+163,NR,<,NR,BYU,MWC,1-1,0,RV,L 35-14 A Air Force,Week 2Sep 12,2010,
+164,NR,<,NR,Cincinnati,Big East,1-1,0,RV,W 40-7 H Indiana State,Week 2Sep 12,2010,
+165,NR,<,NR,Connecticut,Big East,1-1,0,RV,W 62-3 H Texas Southern,Week 2Sep 12,2010,
+166,NR,<,NR,Mississippi State,SEC,1-1,0,RV,L 17-14 H #21 Auburn,Week 2Sep 12,2010,
+167,NR,<,NR,Notre Dame,Ind,1-1,0,RV,L 28-24 H Michigan,Week 2Sep 12,2010,
+168,NR,<,NR,Temple,MAC,2-0,0,RV,W 13-10 (1OT) H Central Michigan,Week 2Sep 12,2010,
+169,NR,<,NR,Washington,Pac-10,1-1,0,RV,W 41-20 H Syracuse,Week 2Sep 12,2010,
+170,1,<,1,Alabama (53),SEC,3-0,1492,*1,W 62-13 A Duke,Week 3Sep 19,2010,
+171,2,<,2,Ohio State (5),Big Ten,3-0,1435,*2,W 43-7 H Ohio,Week 3Sep 19,2010,
+172,3,<,3,Boise State (1),WAC,2-0,1333,3,W 51-6 A Wyoming,Week 3Sep 19,2010,
+173,4,<,4,TCU,MWC,3-0,1280,5,W 45-10 H Baylor,Week 3Sep 19,2010,
+174,5,<,5,Oregon,Pac-10,3-0,1238,6,W 69-0 H Portland State,Week 3Sep 19,2010,
+175,6,<,8,Nebraska,Big 12,3-0,1175,*7,W 56-21 A Washington,Week 3Sep 19,2010,
+176,7,<,6,Texas (1),Big 12,3-0,1164,4,W 24-14 A Texas Tech,Week 3Sep 19,2010,
+177,8,<,7,Oklahoma,Big 12,3-0,1114,9,W 27-24 H Air Force,Week 3Sep 19,2010,
+178,9,<,10,Florida,SEC,3-0,1044,8,W 31-17 A Tennessee,Week 3Sep 19,2010,
+179,10,<,12,Arkansas,SEC,3-0,903,11,W 31-24 A Georgia,Week 3Sep 19,2010,
+180,11,<,11,Wisconsin,Big Ten,3-0,803,10,W 20-19 H Arizona State,Week 3Sep 19,2010,
+181,12,<,13,South Carolina,SEC,3-0,739,15,W 38-19 H Furman,Week 3Sep 19,2010,
+182,13,<,14,Utah,MWC,3-0,703,13,W 56-14 A New Mexico,Week 3Sep 19,2010,
+183,14,<,24,Arizona,Pac-10,3-0,663,16,W 34-27 H #9 Iowa,Week 3Sep 19,2010,
+184,15,<,15,LSU,SEC,3-0,654,12,W 29-7 H Mississippi State,Week 3Sep 19,2010,
+185,16,<,19,Stanford,Pac-10,3-0,606,17,W 68-24 H Wake Forest,Week 3Sep 19,2010,
+186,17,<,16,Auburn,SEC,3-0,600,14,W 27-24 (1OT) H Clemson,Week 3Sep 19,2010,
+187,18,<,9,Iowa,Big Ten,2-1,482,18,L 34-27 A #24 Arizona,Week 3Sep 19,2010,
+188,19,<,17,Miami (FL),ACC,1-1,472,19,DNP,Week 3Sep 19,2010,
+189,20,<,18,USC,Pac-10,3-0,414,NR,W 32-21 A Minnesota,Week 3Sep 19,2010,
+190,21,<,20,Michigan,Big Ten,3-0,291,22,W 42-37 H Massachusetts,Week 3Sep 19,2010,
+191,22,<,21,West Virginia,Big East,3-0,258,21,W 31-17 H Maryland,Week 3Sep 19,2010,
+192,23,<,22,Penn State,Big Ten,2-1,198,20,W 24-0 H Kent State,Week 3Sep 19,2010,
+193,24,<,25,Oregon State,Pac-10,1-1,75,RV,W 35-28 H Louisville,Week 3Sep 19,2010,
+194,25,<,NR,Michigan State,Big Ten,3-0,45,23,W 34-31 (1OT) H Notre Dame,Week 3Sep 19,2010,
+195,RV,<,NR,Air Force,MWC,2-1,44,RV,L 27-24 A #7 Oklahoma,Week 3Sep 19,2010,
+196,RV,<,NR,Nevada,WAC,3-0,41,RV,W 52-31 H California,Week 3Sep 19,2010,
+197,RV,<,NR,Florida State,ACC,2-1,40,RV,W 34-10 H BYU,Week 3Sep 19,2010,
+198,RV,<,NR,Pittsburgh,Big East,1-1,40,RV,DNP,Week 3Sep 19,2010,
+199,RV,<,NR,Fresno State,WAC,2-0,35,RV,W 41-24 A Utah State,Week 3Sep 19,2010,
+200,RV,<,NR,Missouri,Big 12,3-0,30,24,W 27-24 H San Diego State,Week 3Sep 19,2010,
+201,RV,<,NR,Oklahoma State,Big 12,3-0,22,25,W 65-28 H Tulsa,Week 3Sep 19,2010,
+202,RV,<,NR,Clemson,ACC,2-1,14,RV,L 27-24 (1OT) A #16 Auburn,Week 3Sep 19,2010,
+203,RV,<,NR,Georgia Tech,ACC,2-1,14,RV,W 30-24 A North Carolina,Week 3Sep 19,2010,
+204,RV,<,NR,NC State,ACC,3-0,14,RV,W 30-19 H Cincinnati,Week 3Sep 19,2010,
+205,RV,<,NR,James Madison,Other,2-0,8,NR,DNP,Week 3Sep 19,2010,
+206,RV,<,NR,Kansas State,Big 12,3-0,4,RV,W 27-20 H Iowa State,Week 3Sep 19,2010,
+207,RV,<,NR,Arizona State,Pac-10,2-1,3,NR,L 20-19 A #11 Wisconsin,Week 3Sep 19,2010,
+208,RV,<,NR,California,Pac-10,2-1,3,NR,L 52-31 A Nevada,Week 3Sep 19,2010,
+209,RV,<,NR,Northwestern,Big Ten,3-0,3,RV,W 30-13 A Rice,Week 3Sep 19,2010,
+210,RV,<,23,Houston,CUSA,2-1,1,RV,L 31-13 A UCLA,Week 3Sep 19,2010,
+211,RV,<,NR,Notre Dame,Ind,1-2,1,NR,L 34-31 (1OT) A Michigan State,Week 3Sep 19,2010,
+212,RV,<,NR,Temple,MAC,3-0,1,RV,W 30-16 H Connecticut,Week 3Sep 19,2010,
+213,RV,<,NR,Texas A&M,Big 12,3-0,1,RV,W 27-20 H FIU,Week 3Sep 19,2010,
+214,NR,<,NR,Boston College,ACC,2-0,0,RV,DNP,Week 3Sep 19,2010,
+215,NR,<,NR,Texas Tech,Big 12,2-1,0,RV,L 24-14 H #6 Texas,Week 3Sep 19,2010,
+216,NR,<,NR,Virginia Tech,ACC,1-2,0,RV,W 49-27 H East Carolina,Week 3Sep 19,2010,
+217,1,<,1,Alabama (57),SEC,4-0,1496,*1,W 24-20 A #10 Arkansas,Week 4Sep 26,2010,
+218,2,<,2,Ohio State (2),Big Ten,4-0,1431,*2,W 73-20 H Eastern Michigan,Week 4Sep 26,2010,
+219,3,<,3,Boise State (1),WAC,3-0,1356,3,W 37-24 H #24 Oregon State,Week 4Sep 26,2010,
+220,4,<,5,Oregon,Pac-10,4-0,1276,4,W 42-31 A Arizona State,Week 4Sep 26,2010,
+221,5,<,4,TCU,MWC,4-0,1269,5,W 41-24 A SMU,Week 4Sep 26,2010,
+222,6,<,6,Nebraska,Big 12,4-0,1158,6,W 17-3 H South Dakota State,Week 4Sep 26,2010,
+223,7,<,9,Florida,SEC,4-0,1132,7,W 48-14 H Kentucky,Week 4Sep 26,2010,
+224,8,<,8,Oklahoma,Big 12,4-0,1095,8,W 31-29 A Cincinnati,Week 4Sep 26,2010,
+225,9,<,16,Stanford,Pac-10,4-0,895,13,W 37-14 A Notre Dame,Week 4Sep 26,2010,
+226,10,<,17,Auburn,SEC,4-0,863,11,W 35-27 H #12 South Carolina,Week 4Sep 26,2010,
+227,11,<,11,Wisconsin,Big Ten,4-0,854,9,W 70-3 H Austin Peay,Week 4Sep 26,2010,
+228,12,<,15,LSU,SEC,4-0,805,10,W 20-14 H #22 West Virginia,Week 4Sep 26,2010,
+229,13,<,13,Utah,MWC,4-0,792,12,W 56-3 H San Jose State,Week 4Sep 26,2010,
+230,14,<,14,Arizona,Pac-10,4-0,724,14,W 10-9 H California,Week 4Sep 26,2010,
+231,15,<,10,Arkansas,SEC,3-1,716,15,L 24-20 H #1 Alabama,Week 4Sep 26,2010,
+232,16,<,19,Miami (FL),ACC,2-1,598,17,W 31-3 A Pittsburgh,Week 4Sep 26,2010,
+233,17,<,18,Iowa,Big Ten,3-1,505,18,W 45-0 H Ball State,Week 4Sep 26,2010,
+234,18,<,20,USC,Pac-10,4-0,467,NR,W 50-16 A Washington State,Week 4Sep 26,2010,
+235,19,<,21,Michigan,Big Ten,4-0,398,19,W 65-21 H Bowling Green,Week 4Sep 26,2010,
+236,20,<,12,South Carolina,SEC,3-1,397,22,L 35-27 A #17 Auburn,Week 4Sep 26,2010,
+237,21,<,7,Texas,Big 12,3-1,364,16,L 34-12 H UCLA,Week 4Sep 26,2010,
+238,22,<,23,Penn State,Big Ten,3-1,197,20,W 22-13 H Temple,Week 4Sep 26,2010,
+239,23,<,NR,NC State,ACC,4-0,166,RV,W 45-28 A Georgia Tech,Week 4Sep 26,2010,
+240,24,<,25,Michigan State,Big Ten,4-0,149,21,W 45-7 H Northern Colorado,Week 4Sep 26,2010,
+241,25,<,NR,Nevada,WAC,4-0,123,25,W 27-13 A BYU,Week 4Sep 26,2010,
+242,RV,<,22,West Virginia,Big East,3-1,57,RV,L 20-14 A #15 LSU,Week 4Sep 26,2010,
+243,RV,<,NR,Florida State,ACC,3-1,51,RV,W 31-0 H Wake Forest,Week 4Sep 26,2010,
+244,RV,<,NR,Missouri,Big 12,4-0,51,23,W 51-13 H Miami (OH),Week 4Sep 26,2010,
+245,RV,<,NR,Air Force,MWC,3-1,32,RV,W 20-14 A Wyoming,Week 4Sep 26,2010,
+246,RV,<,NR,Kansas State,Big 12,4-0,27,RV,W 17-13 H UCF,Week 4Sep 26,2010,
+247,RV,<,NR,Oklahoma State,Big 12,3-0,24,24,DNP,Week 4Sep 26,2010,
+248,RV,<,NR,Clemson,ACC,2-1,9,RV,DNP,Week 4Sep 26,2010,
+249,RV,<,NR,UCLA,Pac-10,2-2,9,RV,W 34-12 A #7 Texas,Week 4Sep 26,2010,
+250,RV,<,24,Oregon State,Pac-10,1-2,7,NR,L 37-24 A #3 Boise State,Week 4Sep 26,2010,
+251,RV,<,NR,Northwestern,Big Ten,4-0,4,RV,W 30-25 H Central Michigan,Week 4Sep 26,2010,
+252,RV,<,NR,Houston,CUSA,3-1,3,RV,W 42-23 H Tulane,Week 4Sep 26,2010,
+253,NR,<,NR,Mississippi State,SEC,2-2,0,RV,W 24-12 H Georgia,Week 4Sep 26,2010,
+254,NR,<,NR,Texas Tech,Big 12,2-1,0,RV,DNP,Week 4Sep 26,2010,
+255,NR,<,NR,Virginia Tech,ACC,2-2,0,RV,W 19-0 A Boston College,Week 4Sep 26,2010,
+256,1,<,1,Alabama (58),SEC,5-0,1497,*1,W 31-6 H #7 Florida,Week 5Oct 3,2010,
+257,2,<,2,Ohio State (1),Big Ten,5-0,1401,*2,W 24-13 A Illinois,Week 5Oct 3,2010,
+258,3,<,4,Oregon,Pac-10,5-0,1379,3,W 52-31 H #9 Stanford,Week 5Oct 3,2010,
+259,4,<,3,Boise State (1),WAC,4-0,1341,4,W 59-0 A New Mexico State,Week 5Oct 3,2010,
+260,5,<,5,TCU,MWC,5-0,1250,5,W 27-0 A Colorado State,Week 5Oct 3,2010,
+261,6,<,8,Oklahoma,Big 12,5-0,1183,7,W 28-20 N #21 Texas,Week 5Oct 3,2010,
+262,7,<,6,Nebraska,Big 12,4-0,1172,6,DNP,Week 5Oct 3,2010,
+263,8,<,10,Auburn,SEC,5-0,1045,8,W 52-3 H Louisiana-Monroe,Week 5Oct 3,2010,
+264,9,<,14,Arizona,Pac-10,4-0,898,11,DNP,Week 5Oct 3,2010,
+265,10,<,13,Utah,MWC,4-0,860,10,DNP,Week 5Oct 3,2010,
+266,11,<,15,Arkansas,SEC,3-1,825,13,DNP,Week 5Oct 3,2010,
+267,12,<,12,LSU,SEC,5-0,819,9,W 16-14 H Tennessee,Week 5Oct 3,2010,
+268,13,<,16,Miami (FL),ACC,3-1,769,14,W 30-21 A Clemson,Week 5Oct 3,2010,
+269,14,<,7,Florida,SEC,4-1,681,12,L 31-6 A #1 Alabama,Week 5Oct 3,2010,
+270,15,<,17,Iowa,Big Ten,4-1,670,15,W 24-3 H #22 Penn State,Week 5Oct 3,2010,
+271,16,<,9,Stanford,Pac-10,4-1,663,18,L 52-31 A #4 Oregon,Week 5Oct 3,2010,
+272,17,<,24,Michigan State,Big Ten,5-0,607,16,W 34-24 H #11 Wisconsin,Week 5Oct 3,2010,
+273,18,<,19,Michigan,Big Ten,5-0,555,17,W 42-35 A Indiana,Week 5Oct 3,2010,
+274,19,<,20,South Carolina,SEC,3-1,450,20,DNP,Week 5Oct 3,2010,
+275,20,<,11,Wisconsin,Big Ten,4-1,316,19,L 34-24 A #24 Michigan State,Week 5Oct 3,2010,
+276,21,<,25,Nevada,WAC,5-0,286,23,W 44-26 A UNLV,Week 5Oct 3,2010,
+277,22,<,NR,Oklahoma State,Big 12,4-0,173,21,W 38-35 H Texas A&M,Week 5Oct 3,2010,
+278,23,<,NR,Florida State,ACC,4-1,162,24,W 34-14 A Virginia,Week 5Oct 3,2010,
+279,24,<,NR,Missouri,Big 12,4-0,99,22,DNP,Week 5Oct 3,2010,
+280,25,<,NR,Air Force,MWC,4-1,94,RV,W 14-6 H Navy,Week 5Oct 3,2010,
+281,RV,<,NR,West Virginia,Big East,3-1,83,RV,DNP,Week 5Oct 3,2010,
+282,RV,<,NR,Kansas State,Big 12,4-0,69,RV,DNP,Week 5Oct 3,2010,
+283,RV,<,18,USC,Pac-10,4-1,52,NR,L 32-31 H Washington,Week 5Oct 3,2010,
+284,RV,<,21,Texas,Big 12,3-2,33,RV,L 28-20 N #8 Oklahoma,Week 5Oct 3,2010,
+285,RV,<,NR,Northwestern,Big Ten,5-0,25,25,W 29-28 A Minnesota,Week 5Oct 3,2010,
+286,RV,<,NR,Oregon State,Pac-10,2-2,12,RV,W 31-28 H Arizona State,Week 5Oct 3,2010,
+287,RV,<,NR,Baylor,Big 12,4-1,10,RV,W 55-7 H Kansas,Week 5Oct 3,2010,
+288,RV,<,NR,UCLA,Pac-10,3-2,8,RV,W 42-28 H Washington State,Week 5Oct 3,2010,
+289,RV,<,NR,Virginia Tech,ACC,3-2,8,RV,W 41-30 A #23 NC State,Week 5Oct 3,2010,
+290,RV,<,23,NC State,ACC,4-1,4,RV,L 41-30 H Virginia Tech,Week 5Oct 3,2010,
+291,RV,<,22,Penn State,Big Ten,3-2,1,RV,L 24-3 A #17 Iowa,Week 5Oct 3,2010,
+292,NR,<,NR,Houston,CUSA,3-1,0,RV,DNP,Week 5Oct 3,2010,
+293,NR,<,NR,Mississippi State,SEC,3-2,0,RV,W 49-16 H Alcorn State,Week 5Oct 3,2010,
+294,NR,<,NR,Temple,MAC,4-1,0,RV,W 42-35 A Army,Week 5Oct 3,2010,
+295,1,<,2,Ohio State (34),Big Ten,6-0,1453,*1,W 38-10 H Indiana,Week 6Oct 10,2010,
+296,2,<,3,Oregon (15),Pac-10,6-0,1427,*2,W 43-23 A Washington State,Week 6Oct 10,2010,
+297,3,<,4,Boise State (8),WAC,5-0,1395,*3,W 57-14 H Toledo,Week 6Oct 10,2010,
+298,4,<,5,TCU (1),MWC,6-0,1304,*5,W 45-0 H Wyoming,Week 6Oct 10,2010,
+299,5,<,7,Nebraska,Big 12,5-0,1236,*4,W 48-13 A Kansas State,Week 6Oct 10,2010,
+300,6,<,6,Oklahoma (2),Big 12,5-0,1225,6,DNP,Week 6Oct 10,2010,
+301,7,<,8,Auburn,SEC,6-0,1104,7,W 37-34 A Kentucky,Week 6Oct 10,2010,
+302,8,<,1,Alabama,SEC,5-1,1021,8,L 35-21 A #19 South Carolina,Week 6Oct 10,2010,
+303,9,<,12,LSU,SEC,6-0,999,9,W 33-29 A #14 Florida,Week 6Oct 10,2010,
+304,10,<,19,South Carolina,SEC,4-1,978,12,W 35-21 H #1 Alabama,Week 6Oct 10,2010,
+305,11,<,10,Utah,MWC,5-0,926,10,W 68-27 A Iowa State,Week 6Oct 10,2010,
+306,12,<,11,Arkansas,SEC,4-1,813,13,W 24-17 A Texas A&M,Week 6Oct 10,2010,
+307,13,<,17,Michigan State,Big Ten,6-0,806,11,W 34-17 A #18 Michigan,Week 6Oct 10,2010,
+308,14,<,16,Stanford,Pac-10,5-1,732,15,W 37-35 H USC,Week 6Oct 10,2010,
+309,15,<,15,Iowa,Big Ten,4-1,648,14,DNP,Week 6Oct 10,2010,
+310,16,<,23,Florida State,ACC,5-1,547,17,W 45-17 A #13 Miami (FL),Week 6Oct 10,2010,
+311,17,<,9,Arizona,Pac-10,4-1,472,20,L 29-27 H Oregon State,Week 6Oct 10,2010,
+312,18,<,20,Wisconsin,Big Ten,5-1,410,16,W 41-23 H Minnesota,Week 6Oct 10,2010,
+313,19,<,21,Nevada,WAC,6-0,376,21,W 35-13 H San Jose State,Week 6Oct 10,2010,
+314,20,<,22,Oklahoma State,Big 12,5-0,348,18,W 54-28 A Louisiana-Lafayette,Week 6Oct 10,2010,
+315,21,<,24,Missouri,Big 12,5-0,298,19,W 26-0 H Colorado,Week 6Oct 10,2010,
+316,22,<,14,Florida,SEC,4-2,209,22,L 33-29 H #12 LSU,Week 6Oct 10,2010,
+317,23,<,25,Air Force,MWC,5-1,187,23,W 49-27 H Colorado State,Week 6Oct 10,2010,
+318,24,<,NR,Oregon State,Pac-10,3-2,186,RV,W 29-27 A #9 Arizona,Week 6Oct 10,2010,
+319,25,<,NR,West Virginia,Big East,4-1,141,25,W 49-10 H UNLV,Week 6Oct 10,2010,
+320,RV,<,18,Michigan,Big Ten,5-1,137,24,L 34-17 H #17 Michigan State,Week 6Oct 10,2010,
+321,RV,<,13,Miami (FL),ACC,3-2,63,RV,L 45-17 H #23 Florida State,Week 6Oct 10,2010,
+322,RV,<,NR,NC State,ACC,5-1,31,RV,W 44-17 H Boston College,Week 6Oct 10,2010,
+323,RV,<,NR,Virginia Tech,ACC,4-2,17,RV,W 45-21 H Central Michigan,Week 6Oct 10,2010,
+324,RV,<,NR,Northwestern,Big Ten,5-1,5,RV,L 20-17 H Purdue,Week 6Oct 10,2010,
+325,RV,<,NR,Texas,Big 12,3-2,5,RV,DNP,Week 6Oct 10,2010,
+326,RV,<,NR,Kansas State,Big 12,4-1,1,NR,L 48-13 H #7 Nebraska,Week 6Oct 10,2010,
+327,NR,<,NR,Baylor,Big 12,4-2,0,NR,L 45-38 N Texas Tech,Week 6Oct 10,2010,
+328,NR,<,NR,California,Pac-10,3-2,0,NR,W 35-7 H UCLA,Week 6Oct 10,2010,
+329,NR,<,NR,Georgia Tech,ACC,4-2,0,NR,W 33-21 H Virginia,Week 6Oct 10,2010,
+330,NR,<,NR,Illinois,Big Ten,3-2,0,NR,W 33-13 A Penn State,Week 6Oct 10,2010,
+331,NR,<,NR,Maryland,ACC,4-1,0,RV,DNP,Week 6Oct 10,2010,
+332,NR,<,NR,Mississippi State,SEC,4-2,0,RV,W 47-24 A Houston,Week 6Oct 10,2010,
+333,NR,<,NR,Syracuse,Big East,4-1,0,NR,W 13-9 A South Florida,Week 6Oct 10,2010,
+334,NR,<,NR,UTEP,CUSA,5-1,0,NR,W 44-24 H Rice,Week 6Oct 10,2010,
+335,1,<,2,Oregon (39),Pac-10,6-0,1471,*1,DNP,Week 7Oct 17,2010,2
+336,2,<,3,Boise State (15),WAC,6-0,1433,*2,W 48-0 A San Jose State,Week 7Oct 17,2010,3
+337,3,<,6,Oklahoma (3),Big 12,6-0,1355,*3,W 52-0 H Iowa State,Week 7Oct 17,2010,1
+338,4,<,4,TCU (3),MWC,7-0,1340,*4,W 31-3 H BYU,Week 7Oct 17,2010,5
+339,5,<,7,Auburn,SEC,7-0,1279,*5,W 65-43 H #12 Arkansas,Week 7Oct 17,2010,4
+340,6,<,9,LSU,SEC,7-0,1132,6,W 32-10 H McNeese State,Week 7Oct 17,2010,6
+341,7,<,8,Alabama,SEC,6-1,1121,7,W 23-10 H Mississippi,Week 7Oct 17,2010,8
+342,8,<,13,Michigan State,Big Ten,7-0,1062,8,W 26-6 H Illinois,Week 7Oct 17,2010,7
+343,9,<,11,Utah,MWC,6-0,1019,9,W 30-6 A Wyoming,Week 7Oct 17,2010,9
+344,10,<,18,Wisconsin,Big Ten,6-1,920,11,W 31-18 H #1 Ohio State,Week 7Oct 17,2010,13
+345,11,<,1,Ohio State,Big Ten,6-1,895,10,L 31-18 A #18 Wisconsin,Week 7Oct 17,2010,10
+346,12,<,14,Stanford,Pac-10,5-1,828,14,DNP,Week 7Oct 17,2010,12
+347,13,<,15,Iowa,Big Ten,5-1,768,12,W 38-28 A Michigan,Week 7Oct 17,2010,15
+348,14,<,5,Nebraska,Big 12,5-1,684,13,L 20-13 H Texas,Week 7Oct 17,2010,16
+349,15,<,17,Arizona,Pac-10,5-1,619,18,W 24-7 A Washington State,Week 7Oct 17,2010,18
+350,16,<,16,Florida State,ACC,6-1,615,17,W 24-19 H Boston College,Week 7Oct 17,2010,17
+351,17,<,20,Oklahoma State,Big 12,6-0,575,15,W 34-17 A Texas Tech,Week 7Oct 17,2010,14
+352,18,<,21,Missouri,Big 12,6-0,552,16,W 30-9 A Texas A&M,Week 7Oct 17,2010,11
+353,19,<,10,South Carolina,SEC,4-2,372,20,L 31-28 A Kentucky,Week 7Oct 17,2010,21
+354,20,<,25,West Virginia,Big East,5-1,346,19,W 20-6 H South Florida,Week 7Oct 17,2010,20
+355,21,<,12,Arkansas,SEC,4-2,343,21,L 65-43 A #7 Auburn,Week 7Oct 17,2010,23
+356,22,<,NR,Texas,Big 12,4-2,267,22,W 20-13 A #5 Nebraska,Week 7Oct 17,2010,19
+357,23,<,NR,Virginia Tech,ACC,5-2,122,23,W 52-21 H Wake Forest,Week 7Oct 17,2010,25
+358,24,<,NR,Mississippi State,SEC,5-2,111,24,W 10-7 A #22 Florida,Week 7Oct 17,2010,24
+359,25,<,NR,Miami (FL),ACC,4-2,85,25,W 28-13 A Duke,Week 7Oct 17,2010,NR
+360,RV,<,NR,USC,Pac-10,5-2,80,NR,W 48-14 H California,Week 7Oct 17,2010,NR
+361,RV,<,NR,Kansas State,Big 12,5-1,40,RV,W 59-7 H Kansas,Week 7Oct 17,2010,22
+362,RV,<,19,Nevada,WAC,6-1,19,RV,L 27-21 A Hawaii,Week 7Oct 17,2010,NR
+363,RV,<,NR,Hawaii,WAC,5-2,8,RV,W 27-21 H #19 Nevada,Week 7Oct 17,2010,NR
+364,RV,<,NR,North Carolina,ACC,4-2,8,RV,W 44-10 A Virginia,Week 7Oct 17,2010,NR
+365,RV,<,NR,Northwestern,Big Ten,5-1,8,RV,DNP,Week 7Oct 17,2010,NR
+366,RV,<,NR,Michigan,Big Ten,5-2,7,RV,L 38-28 H #15 Iowa,Week 7Oct 17,2010,NR
+367,RV,<,NR,Georgia Tech,ACC,5-2,5,RV,W 42-14 H Middle Tennessee,Week 7Oct 17,2010,NR
+368,RV,<,24,Oregon State,Pac-10,3-3,3,NR,L 35-34 (2OT) A Washington,Week 7Oct 17,2010,NR
+369,RV,<,NR,Baylor,Big 12,5-2,2,RV,W 31-25 A Colorado,Week 7Oct 17,2010,NR
+370,RV,<,NR,NC State,ACC,5-2,2,NR,L 33-27 (1OT) A East Carolina,Week 7Oct 17,2010,NR
+371,RV,<,23,Air Force,MWC,5-2,1,RV,L 27-25 A San Diego State,Week 7Oct 17,2010,NR
+372,RV,<,NR,East Carolina,CUSA,4-2,1,RV,W 33-27 (1OT) H NC State,Week 7Oct 17,2010,NR
+373,RV,<,NR,Kentucky,SEC,4-3,1,NR,W 31-28 H #10 South Carolina,Week 7Oct 17,2010,NR
+374,RV,<,NR,Washington,Pac-10,3-3,1,NR,W 35-34 (2OT) H #24 Oregon State,Week 7Oct 17,2010,NR
+375,NR,<,22,Florida,SEC,4-3,0,NR,L 10-7 H Mississippi State,Week 7Oct 17,2010,NR
+376,NR,<,NR,Navy,Ind,4-2,0,RV,W 28-21 H SMU,Week 7Oct 17,2010,NR
+377,NR,<,NR,Purdue,Big Ten,4-2,0,NR,W 28-17 H Minnesota,Week 7Oct 17,2010,NR
+378,NR,<,NR,San Diego State,MWC,4-2,0,NR,W 27-25 H #23 Air Force,Week 7Oct 17,2010,NR
+379,NR,<,NR,Southern Miss,CUSA,5-2,0,NR,W 41-19 A Memphis,Week 7Oct 17,2010,NR
+380,1,<,1,Oregon (44),Pac-10,7-0,1480,*1,W 60-13 H UCLA,Week 8Oct 24,2010,2
+381,2,<,2,Boise State (11),WAC,6-0,1419,*2,DNP,Week 8Oct 24,2010,3
+382,3,<,5,Auburn (3),SEC,8-0,1376,*3,W 24-17 H #6 LSU,Week 8Oct 24,2010,1
+383,4,<,4,TCU (2),MWC,8-0,1354,*4,W 38-7 H Air Force,Week 8Oct 24,2010,4
+384,5,<,8,Michigan State,Big Ten,8-0,1175,5,W 35-27 A Northwestern,Week 8Oct 24,2010,5
+385,6,<,7,Alabama,SEC,7-1,1173,6,W 41-10 A Tennessee,Week 8Oct 24,2010,7
+386,7,<,18,Missouri,Big 12,7-0,1121,8,W 36-27 H #3 Oklahoma,Week 8Oct 24,2010,6
+387,8,<,9,Utah,MWC,7-0,1098,7,W 59-6 H Colorado State,Week 8Oct 24,2010,8
+388,9,<,10,Wisconsin,Big Ten,7-1,1022,9,W 31-30 A #13 Iowa,Week 8Oct 24,2010,10
+389,10,<,11,Ohio State,Big Ten,7-1,931,10,W 49-0 H Purdue,Week 8Oct 24,2010,11
+390,11,<,3,Oklahoma,Big 12,6-1,861,11,L 36-27 A #18 Missouri,Week 8Oct 24,2010,9
+391,12,<,6,LSU,SEC,7-1,831,13,L 24-17 A #5 Auburn,Week 8Oct 24,2010,12
+392,13,<,12,Stanford,Pac-10,6-1,830,14,W 38-28 H Washington State,Week 8Oct 24,2010,13
+393,14,<,14,Nebraska,Big 12,6-1,760,12,W 51-41 A #17 Oklahoma State,Week 8Oct 24,2010,14
+394,15,<,15,Arizona,Pac-10,6-1,691,16,W 44-14 H Washington,Week 8Oct 24,2010,15
+395,16,<,16,Florida State,ACC,6-1,606,15,DNP,Week 8Oct 24,2010,16
+396,17,<,19,South Carolina,SEC,5-2,476,17,W 21-7 A Vanderbilt,Week 8Oct 24,2010,20
+397,18,<,13,Iowa,Big Ten,5-2,468,19,L 31-30 H #10 Wisconsin,Week 8Oct 24,2010,18
+398,19,<,21,Arkansas,SEC,5-2,435,18,W 38-24 H Mississippi,Week 8Oct 24,2010,19
+399,20,<,17,Oklahoma State,Big 12,6-1,336,20,L 51-41 H #14 Nebraska,Week 8Oct 24,2010,17
+400,21,<,23,Virginia Tech,ACC,6-2,270,21,W 44-7 H Duke,Week 8Oct 24,2010,23
+401,22,<,25,Miami (FL),ACC,5-2,229,22,W 33-10 H North Carolina,Week 8Oct 24,2010,22
+402,23,<,24,Mississippi State,SEC,6-2,221,23,W 29-24 H UAB,Week 8Oct 24,2010,21
+403,24,<,NR,USC,Pac-10,5-2,172,NR,DNP,Week 8Oct 24,2010,NR
+404,25,<,NR,Baylor,Big 12,6-2,56,24,W 47-42 H Kansas State,Week 8Oct 24,2010,25
+405,RV,<,NR,Nevada,WAC,6-1,32,RV,DNP,Week 8Oct 24,2010,24
+406,RV,<,NR,Hawaii,WAC,6-2,19,RV,W 45-7 A Utah State,Week 8Oct 24,2010,NR
+407,RV,<,NR,Michigan,Big Ten,5-2,9,25,DNP,Week 8Oct 24,2010,NR
+408,RV,<,20,West Virginia,Big East,5-2,8,RV,L 19-14 H Syracuse,Week 8Oct 24,2010,NR
+409,RV,<,NR,Syracuse,Big East,5-2,8,RV,W 19-14 A #20 West Virginia,Week 8Oct 24,2010,NR
+410,RV,<,NR,East Carolina,CUSA,5-2,7,RV,W 37-10 H Marshall,Week 8Oct 24,2010,NR
+411,RV,<,NR,San Diego State,MWC,5-2,7,RV,W 30-20 A New Mexico,Week 8Oct 24,2010,NR
+412,RV,<,NR,Navy,Ind,5-2,5,RV,W 35-17 N Notre Dame,Week 8Oct 24,2010,NR
+413,RV,<,NR,Oregon State,Pac-10,3-3,5,NR,DNP,Week 8Oct 24,2010,NR
+414,RV,<,NR,Northwestern,Big Ten,5-2,4,RV,L 35-27 H #8 Michigan State,Week 8Oct 24,2010,NR
+415,RV,<,NR,Florida,SEC,4-3,2,NR,DNP,Week 8Oct 24,2010,NR
+416,RV,<,NR,Maryland,ACC,5-2,1,NR,W 24-21 A Boston College,Week 8Oct 24,2010,NR
+417,RV,<,NR,NC State,ACC,5-2,1,RV,DNP,Week 8Oct 24,2010,NR
+418,RV,<,NR,Northern Illinois,MAC,6-2,1,RV,W 33-7 H Central Michigan,Week 8Oct 24,2010,NR
+419,NR,<,22,Texas,Big 12,4-3,0,RV,L 28-21 H Iowa State,Week 8Oct 24,2010,NR
+420,NR,<,NR,Air Force,MWC,5-3,0,RV,L 38-7 A #4 TCU,Week 8Oct 24,2010,NR
+421,NR,<,NR,California,Pac-10,4-3,0,RV,W 50-17 H Arizona State,Week 8Oct 24,2010,NR
+422,NR,<,NR,Clemson,ACC,4-3,0,RV,W 27-13 H Georgia Tech,Week 8Oct 24,2010,NR
+423,NR,<,NR,Georgia,SEC,4-4,0,NR,W 44-31 A Kentucky,Week 8Oct 24,2010,NR
+424,NR,<,NR,Georgia Tech,ACC,5-3,0,NR,L 27-13 A Clemson,Week 8Oct 24,2010,NR
+425,NR,<,NR,Illinois,Big Ten,4-3,0,RV,W 43-14 H Indiana,Week 8Oct 24,2010,NR
+426,NR,<,NR,Kansas State,Big 12,5-2,0,NR,L 47-42 A Baylor,Week 8Oct 24,2010,NR
+427,NR,<,NR,Pittsburgh,Big East,4-3,0,NR,W 41-21 H Rutgers,Week 8Oct 24,2010,NR
+428,NR,<,NR,Southern Miss,CUSA,5-2,0,NR,DNP,Week 8Oct 24,2010,NR
+429,NR,<,NR,UCF,CUSA,5-2,0,RV,W 41-14 H Rice,Week 8Oct 24,2010,NR
+430,NR,<,NR,Washington,Pac-10,3-4,0,NR,L 44-14 A #15 Arizona,Week 8Oct 24,2010,NR
+431,1,<,1,Oregon (49),Pac-10,8-0,1487,*1,W 53-32 A #24 USC,Week 9Oct 31,2010,1
+432,2,<,2,Boise State (7),WAC,7-0,1403,*3,W 49-20 H Louisiana Tech,Week 9Oct 31,2010,4
+433,3,<,3,Auburn (2),SEC,9-0,1396,*2,W 51-31 A Mississippi,Week 9Oct 31,2010,2
+434,4,<,4,TCU (2),MWC,9-0,1350,*4,W 48-6 A UNLV,Week 9Oct 31,2010,3
+435,5,<,6,Alabama,SEC,7-1,1228,5,DNP,Week 9Oct 31,2010,6
+436,6,<,8,Utah,MWC,8-0,1147,6,W 28-23 A Air Force,Week 9Oct 31,2010,5
+437,7,<,9,Wisconsin,Big Ten,7-1,1113,7,DNP,Week 9Oct 31,2010,9
+438,8,<,10,Ohio State,Big Ten,8-1,1010,8,W 52-10 A Minnesota,Week 9Oct 31,2010,11
+439,9,<,14,Nebraska,Big 12,7-1,974,10,W 31-17 H #7 Missouri,Week 9Oct 31,2010,7
+440,10,<,13,Stanford,Pac-10,7-1,950,12,W 41-0 A Washington,Week 9Oct 31,2010,13
+441,11,<,11,Oklahoma,Big 12,7-1,928,9,W 43-10 H Colorado,Week 9Oct 31,2010,8
+442,12,<,12,LSU,SEC,7-1,872,11,DNP,Week 9Oct 31,2010,10
+443,13,<,15,Arizona,Pac-10,7-1,779,13,W 29-21 A UCLA,Week 9Oct 31,2010,15
+444,14,<,7,Missouri,Big 12,7-1,739,14,L 31-17 A #14 Nebraska,Week 9Oct 31,2010,12
+445,15,<,18,Iowa,Big Ten,6-2,700,16,W 37-6 H #5 Michigan State,Week 9Oct 31,2010,16
+446,16,<,5,Michigan State,Big Ten,8-1,644,15,L 37-6 A #18 Iowa,Week 9Oct 31,2010,14
+447,17,<,19,Arkansas,SEC,6-2,500,19,W 49-14 H Vanderbilt,Week 9Oct 31,2010,18
+448,18,<,17,South Carolina,SEC,6-2,497,17,W 38-24 H Tennessee,Week 9Oct 31,2010,19
+449,19,<,20,Oklahoma State,Big 12,7-1,457,18,W 24-14 A Kansas State,Week 9Oct 31,2010,17
+450,20,<,21,Virginia Tech,ACC,6-2,332,20,DNP,Week 9Oct 31,2010,22
+451,21,<,23,Mississippi State,SEC,7-2,302,21,W 24-17 H Kentucky,Week 9Oct 31,2010,20
+452,22,<,25,Baylor,Big 12,7-2,247,22,W 30-22 A Texas,Week 9Oct 31,2010,21
+453,23,<,NR,NC State,ACC,6-2,113,25,W 28-24 H #16 Florida State,Week 9Oct 31,2010,25
+454,24,<,16,Florida State,ACC,6-2,97,24,L 28-24 A NC State,Week 9Oct 31,2010,24
+455,25,<,NR,Nevada,WAC,7-1,91,23,W 56-42 H Utah State,Week 9Oct 31,2010,23
+456,RV,<,NR,Hawaii,WAC,7-2,50,RV,W 45-10 H Idaho,Week 9Oct 31,2010,NR
+457,RV,<,NR,Syracuse,Big East,6-2,22,RV,W 31-7 A Cincinnati,Week 9Oct 31,2010,NR
+458,RV,<,NR,Oregon State,Pac-10,4-3,16,NR,W 35-7 H California,Week 9Oct 31,2010,NR
+459,RV,<,NR,Maryland,ACC,6-2,11,RV,W 62-14 H Wake Forest,Week 9Oct 31,2010,NR
+460,RV,<,24,USC,Pac-10,5-3,10,NR,L 53-32 H #1 Oregon,Week 9Oct 31,2010,NR
+461,RV,<,NR,San Diego State,MWC,6-2,9,RV,W 48-38 A Wyoming,Week 9Oct 31,2010,NR
+462,RV,<,NR,Illinois,Big Ten,5-3,8,RV,W 44-10 H Purdue,Week 9Oct 31,2010,NR
+463,RV,<,NR,UCF,CUSA,6-2,5,RV,W 49-35 H East Carolina,Week 9Oct 31,2010,NR
+464,RV,<,NR,Pittsburgh,Big East,5-3,4,NR,W 20-3 H Louisville,Week 9Oct 31,2010,NR
+465,RV,<,22,Miami (FL),ACC,5-3,3,RV,L 24-19 A Virginia,Week 9Oct 31,2010,NR
+466,RV,<,NR,Northwestern,Big Ten,6-2,3,RV,W 20-17 A Indiana,Week 9Oct 31,2010,NR
+467,RV,<,NR,Florida,SEC,5-3,2,RV,W 34-31 (1OT) N Georgia,Week 9Oct 31,2010,NR
+468,RV,<,NR,Northern Illinois,MAC,7-2,1,RV,W 28-21 A Western Michigan,Week 9Oct 31,2010,NR
+469,NR,<,NR,Michigan,Big Ten,5-3,0,RV,L 41-31 A Penn State,Week 9Oct 31,2010,NR
+470,NR,<,NR,Navy,Ind,5-3,0,NR,L 34-31 A Duke,Week 9Oct 31,2010,NR
+471,NR,<,NR,Temple,MAC,7-2,0,NR,W 30-0 H Akron,Week 9Oct 31,2010,NR
+472,NR,<,NR,Texas A&M,Big 12,5-3,0,NR,W 45-27 H Texas Tech,Week 9Oct 31,2010,NR
+473,NR,<,NR,Virginia,ACC,4-4,0,NR,W 24-19 H #22 Miami (FL),Week 9Oct 31,2010,NR
+474,NR,<,NR,West Virginia,Big East,5-3,0,NR,L 16-13 A Connecticut,Week 9Oct 31,2010,NR
+475,1,<,1,Oregon (49),Pac-10,9-0,1484,*1,W 53-16 H Washington,Week 10Nov 7,2010,1
+476,2,<,3,Auburn (2),SEC,10-0,1396,*2,W 62-24 H Chattanooga,Week 10Nov 7,2010,2
+477,3,<,4,TCU (2),MWC,10-0,1391,*3,W 47-7 A #6 Utah,Week 10Nov 7,2010,3
+478,4,<,2,Boise State (7),WAC,8-0,1366,*4,W 42-7 H Hawaii,Week 10Nov 7,2010,4
+479,5,<,12,LSU,SEC,8-1,1196,6,W 24-21 H #5 Alabama,Week 10Nov 7,2010,5
+480,6,<,7,Wisconsin,Big Ten,8-1,1182,5,W 34-13 A Purdue,Week 10Nov 7,2010,7
+481,7,<,10,Stanford,Pac-10,8-1,1143,9,W 42-17 H #13 Arizona,Week 10Nov 7,2010,6
+482,8,<,8,Ohio State,Big Ten,8-1,1087,7,DNP,Week 10Nov 7,2010,9
+483,9,<,9,Nebraska,Big 12,8-1,1055,8,W 31-30 (1OT) A Iowa State,Week 10Nov 7,2010,8
+484,10,<,16,Michigan State,Big Ten,9-1,868,10,W 31-8 H Minnesota,Week 10Nov 7,2010,11
+485,11,<,5,Alabama,SEC,7-2,861,12,L 24-21 A #12 LSU,Week 10Nov 7,2010,12
+486,12,<,19,Oklahoma State,Big 12,8-1,821,11,W 55-28 H #22 Baylor,Week 10Nov 7,2010,10
+487,13,<,15,Iowa,Big Ten,7-2,807,13,W 18-13 A Indiana,Week 10Nov 7,2010,13
+488,14,<,17,Arkansas,SEC,7-2,775,14,W 41-20 A #18 South Carolina,Week 10Nov 7,2010,15
+489,15,<,6,Utah,MWC,8-1,657,15,L 47-7 H #4 TCU,Week 10Nov 7,2010,14
+490,16,<,20,Virginia Tech,ACC,7-2,540,17,W 28-21 H Georgia Tech,Week 10Nov 7,2010,20
+491,17,<,21,Mississippi State,SEC,7-2,501,18,DNP,Week 10Nov 7,2010,19
+492,18,<,13,Arizona,Pac-10,7-2,481,19,L 42-17 A #10 Stanford,Week 10Nov 7,2010,18
+493,19,<,11,Oklahoma,Big 12,7-2,436,16,L 33-19 A Texas A&M,Week 10Nov 7,2010,16
+494,20,<,14,Missouri,Big 12,7-2,420,20,L 24-17 A Texas Tech,Week 10Nov 7,2010,17
+495,21,<,25,Nevada,WAC,8-1,304,21,W 63-17 A Idaho,Week 10Nov 7,2010,21
+496,22,<,18,South Carolina,SEC,6-3,170,22,L 41-20 H #17 Arkansas,Week 10Nov 7,2010,23
+497,23,<,NR,Texas A&M,Big 12,6-3,130,25,W 33-19 H #11 Oklahoma,Week 10Nov 7,2010,25
+498,24,<,NR,Florida,SEC,6-3,94,24,W 55-14 A Vanderbilt,Week 10Nov 7,2010,22
+499,25,<,NR,UCF,CUSA,7-2,74,23,W 40-33 A Houston,Week 10Nov 7,2010,NR
+500,RV,<,NR,USC,Pac-10,6-3,51,NR,W 34-33 H Arizona State,Week 10Nov 7,2010,NR
+501,RV,<,NR,San Diego State,MWC,7-2,42,RV,W 24-19 H Colorado State,Week 10Nov 7,2010,NR
+502,RV,<,NR,Miami (FL),ACC,6-3,39,RV,W 26-20 H Maryland,Week 10Nov 7,2010,NR
+503,RV,<,NR,Penn State,Big Ten,6-3,29,RV,W 35-21 H Northwestern,Week 10Nov 7,2010,NR
+504,RV,<,22,Baylor,Big 12,7-3,23,RV,L 55-28 A #19 Oklahoma State,Week 10Nov 7,2010,NR
+505,RV,<,NR,North Carolina,ACC,6-3,20,RV,W 37-35 A #24 Florida State,Week 10Nov 7,2010,NR
+506,RV,<,NR,Kansas State,Big 12,6-3,18,RV,W 39-14 H Texas,Week 10Nov 7,2010,24
+507,RV,<,NR,Pittsburgh,Big East,5-3,14,RV,DNP,Week 10Nov 7,2010,NR
+508,RV,<,NR,Northern Illinois,MAC,7-2,9,RV,DNP,Week 10Nov 7,2010,NR
+509,RV,<,24,Florida State,ACC,6-3,6,RV,L 37-35 H North Carolina,Week 10Nov 7,2010,NR
+510,RV,<,NR,Temple,MAC,8-2,4,RV,W 28-10 A Kent State,Week 10Nov 7,2010,NR
+511,RV,<,NR,Navy,Ind,6-3,3,RV,W 76-35 A East Carolina,Week 10Nov 7,2010,NR
+512,RV,<,NR,Syracuse,Big East,6-3,2,NR,L 28-20 H Louisville,Week 10Nov 7,2010,NR
+513,RV,<,NR,Delaware,Other,8-1,1,NR,W 48-0 H Towson,Week 10Nov 7,2010,NR
+514,NR,<,23,NC State,ACC,6-3,0,RV,L 14-13 A Clemson,Week 10Nov 7,2010,NR
+515,NR,<,NR,Air Force,MWC,6-4,0,NR,W 42-22 A Army,Week 10Nov 7,2010,NR
+516,NR,<,NR,Clemson,ACC,5-4,0,NR,W 14-13 H #23 NC State,Week 10Nov 7,2010,NR
+517,NR,<,NR,Fresno State,WAC,6-2,0,RV,W 40-34 A Louisiana Tech,Week 10Nov 7,2010,NR
+518,NR,<,NR,Hawaii,WAC,7-3,0,RV,L 42-7 A #2 Boise State,Week 10Nov 7,2010,NR
+519,NR,<,NR,Michigan,Big Ten,6-3,0,RV,W 67-65 (3OT) H Illinois,Week 10Nov 7,2010,NR
+520,NR,<,NR,Northwestern,Big Ten,6-3,0,NR,L 35-21 A Penn State,Week 10Nov 7,2010,NR
+521,NR,<,NR,Southern Miss,CUSA,6-3,0,RV,W 46-30 A Tulane,Week 10Nov 7,2010,NR
+522,NR,<,NR,Tulsa,CUSA,6-3,0,NR,W 64-27 H Rice,Week 10Nov 7,2010,NR
+523,NR,<,NR,West Virginia,Big East,5-3,0,NR,DNP,Week 10Nov 7,2010,NR
+524,1,<,1,Oregon (38),Pac-10,10-0,1469,*1,W 15-13 A California,Week 11Nov 14,2010,1
+525,2,<,2,Auburn (12),SEC,11-0,1427,*2,W 49-31 H Georgia,Week 11Nov 14,2010,2
+526,3,<,4,Boise State (9),WAC,9-0,1377,*3,W 52-14 A Idaho,Week 11Nov 14,2010,4
+527,4,<,3,TCU (1),MWC,11-0,1361,*4,W 40-35 H San Diego State,Week 11Nov 14,2010,3
+528,5,<,5,LSU,SEC,9-1,1220,6,W 51-0 H Louisiana-Monroe,Week 11Nov 14,2010,5
+529,6,<,6,Wisconsin,Big Ten,9-1,1176,5,W 83-20 H Indiana,Week 11Nov 14,2010,7
+530,7,<,7,Stanford,Pac-10,9-1,1129,8,W 17-13 A Arizona State,Week 11Nov 14,2010,6
+531,8,<,8,Ohio State,Big Ten,9-1,1073,7,W 38-14 H Penn State,Week 11Nov 14,2010,9
+532,9,<,9,Nebraska,Big 12,9-1,1051,9,W 20-3 H Kansas,Week 11Nov 14,2010,8
+533,10,<,11,Alabama,SEC,8-2,916,12,W 30-10 H #17 Mississippi State,Week 11Nov 14,2010,11
+534,11,<,10,Michigan State,Big Ten,9-1,910,11,DNP,Week 11Nov 14,2010,12
+535,12,<,12,Oklahoma State,Big 12,9-1,879,10,W 33-16 A Texas,Week 11Nov 14,2010,10
+536,13,<,14,Arkansas,SEC,8-2,816,13,W 58-21 H UTEP,Week 11Nov 14,2010,13
+537,14,<,16,Virginia Tech,ACC,8-2,671,15,W 26-10 A North Carolina,Week 11Nov 14,2010,16
+538,15,<,20,Missouri,Big 12,8-2,624,16,W 38-28 H Kansas State,Week 11Nov 14,2010,15
+539,16,<,19,Oklahoma,Big 12,8-2,611,14,W 45-7 H Texas Tech,Week 11Nov 14,2010,14
+540,17,<,22,South Carolina,SEC,7-3,520,17,W 36-14 A #24 Florida,Week 11Nov 14,2010,17
+541,18,<,23,Texas A&M,Big 12,7-3,413,19,W 42-30 A Baylor,Week 11Nov 14,2010,19
+542,19,<,21,Nevada,WAC,9-1,412,18,W 35-34 A Fresno State,Week 11Nov 14,2010,18
+543,20,<,NR,USC,Pac-10,7-3,310,NR,W 24-21 A #18 Arizona,Week 11Nov 14,2010,NR
+544,21,<,13,Iowa,Big Ten,7-3,251,20,L 21-17 A Northwestern,Week 11Nov 14,2010,20
+545,22,<,17,Mississippi State,SEC,7-3,222,22,L 30-10 A #11 Alabama,Week 11Nov 14,2010,21
+546,23,<,18,Arizona,Pac-10,7-3,156,23,L 24-21 H USC,Week 11Nov 14,2010,22
+547,24,<,NR,Miami (FL),ACC,7-3,107,21,W 35-10 A Georgia Tech,Week 11Nov 14,2010,24
+548,25,<,15,Utah,MWC,8-2,105,24,L 28-3 A Notre Dame,Week 11Nov 14,2010,23
+549,RV,<,NR,Northwestern,Big Ten,7-3,99,25,W 21-17 H #13 Iowa,Week 11Nov 14,2010,NR
+550,RV,<,NR,Florida State,ACC,7-3,69,RV,W 16-13 H Clemson,Week 11Nov 14,2010,25
+551,RV,<,NR,NC State,ACC,7-3,38,RV,W 38-3 H Wake Forest,Week 11Nov 14,2010,NR
+552,RV,<,NR,Northern Illinois,MAC,8-2,37,RV,W 65-30 H Toledo,Week 11Nov 14,2010,NR
+553,RV,<,NR,San Diego State,MWC,7-3,32,RV,L 40-35 A #3 TCU,Week 11Nov 14,2010,NR
+554,RV,<,NR,Temple,MAC,7-3,9,RV,DNP,Week 11Nov 14,2010,NR
+555,RV,<,NR,Michigan,Big Ten,7-3,4,RV,DNP,Week 11Nov 14,2010,NR
+556,RV,<,NR,Syracuse,Big East,7-3,2,RV,W 13-10 A Rutgers,Week 11Nov 14,2010,NR
+557,RV,<,NR,Tulsa,CUSA,7-3,2,NR,DNP,Week 11Nov 14,2010,NR
+558,RV,<,NR,Delaware,Other,9-1,1,NR,W 45-27 A Massachusetts,Week 11Nov 14,2010,NR
+559,RV,<,NR,Maryland,ACC,7-3,1,RV,W 42-23 A Virginia,Week 11Nov 14,2010,NR
+560,NR,<,24,Florida,SEC,6-4,0,NR,L 36-14 H #22 South Carolina,Week 11Nov 14,2010,NR
+561,NR,<,25,UCF,CUSA,7-3,0,RV,L 31-21 H Southern Miss,Week 11Nov 14,2010,NR
+562,NR,<,NR,Air Force,MWC,8-4,0,RV,DNP,Week 11Nov 14,2010,NR
+563,NR,<,NR,Baylor,Big 12,7-4,0,RV,L 42-30 H #23 Texas A&M,Week 11Nov 14,2010,NR
+564,NR,<,NR,Connecticut,Big East,5-4,0,NR,W 30-28 H Pittsburgh,Week 11Nov 14,2010,NR
+565,NR,<,NR,Fresno State,WAC,6-3,0,NR,L 35-34 H #21 Nevada,Week 11Nov 14,2010,NR
+566,NR,<,NR,Hawaii,WAC,7-3,0,RV,DNP,Week 11Nov 14,2010,NR
+567,NR,<,NR,Kansas State,Big 12,6-4,0,RV,L 38-28 A #20 Missouri,Week 11Nov 14,2010,NR
+568,NR,<,NR,Navy,Ind,7-3,0,RV,DNP,Week 11Nov 14,2010,NR
+569,NR,<,NR,Penn State,Big Ten,6-4,0,RV,L 38-14 A #8 Ohio State,Week 11Nov 14,2010,NR
+570,NR,<,NR,South Florida,Big East,6-3,0,NR,W 24-21 (1OT) A Louisville,Week 11Nov 14,2010,NR
+571,NR,<,NR,Southern Miss,CUSA,7-3,0,RV,W 31-21 A #25 UCF,Week 11Nov 14,2010,NR
+572,NR,<,NR,West Virginia,Big East,6-3,0,NR,W 37-10 H Cincinnati,Week 11Nov 14,2010,NR
+573,1,<,1,Oregon (37),Pac-10,10-0,1467,*1,DNP,Week 12Nov 21,2010,1
+574,2,<,2,Auburn (13),SEC,11-0,1430,*2,DNP,Week 12Nov 21,2010,2
+575,3,<,3,Boise State (10),WAC,10-0,1394,*3,W 51-0 H Fresno State,Week 12Nov 21,2010,4
+576,4,<,4,TCU,MWC,11-0,1340,*4,DNP,Week 12Nov 21,2010,3
+577,5,<,6,Wisconsin,Big Ten,10-1,1196,5,W 48-28 A Michigan,Week 12Nov 21,2010,7
+578,6,<,5,LSU,SEC,10-1,1194,6,W 43-36 H Mississippi,Week 12Nov 21,2010,5
+579,7,<,7,Stanford,Pac-10,10-1,1178,8,W 48-14 A California,Week 12Nov 21,2010,6
+580,8,<,8,Ohio State,Big Ten,10-1,1088,7,W 20-17 A #21 Iowa,Week 12Nov 21,2010,8
+581,9,<,10,Alabama,SEC,9-2,972,11,W 63-7 H Georgia State,Week 12Nov 21,2010,11
+582,10,<,12,Oklahoma State,Big 12,10-1,958,9,W 48-14 A Kansas,Week 12Nov 21,2010,9
+583,11,<,11,Michigan State,Big Ten,10-1,927,10,W 35-31 H Purdue,Week 12Nov 21,2010,10
+584,12,<,13,Arkansas,SEC,9-2,861,12,W 38-31 (1OT) A #22 Mississippi State,Week 12Nov 21,2010,12
+585,13,<,14,Virginia Tech,ACC,9-2,720,14,W 31-17 A #24 Miami (FL),Week 12Nov 21,2010,16
+586,14,<,16,Oklahoma,Big 12,9-2,650,13,W 53-24 A Baylor,Week 12Nov 21,2010,13
+587,15,<,15,Missouri,Big 12,9-2,639,16,W 14-0 A Iowa State,Week 12Nov 21,2010,14
+588,16,<,9,Nebraska,Big 12,9-2,618,15,L 9-6 A #18 Texas A&M,Week 12Nov 21,2010,15
+589,17,<,18,Texas A&M,Big 12,8-3,573,18,W 9-6 H #9 Nebraska,Week 12Nov 21,2010,17
+590,18,<,17,South Carolina,SEC,8-3,559,17,W 69-24 H Troy,Week 12Nov 21,2010,18
+591,19,<,19,Nevada,WAC,10-1,439,19,W 52-6 H New Mexico State,Week 12Nov 21,2010,19
+592,20,<,23,Arizona,Pac-10,7-3,268,20,DNP,Week 12Nov 21,2010,21
+593,21,<,NR,NC State,ACC,8-3,238,23,W 29-25 A North Carolina,Week 12Nov 21,2010,23
+594,22,<,NR,Florida State,ACC,8-3,232,21,W 30-16 A Maryland,Week 12Nov 21,2010,22
+595,23,<,25,Utah,MWC,9-2,211,22,W 38-34 A San Diego State,Week 12Nov 21,2010,20
+596,24,<,21,Iowa,Big Ten,7-4,100,24,L 20-17 H #8 Ohio State,Week 12Nov 21,2010,24
+597,25,<,22,Mississippi State,SEC,7-4,94,25,L 38-31 (1OT) H #13 Arkansas,Week 12Nov 21,2010,25
+598,RV,<,NR,Northern Illinois,MAC,9-2,72,RV,W 59-21 A Ball State,Week 12Nov 21,2010,NR
+599,RV,<,NR,West Virginia,Big East,7-3,26,RV,W 17-10 A Louisville,Week 12Nov 21,2010,NR
+600,RV,<,NR,Tulsa,CUSA,8-3,12,RV,W 31-28 H UTEP,Week 12Nov 21,2010,NR
+601,RV,<,20,USC,Pac-10,7-4,8,NR,L 36-7 A Oregon State,Week 12Nov 21,2010,NR
+602,RV,<,24,Miami (FL),ACC,7-4,7,RV,L 31-17 H #14 Virginia Tech,Week 12Nov 21,2010,NR
+603,RV,<,NR,Hawaii,WAC,8-3,7,RV,W 41-7 H San Jose State,Week 12Nov 21,2010,NR
+604,RV,<,NR,Navy,Ind,8-3,7,RV,W 35-19 H Arkansas State,Week 12Nov 21,2010,NR
+605,RV,<,NR,Florida,SEC,7-4,4,RV,W 48-10 H Appalachian State,Week 12Nov 21,2010,NR
+606,RV,<,NR,UCF,CUSA,8-3,4,RV,W 61-14 A Tulane,Week 12Nov 21,2010,NR
+607,RV,<,NR,Southern Miss,CUSA,8-3,3,RV,W 59-41 H Houston,Week 12Nov 21,2010,NR
+608,RV,<,NR,Penn State,Big Ten,7-4,2,RV,W 41-24 A Indiana,Week 12Nov 21,2010,NR
+609,RV,<,NR,Ohio,MAC,8-3,1,RV,W 31-23 A Temple,Week 12Nov 21,2010,NR
+610,RV,<,NR,Oregon State,Pac-10,5-5,1,NR,W 36-7 H #20 USC,Week 12Nov 21,2010,NR
+611,NR,<,NR,Air Force,MWC,8-4,0,NR,W 35-20 A UNLV,Week 12Nov 21,2010,NR
+612,NR,<,NR,Clemson,ACC,6-5,0,NR,W 30-10 A Wake Forest,Week 12Nov 21,2010,NR
+613,NR,<,NR,Maryland,ACC,7-4,0,RV,L 30-16 H Florida State,Week 12Nov 21,2010,NR
+614,NR,<,NR,Miami (OH),MAC,7-4,0,NR,W 19-14 A Akron,Week 12Nov 21,2010,NR
+615,NR,<,NR,Michigan,Big Ten,7-4,0,RV,L 48-28 H #6 Wisconsin,Week 12Nov 21,2010,NR
+616,NR,<,NR,Northwestern,Big Ten,7-4,0,RV,L 48-27 N Illinois,Week 12Nov 21,2010,NR
+617,NR,<,NR,Notre Dame,Ind,6-5,0,NR,W 27-3 N Army,Week 12Nov 21,2010,NR
+618,NR,<,NR,Pittsburgh,Big East,6-4,0,RV,W 17-10 A South Florida,Week 12Nov 21,2010,NR
+619,NR,<,NR,San Diego State,MWC,7-4,0,RV,L 38-34 H #25 Utah,Week 12Nov 21,2010,NR
+620,NR,<,NR,Syracuse,Big East,7-4,0,NR,L 23-6 H Connecticut,Week 12Nov 21,2010,NR
+621,NR,<,NR,Temple,MAC,8-3,0,RV,L 31-23 H Ohio,Week 12Nov 21,2010,NR
+622,1,<,1,Oregon (36),Pac-10,11-0,1475,*1,W 48-29 H #20 Arizona,Week 13Nov 28,2010,2
+623,2,<,2,Auburn (23),SEC,12-0,1456,*2,W 28-27 A #9 Alabama,Week 13Nov 28,2010,1
+624,3,<,4,TCU (1),MWC,12-0,1383,*3,W 66-17 A New Mexico,Week 13Nov 28,2010,3
+625,4,<,5,Wisconsin,Big Ten,11-1,1289,4,W 70-23 H Northwestern,Week 13Nov 28,2010,5
+626,5,<,7,Stanford,Pac-10,11-1,1283,5,W 38-0 H Oregon State,Week 13Nov 28,2010,4
+627,6,<,8,Ohio State,Big Ten,11-1,1184,6,W 37-7 H Michigan,Week 13Nov 28,2010,6
+628,7,<,11,Michigan State,Big Ten,11-1,1098,7,W 28-22 A Penn State,Week 13Nov 28,2010,8
+629,8,<,12,Arkansas,SEC,10-2,1094,8,W 31-23 H #6 LSU,Week 13Nov 28,2010,7
+630,9,<,3,Boise State,WAC,10-1,908,10,L 34-31 (1OT) A #19 Nevada,Week 13Nov 28,2010,11
+631,10,<,14,Oklahoma,Big 12,10-2,886,9,W 47-41 A #10 Oklahoma State,Week 13Nov 28,2010,9
+632,11,<,6,LSU,SEC,10-2,856,12,L 31-23 A #12 Arkansas,Week 13Nov 28,2010,10
+633,12,<,13,Virginia Tech,ACC,10-2,761,11,W 37-7 H Virginia,Week 13Nov 28,2010,15
+634,13,<,16,Nebraska,Big 12,10-2,740,13,W 45-17 H Colorado,Week 13Nov 28,2010,13
+635,14,<,19,Nevada,WAC,11-1,736,17,W 34-31 (1OT) H #3 Boise State,Week 13Nov 28,2010,17
+636,15,<,15,Missouri,Big 12,10-2,691,14,W 35-7 H Kansas,Week 13Nov 28,2010,12
+637,16,<,10,Oklahoma State,Big 12,10-2,599,15,L 47-41 H #14 Oklahoma,Week 13Nov 28,2010,14
+638,17,<,9,Alabama,SEC,9-3,597,19,L 28-27 H #2 Auburn,Week 13Nov 28,2010,16
+639,18,<,18,South Carolina,SEC,9-3,591,16,W 29-7 A Clemson,Week 13Nov 28,2010,19
+640,19,<,17,Texas A&M,Big 12,9-3,582,18,W 24-17 A Texas,Week 13Nov 28,2010,18
+641,20,<,22,Florida State,ACC,9-3,356,20,W 31-7 H Florida,Week 13Nov 28,2010,21
+642,21,<,23,Utah,MWC,10-2,249,21,W 17-16 H BYU,Week 13Nov 28,2010,20
+643,22,<,25,Mississippi State,SEC,8-4,224,22,W 31-23 A Mississippi,Week 13Nov 28,2010,22
+644,23,<,NR,West Virginia,Big East,8-3,147,24,W 35-10 A Pittsburgh,Week 13Nov 28,2010,24
+645,24,<,NR,Northern Illinois,MAC,10-2,130,23,DNP,Week 13Nov 28,2010,25
+646,25,<,NR,Hawaii,WAC,9-3,43,RV,W 59-24 A New Mexico State,Week 13Nov 28,2010,NR
+647,RV,<,20,Arizona,Pac-10,7-4,34,RV,DNP,Week 13Nov 28,2010,23
+648,RV,<,NR,Maryland,ACC,8-4,29,RV,W 38-31 H #21 NC State,Week 13Nov 28,2010,NR
+649,RV,<,NR,Tulsa,CUSA,9-3,28,RV,DNP,Week 13Nov 28,2010,NR
+650,RV,<,NR,Connecticut,Big East,7-4,16,RV,W 38-17 H Cincinnati,Week 13Nov 28,2010,NR
+651,RV,<,NR,Navy,Ind,8-3,14,RV,DNP,Week 13Nov 28,2010,NR
+652,RV,<,NR,UCF,CUSA,9-3,12,25,DNP,Week 13Nov 28,2010,NR
+653,RV,<,NR,San Diego State,MWC,8-4,5,RV,DNP,Week 13Nov 28,2010,NR
+654,RV,<,21,NC State,ACC,8-4,2,RV,L 38-31 A Maryland,Week 13Nov 28,2010,NR
+655,RV,<,NR,Air Force,MWC,8-4,2,RV,DNP,Week 13Nov 28,2010,NR
+656,NR,<,24,Iowa,Big Ten,7-5,0,RV,L 27-24 A Minnesota,Week 13Nov 28,2010,NR
+657,NR,<,NR,Miami (OH),MAC,8-4,0,NR,W 23-3 H Temple,Week 13Nov 28,2010,NR
+658,NR,<,NR,Notre Dame,Ind,7-5,0,NR,W 20-16 A USC,Week 13Nov 28,2010,NR
+659,NR,<,NR,Ohio,MAC,8-4,0,NR,L 28-6 A Kent State,Week 13Nov 28,2010,NR
+660,NR,<,NR,South Florida,Big East,7-4,0,RV,W 23-20 (1OT) A Miami (FL),Week 13Nov 28,2010,NR
+661,1,<,2,Auburn (36),SEC,13-0,1473,*2,W 56-17 N #18 South Carolina (SEC CG),Week 14Dec 5,2010,1
+662,2,<,1,Oregon (23),Pac-10,12-0,1462,*1,W 37-20 A Oregon State,Week 14Dec 5,2010,2
+663,3,<,3,TCU (1),MWC,12-0,1379,*3,DNP,Week 14Dec 5,2010,3
+664,4,<,4,Wisconsin,Big Ten,11-1,1289,4,DNP,Week 14Dec 5,2010,5
+665,5,<,5,Stanford,Pac-10,11-1,1283,5,DNP,Week 14Dec 5,2010,4
+666,6,<,6,Ohio State,Big Ten,11-1,1179,6,DNP,Week 14Dec 5,2010,6
+667,7,<,7,Michigan State,Big Ten,11-1,1101,7,DNP,Week 14Dec 5,2010,9
+668,8,<,8,Arkansas,SEC,10-2,1085,8,DNP,Week 14Dec 5,2010,8
+669,9,<,10,Oklahoma,Big 12,11-2,976,8,W 23-20 N #13 Nebraska (Big 12 CG),Week 14Dec 5,2010,7
+670,10,<,9,Boise State,WAC,11-1,932,10,W 50-14 H Utah State,Week 14Dec 5,2010,10
+671,11,<,11,LSU,SEC,10-2,863,12,DNP,Week 14Dec 5,2010,11
+672,12,<,12,Virginia Tech,ACC,11-2,817,11,W 44-33 N #20 Florida State (ACC CG),Week 14Dec 5,2010,13
+673,13,<,14,Nevada,WAC,12-1,759,15,W 35-17 A Louisiana Tech,Week 14Dec 5,2010,15
+674,14,<,15,Missouri,Big 12,10-2,705,14,DNP,Week 14Dec 5,2010,12
+675,15,<,17,Alabama,SEC,9-3,628,18,DNP,Week 14Dec 5,2010,16
+676,16,<,16,Oklahoma State,Big 12,10-2,622,13,DNP,Week 14Dec 5,2010,14
+677,17,<,13,Nebraska,Big 12,10-3,608,16,L 23-20 N #10 Oklahoma (Big 12 CG),Week 14Dec 5,2010,18
+678,18,<,19,Texas A&M,Big 12,9-3,601,17,DNP,Week 14Dec 5,2010,17
+679,19,<,18,South Carolina,SEC,9-4,332,20,L 56-17 N #2 Auburn (SEC CG),Week 14Dec 5,2010,20
+680,20,<,21,Utah,MWC,10-2,312,19,DNP,Week 14Dec 5,2010,19
+681,21,<,22,Mississippi State,SEC,8-4,288,22,DNP,Week 14Dec 5,2010,21
+682,22,<,23,West Virginia,Big East,9-3,283,21,W 35-14 H Rutgers,Week 14Dec 5,2010,22
+683,23,<,20,Florida State,ACC,9-4,188,23,L 44-33 N #12 Virginia Tech (ACC CG),Week 14Dec 5,2010,23
+684,24,<,25,Hawaii,WAC,10-3,111,25,W 59-21 H UNLV,Week 14Dec 5,2010,24
+685,25,<,NR,Connecticut,Big East,8-4,74,RV,W 19-16 A South Florida,Week 14Dec 5,2010,NR
+686,RV,<,NR,UCF,CUSA,10-3,63,24,W 17-7 H SMU (CUSA),Week 14Dec 5,2010,25
+687,RV,<,NR,Maryland,ACC,8-4,30,RV,DNP,Week 14Dec 5,2010,NR
+688,RV,<,NR,Tulsa,CUSA,9-3,18,RV,DNP,Week 14Dec 5,2010,NR
+689,RV,<,NR,Navy,Ind,8-3,11,RV,DNP,Week 14Dec 5,2010,NR
+690,RV,<,NR,Miami (OH),MAC,9-4,8,RV,W 26-21 N #24 Northern Illinois (MAC),Week 14Dec 5,2010,NR
+691,RV,<,24,Northern Illinois,MAC,10-3,7,RV,L 26-21 N Miami (OH) (MAC CG),Week 14Dec 5,2010,NR
+692,RV,<,NR,San Diego State,MWC,8-4,6,RV,DNP,Week 14Dec 5,2010,NR
+693,RV,<,NR,Fresno State,WAC,8-4,2,NR,W 25-23 H Illinois,Week 14Dec 5,2010,NR
+694,RV,<,NR,Pittsburgh,Big East,7-5,2,NR,W 28-10 A Cincinnati,Week 14Dec 5,2010,NR
+695,RV,<,NR,Air Force,MWC,8-4,1,NR,DNP,Week 14Dec 5,2010,NR
+696,RV,<,NR,Iowa,Big Ten,7-5,1,NR,DNP,Week 14Dec 5,2010,NR
+697,RV,<,NR,NC State,ACC,8-4,1,RV,DNP,Week 14Dec 5,2010,NR
+698,NR,<,NR,Arizona,Pac-10,7-5,0,RV,L 30-29 (2OT) H Arizona State,Week 14Dec 5,2010,NR
+699,NR,<,NR,Notre Dame,Ind,7-5,0,NR,DNP,Week 14Dec 5,2010,NR
+700,NR,<,NR,South Florida,Big East,7-5,0,NR,L 19-16 H Connecticut,Week 14Dec 5,2010,NR
+701,1,<,1,Auburn (56),SEC,14-0,1472,*1,W 22-19 N #2 Oregon (BCS NC),Week 15 (Final)Jan 11,2010,
+702,2,<,3,TCU (3),MWC,13-0,1392,*2,W 21-19 N #4 Wisconsin (Rose),Week 15 (Final)Jan 11,2010,
+703,3,<,2,Oregon,Pac-10,12-1,1379,3,L 22-19 N #1 Auburn (BCS NC),Week 15 (Final)Jan 11,2010,
+704,4,<,5,Stanford,Pac-10,12-1,1300,4,W 40-12 N #12 Virginia Tech (Orange),Week 15 (Final)Jan 11,2010,
+705,5,<,6,Ohio State,Big Ten,12-1,1220,5,W 31-26 N #8 Arkansas (Sugar),Week 15 (Final)Jan 11,2010,
+706,6,<,9,Oklahoma,Big 12,12-2,1108,6,W 48-20 N #25 Connecticut (Fiesta),Week 15 (Final)Jan 11,2010,
+707,7,<,4,Wisconsin,Big Ten,11-2,1055,8,L 21-19 N #3 TCU (Rose),Week 15 (Final)Jan 11,2010,
+708,8,<,11,LSU,SEC,11-2,1051,8,W 41-24 N #18 Texas A&M (Cotton),Week 15 (Final)Jan 11,2010,
+709,9,<,10,Boise State,WAC,12-1,1031,7,W 26-3 N #20 Utah (MAACO),Week 15 (Final)Jan 11,2010,
+710,10,<,15,Alabama,SEC,10-3,961,11,W 49-7 N #7 Michigan State (Capital One),Week 15 (Final)Jan 11,2010,
+711,11,<,13,Nevada,WAC,13-1,866,13,W 20-13 N Boston College (Kraft Fight Hunger),Week 15 (Final)Jan 11,2010,
+712,12,<,8,Arkansas,SEC,10-3,863,12,L 31-26 N #6 Ohio State (Sugar),Week 15 (Final)Jan 11,2010,
+713,13,<,16,Oklahoma State,Big 12,11-2,833,10,W 36-10 N Arizona (Alamo),Week 15 (Final)Jan 11,2010,
+714,14,<,7,Michigan State,Big Ten,11-2,696,14,L 49-7 N #15 Alabama (Capital One),Week 15 (Final)Jan 11,2010,
+715,15,<,21,Mississippi State,SEC,9-4,578,17,W 52-14 N Michigan (Gator),Week 15 (Final)Jan 11,2010,
+716,16,<,12,Virginia Tech,ACC,11-3,577,15,L 40-12 N #5 Stanford (Orange),Week 15 (Final)Jan 11,2010,
+717,17,<,23,Florida State,ACC,10-4,502,16,W 26-17 N #19 South Carolina (Chick-fil-A),Week 15 (Final)Jan 11,2010,
+718,18,<,14,Missouri,Big 12,10-3,477,18,L 27-24 N Iowa (Insight),Week 15 (Final)Jan 11,2010,
+719,19,<,18,Texas A&M,Big 12,9-4,359,21,L 41-24 N #11 LSU (Cotton),Week 15 (Final)Jan 11,2010,
+720,20,<,17,Nebraska,Big 12,10-4,334,19,L 19-7 N Washington (Holiday),Week 15 (Final)Jan 11,2010,
+721,21,<,NR,UCF,CUSA,11-3,225,20,W 10-6 N Georgia (Liberty),Week 15 (Final)Jan 11,2010,
+722,22,<,19,South Carolina,SEC,9-5,169,22,L 26-17 N #23 Florida State (Chick-fil-A),Week 15 (Final)Jan 11,2010,
+723,23,<,NR,Maryland,ACC,9-4,144,24,W 51-20 N East Carolina (Military),Week 15 (Final)Jan 11,2010,
+724,24,<,NR,Tulsa,CUSA,10-3,128,RV,W 62-35 A #24 Hawaii (Hawaii),Week 15 (Final)Jan 11,2010,
+725,25,<,NR,NC State,ACC,9-4,119,25,W 23-7 N #22 West Virginia (Champs Sports),Week 15 (Final)Jan 11,2010,
+726,RV,<,20,Utah,MWC,10-3,98,23,L 26-3 N #10 Boise State (MAACO),Week 15 (Final)Jan 11,2010,
+727,RV,<,NR,Iowa,Big Ten,8-5,54,RV,W 27-24 N #14 Missouri (Insight),Week 15 (Final)Jan 11,2010,
+728,RV,<,NR,San Diego State,MWC,9-4,52,RV,W 35-14 H Navy (Poinsettia),Week 15 (Final)Jan 11,2010,
+729,RV,<,NR,Northern Illinois,MAC,11-3,47,RV,W 40-17 N Fresno State (Humanitarian),Week 15 (Final)Jan 11,2010,
+730,RV,<,NR,Miami (OH),MAC,10-4,21,RV,W 35-21 N Middle Tennessee (GoDaddy.com),Week 15 (Final)Jan 11,2010,
+731,RV,<,NR,Florida,SEC,8-5,19,RV,W 37-24 N Penn State (Outback),Week 15 (Final)Jan 11,2010,
+732,RV,<,22,West Virginia,Big East,9-4,16,RV,L 23-7 N NC State (Champs Sports),Week 15 (Final)Jan 11,2010,
+733,RV,<,NR,Notre Dame,Ind,8-5,9,RV,W 33-17 N Miami (FL) (Sun),Week 15 (Final)Jan 11,2010,
+734,RV,<,25,Connecticut,Big East,8-5,8,RV,L 48-20 N #9 Oklahoma (Fiesta),Week 15 (Final)Jan 11,2010,
+735,RV,<,NR,Air Force,MWC,9-4,5,RV,W 14-7 N Georgia Tech (Independence),Week 15 (Final)Jan 11,2010,
+736,RV,<,NR,Navy,Ind,9-4,3,NR,L 35-14 A San Diego State (Poinsettia),Week 15 (Final)Jan 11,2010,
+737,RV,<,24,Hawaii,WAC,10-4,2,RV,L 62-35 H Tulsa (Hawaii),Week 15 (Final)Jan 11,2010,
+738,RV,<,NR,BYU,MWC,7-6,1,NR,W 52-24 N UTEP (New Mexico),Week 15 (Final)Jan 11,2010,
+739,RV,<,NR,Eastern Washington,Other,13-2,1,NR,W 20-19 N Delaware (FCS NC),Week 15 (Final)Jan 11,2010,
+740,NR,<,NR,Washington,Pac-10,7-6,0,RV,W 19-7 N #17 Nebraska (Holiday),Week 15 (Final)Jan 11,2010,

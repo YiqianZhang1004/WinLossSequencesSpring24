@@ -1,0 +1,464 @@
+,Rank,Rank.1,Rank.2,Team (FPV),Conf,Rec,Pts,Last Week,Date,Year
+0,1,<,4,Michigan (23),Big Ten,0-0,1439.0,DNP,PreseasonAug 28[1],1989
+1,2,<,1,Notre Dame (20),Ind,0-0,1378.0,DNP,PreseasonAug 28[1],1989
+2,3,<,10,Nebraska (10),Big 8,0-0,1333.0,DNP,PreseasonAug 28[1],1989
+3,4,<,2,Miami (FL) (4),Ind,0-0,1322.0,DNP,PreseasonAug 28[1],1989
+4,5,<,7,USC (1),Pac-10,0-0,1288.0,DNP,PreseasonAug 28[1],1989
+5,6,<,3,Florida State (2),Ind,0-0,1202.0,DNP,PreseasonAug 28[1],1989
+6,7,<,19,LSU,SEC,0-0,1059.0,DNP,PreseasonAug 28[1],1989
+7,8,<,8,Auburn,SEC,0-0,1007.0,DNP,PreseasonAug 28[1],1989
+8,9,<,6,UCLA,Pac-10,0-0,996.0,DNP,PreseasonAug 28[1],1989
+9,10,<,12,Arkansas,Southwest,0-0,884.0,DNP,PreseasonAug 28[1],1989
+10,11,<,NR,Penn State,Ind,0-0,746.0,DNP,PreseasonAug 28[1],1989
+11,12,<,9,Clemson,ACC,0-0,695.0,DNP,PreseasonAug 28[1],1989
+12,13,<,13,Syracuse,Ind,0-0,644.0,DNP,PreseasonAug 28[1],1989
+13,14,<,NR,Colorado,Big 8,0-0,630.0,DNP,PreseasonAug 28[1],1989
+14,15,<,14,Oklahoma,Big 8,0-0,620.0,DNP,PreseasonAug 28[1],1989
+15,16,<,17,Alabama,SEC,0-0,479.0,DNP,PreseasonAug 28[1],1989
+16,17,<,5,West Virginia,Ind,0-0,457.0,DNP,PreseasonAug 28[1],1989
+17,18,<,NR,Arizona,Pac-10,0-0,319.0,DNP,PreseasonAug 28[1],1989
+18,19,<,NR,BYU,WAC,0-0,306.0,DNP,PreseasonAug 28[1],1989
+19,20,<,NR,Pittsburgh,Ind,0-0,282.0,DNP,PreseasonAug 28[1],1989
+20,21,<,18,Houston,Southwest,0-0,281.0,DNP,PreseasonAug 28[1],1989
+21,22,<,NR,Illinois,Big Ten,0-0,277.0,DNP,PreseasonAug 28[1],1989
+22,23,<,NR,Iowa,Big Ten,0-0,250.0,DNP,PreseasonAug 28[1],1989
+23,24,<,NR,NC State,ACC,0-0,238.0,DNP,PreseasonAug 28[1],1989
+24,25,<,NR,Ohio State,Big Ten,0-0,200.5,DNP,PreseasonAug 28[1],1989
+25,NR,<,11,Oklahoma State,Big 8,0-0,0.0,DNP,PreseasonAug 28[1],1989
+26,NR,<,15,Georgia,SEC,0-0,0.0,DNP,PreseasonAug 28[1],1989
+27,NR,<,16,Washington State,Pac-10,0-0,0.0,DNP,PreseasonAug 28[1],1989
+28,NR,<,20,Indiana,Big Ten,0-0,0.0,DNP,PreseasonAug 28[1],1989
+29,1,<,2,Notre Dame (31),Ind,1-0,1430.0,W 36-13 N Virginia (Kickoff Classic),Week 1Sep 5[2],1989
+30,2,<,1,Michigan (18),Big Ten,0-0,1419.0,DNP,Week 1Sep 5[2],1989
+31,3,<,4,Miami (FL) (4),Ind,0-0,1342.0,DNP,Week 1Sep 5[2],1989
+32,4,<,3,Nebraska (6),Big 8,0-0,1335.0,DNP,Week 1Sep 5[2],1989
+33,5,<,8,Auburn,SEC,0-0,1149.0,DNP,Week 1Sep 5[2],1989
+34,6,<,9,UCLA,Pac-10,0-0,1110.0,DNP,Week 1Sep 5[2],1989
+35,7,<,10,Arkansas,Southwest,0-0,968.0,DNP,Week 1Sep 5[2],1989
+36,8,<,15,Oklahoma,Big 8,1-0,886.0,W 73-3 H New Mexico State,Week 1Sep 5[2],1989
+37,9,<,14,Colorado,Big 8,1-0,860.0,,Week 1Sep 5[2],1989
+38,10,<,12,Clemson,ACC,1-0,812.0,,Week 1Sep 5[2],1989
+39,11,<,22,Illinois,Big Ten,1-0,811.0,,Week 1Sep 5[2],1989
+40,12,<,11,Penn State,Ind,0-0,774.0,DNP,Week 1Sep 5[2],1989
+41,13,<,5,USC,Pac-10,0-1,650.0,,Week 1Sep 5[2],1989
+42,14,<,13,Syracuse,Ind,0-0,606.0,DNP,Week 1Sep 5[2],1989
+43,15,<,NR,Texas A&M,Southwest,1-0,569.0,,Week 1Sep 5[2],1989
+44,16,<,6,Florida State,Ind,0-1,548.0,,Week 1Sep 5[2],1989
+45,17,<,17,West Virginia,Ind,1-0,515.0,,Week 1Sep 5[2],1989
+46,18,<,NR,Southern Miss,Ind,1-0,486.0,W 30-26 N #6 Florida State,Week 1Sep 5[2],1989
+47,19,<,16,Alabama,SEC,0-0,434.0,DNP,Week 1Sep 5[2],1989
+48,20,<,18,Arizona,Pac-10,1-0,396.0,W 19-3 H Stanford,Week 1Sep 5[2],1989
+49,21,<,7,LSU,SEC,0-1,369.0,L 28-16 A Texas A&M,Week 1Sep 5[2],1989
+50,22,<,21,Houston,Southwest,1-0,326.0,,Week 1Sep 5[2],1989
+51,23,<,20,Pittsburgh,Ind,1-0,319.0,,Week 1Sep 5[2],1989
+52,24,<,19,BYU,WAC,1-0,272.0,,Week 1Sep 5[2],1989
+53,25,<,24,NC State,ACC,1-0,157.0,,Week 1Sep 5[2],1989
+54,NR,<,23,Iowa,Big Ten,,0.0,,Week 1Sep 5[2],1989
+55,NR,<,25,Ohio State,Big Ten,,0.0,,Week 1Sep 5[2],1989
+56,1,<,1,Notre Dame (37),Ind,1-0,1463.0,DNP,Week 2Sep 12[3],1989
+57,2,<,2,Michigan (15),Big Ten,0-0,1440.0,DNP,Week 2Sep 12[3],1989
+58,3,<,3,Miami (FL) (5),Ind,1-0,1360.0,,Week 2Sep 12[3],1989
+59,4,<,4,Nebraska (3),Big 8,1-0,1303.0,,Week 2Sep 12[3],1989
+60,5,<,5,Auburn,SEC,1-0,1249.0,,Week 2Sep 12[3],1989
+61,6,<,8,Oklahoma,Big 8,2-0,1121.0,W 33-7 H Baylor,Week 2Sep 12[3],1989
+62,7,<,10,Clemson,ACC,2-0,1073.0,,Week 2Sep 12[3],1989
+63,8,<,9,Colorado,Big 8,2-0,1065.0,,Week 2Sep 12[3],1989
+64,9,<,7,Arkansas,Southwest,0-0,1035.0,DNP,Week 2Sep 12[3],1989
+65,10,<,11,Illinois,Big Ten,1-0,953.0,,Week 2Sep 12[3],1989
+66,11,<,14,Syracuse,Ind,1-0,900.0,,Week 2Sep 12[3],1989
+67,12,<,17,West Virginia,Ind,2-0,713.0,,Week 2Sep 12[3],1989
+68,13,<,13,USC,Pac-10,0-1,647.0,,Week 2Sep 12[3],1989
+69,14,<,23,Pittsburgh,Ind,2-0,598.0,,Week 2Sep 12[3],1989
+70,15,<,NR,Washington,Pac-10,1-0,514.0,,Week 2Sep 12[3],1989
+71,16,<,19,Alabama,SEC,0-0,508.0,DNP,Week 2Sep 12[3],1989
+72,17,<,NR,Tennessee,SEC,2-0,492.0,W 24-6 A #6 UCLA,Week 2Sep 12[3],1989
+73,18,<,22,Houston,Southwest,1-0,470.0,,Week 2Sep 12[3],1989
+74,19,<,25,NC State,ACC,2-0,394.0,,Week 2Sep 12[3],1989
+75,20,<,6,UCLA,Pac-10,0-1,365.0,L 24-6 H Tennessee,Week 2Sep 12[3],1989
+76,21,<,21,LSU,SEC,0-1,310.0,,Week 2Sep 12[3],1989
+77,22,<,15,Texas A&M,Southwest,1-1,168.0,,Week 2Sep 12[3],1989
+78,23,<,NR,Washington State,Pac-10,2-0,157.0,W 46-41 A #24 BYU,Week 2Sep 12[3],1989
+79,24,<,NR,Iowa,Big Ten,0-0,135.0,DNP,Week 2Sep 12[3],1989
+80,25,<,NR,Mississippi State,SEC,2-0,120.0,,Week 2Sep 12[3],1989
+81,NR,<,12,Penn State,Ind,,0.0,,Week 2Sep 12[3],1989
+82,NR,<,16,Florida State,Ind,,0.0,,Week 2Sep 12[3],1989
+83,NR,<,18,Southern Miss,Ind,,0.0,,Week 2Sep 12[3],1989
+84,NR,<,20,Arizona,Pac-10,1-1,0.0,L 24-14 A Texas Tech,Week 2Sep 12[3],1989
+85,NR,<,24,BYU,WAC,,0.0,,Week 2Sep 12[3],1989
+86,1,<,1,Notre Dame (57),Ind,2-0,1497.0,W 24-19 A #2 Michigan,Week 3Sep 19[4],1989
+87,2,<,3,Miami (FL) (3),Ind,2-0,1424.0,,Week 3Sep 19[4],1989
+88,3,<,4,Nebraska,Big 8,2-0,1308.0,,Week 3Sep 19[4],1989
+89,4,<,5,Auburn,SEC,2-0,1290.0,,Week 3Sep 19[4],1989
+90,5,<,2,Michigan,Big Ten,0-1,1224.0,L 24-19 H #1 Notre Dame,Week 3Sep 19[4],1989
+91,6,<,8,Colorado,Big 8,3-0,1218.0,,Week 3Sep 19[4],1989
+92,7,<,7,Clemson,ACC,3-0,1166.0,,Week 3Sep 19[4],1989
+93,8,<,9,Arkansas,Southwest,1-0,1059.0,,Week 3Sep 19[4],1989
+94,9,<,12,West Virginia,Ind,3-0,926.0,,Week 3Sep 19[4],1989
+95,10,<,11,Syracuse,Ind,2-0,848.0,,Week 3Sep 19[4],1989
+96,11,<,15,Washington,Pac-10,2-0,790.0,,Week 3Sep 19[4],1989
+97,12,<,13,USC,Pac-10,1-1,746.0,,Week 3Sep 19[4],1989
+98,13,<,14,Pittsburgh,Ind,2-0,704.0,,Week 3Sep 19[4],1989
+99,14,<,17,Tennessee,SEC,3-0,695.0,,Week 3Sep 19[4],1989
+100,15,<,16,Alabama,SEC,1-0,640.0,,Week 3Sep 19[4],1989
+101,16,<,6,Oklahoma,Big 8,2-1,531.0,L 6-3 A Arizona,Week 3Sep 19[4],1989
+102,17,<,18,Houston,Southwest,1-0,471.0,,Week 3Sep 19[4],1989
+103,18,<,19,NC State,ACC,3-0,449.0,,Week 3Sep 19[4],1989
+104,19,<,23,Washington State,Pac-10,3-0,339.0,W 41-3 H Oregon State,Week 3Sep 19[4],1989
+105,20,<,10,Illinois,Big Ten,1-1,314.0,,Week 3Sep 19[4],1989
+106,21,<,22,Texas A&M,Southwest,2-1,259.0,,Week 3Sep 19[4],1989
+107,22,<,NR,Oregon,Pac-10,2-0,245.0,,Week 3Sep 19[4],1989
+108,23,<,NR,Arizona,Pac-10,2-1,236.0,W 6-3 H Oklahoma,Week 3Sep 19[4],1989
+109,24,<,20,UCLA,Pac-10,1-1,188.0,,Week 3Sep 19[4],1989
+110,25,<,NR,Ohio State,Big Ten,1-0,182.0,,Week 3Sep 19[4],1989
+111,NR,<,21,LSU,SEC,,0.0,,Week 3Sep 19[4],1989
+112,NR,<,24,Iowa,Big Ten,,0.0,,Week 3Sep 19[4],1989
+113,NR,<,25,Mississippi State,SEC,,0.0,,Week 3Sep 19[4],1989
+114,1,<,1,Notre Dame (57),Ind,3-0,1497.0,W 21-13 H Michigan State,Week 4Sep 26[5],1989
+115,2,<,2,Miami (FL) (3),Ind,3-0,1432.0,,Week 4Sep 26[5],1989
+116,3,<,3,Nebraska,Big 8,3-0,1315.0,,Week 4Sep 26[5],1989
+117,4,<,4,Auburn,SEC,2-0,1284.0,,Week 4Sep 26[5],1989
+118,5,<,6,Colorado,Big 8,3-0,1236.0,,Week 4Sep 26[5],1989
+119,6,<,5,Michigan,Big Ten,1-1,1193.0,,Week 4Sep 26[5],1989
+120,7,<,7,Clemson,ACC,4-0,1186.0,,Week 4Sep 26[5],1989
+121,8,<,8,Arkansas,Southwest,2-0,1030.0,,Week 4Sep 26[5],1989
+122,9,<,9,West Virginia,Ind,4-0,955.0,,Week 4Sep 26[5],1989
+123,10,<,13,Pittsburgh,Ind,3-0,943.0,,Week 4Sep 26[5],1989
+124,11,<,12,USC,Pac-10,2-1,852.0,,Week 4Sep 26[5],1989
+125,12,<,14,Tennessee,SEC,3-0,803.0,,Week 4Sep 26[5],1989
+126,13,<,15,Alabama,SEC,2-0,725.0,,Week 4Sep 26[5],1989
+127,14,<,17,Houston,Southwest,2-0,659.0,,Week 4Sep 26[5],1989
+128,15,<,18,NC State,ACC,4-0,565.0,,Week 4Sep 26[5],1989
+129,16,<,16,Oklahoma,Big 8,2-1,544.0,DNP,Week 4Sep 26[5],1989
+130,17,<,23,Arizona,Pac-10,3-1,495.0,W 20-17 H Washington,Week 4Sep 26[5],1989
+131,18,<,10,Syracuse,Ind,2-1,462.0,,Week 4Sep 26[5],1989
+132,19,<,19,Washington State,Pac-10,4-0,422.0,W 29-23 A Wyoming,Week 4Sep 26[5],1989
+133,20,<,20,Illinois,Big Ten,2-1,366.0,,Week 4Sep 26[5],1989
+134,21,<,11,Washington,Pac-10,2-1,320.0,,Week 4Sep 26[5],1989
+135,22,<,21,Texas A&M,Southwest,2-1,233.0,,Week 4Sep 26[5],1989
+136,23,<,NR,Georgia,SEC,2-0,213.0,,Week 4Sep 26[5],1989
+137,24,<,NR,Air Force,WAC,4-0,163.0,,Week 4Sep 26[5],1989
+138,25,<,NR,Florida State,Ind,2-2,145.0,,Week 4Sep 26[5],1989
+139,NR,<,22,Oregon,Pac-10,,0.0,,Week 4Sep 26[5],1989
+140,NR,<,24,UCLA,Pac-10,,0.0,,Week 4Sep 26[5],1989
+141,NR,<,25,Ohio State,Big Ten,,0.0,,Week 4Sep 26[5],1989
+142,1,<,1,Notre Dame (57),Ind,4-0,1497.0,W 40-7 A Purdue,Week 5Oct 3[6],1989
+143,2,<,2,Miami (FL) (3),Ind,4-0,1426.0,,Week 5Oct 3[6],1989
+144,3,<,5,Colorado,Big 8,4-0,1344.0,,Week 5Oct 3[6],1989
+145,4,<,3,Nebraska,Big 8,4-0,1324.0,,Week 5Oct 3[6],1989
+146,5,<,6,Michigan,Big Ten,2-1,1234.0,,Week 5Oct 3[6],1989
+147,6,<,12,Tennessee,SEC,4-0,1193.0,,Week 5Oct 3[6],1989
+148,7,<,8,Arkansas,Southwest,3-0,1118.0,,Week 5Oct 3[6],1989
+149,8,<,10,Pittsburgh,Ind,3-0-1,961.0,,Week 5Oct 3[6],1989
+150,9,<,9,West Virginia,Ind,4-0-1,939.0,,Week 5Oct 3[6],1989
+151,9,<,11,USC,Pac-10,3-1,939.0,,Week 5Oct 3[6],1989
+152,11,<,4,Auburn,SEC,2-1,892.0,,Week 5Oct 3[6],1989
+153,12,<,14,Houston,Southwest,3-0,879.0,,Week 5Oct 3[6],1989
+154,13,<,13,Alabama,SEC,3-0,807.0,,Week 5Oct 3[6],1989
+155,14,<,15,NC State,ACC,5-0,669.0,,Week 5Oct 3[6],1989
+156,15,<,7,Clemson,ACC,4-1,665.0,,Week 5Oct 3[6],1989
+157,16,<,16,Oklahoma,Big 8,3-1,637.0,W 45-6 A Kansas,Week 5Oct 3[6],1989
+158,17,<,18,Syracuse,Ind,2-1,496.0,,Week 5Oct 3[6],1989
+159,18,<,20,Illinois,Big Ten,2-1,419.0,,Week 5Oct 3[6],1989
+160,19,<,22,Texas A&M,Southwest,3-1,375.0,,Week 5Oct 3[6],1989
+161,20,<,24,Air Force,WAC,5-0,371.0,,Week 5Oct 3[6],1989
+162,21,<,19,Washington State,Pac-10,4-1,334.0,L 18-17 H USC,Week 5Oct 3[6],1989
+163,22,<,25,Florida State,Ind,2-2,171.0,,Week 5Oct 3[6],1989
+164,23,<,NR,Oregon,Pac-10,3-1,162.0,,Week 5Oct 3[6],1989
+165,24,<,NR,Michigan State,Big Ten,1-2,128.0,,Week 5Oct 3[6],1989
+166,25,<,NR,UCLA,Pac-10,2-2,103.0,,Week 5Oct 3[6],1989
+167,NR,<,17,Arizona,Pac-10,3-2,0.0,L 16-10 A Oregon,Week 5Oct 3[6],1989
+168,NR,<,21,Washington,Pac-10,,0.0,,Week 5Oct 3[6],1989
+169,NR,<,23,Georgia,SEC,,0.0,,Week 5Oct 3[6],1989
+170,1,<,1,Notre Dame (54),Ind,5-0,1494.0,W 27-17 A Stanford,Week 6Oct 10[7],1989
+171,2,<,2,Miami (FL) (4),Ind,5-0,1428.0,,Week 6Oct 10[7],1989
+172,3,<,3,Colorado (2),Big 8,5-0,1371.0,,Week 6Oct 10[7],1989
+173,4,<,4,Nebraska,Big 8,5-0,1298.0,,Week 6Oct 10[7],1989
+174,5,<,5,Michigan,Big Ten,3-1,1232.0,,Week 6Oct 10[7],1989
+175,6,<,6,Tennessee,SEC,5-0,1205.0,,Week 6Oct 10[7],1989
+176,7,<,7,Arkansas,Southwest,4-0,1108.0,,Week 6Oct 10[7],1989
+177,8,<,12,Houston,Southwest,4-0,1002.0,,Week 6Oct 10[7],1989
+178,9,<,8,Pittsburgh,Ind,4-0-1,994.0,,Week 6Oct 10[7],1989
+179,10,<,9,USC,Pac-10,4-1,951.0,,Week 6Oct 10[7],1989
+180,11,<,13,Alabama,SEC,4-0,888.0,,Week 6Oct 10[7],1989
+181,12,<,11,Auburn,SEC,3-1,869.0,,Week 6Oct 10[7],1989
+182,13,<,14,NC State,ACC,6-0,727.0,,Week 6Oct 10[7],1989
+183,14,<,15,Clemson,ACC,5-1,684.0,,Week 6Oct 10[7],1989
+184,15,<,16,Oklahoma,Big 8,4-1,679.0,W 37-15 H Oklahoma State,Week 6Oct 10[7],1989
+185,16,<,18,Illinois,Big Ten,3-1,593.0,,Week 6Oct 10[7],1989
+186,17,<,20,Air Force,WAC,6-0,498.0,,Week 6Oct 10[7],1989
+187,17,<,21,Washington State,Pac-10,5-1,498.0,W 51-38 A Oregon,Week 6Oct 10[7],1989
+188,19,<,22,Florida State,Ind,3-2,470.0,,Week 6Oct 10[7],1989
+189,20,<,9,West Virginia,Ind,4-1-1,394.0,,Week 6Oct 10[7],1989
+190,21,<,24,Michigan State,Big Ten,2-2,273.0,,Week 6Oct 10[7],1989
+191,22,<,25,UCLA,Pac-10,3-2,226.0,,Week 6Oct 10[7],1989
+192,23,<,NR,Penn State,Ind,4-1,82.0,,Week 6Oct 10[7],1989
+193,24,<,NR,South Carolina,Ind,4-1-1,77.0,W 47-14 H East Carolina,Week 6Oct 10[7],1989
+194,25,<,NR,BYU,WAC,4-1,66.0,,Week 6Oct 10[7],1989
+195,25,<,NR,Florida,SEC,4-1,66.0,,Week 6Oct 10[7],1989
+196,NR,<,17,Syracuse,Ind,,0.0,,Week 6Oct 10[7],1989
+197,NR,<,19,Texas A&M,Southwest,,0.0,,Week 6Oct 10[7],1989
+198,NR,<,23,Oregon,Pac-10,,0.0,,Week 6Oct 10[7],1989
+199,1,<,1,Notre Dame (52),Ind,6-0,1443.0,W 41-27 A #17 Air Force,Week 7Oct 17[8],1989
+200,2,<,2,Miami (FL) (3),Ind,6-0,1374.0,,Week 7Oct 17[8],1989
+201,3,<,3,Colorado (3),Big 8,6-0,1352.0,,Week 7Oct 17[8],1989
+202,4,<,4,Nebraska,Big 8,6-0,1243.0,,Week 7Oct 17[8],1989
+203,5,<,5,Michigan,Big Ten,4-1,1187.0,,Week 7Oct 17[8],1989
+204,6,<,6,Tennessee,SEC,5-0,1162.0,,Week 7Oct 17[8],1989
+205,7,<,7,Arkansas,Southwest,5-0,1118.0,,Week 7Oct 17[8],1989
+206,8,<,9,Pittsburgh,Ind,5-0-1,1011.0,,Week 7Oct 17[8],1989
+207,9,<,10,USC,Pac-10,5-1,983.0,,Week 7Oct 17[8],1989
+208,10,<,11,Alabama,SEC,5-0,900.0,,Week 7Oct 17[8],1989
+209,11,<,12,Auburn,SEC,4-1,873.0,,Week 7Oct 17[8],1989
+210,12,<,13,NC State,ACC,6-0,779.0,,Week 7Oct 17[8],1989
+211,13,<,16,Illinois,Big Ten,4-1,680.0,,Week 7Oct 17[8],1989
+212,14,<,19,Florida State,Ind,4-2,644.0,,Week 7Oct 17[8],1989
+213,15,<,17,Washington State,Pac-10,6-1,627.0,W 31-13 H Stanford,Week 7Oct 17[8],1989
+214,16,<,8,Houston,Southwest,4-1,611.0,,Week 7Oct 17[8],1989
+215,17,<,23,Penn State,Ind,5-1,434.0,,Week 7Oct 17[8],1989
+216,18,<,20,West Virginia,Ind,4-1-1,419.0,,Week 7Oct 17[8],1989
+217,19,<,17,Air Force,WAC,6-1,317.0,,Week 7Oct 17[8],1989
+218,20,<,25,Florida,SEC,5-1,272.0,,Week 7Oct 17[8],1989
+219,21,<,25,BYU,WAC,5-1,260.0,,Week 7Oct 17[8],1989
+220,22,<,NR,Arizona,Pac-10,4-2,245.0,W 42-7 H UCLA,Week 7Oct 17[8],1989
+221,23,<,NR,Texas A&M,Southwest,4-2,203.0,,Week 7Oct 17[8],1989
+222,24,<,24,South Carolina,Ind,4-1-1,173.0,DNP,Week 7Oct 17[8],1989
+223,25,<,15,Oklahoma,Big 8,4-2,151.0,L 28-24 N Texas,Week 7Oct 17[8],1989
+224,NR,<,14,Clemson,ACC,,0.0,,Week 7Oct 17[8],1989
+225,NR,<,21,Michigan State,Big Ten,,0.0,,Week 7Oct 17[8],1989
+226,NR,<,22,UCLA,Pac-10,,0.0,,Week 7Oct 17[8],1989
+227,1,<,1,Notre Dame (56),Ind,7-0,1496.0,W 28-24 H #9 USC,Week 8Oct 24[9],1989
+228,2,<,2,Miami (FL) (3),Ind,6-0,1424.0,,Week 8Oct 24[9],1989
+229,3,<,3,Colorado (1),Big 8,7-0,1379.0,,Week 8Oct 24[9],1989
+230,4,<,4,Nebraska,Big 8,7-0,1295.0,,Week 8Oct 24[9],1989
+231,5,<,5,Michigan,Big Ten,5-1,1234.0,,Week 8Oct 24[9],1989
+232,6,<,10,Alabama,SEC,6-0,1217.0,,Week 8Oct 24[9],1989
+233,7,<,8,Pittsburgh,Ind,5-0-1,1117.0,,Week 8Oct 24[9],1989
+234,8,<,13,Illinois,Big Ten,5-1,997.0,,Week 8Oct 24[9],1989
+235,9,<,14,Florida State,Ind,5-2,961.0,,Week 8Oct 24[9],1989
+236,10,<,9,USC,Pac-10,5-2,917.0,,Week 8Oct 24[9],1989
+237,11,<,6,Tennessee,SEC,5-1,853.0,,Week 8Oct 24[9],1989
+238,12,<,16,Houston,Southwest,5-1,814.0,,Week 8Oct 24[9],1989
+239,13,<,7,Arkansas,Southwest,5-1,683.0,,Week 8Oct 24[9],1989
+240,14,<,17,Penn State,Ind,5-1,651.0,,Week 8Oct 24[9],1989
+241,15,<,18,West Virginia,Ind,5-1-1,612.0,,Week 8Oct 24[9],1989
+242,16,<,11,Auburn,SEC,4-2,538.0,,Week 8Oct 24[9],1989
+243,17,<,22,Arizona,Pac-10,5-2,535.0,W 23-21 A Washington State,Week 8Oct 24[9],1989
+244,18,<,21,BYU,WAC,6-1,443.0,,Week 8Oct 24[9],1989
+245,19,<,20,Florida,SEC,6-1,436.0,,Week 8Oct 24[9],1989
+246,20,<,12,NC State,ACC,6-1,313.0,,Week 8Oct 24[9],1989
+247,21,<,23,Texas A&M,Southwest,5-2,300.0,,Week 8Oct 24[9],1989
+248,22,<,NR,Clemson,ACC,6-2,266.0,,Week 8Oct 24[9],1989
+249,23,<,15,Washington State,Pac-10,6-2,246.0,L 23-21 H Arizona,Week 8Oct 24[9],1989
+250,24,<,NR,Texas,Southwest,4-2,211.0,,Week 8Oct 24[9],1989
+251,25,<,24,South Carolina,Ind,5-1-1,183.0,W 24-3 H Western Carolina,Week 8Oct 24[9],1989
+252,NR,<,19,Air Force,WAC,,0.0,,Week 8Oct 24[9],1989
+253,NR,<,25,Oklahoma,Big 8,5-2,0.0,W 43-40 A Iowa State,Week 8Oct 24[9],1989
+254,1,<,1,Notre Dame (58),Ind,8-0,1498.0,W 45-7 H #7 Pittsburgh,Week 9Oct 31[10],1989
+255,2,<,3,Colorado (2),Big 8,8-0,1432.0,,Week 9Oct 31[10],1989
+256,3,<,4,Nebraska,Big 8,8-0,1366.0,,Week 9Oct 31[10],1989
+257,4,<,5,Michigan,Big Ten,6-1,1312.0,,Week 9Oct 31[10],1989
+258,5,<,6,Alabama,SEC,7-0,1260.0,,Week 9Oct 31[10],1989
+259,6,<,9,Florida State,Ind,6-2,1159.0,,Week 9Oct 31[10],1989
+260,7,<,2,Miami (FL),Ind,6-1,1114.0,,Week 9Oct 31[10],1989
+261,8,<,8,Illinois,Big Ten,6-1,1083.0,,Week 9Oct 31[10],1989
+262,9,<,10,USC,Pac-10,6-2,1038.0,,Week 9Oct 31[10],1989
+263,10,<,11,Tennessee,SEC,6-1,927.0,,Week 9Oct 31[10],1989
+264,11,<,13,Arkansas,Southwest,6-1,912.0,,Week 9Oct 31[10],1989
+265,12,<,16,Auburn,SEC,5-2,711.0,,Week 9Oct 31[10],1989
+266,13,<,15,West Virginia,Ind,6-1-1,694.0,,Week 9Oct 31[10],1989
+267,14,<,7,Pittsburgh,Ind,5-1-1,653.0,,Week 9Oct 31[10],1989
+268,15,<,17,Arizona,Pac-10,6-2,638.0,W 38-14 H Pacific,Week 9Oct 31[10],1989
+269,16,<,14,Penn State,Ind,5-2,525.0,,Week 9Oct 31[10],1989
+270,17,<,12,Houston,Southwest,5-2,460.0,,Week 9Oct 31[10],1989
+271,18,<,20,NC State,ACC,7-1,457.0,,Week 9Oct 31[10],1989
+272,19,<,19,Florida,SEC,6-1,449.0,,Week 9Oct 31[10],1989
+273,20,<,21,Texas A&M,Southwest,6-2,437.0,,Week 9Oct 31[10],1989
+274,21,<,22,Clemson,ACC,7-2,412.0,,Week 9Oct 31[10],1989
+275,22,<,24,Texas,Southwest,4-2,286.0,,Week 9Oct 31[10],1989
+276,23,<,18,BYU,WAC,6-2,113.0,,Week 9Oct 31[10],1989
+277,24,<,NR,Virginia,ACC,7-2,112.0,,Week 9Oct 31[10],1989
+278,25,<,NR,Fresno State,Big West,8-0,91.0,W 31-17 H UNLV,Week 9Oct 31[10],1989
+279,NR,<,23,Washington State,Pac-10,,0.0,,Week 9Oct 31[10],1989
+280,NR,<,25,South Carolina,Ind,,0.0,,Week 9Oct 31[10],1989
+281,1,<,1,Notre Dame (56),Ind,9-0,1496.0,W 41-0 H Navy,Week 10Nov 7[11],1989
+282,2,<,2,Colorado (4),Big 8,9-0,1441.0,,Week 10Nov 7[11],1989
+283,3,<,4,Michigan,Big Ten,7-1,1343.0,,Week 10Nov 7[11],1989
+284,4,<,5,Alabama,SEC,8-0,1310.0,,Week 10Nov 7[11],1989
+285,5,<,6,Florida State,Ind,7-2,1220.0,,Week 10Nov 7[11],1989
+286,6,<,3,Nebraska,Big 8,8-1,1180.0,,Week 10Nov 7[11],1989
+287,7,<,7,Miami (FL),Ind,7-1,1147.0,,Week 10Nov 7[11],1989
+288,8,<,8,Illinois,Big Ten,7-1,1104.0,,Week 10Nov 7[11],1989
+289,9,<,9,USC,Pac-10,7-2,1042.0,,Week 10Nov 7[11],1989
+290,10,<,11,Arkansas,Southwest,7-1,921.0,,Week 10Nov 7[11],1989
+291,11,<,10,Tennessee,SEC,6-1,902.0,,Week 10Nov 7[11],1989
+292,12,<,12,Auburn,SEC,6-2,829.0,,Week 10Nov 7[11],1989
+293,13,<,16,Penn State,Ind,6-2,744.0,,Week 10Nov 7[11],1989
+294,14,<,14,Pittsburgh,Ind,5-1-1,683.0,,Week 10Nov 7[11],1989
+295,15,<,17,Houston,Southwest,6-2,610.0,,Week 10Nov 7[11],1989
+296,16,<,20,Texas A&M,Southwest,7-2,590.0,,Week 10Nov 7[11],1989
+297,17,<,21,Clemson,ACC,8-2,557.0,,Week 10Nov 7[11],1989
+298,18,<,24,Virginia,ACC,8-2,436.0,,Week 10Nov 7[11],1989
+299,19,<,13,West Virginia,Ind,6-2-1,412.0,,Week 10Nov 7[11],1989
+300,20,<,19,Florida,SEC,6-2,317.0,,Week 10Nov 7[11],1989
+301,21,<,23,BYU,WAC,7-2,193.0,,Week 10Nov 7[11],1989
+302,22,<,18,NC State,ACC,7-2,156.0,,Week 10Nov 7[11],1989
+303,23,<,NR,Texas Tech,Southwest,6-2,145.0,,Week 10Nov 7[11],1989
+304,24,<,25,Fresno State,Big West,9-0,140.0,W 31-30 H San Jose State,Week 10Nov 7[11],1989
+305,25,<,15,Arizona,Pac-10,6-3,124.0,L 29-28 A California,Week 10Nov 7[11],1989
+306,NR,<,22,Texas,Southwest,,0.0,,Week 10Nov 7[11],1989
+307,1,<,1,Notre Dame (57),Ind,10-0,1497.0,W 59-6 H SMU,Week 11Nov 14[12],1989
+308,2,<,2,Colorado (3),Big 8,10-0,1439.0,,Week 11Nov 14[12],1989
+309,3,<,3,Michigan,Big Ten,8-1,1360.0,,Week 11Nov 14[12],1989
+310,4,<,4,Alabama,SEC,9-0,1312.0,,Week 11Nov 14[12],1989
+311,5,<,5,Florida State,Ind,7-2,1240.0,,Week 11Nov 14[12],1989
+312,6,<,6,Nebraska,Big 8,9-1,1197.0,,Week 11Nov 14[12],1989
+313,7,<,7,Miami (FL),Ind,8-1,1163.0,,Week 11Nov 14[12],1989
+314,8,<,9,USC,Pac-10,8-2,1076.0,,Week 11Nov 14[12],1989
+315,9,<,11,Tennessee,SEC,7-1,991.0,,Week 11Nov 14[12],1989
+316,10,<,10,Arkansas,Southwest,8-1,979.0,,Week 11Nov 14[12],1989
+317,11,<,12,Auburn,SEC,7-2,866.0,,Week 11Nov 14[12],1989
+318,12,<,8,Illinois,Big Ten,7-2,855.0,,Week 11Nov 14[12],1989
+319,13,<,15,Houston,Southwest,7-2,754.0,,Week 11Nov 14[12],1989
+320,14,<,16,Texas A&M,Southwest,7-2,680.0,,Week 11Nov 14[12],1989
+321,15,<,17,Clemson,ACC,8-2,632.0,,Week 11Nov 14[12],1989
+322,16,<,18,Virginia,ACC,9-2,564.0,,Week 11Nov 14[12],1989
+323,17,<,13,Penn State,Ind,6-2-1,425.0,,Week 11Nov 14[12],1989
+324,18,<,19,West Virginia,Ind,7-2-1,393.0,,Week 11Nov 14[12],1989
+325,19,<,14,Pittsburgh,Ind,5-2-1,379.0,,Week 11Nov 14[12],1989
+326,20,<,23,Texas Tech,Southwest,7-2,334.0,,Week 11Nov 14[12],1989
+327,21,<,21,BYU,WAC,8-2,310.0,,Week 11Nov 14[12],1989
+328,22,<,NR,Ohio State,Big Ten,7-2,262.0,,Week 11Nov 14[12],1989
+329,23,<,24,Fresno State,Big West,10-0,233.0,W 45-5 A New Mexico State,Week 11Nov 14[12],1989
+330,24,<,NR,Hawaii,WAC,8-2,131.0,W 34-26 H Pacific,Week 11Nov 14[12],1989
+331,25,<,NR,Duke,ACC,7-3,114.0,,Week 11Nov 14[12],1989
+332,NR,<,20,Florida,SEC,,0.0,,Week 11Nov 14[12],1989
+333,NR,<,22,NC State,ACC,,0.0,,Week 11Nov 14[12],1989
+334,NR,<,25,Arizona,Pac-10,6-4,0.0,L 24-3 H USC,Week 11Nov 14[12],1989
+335,1,<,1,Notre Dame (57),Ind,11-0,1497.0,W 34-23 A #17 Penn State,Week 12Nov 21[13],1989
+336,2,<,2,Colorado (3),Big 8,11-0,1439.0,,Week 12Nov 21[13],1989
+337,3,<,3,Michigan,Big Ten,9-1,1359.0,,Week 12Nov 21[13],1989
+338,4,<,4,Alabama,SEC,10-0,1319.0,,Week 12Nov 21[13],1989
+339,5,<,5,Florida State,Ind,8-2,1244.0,,Week 12Nov 21[13],1989
+340,6,<,6,Nebraska,Big 8,10-1,1200.0,,Week 12Nov 21[13],1989
+341,7,<,7,Miami (FL),Ind,9-1,1169.0,,Week 12Nov 21[13],1989
+342,8,<,9,Tennessee,SEC,8-1,1065.0,,Week 12Nov 21[13],1989
+343,9,<,10,Arkansas,Southwest,8-1,988.0,,Week 12Nov 21[13],1989
+344,10,<,11,Auburn,SEC,8-2,925.0,,Week 12Nov 21[13],1989
+345,11,<,12,Illinois,Big Ten,8-2,907.0,,Week 12Nov 21[13],1989
+346,12,<,8,USC,Pac-10,8-2-1,815.0,,Week 12Nov 21[13],1989
+347,13,<,13,Houston,Southwest,7-2,730.0,,Week 12Nov 21[13],1989
+348,14,<,14,Texas A&M,Southwest,7-2,716.0,,Week 12Nov 21[13],1989
+349,15,<,15,Clemson,ACC,9-2,670.0,,Week 12Nov 21[13],1989
+350,16,<,16,Virginia,ACC,10-2,603.0,,Week 12Nov 21[13],1989
+351,17,<,18,West Virginia,Ind,7-2-1,413.0,,Week 12Nov 21[13],1989
+352,18,<,20,Texas Tech,Southwest,8-2,390.0,,Week 12Nov 21[13],1989
+353,19,<,19,Pittsburgh,Ind,6-2-1,384.0,,Week 12Nov 21[13],1989
+354,20,<,22,Ohio State,Big Ten,8-2,375.0,,Week 12Nov 21[13],1989
+355,21,<,21,BYU,WAC,9-2,330.0,,Week 12Nov 21[13],1989
+356,22,<,17,Penn State,Ind,6-3-1,314.0,,Week 12Nov 21[13],1989
+357,23,<,25,Duke,ACC,8-3,231.0,,Week 12Nov 21[13],1989
+358,24,<,24,Hawaii,WAC,8-2,182.0,DNP,Week 12Nov 21[13],1989
+359,25,<,NR,Michigan State,Big Ten,6-4,131.0,,Week 12Nov 21[13],1989
+360,NR,<,23,Fresno State,Big West,,0.0,,Week 12Nov 21[13],1989
+361,1,<,2,Colorado (53),Big 8,11-0,1468.0,DNP,Week 13Nov 28[14],1989
+362,2,<,4,Alabama (2),SEC,10-0,1351.0,,Week 13Nov 28[14],1989
+363,3,<,3,Michigan (1),Big Ten,10-1,1332.0,,Week 13Nov 28[14],1989
+364,4,<,7,Miami (FL) (3),Ind,10-1,1319.0,,Week 13Nov 28[14],1989
+365,5,<,1,Notre Dame,Ind,11-1,1231.0,L 27-10 A #7 Miami (FL),Week 13Nov 28[14],1989
+366,6,<,5,Florida State,Ind,8-2,1200.0,,Week 13Nov 28[14],1989
+367,7,<,6,Nebraska,Big 8,10-1,1154.0,,Week 13Nov 28[14],1989
+368,8,<,8,Tennessee,SEC,9-1,1045.0,,Week 13Nov 28[14],1989
+369,9,<,9,Arkansas,Southwest,9-1,1000.0,,Week 13Nov 28[14],1989
+370,10,<,11,Illinois,Big Ten,9-2,913.0,,Week 13Nov 28[14],1989
+371,11,<,10,Auburn,SEC,8-2,893.0,,Week 13Nov 28[14],1989
+372,12,<,12,USC,Pac-10,8-2-1,802.0,,Week 13Nov 28[14],1989
+373,13,<,13,Houston,Southwest,8-2,750.0,,Week 13Nov 28[14],1989
+374,14,<,15,Clemson,ACC,9-2,684.0,,Week 13Nov 28[14],1989
+375,15,<,16,Virginia,ACC,10-2,640.0,,Week 13Nov 28[14],1989
+376,16,<,14,Texas A&M,Southwest,7-3,534.0,,Week 13Nov 28[14],1989
+377,17,<,17,West Virginia,Ind,8-2-1,499.0,,Week 13Nov 28[14],1989
+378,18,<,22,Penn State,Ind,7-3-1,450.0,,Week 13Nov 28[14],1989
+379,19,<,21,BYU,WAC,10-2,401.0,,Week 13Nov 28[14],1989
+380,20,<,23,Duke,ACC,8-3,301.0,,Week 13Nov 28[14],1989
+381,21,<,20,Ohio State,Big Ten,8-3,264.0,,Week 13Nov 28[14],1989
+382,22,<,25,Michigan State,Big Ten,7-4,247.0,,Week 13Nov 28[14],1989
+383,23,<,24,Hawaii,WAC,9-2,197.0,W 23-21 H Oregon State,Week 13Nov 28[14],1989
+384,24,<,19,Pittsburgh,Ind,6-3-1,180.0,,Week 13Nov 28[14],1989
+385,25,<,18,Texas Tech,Southwest,8-3,177.0,,Week 13Nov 28[14],1989
+386,1,<,1,Colorado (55),Big 8,11-0,1492.0,DNP,Week 14Dec 5[15],1989
+387,2,<,4,Miami (FL) (4),Ind,10-1,1407.0,,Week 14Dec 5[15],1989
+388,3,<,3,Michigan (1),Big Ten,10-1,1374.0,,Week 14Dec 5[15],1989
+389,4,<,5,Notre Dame,Ind,11-1,1323.0,,Week 14Dec 5[15],1989
+390,5,<,6,Florida State,Ind,9-2,1265.0,,Week 14Dec 5[15],1989
+391,6,<,7,Nebraska,Big 8,10-1,1198.0,,Week 14Dec 5[15],1989
+392,7,<,2,Alabama,SEC,10-1,1090.0,,Week 14Dec 5[15],1989
+393,8,<,8,Tennessee,SEC,10-1,1069.0,,Week 14Dec 5[15],1989
+394,9,<,11,Auburn,SEC,9-2,1024.0,,Week 14Dec 5[15],1989
+395,10,<,9,Arkansas,Southwest,10-1,983.0,,Week 14Dec 5[15],1989
+396,11,<,10,Illinois,Big Ten,9-2,931.0,,Week 14Dec 5[15],1989
+397,12,<,12,USC,Pac-10,8-2-1,831.0,,Week 14Dec 5[15],1989
+398,13,<,13,Houston,Southwest,9-2,748.0,,Week 14Dec 5[15],1989
+399,14,<,14,Clemson,ACC,9-2,681.0,,Week 14Dec 5[15],1989
+400,15,<,15,Virginia,ACC,10-2,657.0,,Week 14Dec 5[15],1989
+401,16,<,16,Texas A&M,Southwest,8-3,570.0,,Week 14Dec 5[15],1989
+402,17,<,17,West Virginia,Ind,8-2-1,490.0,,Week 14Dec 5[15],1989
+403,18,<,18,Penn State,Ind,7-3-1,466.0,,Week 14Dec 5[15],1989
+404,19,<,19,BYU,WAC,10-2,378.0,,Week 14Dec 5[15],1989
+405,20,<,20,Duke,ACC,8-3,330.0,,Week 14Dec 5[15],1989
+406,21,<,21,Ohio State,Big Ten,8-3,298.0,,Week 14Dec 5[15],1989
+407,22,<,22,Michigan State,Big Ten,7-4,271.0,,Week 14Dec 5[15],1989
+408,23,<,23,Hawaii,WAC,9-2,207.0,DNP,Week 14Dec 5[15],1989
+409,24,<,24,Pittsburgh,Ind,7-3-1,190.0,,Week 14Dec 5[15],1989
+410,25,<,25,Texas Tech,Southwest,8-3,139.0,,Week 14Dec 5[15],1989
+411,1,<,1,Colorado (51),Big 8,11-0,1392.0,DNP,Week 15Dec 12[16],1989
+412,2,<,2,Miami (FL) (4),Ind,10-1,1314.0,,Week 15Dec 12[16],1989
+413,3,<,3,Michigan (1),Big Ten,10-1,1279.0,,Week 15Dec 12[16],1989
+414,4,<,4,Notre Dame,Ind,11-1,1236.0,,Week 15Dec 12[16],1989
+415,5,<,5,Florida State,Ind,9-2,1185.0,,Week 15Dec 12[16],1989
+416,6,<,6,Nebraska,Big 8,10-1,1112.0,,Week 15Dec 12[16],1989
+417,7,<,7,Alabama,SEC,10-1,1022.0,,Week 15Dec 12[16],1989
+418,8,<,8,Tennessee,SEC,10-1,1001.0,,Week 15Dec 12[16],1989
+419,9,<,9,Auburn,SEC,9-2,966.0,,Week 15Dec 12[16],1989
+420,10,<,10,Arkansas,Southwest,10-1,914.0,,Week 15Dec 12[16],1989
+421,11,<,11,Illinois,Big Ten,9-2,860.0,,Week 15Dec 12[16],1989
+422,12,<,12,USC,Pac-10,8-2-1,778.0,,Week 15Dec 12[16],1989
+423,13,<,13,Houston,Southwest,9-2,695.0,,Week 15Dec 12[16],1989
+424,14,<,14,Clemson,ACC,9-2,643.0,,Week 15Dec 12[16],1989
+425,15,<,15,Virginia,ACC,10-2,615.0,,Week 15Dec 12[16],1989
+426,16,<,16,Texas A&M,Southwest,8-3,540.0,,Week 15Dec 12[16],1989
+427,17,<,17,West Virginia,Ind,8-2-1,472.0,,Week 15Dec 12[16],1989
+428,18,<,18,Penn State,Ind,7-3-1,429.0,,Week 15Dec 12[16],1989
+429,19,<,19,BYU,WAC,10-2,356.0,,Week 15Dec 12[16],1989
+430,20,<,20,Duke,ACC,8-3,303.0,,Week 15Dec 12[16],1989
+431,21,<,21,Ohio State,Big Ten,8-3,296.0,,Week 15Dec 12[16],1989
+432,22,<,22,Michigan State,Big Ten,7-4,258.0,,Week 15Dec 12[16],1989
+433,23,<,24,Pittsburgh,Ind,7-3-1,177.0,,Week 15Dec 12[16],1989
+434,24,<,25,Texas Tech,Southwest,8-3,153.0,,Week 15Dec 12[16],1989
+435,25,<,23,Hawaii,WAC,9-2-1,95.0,T 35-35 H Air Force,Week 15Dec 12[16],1989
+436,1,<,2,Miami (FL) (38),Ind,11-1,1449.0,W 33-25 N #7 Alabama (Sugar),Week 16 (Final)Jan 3[17],1989
+437,2,<,4,Notre Dame (19),Ind,12-1,1428.0,W 21-6 N #1 Colorado (Orange),Week 16 (Final)Jan 3[17],1989
+438,3,<,5,Florida State (2),Ind,10-2,1361.0,W 41-17 N #6 Nebraska (Fiesta),Week 16 (Final)Jan 3[17],1989
+439,4,<,1,Colorado,Big 8,11-1,1299.0,L 21-6 N #4 Notre Dame (Orange),Week 16 (Final)Jan 3[17],1989
+440,5,<,8,Tennessee,SEC,11-1,1208.0,W 31-27 N #10 Arkansas (Cotton),Week 16 (Final)Jan 3[17],1989
+441,6,<,9,Auburn,SEC,10-2,1143.0,W 31-14 N #21 Ohio State (Hall of Fame),Week 16 (Final)Jan 3[17],1989
+442,7,<,3,Michigan,Big Ten,10-2,1072.0,L 17-10 N #12 USC (Rose),Week 16 (Final)Jan 3[17],1989
+443,8,<,12,USC,Pac-10,9-2-1,1045.0,W 17-10 N #3 Michigan (Rose),Week 16 (Final)Jan 3[17],1989
+444,9,<,7,Alabama,SEC,10-2,1012.0,L 33-25 N #2 Miami (FL) (Sugar),Week 16 (Final)Jan 3[17],1989
+445,10,<,11,Illinois,Big Ten,10-2,1003.0,W 31-21 N #15 Virginia (Citrus),Week 16 (Final)Jan 3[17],1989
+446,11,<,6,Nebraska,Big 8,10-2,849.0,L 41-17 N #5 Florida State (Fiesta),Week 16 (Final)Jan 3[17],1989
+447,12,<,14,Clemson,ACC,10-2,805.0,W 27-7 N #17 West Virginia (Gator),Week 16 (Final)Jan 3[17],1989
+448,13,<,10,Arkansas,Southwest,10-2,795.0,L 31-27 N #8 Tennessee (Cotton),Week 16 (Final)Jan 3[17],1989
+449,14,<,13,Houston,Southwest,9-2,734.0,DNP,Week 16 (Final)Jan 3[17],1989
+450,15,<,18,Penn State,Ind,8-3-1,620.0,W 50-39 N #19 BYU (Holiday),Week 16 (Final)Jan 3[17],1989
+451,16,<,22,Michigan State,Big Ten,8-4,507.0,W 33-13 A #25 Hawaii (Aloha),Week 16 (Final)Jan 3[17],1989
+452,17,<,23,Pittsburgh,Ind,8-3-1,468.0,W 31-28 N #16 Texas A&M (Sun),Week 16 (Final)Jan 3[17],1989
+453,18,<,15,Virginia,ACC,10-3,454.0,L 31-21 N #11 Illinois (Citrus),Week 16 (Final)Jan 3[17],1989
+454,19,<,24,Texas Tech,Southwest,9-3,451.0,W 49-21 N #20 Duke (All-American),Week 16 (Final)Jan 3[17],1989
+455,20,<,16,Texas A&M,Southwest,8-4,328.0,L 31-28 N #23 Pittsburgh (Sun),Week 16 (Final)Jan 3[17],1989
+456,21,<,17,West Virginia,Ind,8-3-1,260.0,L 27-7 N #14 Clemson (Gator),Week 16 (Final)Jan 3[17],1989
+457,22,<,19,BYU,WAC,10-3,224.0,L 50-39 N #18 Penn State (Holiday),Week 16 (Final)Jan 3[17],1989
+458,23,<,NR,Washington,Pac-10,8-4,191.0,,Week 16 (Final)Jan 3[17],1989
+459,24,<,21,Ohio State,Big Ten,8-4,154.0,L 31-14 N #9 Auburn (Hall of Fame),Week 16 (Final)Jan 3[17],1989
+460,25,<,NR,Arizona,Pac-10,8-4,69.0,W 17-10 H NC State (Copper),Week 16 (Final)Jan 3[17],1989
+461,NR,<,20,Duke,ACC,,0.0,L 49-21 N #24 Texas Tech (All-American),Week 16 (Final)Jan 3[17],1989
+462,NR,<,25,Hawaii,WAC,,0.0,L 33-13 H #22 Michigan State (Aloha),Week 16 (Final)Jan 3[17],1989
