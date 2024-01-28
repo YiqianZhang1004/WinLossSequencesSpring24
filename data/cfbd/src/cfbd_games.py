@@ -13,7 +13,11 @@ def check_valid(game):
         return False
     if game["home_team"] is None:
         return False
+    if game["home_id"] is None:
+        return False
     if game["away_team"] is None:
+        return False
+    if game["away_id"] is None:
         return False
     if game["home_points"] is None:
         return False
@@ -27,7 +31,7 @@ def search_line_by_id(id, season):
     if (season < 2013):
         return None
     
-    with open ("Data/raw_data/cfbd/cfbd_lines_"+str(season)+".json", "r") as file:
+    with open ("data/cfbd/raw_data/cfbd_lines_" + str(season) + ".json", "r") as file:
         lines_data = json.load(file)
     
     for games in lines_data:
@@ -39,7 +43,7 @@ def search_line_by_id(id, season):
 
 
 def get_average_lines(lines_list):
-    average_data = []
+    average_data = ["NaN","NaN","NaN","NaN","NaN","NaN"]
     if lines_list is None or len(lines_list) == 0:
         return average_data
     
@@ -79,39 +83,28 @@ def get_average_lines(lines_list):
         if line["awayMoneyline"] is not None:
             total_away_money_line += float(line["awayMoneyline"])
             num_away_money_line+=1
-    if num_spread==0:
-        average_data.append(None)
-    else:
+    if num_spread != 0:
         average_data.append(round(total_spread/num_spread,3))
-    if num_spread_open==0:
-        average_data.append(None)
-    else:
-        average_data.append(round(total_spread/num_spread_open,3))
-    if num_over_under==0:
-        average_data.append(None)
-    else:
-        average_data.append(round(total_spread/num_over_under,3))
-    if num_over_under_open==0:
-        average_data.append(None)
-    else:
-        average_data.append(round(total_spread/num_over_under_open,3))
-    if num_home_money_line==0:
-        average_data.append(None)
-    else:
-        average_data.append(round(total_spread/num_home_money_line,3))
-    if num_away_money_line==0:
-        average_data.append(None)
-    else:
-        average_data.append(round(total_spread/num_away_money_line,3))
+    if num_spread_open!=0:
+        average_data.append(round(total_spread_open/num_spread_open,3))
+    if num_over_under!=0:
+        average_data.append(round(total_over_under/num_over_under,3))
+    if num_over_under_open!=0:
+        average_data.append(round(total_over_under_open/num_over_under_open,3))
+    if num_home_money_line!=0:
+        average_data.append(round(total_home_money_line/num_home_money_line,3))
+    if num_away_money_line!=0:
+        average_data.append(round(total_away_money_line/num_away_money_line,3))
 
     return average_data
 
 
 
 seasons = [2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+final_data = [["date", "season", "team1", "team1ID", "team2", "team2ID", "score1", "score2","result", "spread", "spreadOpen", "overUnder", "overUnderOpen","homeMoneyLine","awayMoneyLine"]]
+
 for season in seasons:
-    final_data = [["data", "season", "team1", "team2", "score1", "score2","result", "spread", "spreadOpen", "overUnder", "overUnderOpen","homeMoneyLine","awayMoneyLine"]]
-    with open("Data/raw_data/cfbd/cfbd_"+str(season)+".json", 'r') as file:
+    with open("data/cfbd/raw_data/cfbd_" + str(season) + ".json", 'r') as file:
         raw_data = json.load(file)
 
     for game in raw_data:
@@ -121,7 +114,9 @@ for season in seasons:
             date = game["start_date"].split("T")[0]
             game_season = int(game["season"])
             team1 = game["home_team"].lower()
+            team1ID = int(game["home_id"])
             team2 = game["away_team"].lower()
+            team2ID = int(game["away_id"])
             score1 = int(game["home_points"])
             score2 = int(game["away_points"])
 
@@ -133,7 +128,7 @@ for season in seasons:
                 result = 0.5
 
 
-            betting_data = []
+            betting_data = ["NaN","NaN","NaN","NaN","NaN","NaN"]
             # search each game by id to find the lines data
             lines_data = search_line_by_id(id, season)
             if lines_data is not None:
@@ -143,14 +138,14 @@ for season in seasons:
                 betting_data = get_average_lines(lines_list)
 
 
-            game_data = [date, game_season, team1, team2, score1, score2, result]
+            game_data = [date, game_season, team1, team1ID, team2, team2ID, score1, score2, result]
             for bet in betting_data:
                 game_data.append(bet)
             final_data.append(game_data)
 
 
 
-    with open("Data/processed_data/cfbd/cfbd_"+str(season)+".csv", 'w', newline='') as file:
-        csv_writer = csv.writer(file)
+with open("data/cfbd/raw_data/cfbd_all_seasons.csv", 'w', newline='') as file:
+    csv_writer = csv.writer(file)
 
-        csv_writer.writerows(final_data)
+    csv_writer.writerows(final_data)
