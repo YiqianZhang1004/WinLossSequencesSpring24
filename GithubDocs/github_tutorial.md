@@ -5,5 +5,5 @@ For people not familiar with github. Github is like a shared folder with version
   - **push** your to commit sync it to everyone
 
 For detailed tutorials, you may refer to the following resources.
-- A 1 hour crash course on git: https://www.youtube.com/watch?v=8JJ101D3knE.
+- An 1 hour crash course on git: https://www.youtube.com/watch?v=8JJ101D3knE.
 - The offical document: https://docs.github.com/en/get-started/quickstart/hello-world. *This site is available in Chinese*
