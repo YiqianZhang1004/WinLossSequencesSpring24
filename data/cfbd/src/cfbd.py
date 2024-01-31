@@ -3,8 +3,8 @@ import csv
 final_data = [["gameID", "date", "season", "regular", "team1", "team1ID", "team2", "team2ID", 
                "score1", "score2","result", "homePostWinProb", "awayPostWinProb","homePreElo",
                "homePostElo","awayPreElo","awayPostElo", "overUnder", "spread", "openingOverUnder", 
-               "openingSpread", "homeMoneyLine", "awayMoneyLine", "homeFirstPlaceVotes", "homePollPoints",
-               "awayFirstPlaceVotes","awayPollPoints"]]
+               "openingSpread", "homeMoneyLine", "awayMoneyLine", "homeRank", "homeFirstPlaceVotes", 
+               "homePollPoints", "awayRank", "awayFirstPlaceVotes","awayPollPoints"]]
 
 seasons = []
 for i in range(1980, 2024):
@@ -17,7 +17,7 @@ def find_averages(raw_betting):
         if len(raw_betting[i])!=0:
             averages[i] = round(float(sum(raw_betting[i])/len(raw_betting[i])),3)
     return averages
-
+count = 0
 
 for season in seasons:
     if season>=2013:
@@ -60,85 +60,99 @@ for season in seasons:
         lastIndex=1
         while row_index < len(games):
             try:
-
                 game_data = []
                 # gameID
-                game_data.append(int(games[row_index][ID_index]))
+                game_id = int(games[row_index][ID_index])
+                game_data.append(game_id)
 
                 # date
-                game_data.append(str(games[row_index][date_index])[0:10])
+                date = str(games[row_index][date_index])[0:10]
+                game_data.append(date)
                 
                 # season
-                game_data.append(int(games[row_index][season_index]))
+                game_data.append(season)
 
                 # regular season or not
-                game_data.append(str(games[row_index][regular_index])=="regular")
+                regular = str(games[row_index][regular_index])=="regular"
+                game_data.append(regular)
                 
                 # home team name
-                game_data.append(str(games[row_index][home_name_index]).lower())
+                home_team = str(games[row_index][home_name_index]).lower()
+                game_data.append(home_team)
 
                 # home team ID
-                game_data.append(int(games[row_index][home_ID_index]))
+                home_id = int(games[row_index][home_ID_index])
+                game_data.append(home_id)
                 
                 # away team name
-                game_data.append(str(games[row_index][away_name_index]).lower())
+                away_team = str(games[row_index][away_name_index]).lower()
+                game_data.append(away_team)
                 
                 # away team ID
-                game_data.append(int(games[row_index][away_ID_index]))
+                away_id = int(games[row_index][away_ID_index])
+                game_data.append(away_id)
                 
                 # home team score
-                game_data.append(int(float(games[row_index][home_score_index])))
+                home_score = int(float(games[row_index][home_score_index]))
+                game_data.append(home_score)
                 
                 # away team score
-                game_data.append(int(float(games[row_index][away_score_index])))
+                away_score = int(float(games[row_index][away_score_index]))
+                game_data.append(away_score)
                 
                 # determining winner
-                if int(float(games[row_index][home_score_index])) > int(float(games[row_index][away_score_index])):
+                if home_score > away_score:
                     game_data.append(1)
-                elif int(float(games[row_index][home_score_index])) == int(float(games[row_index][away_score_index])):
+                elif home_score == away_score:
                     game_data.append(0.5)
                 else:
                     game_data.append(0)
 
                 # the following are non essential data so individual try except blocks are used
-                    
+                home_post_win_prob = away_post_win_prob = home_pre_elo = home_post_elo = away_pre_elo = away_post_elo = "NaN"
+                
                 # home post win prob
                 try:
-                    game_data.append(round(float(games[row_index][home_post_win_prob_index]),3))
+                    home_post_win_prob = round(float(games[row_index][home_post_win_prob_index]),3)
                 except:
-                    game_data.append("NaN")
+                    pass
 
                 #away post win prob
                 try:
-                    game_data.append(round(float(games[row_index][away_post_win_prob_index]),3))
+                    away_post_win_prob = round(float(games[row_index][away_post_win_prob_index]),3)
                 except:
-                    game_data.append("NaN")
+                    pass
 
                 # home pre game elo
                 try:
-                    game_data.append(round(float(games[row_index][home_pre_elo_index]),3))
+                    home_pre_elo = round(float(games[row_index][home_pre_elo_index]),3)
                 except:
-                    game_data.append("NaN")
+                    pass
 
                 # home post game elo
                 try:
-                    game_data.append(round(float(games[row_index][home_post_elo_index]),3))
+                    home_post_elo = round(float(games[row_index][home_post_elo_index]),3)
                 except:
-                    game_data.append("NaN")
-
+                    pass
                 # away pre game elo
                 try:
-                    game_data.append(round(float(games[row_index][away_pre_elo_index]),3))
+                    away_pre_elo = round(float(games[row_index][away_pre_elo_index]),3)
                 except:
-                    game_data.append("NaN")
-
+                    pass
                 # away post game elo
                 try:
-                    game_data.append(round(float(games[row_index][away_post_elo_index]),3))
+                    away_post_elo = round(float(games[row_index][away_post_elo_index]),3)
                 except:
-                    game_data.append("NaN")
-
-
+                    pass
+                
+                game_data.append(home_post_win_prob)
+                game_data.append(away_post_win_prob)
+                game_data.append(home_pre_elo)
+                game_data.append(home_post_elo)
+                game_data.append(away_pre_elo)
+                game_data.append(away_post_elo)
+                
+                
                 raw_betting = [[],[],[],[],[],[]]
                 
                 # only have betting data starting in 2013
@@ -159,37 +173,43 @@ for season in seasons:
 
                             # over under
                             try:
-                                raw_betting[0].append(round(float(bets[lastIndex+incrementor][6]),3))
+                                overUnder = round(float(bets[lastIndex+incrementor][6]),3)
+                                raw_betting[0].append(overUnder)
                             except:
                                 pass
 
-                            #spread
+                            # spread
                             try:
-                                raw_betting[1].append(round(float(bets[lastIndex+incrementor][7]),3))
+                                spread = spread
+                                raw_betting[1].append(spread)
                             except:
                                 pass
 
                             # opening over under
                             try:
-                                raw_betting[2].append(round(float(bets[lastIndex+incrementor][10]),3))
+                                openingOverUnder = round(float(bets[lastIndex+incrementor][10]),3)
+                                raw_betting[2].append(openingOverUnder)
                             except:
                                 pass
 
                             # opening spread
                             try:
-                                raw_betting[3].append(round(float(bets[lastIndex+incrementor][9]),3))
+                                openingSpread = round(float(bets[lastIndex+incrementor][9]),3)
+                                raw_betting[3].append(openingSpread)
                             except:
                                 pass
 
                             # home moneyline
                             try:
-                                raw_betting[4].append(round(float(bets[lastIndex+incrementor][11]),3))
+                                homeMoneyline = round(float(bets[lastIndex+incrementor][11]),3)
+                                raw_betting[4].append(homeMoneyline)
                             except:
                                 pass
 
                             # away moneyline
                             try:
-                                raw_betting[5].append(round(float(bets[lastIndex+incrementor][12]),3))
+                                awayMoneyline = round(float(bets[lastIndex+incrementor][12]),3)
+                                raw_betting[5].append(awayMoneyline)
                             except:
                                 pass
 
@@ -212,27 +232,57 @@ for season in seasons:
                     game_data.append(average_bet)
                 
                 
-                poll_data = ["NaN","NaN","NaN","NaN"]
-                for j in range(1, len(polls)):
+                homeRanking = homeVotes = homePoints = awayRanking = awayVotes = awayPoints = "NaN"
+                for poll_row in range(1, len(polls)):
                     # checks to see if the poll is for the correct week and from the right source
                     valid = True
-                    if (int(polls[j][2]) != int(games[row_index][2])):
+                    poll_week = int(polls[poll_row][2])
+                    game_week = int(games[row_index][2])
+                    poll_source = str(polls[poll_row][3]).lower()
+                    poll_team = str(polls[poll_row][5]).lower()
+                    if poll_week != game_week or poll_source != "ap top 25":
                         valid = False
-                    elif (str(polls[j][3]).lower()!="ap top 25"):
-                        valid = False
-                    if (int(polls[j][2]) > int(games[row_index][2])):
-                        break
-                    if str(polls[j][5]).lower()==str(games[row_index][13]).lower() and valid:
-                        poll_data[0] = int(polls[j][7])
-                        poll_data[1] = int(polls[j][8])
-                    elif str(polls[j][5]).lower()==str(games[row_index][25]).lower() and valid:
-                        poll_data[2] = int(polls[j][7])
-                        poll_data[3] = int(polls[j][8])
+                    
+                    if poll_team == home_team and valid:
+                        # ranking
+                        try:
+                            homeRanking = int(polls[poll_row][4])
+                        except:
+                            pass
+                        # number of first place votes
+                        try:
+                            homeVotes = int(polls[poll_row][7])
+                        except:
+                            pass
+                        # points
+                        try:
+                            homePoints = int(polls[poll_row][8])
+                        except:
+                            pass
+                    elif poll_team == away_team and valid:
+                        # ranking
+                        try:
+                            awayRanking = int(polls[poll_row][4])
+                        except:
+                            pass
+                        # number of first place votes
+                        try:
+                            awayVotes = int(polls[poll_row][7])
+                        except:
+                            pass
+                        # points
+                        try:
+                            awayPoints = int(polls[poll_row][8])
+                        except:
+                            pass
                 
-                for poll_datum in poll_data:
-                    game_data.append(poll_datum)
-
-
+                game_data.append(homeRanking)
+                game_data.append(homeVotes)
+                game_data.append(homePoints)
+                game_data.append(awayRanking)
+                game_data.append(awayVotes)
+                game_data.append(awayPoints)
+                
 
                 final_data.append(game_data)
 
@@ -247,4 +297,3 @@ with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as file:
     csv_writer = csv.writer(file)
 
     csv_writer.writerows(final_data)
-
