@@ -1,4 +1,4 @@
-## Data Columns\
+## Data Columns
 **Rank:** Ranking made by compiling points given by AP sports analysts\
 **Team (FPV):** Team.\
 **Pts:** Rankings are based on total points. Each AP sports analyst gives their top 25 teams in order,
