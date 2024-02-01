@@ -12,7 +12,7 @@ This dataset contains detailed information about College Football Data, includin
 - **team2ID**: ID of the away team.
 - **score1**: Home team's score.
 - **score2**: Away team's score.
-- **result**: Indicates the game result. 1 if the home team won, 0 if the away team won, 0.5 if the game was a draw.
+- **result**: Indicates the game result. 1 if the home team won, 0 if the away team won, 0.5 if the game was a draw. (not in original database and was calculated)
 
 ## Non-essential Data (invalid data is replaced with "NaN"):
 - **homePostWinProb**: The probability that the home team wins.
