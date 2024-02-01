@@ -34,7 +34,7 @@ This dataset contains detailed information about College Football Data, includin
 - **awayVotes**: Away team's number of first place votes in the AP Top 25 poll for that week.
 - **awayPoints**: Away team's number of points in the AP Top 25 poll for that week.
 
-## Additional Notes:
+# Additional Notes:
 
 - **Seasons Prior to 2013**: The dataset does not contain betting line data for seasons before 2013.
 - **Original Data Organization**: The 2023 season and seasons before 2002 do not include line/quarter scores for each team. 2009 include 5 line/quarter scores for each team (including overtime), the rest of the seasons include 4 line/quarter scores for each team.
