@@ -1,8 +1,8 @@
-## College Football Data Dataset Description
+# College Football Data Dataset Description
 
 This dataset contains detailed information about College Football Data, including various aspects like game results, team information, and betting data. The data is taken from "collegefootballdata.com". The raw data includes exported game data from 1980 to 2023, betting line data from 2013 to 2023, and poll data from 1980 to 2023. The game data and the betting line data was first sorted by game ID to have a more efficient algorithm. Below is a description of each column in the dataset: 
 
-# Essential Data (game is not accounted for if any of this info is missing):
+## Essential Data (game is not accounted for if any of this info is missing):
 - **id**: Unique integer ID of each game played.
 - **date**: The formatted date of the game.
 - **season**: The year/season the game was played.
@@ -14,7 +14,7 @@ This dataset contains detailed information about College Football Data, includin
 - **score2**: Away team's score.
 - **result**: Indicates the game result. 1 if the home team won, 0 if the away team won, 0.5 if the game was a draw.
 
-# Non-essential Data (invalid data is replaced with "NaN"):
+## Non-essential Data (invalid data is replaced with "NaN"):
 - **homePostWinProb**: The probability that the home team wins.
 - **awwayPostWinProb**: The probability that the away team wins. (complementary to the homePostWinProb)
 - **homePreElo**: The elo rating of the home team before the game. (elo rating is based on chess elo, with a greater number indicating a stronger team)
