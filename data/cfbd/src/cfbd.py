@@ -18,7 +18,6 @@ def find_averages(raw_betting):
         if len(raw_betting[i])!=0:
             averages[i] = round(float(sum(raw_betting[i])/len(raw_betting[i])),3)
     return averages
-count = 0
 
 
 for season in seasons:
