@@ -10,7 +10,7 @@ seasons = []
 for i in range(1980, 2024):
     seasons.append(i)
 
-errors = []
+errors = [["gameID","date","season","regular","team1","team1ID","team2","team2ID","score1","score2"]]
 
 def find_averages(raw_betting):
     averages=["NaN","NaN","NaN","NaN","NaN","NaN"]
