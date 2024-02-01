@@ -10,6 +10,7 @@ seasons = []
 for i in range(1980, 2024):
     seasons.append(i)
 
+errors = []
 
 def find_averages(raw_betting):
     averages=["NaN","NaN","NaN","NaN","NaN","NaN"]
@@ -19,14 +20,15 @@ def find_averages(raw_betting):
     return averages
 count = 0
 
+
 for season in seasons:
     if season>=2013:
-        with open("data/cfbd/raw_data/sorted_lines/sorted_"+str(season)+"_lines.csv","r") as file:
-            bets = list(csv.reader(file))
-    with open("data/cfbd/raw_data/polls/" + str(season) + "_polls.csv", "r") as file:
-        polls = list(csv.reader(file))
-    with open("data/cfbd/raw_data/sorted_games/sorted_"+str(season)+"_games.csv", 'r') as file:
-        games = list(csv.reader(file))
+        with open("data/cfbd/raw_data/sorted_lines/sorted_"+str(season)+"_lines.csv","r") as bets_file:
+            bets = list(csv.reader(bets_file))
+    with open("data/cfbd/raw_data/polls/" + str(season) + "_polls.csv", "r") as polls_file:
+        polls = list(csv.reader(polls_file))
+    with open("data/cfbd/raw_data/sorted_games/sorted_"+str(season)+"_games.csv", 'r') as games_file:
+        games = list(csv.reader(games_file))
 
         ID_index = 0
         date_index = 4
@@ -45,7 +47,18 @@ for season in seasons:
         away_pre_elo_index = 34
         away_post_elo_index = 35
 
-        if season == 2023 or season <=2001:
+        if season == 2009:
+            away_name_index = 26
+            away_ID_index = 25
+            away_score_index = 29
+            home_post_win_prob_index = 22
+            away_post_win_prob_index = 35
+            home_pre_elo_index = 23
+            home_post_elo_index = 24
+            away_pre_elo_index = 36
+            away_post_elo_index = 37
+
+        elif season == 2023 or season <=2001:
             home_post_win_prob_index = 18
             home_pre_elo_index = 19
             home_post_elo_index = 20
@@ -180,7 +193,7 @@ for season in seasons:
 
                             # spread
                             try:
-                                spread = spread
+                                spread = round(float(bets[lastIndex+incrementor][7]),3)
                                 raw_betting[1].append(spread)
                             except:
                                 pass
@@ -287,13 +300,30 @@ for season in seasons:
                 final_data.append(game_data)
 
                 
-            except:                
-                pass
+            except:   
+                error_row = []
+                error_row.append(games[row_index][ID_index])
+                error_row.append(games[row_index][date_index])
+                error_row.append(games[row_index][season_index])
+                error_row.append(games[row_index][regular_index])
+                error_row.append(games[row_index][home_name_index])
+                error_row.append(games[row_index][home_ID_index])
+                error_row.append(games[row_index][away_name_index])
+                error_row.append(games[row_index][away_ID_index])
+                error_row.append(games[row_index][home_score_index])
+                error_row.append(games[row_index][away_score_index])
+
+                errors.append(error_row)
+
+                
 
             row_index = row_index + 1
 
 
-with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as file:
-    csv_writer = csv.writer(file)
-
+with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as processed_file:
+    csv_writer = csv.writer(processed_file)
     csv_writer.writerows(final_data)
+
+with open("data/cfbd/processed_data/skipped.csv", "w", newline='') as error_file:
+    csv_writer = csv.writer(error_file)
+    csv_writer.writerows(errors)
