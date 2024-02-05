@@ -17,11 +17,13 @@ CLOSE_INDEX = 10
 MONEYLINE_INDEX = 11
 HALF_INDEX = 12
 
+# check if the two rows have the same date and if game is not a neutral game
+# there is one specific case where a date was mistyped as 1192 instead of 1102
 def check_valid(row1, row2):
-    # checks if the two rows have the same date
-    if (row1[DATE_INDEX].text != row2[DATE_INDEX].text):
+    if row1[DATE_INDEX].text != row2[DATE_INDEX].text:
+        if row1[DATE_INDEX].text == "1192":
+            return True
         return False
-    # checks if the game is not at neutral grounds
     if row1[LOCATION_INDEX].text == row2[LOCATION_INDEX].text:
         return False
     return True
@@ -59,7 +61,7 @@ def get_team_and_score(team1, team2, score1, score2, moneyline1, moneyline2, loc
 # betting data is non essential data so can use try except blocks
 def get_betting_data(field):
     try:
-        return float(field)
+        return round(float(field), 3)
     except:
         if field == "pk":
             return 0.0
@@ -90,22 +92,10 @@ def classify_data(open1, open2, close1, close2, half1, half2, moneyline1, moneyl
 
 # returns the data of an error row
 def get_error_data(row1, row2):
-    error =[]
-    error.append(row1[DATE_INDEX].text)
-    error.append(row1[LOCATION_INDEX].text == "N")
-    error.append(season)
-    error.append(row1[TEAM_INDEX].text)
-    error.append(row2[TEAM_INDEX].text)
-    error.append(row1[SCORE_INDEX].text)
-    error.append(row2[SCORE_INDEX].text)
-    error.append(row1[OPEN_INDEX].text)
-    error.append(row2[OPEN_INDEX].text)
-    error.append(row1[CLOSE_INDEX].text)
-    error.append(row2[CLOSE_INDEX].text)
-    error.append(row1[HALF_INDEX].text)
-    error.append(row2[HALF_INDEX].text)
-    error.append(row1[MONEYLINE_INDEX].text)
-    error.append(row2[MONEYLINE_INDEX].text)
+    error = [row1[DATE_INDEX].text, row1[LOCATION_INDEX].text == "N",
+             season, row1[TEAM_INDEX].text, row2[TEAM_INDEX].text, row1[SCORE_INDEX].text, row2[SCORE_INDEX].text,
+             row1[OPEN_INDEX].text, row2[OPEN_INDEX].text, row1[CLOSE_INDEX].text, row2[CLOSE_INDEX].text,
+             row1[HALF_INDEX].text, row2[HALF_INDEX].text, row1[MONEYLINE_INDEX].text, row2[MONEYLINE_INDEX].text,]
 
     return error
 
@@ -116,7 +106,7 @@ final_data = [["date", "season", "homeTeam","awayTeam","homeScore","awayScore", 
 error_data = [["date", "neutral", "season", "team1", "team2", "score1", "score2", "open1","close1", "open2","close2", "oneH2", "twoH2", "moneyline1","moneyline2"]]
 
 seasons = []
-for i in range(2013, 2014):
+for i in range(2007, 2023):
     seasons.append(i)
 
 for season in seasons:     
@@ -146,18 +136,26 @@ for season in seasons:
                 moneyline1 = get_betting_data(row1[MONEYLINE_INDEX].text)
                 moneyline2 = get_betting_data(row2[MONEYLINE_INDEX].text)
 
-                home_team, away_team, home_score, away_score, home_moneyline, away_moneyline = get_team_and_score(team1, team2, score1, score2, moneyline1, moneyline2, str(row1[LOCATION_INDEX].text))
+                # determining home and away based on location
+                (home_team, away_team, 
+                 home_score, away_score, 
+                 home_moneyline, away_moneyline) = get_team_and_score(team1, team2, score1, score2, moneyline1, moneyline2, str(row1[LOCATION_INDEX].text))
                 
                 result = determine_winner(home_score, away_score)
 
+                # the following are non essential data
                 open1 = get_betting_data(row1[OPEN_INDEX].text)
                 open2 = get_betting_data(row2[OPEN_INDEX].text)
                 close1 = get_betting_data(row1[CLOSE_INDEX].text)
                 close2 = get_betting_data(row2[CLOSE_INDEX].text)
                 half1 = get_betting_data(row1[HALF_INDEX].text)
                 half2 = get_betting_data(row2[HALF_INDEX].text)
-              
-                spreadOpen, spreadClose, spreadHalf, overUnderOpen, overUnderClose, overUnderHalf = classify_data(open1, open2, close1, close2, half1, half2, moneyline1, moneyline2)
+
+                # classifies the raw data
+                (spreadOpen, spreadClose, 
+                 spreadHalf, overUnderOpen, 
+                 overUnderClose, overUnderHalf) = classify_data(open1, open2, close1, close2, half1, half2, moneyline1, moneyline2)
+
 
                 game_data = [processed_date, season, home_team, away_team, 
                              home_score, away_score, result, 

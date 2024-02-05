@@ -1,9 +1,9 @@
 # College Football Data Dataset Description
 
-This dataset contains detailed information about College Football Data, including various aspects like game results, team information, and betting data. The data is taken from "collegefootballdata.com". The raw data includes exported game data from 1980 to 2023, betting line data from 2013 to 2023, and poll data from 1980 to 2023. The game data and the betting line data was first sorted by game ID to have a more efficient algorithm. Below is a description of each column in the dataset: 
+This dataset contains detailed information about College Football Data, including various aspects like game results, team information, betting data, and polling data. The data is taken from "collegefootballdata.com". The raw data includes exported game data from 1980 to 2023, betting line data from 2013 to 2023, and poll data from 1980 to 2023. The game data and the betting line data was first sorted by game ID to have a more efficient algorithm. Below is a description of each column in the dataset: 
 
 ## Essential Data (game is not accounted for if any of this info is missing):
-- **id**: Unique integer ID of each game played.
+- **gameID**: Unique integer ID of each game played.
 - **date**: The formatted date of the game.
 - **season**: The year/season the game was played.
 - **team1**: Home team name.
@@ -28,11 +28,11 @@ This dataset contains detailed information about College Football Data, includin
 - **homeMoneyline**: The money line bet for the home team.
 - **awayMoneyline**: The money line bet for the away team.
 - **homeRank**: The AP Top 25 rank for the home team in that week.
-- **homeVotes**: Home team's number of first place votes in the AP Top 25 poll for that week.
-- **homePoints**: Home team's number of points in the AP Top 25 poll for that week.
+- **homeFirstPlaceVotes**: Home team's number of first place votes in the AP Top 25 poll for that week.
+- **homePollPoints**: Home team's number of points in the AP Top 25 poll for that week.
 - **awayRank**: The AP Top 25 rank for the away team in that week.
-- **awayVotes**: Away team's number of first place votes in the AP Top 25 poll for that week.
-- **awayPoints**: Away team's number of points in the AP Top 25 poll for that week.
+- **awayFirstPlaceVotes**: Away team's number of first place votes in the AP Top 25 poll for that week.
+- **awayPollPoints**: Away team's number of points in the AP Top 25 poll for that week.
 
 # Additional Notes:
 
