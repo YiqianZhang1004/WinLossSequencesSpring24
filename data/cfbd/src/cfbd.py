@@ -209,6 +209,6 @@ with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as processed_fil
     csv_writer = csv.writer(processed_file)
     csv_writer.writerows(final_data)
 
-with open("data/cfbd/processed_data/skipped.csv", "w", newline='') as error_file:
+with open("data/cfbd/processed_data/cfbd_error.csv", "w", newline='') as error_file:
     csv_writer = csv.writer(error_file)
     csv_writer.writerows(errors)
