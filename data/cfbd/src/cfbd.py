@@ -60,35 +60,35 @@ def get_individual_polls(data):
 # iterates through an entire season of polls to find correct poll data
 def get_polling_data(polls, week):
     homeRanking = homeVotes = homePoints = awayRanking = awayVotes = awayPoints = "NaN"
-    for poll_row in polls:
+    # searching for home team
+    for row_index in range(1,len(polls)):
         # checks to see if the poll is for the correct week and from the right source
-        poll_week = int(poll_row[2])
-        poll_source = str(poll_row[3]).lower()
-        poll_team = str(poll_row[5]).lower()
-        
+        poll_week = int(polls[row_index][2])
+        poll_source = str(polls[row_index][3]).lower()
+        poll_team = str(polls[row_index][5]).lower()
         if poll_team == home_team and poll_week == week and poll_source == "ap top 25":
             # ranking
-            homeRanking = get_individual_polls(poll_row[4])
+            homeRanking = get_individual_polls(polls[row_index][4])
             # number of first place votes
-            homeVotes = get_individual_polls(poll_row[7])
+            homeVotes = get_individual_polls(polls[row_index][7])
             # points
-            homePoints = get_individual_polls(poll_row[8])
+            homePoints = get_individual_polls(polls[row_index][8])
             break
-    for poll_row in range(1, len(polls)):
-        poll_week = int(poll_row[2])
-        poll_source = str(poll_row[3]).lower()
-        poll_team = str(poll_row[5]).lower()
+
+    # searching for away team
+    for row_index in range(1, len(polls)):
+        poll_week = int(polls[row_index][2])
+        poll_source = str(polls[row_index][3]).lower()
+        poll_team = str(polls[row_index][5]).lower()
         if poll_team == away_team and poll_week == week and poll_source == "ap top 25":
             # ranking
-            awayRanking = get_individual_polls(poll_row[4])
+            awayRanking = get_individual_polls(polls[row_index][4])
             # number of first place votes
-            awayVotes = get_individual_polls(poll_row[7])
+            awayVotes = get_individual_polls(polls[row_index][7])
             # points
-            awayPoints = get_individual_polls(poll_row[8])
+            awayPoints = get_individual_polls(polls[row_index][8])
             break
     return [homeRanking, homeVotes, homePoints, awayRanking, awayVotes, awayPoints]
-
-
 
 for season in seasons:
     # only have betting data starting in 2013
@@ -120,7 +120,7 @@ for season in seasons:
                 away_id = int(games[row_index][away_ID_index])
                 home_score = int(float(games[row_index][home_score_index]))
                 away_score = int(float(games[row_index][away_score_index]))
-
+                
                 # the below data is non essential data
                 home_post_win_prob = get_betting_data(games[row_index][home_post_win_prob_index])
                 away_post_win_prob = get_betting_data(games[row_index][away_post_win_prob_index])
@@ -173,7 +173,7 @@ for season in seasons:
 
                         elif foundFirst and not foundAll:
                             lastIndex=lastIndex+1
-
+                
                 average_bets = find_averages(raw_betting)
                 overUnder = average_bets[0]
                 spread = average_bets[1]
@@ -181,9 +181,8 @@ for season in seasons:
                 openingSpread = average_bets[3]
                 homeMoneyline = average_bets[4]
                 awayMoneyline = average_bets[5]
-                
+
                 homeRanking, homeVotes, homePoints, awayRanking, awayVotes, awayPoints = get_polling_data(polls, int(games[row_index][2]))
-            
             
                 game_data = [game_id, date, season, regular, 
                              home_team, home_id, away_team, away_id, 
@@ -210,6 +209,6 @@ with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as processed_fil
     csv_writer = csv.writer(processed_file)
     csv_writer.writerows(final_data)
 
-with open("data/cfbd/processed_data/skipped.csv", "w", newline='') as error_file:
+with open("data/cfbd/processed_data/cfbd_error.csv", "w", newline='') as error_file:
     csv_writer = csv.writer(error_file)
     csv_writer.writerows(errors)
