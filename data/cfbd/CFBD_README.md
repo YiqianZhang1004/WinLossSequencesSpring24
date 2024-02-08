@@ -40,5 +40,5 @@ This dataset contains detailed information about College Football Data, includin
 - **Original Data Organization**: The 2023 season and seasons before 2002 do not include line/quarter scores for each team. 2009 include 5 line/quarter scores for each team (including overtime), the rest of the seasons include 4 line/quarter scores for each team.
 - **Missing Betting Data**: Some games are missing certain betting data elements.
 - **Multiple Sources and Averaging**: In cases where there are multiple sources with different betting data, the betting data is averaged to provide a single value.
-- **Unaccounted Games**: Some games are missing essential data and are added to a file called "skipped.csv".
+- **Unaccounted Games**: Some games are missing essential data and are added to a file called "cfbd_missing.csv".
 
