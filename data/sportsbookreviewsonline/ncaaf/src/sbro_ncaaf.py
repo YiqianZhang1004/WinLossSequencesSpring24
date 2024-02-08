@@ -118,8 +118,8 @@ for season in seasons:
 
             neutral = row1[LOCATION_INDEX].text == "N"
 
-            team1 = str(row1[TEAM_INDEX].text).lower()
-            team2 = str(row2[TEAM_INDEX].text).lower()
+            team1 = str(row1[TEAM_INDEX].text)
+            team2 = str(row2[TEAM_INDEX].text)
 
             score1 = int(row1[SCORE_INDEX].text)
             score2 = int(row2[SCORE_INDEX].text)

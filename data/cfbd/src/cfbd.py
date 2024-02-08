@@ -65,7 +65,7 @@ def get_polling_data(polls, week):
         # checks to see if the poll is for the correct week and from the right source
         poll_week = int(polls[row_index][2])
         poll_source = str(polls[row_index][3]).lower()
-        poll_team = str(polls[row_index][5]).lower()
+        poll_team = str(polls[row_index][5])
         if poll_team == home_team and poll_week == week and poll_source == "ap top 25":
             # ranking
             homeRanking = get_individual_polls(polls[row_index][4])
@@ -79,7 +79,7 @@ def get_polling_data(polls, week):
     for row_index in range(1, len(polls)):
         poll_week = int(polls[row_index][2])
         poll_source = str(polls[row_index][3]).lower()
-        poll_team = str(polls[row_index][5]).lower()
+        poll_team = str(polls[row_index][5])
         if poll_team == away_team and poll_week == week and poll_source == "ap top 25":
             # ranking
             awayRanking = get_individual_polls(polls[row_index][4])
@@ -114,9 +114,9 @@ for season in seasons:
                 game_id = int(games[row_index][ID_index])
                 date = str(games[row_index][date_index])[0:10]
                 regular = str(games[row_index][regular_index])=="regular"
-                home_team = str(games[row_index][home_name_index]).lower()
+                home_team = str(games[row_index][home_name_index])
                 home_id = int(games[row_index][home_ID_index])
-                away_team = str(games[row_index][away_name_index]).lower()
+                away_team = str(games[row_index][away_name_index])
                 away_id = int(games[row_index][away_ID_index])
                 home_score = int(float(games[row_index][home_score_index]))
                 away_score = int(float(games[row_index][away_score_index]))
