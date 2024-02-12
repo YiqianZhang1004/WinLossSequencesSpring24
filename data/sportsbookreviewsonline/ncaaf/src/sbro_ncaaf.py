@@ -92,6 +92,7 @@ def get_error_data(row1, row2):
 driver = webdriver.Chrome(options = options)
 
 final_data = [["date", "season", "neutral", "homeTeam","awayTeam","homeScore","awayScore", "result","spreadOpen", "spreadClose","spreadH2", "overUnderOpen","overUnderClose", "overUnderH2", "homeMoneyline", "awayMoneyline"]]
+final_data_close_only = [["date", "season", "neutral", "homeTeam","awayTeam","homeScore","awayScore", "result", "spreadClose","overUnderClose", "homeMoneyline", "awayMoneyline"]]
 error_data = [["date", "season", "neutral", "team1", "team2", "score1", "score2", "open1","close1", "open2","close2", "oneH2", "twoH2", "moneyline1","moneyline2"]]
 neutral_data = [["date", "season", "neutral", "homeTeam","awayTeam","homeScore","awayScore", "result","spreadOpen", "spreadClose","spreadH2", "overUnderOpen","overUnderClose", "overUnderH2", "homeMoneyline", "awayMoneyline"]]
 
@@ -154,11 +155,18 @@ for season in seasons:
                             overUnderOpen, overUnderClose, overUnderHalf, 
                             home_moneyline, away_moneyline]
             
+            game_data_close_only = [processed_date, season, neutral, home_team, away_team, 
+                            home_score, away_score, result, 
+                            spreadClose, overUnderClose,
+                            home_moneyline, away_moneyline]
+
+            
             # add game to the correct file
             if (neutral):
                 neutral_data.append(game_data)
             else:
                 final_data.append(game_data)
+                final_data_close_only.append(game_data_close_only)
 
         except:
             # adding row to error file if encounter exception
@@ -168,6 +176,10 @@ for season in seasons:
 with open("data/sportsbookreviewsonline/ncaaf/processsed_data/sbro_ncaaf.csv", 'w', newline='') as file:
     csv_writer = csv.writer(file)
     csv_writer.writerows(final_data)
+
+with open("data/sportsbookreviewsonline/ncaaf/processsed_data/sbro_ncaaf_close_only.csv", 'w', newline='') as file:
+    csv_writer = csv.writer(file)
+    csv_writer.writerows(final_data_close_only)
 
 with open("data/sportsbookreviewsonline/ncaaf/processsed_data/sbro_ncaaf_missing.csv", 'w', newline='') as file:
     csv_writer = csv.writer(file)

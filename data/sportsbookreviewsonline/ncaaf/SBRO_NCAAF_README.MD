@@ -30,4 +30,5 @@ This dataset contains detailed information about College Football Data, includin
 - **Typo in Original Data**: In the original dataset, the game between WashingtonU and California on November 2, 2012 (2012 season), the data is mistyped as 1192 instead of 1102. This is the only typo in the dataset and was dealt accordingly in the script. 
 - **Unaccounted Games**: Some games are missing essential data and are added to a file called "sbro_ncaaf_error.csv".
 - **Neutral Games**: Some games are at neutral grounds and are different than regular season games so are added to a file called "sbro_ncaaf_neutral.csv"
+- **Trimmed Version**: The trimmed version of the processed data with only the closing data for bets is saved under a file called "sbro_ncaaf_close_only.csv"
 
