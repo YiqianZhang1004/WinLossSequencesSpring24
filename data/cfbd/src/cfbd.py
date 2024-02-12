@@ -6,6 +6,12 @@ final_data = [["gameID", "date", "season", "regular", "team1", "team1ID", "team2
                "openingSpread", "homeMoneyline", "awayMoneyline", "homeRank", "homeFirstPlaceVotes", 
                "homePollPoints", "awayRank", "awayFirstPlaceVotes","awayPollPoints"]]
 
+final_data_only_close =[["gameID", "date", "season", "regular", "team1", "team1ID", "team2", "team2ID", 
+               "score1", "score2","result", "homePostWinProb", "awayPostWinProb","homePreElo",
+               "homePostElo","awayPreElo","awayPostElo", "overUnder", "spread",  
+               "homeMoneyline", "awayMoneyline", "homeRank", "homeFirstPlaceVotes", 
+               "homePollPoints", "awayRank", "awayFirstPlaceVotes","awayPollPoints"]]
+
 errors = [["gameID","date","season","regular","team1","team1ID","team2","team2ID","score1","score2"]]
 
 seasons = []
@@ -191,14 +197,25 @@ for season in seasons:
                              away_pre_elo, away_post_elo, overUnder, spread, openingOverUnder,
                              openingSpread, homeMoneyline, awayMoneyline, homeRanking, homeVotes, 
                              homePoints, awayRanking, awayVotes, awayPoints]
+                
+                game_data_only_close = [game_id, date, season, regular, 
+                             home_team, home_id, away_team, away_id, 
+                             home_score, away_score, determine_winner(home_score, away_score),
+                             home_post_win_prob, away_post_win_prob, home_pre_elo, home_post_elo,
+                             away_pre_elo, away_post_elo, overUnder, spread,
+                             homeMoneyline, awayMoneyline, homeRanking, homeVotes, 
+                             homePoints, awayRanking, awayVotes, awayPoints]
+
 
                 final_data.append(game_data)
+                final_data_only_close.append(game_data_only_close)
 
             except:   
                 error_row =[games[row_index][ID_index], games[row_index][date_index], games[row_index][season_index],
                             games[row_index][regular_index], games[row_index][home_name_index], games[row_index][home_ID_index],
                             games[row_index][away_name_index], games[row_index][away_ID_index],
                             games[row_index][home_score_index], games[row_index][away_score_index]]
+                
 
                 errors.append(error_row)
 
@@ -208,6 +225,10 @@ for season in seasons:
 with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as processed_file:
     csv_writer = csv.writer(processed_file)
     csv_writer.writerows(final_data)
+
+with open("data/cfbd/processed_data/cfbd_close_only.csv", 'w', newline='') as processed_file:
+    csv_writer = csv.writer(processed_file)
+    csv_writer.writerows(final_data_only_close)
 
 with open("data/cfbd/processed_data/cfbd_missing.csv", "w", newline='') as error_file:
     csv_writer = csv.writer(error_file)
