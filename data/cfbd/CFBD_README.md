@@ -41,4 +41,5 @@ This dataset contains detailed information about College Football Data, includin
 - **Missing Betting Data**: Some games are missing certain betting data elements.
 - **Multiple Sources and Averaging**: In cases where there are multiple sources with different betting data, the betting data is averaged to provide a single value.
 - **Unaccounted Games**: Some games are missing essential data and are added to a file called "cfbd_missing.csv".
+- **Trimmed Version**: The trimmed version of the processed data with only the closing data for bets is saved under a file called "cfbd_close_only.csv"
 
