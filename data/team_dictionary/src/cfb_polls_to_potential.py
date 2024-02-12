@@ -28,6 +28,6 @@ for i in range(len(teams)):
     else:
         StandardID.append("")
         not_assigned.append(original_string)
-df2 = pd.DataFrame({"Rank":df["Rank"].to_list(),"Team":teams,"TeamID":df["TeamID"].to_list(),"StandardID":StandardID,"Points":df["Points"].to_list()})
+df2 = pd.DataFrame({"Date":df["Date"].to_list(),"Rank":df["Rank"].to_list(),"Team":teams,"TeamID":df["TeamID"].to_list(),"StandardID":StandardID,"Points":df["Points"].to_list()})
 df2.to_csv("data/team_dictionary/processed_data/cfb_polls_standardized.csv")
 pd.DataFrame(not_assigned).to_csv("data/team_dictionary/processed_data/not_assigned.csv")
