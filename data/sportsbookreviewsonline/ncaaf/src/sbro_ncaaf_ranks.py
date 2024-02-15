@@ -15,7 +15,7 @@ with open("data/team_dictionary/processed_data/cfb_polls_standardized.csv", "r")
 with open("data/team_dictionary/processed_data/sbro_to_cfbd_id.json", "r") as file:
     team_to_id = json.load(file)
 
-final_data = [["date", "season", "neutral", "homeTeam","awayTeam",
+final_data = [["date", "season", "neutral", "homeTeam", "homeTeamId", "awayTeam", "awayTeamId",
                "homeScore","awayScore", "result",
                "spreadOpen", "spreadClose","spreadH2", 
                "overUnderOpen","overUnderClose", "overUnderH2", 
@@ -23,7 +23,7 @@ final_data = [["date", "season", "neutral", "homeTeam","awayTeam",
                "homeTeamRank", "homeTeamPoints",
                "awayTeamRank", "awayTeamPoints"]]
 
-final_data_close_only = [["date", "season", "neutral", "homeTeam","awayTeam",
+final_data_close_only = [["date", "season", "neutral", "homeTeam", "homeTeamId","awayTeam","awayTeamId",
                "homeScore","awayScore", "result",
                "spreadClose","overUnderClose",
                "homeMoneyline", "awayMoneyline",
@@ -47,6 +47,7 @@ null = datetime.strptime("2000-01-01", "%Y-%m-%d")
 
 for i in range(1, len(sbro_data)):
     game_data = sbro_data[i]
+
     game_data.append("NaN")
     game_data.append("NaN")
     game_data.append("NaN")
@@ -69,6 +70,11 @@ for i in range(1, len(sbro_data)):
 
     team1Id = team_to_id[team1]
     team2Id = team_to_id[team2]
+
+    game_data.insert(4, team1Id)
+    game_data.insert(6, team2Id)
+    game_data_close_only.insert(4, team1Id)
+    game_data_close_only.insert(6, team2Id)
 
     last_week = null
     for j in range(len(weeks)-1):
