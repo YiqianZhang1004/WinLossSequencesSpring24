@@ -94,7 +94,6 @@ def get_accuracy(source, method, seasons_list, arg_team_id1, arg_team_id2, arg_r
     season_col, team_id1_col, team_id2_col, result_col, pre1_col, pre2_col, money1_col, money2_col, rank1_col, rank2_col = get_indices(source_index)
     
     
-    
     total_count = 0
     total_predicted = 0
 
