@@ -24,6 +24,9 @@ for i in range(1,26):
 
     df = pd.merge(wins_for_home,games_for_home,how="outer",on="awayRank").sort_values(by="awayRank")
     df["homeWinrate"] = df["wins"] / df["games"]
+
+    df["homeWinrate"] = df["homeWinrate"].apply(lambda x: f"{x:.4f}")
+
     if len(df) == 25:
         matrix.loc[len(matrix)] = df["homeWinrate"].to_list()
 matrix.to_csv("data/accuracy_rates/processed_data/cfb_ranked_matchups_matrix.csv")
