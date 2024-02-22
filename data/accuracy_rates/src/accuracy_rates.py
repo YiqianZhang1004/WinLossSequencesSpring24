@@ -30,9 +30,7 @@ SBRO_MONEYLINE2 = 13
 SBRO_RANK1 = 14
 SBRO_RANK2 = 16
 
-# games predicted and unpredicted
-predicted =[]
-unpredicted =[]
+
 
 # returns the game csv of the right source
 def get_source(source_index):
@@ -107,19 +105,22 @@ def check_prediction(method, stat1, stat2, result):
             return result == 0.0
 
 # write predicted and unpredicted data to files
-def write(success_file, failure_file):
-    global predicted, unpredicted
-    with open("data/accuracy_rates/processed_data/" + success_file, "w", newline='') as sfile:
-        csv_writer = csv.writer(sfile)
-        csv_writer.writerows(predicted)
-    with open("data/accuracy_rates/processed_data/" + failure_file, "w", newline='') as ffile:
-        csv_writer = csv.writer(ffile)
-        csv_writer.writerows(unpredicted)
+def write(predicted, success_file, unpredicted, failure_file):
+    if success_file != "":
+        with open("data/accuracy_rates/processed_data/" + success_file, "w", newline='') as sfile:
+            csv_writer = csv.writer(sfile)
+            csv_writer.writerows(predicted)
+    if failure_file != "":
+        with open("data/accuracy_rates/processed_data/" + failure_file, "w", newline='') as ffile:
+            csv_writer = csv.writer(ffile)
+            csv_writer.writerows(unpredicted)
 
 
 # main accuracy function
 def get_accuracy(source, method, seasons_list, arg_team_id1, arg_team_id2, arg_rank1, arg_rank2, success_file, failure_file):
-    global predicted, unpredicted
+    # games predicted and unpredicted
+    predicted =[]
+    unpredicted =[]
 
     # get source index
     source_index = -1
@@ -157,7 +158,7 @@ def get_accuracy(source, method, seasons_list, arg_team_id1, arg_team_id2, arg_r
     
     # no elo data for SBRO games
     if method_index == 0 and source_index == 1:
-        write(success_file, failure_file)
+        write([],success_file,[], failure_file)
         return "no games"
     
 
@@ -205,8 +206,7 @@ def get_accuracy(source, method, seasons_list, arg_team_id1, arg_team_id2, arg_r
             else:
                 unpredicted.append(game)
 
-        
-    write(success_file, failure_file)
+    write(predicted, success_file, unpredicted, failure_file)
             
 
     if total_count == 0:
@@ -216,6 +216,5 @@ def get_accuracy(source, method, seasons_list, arg_team_id1, arg_team_id2, arg_r
         return f"prediction of accuracy of {accuracy:.4f}% with {total_count} games"
 
     
-
 # testing
-print(get_accuracy("sbro", "moneyline",[2021],-1, -1, -1, -1, "succes.csv","fail.csv"))
+#print(get_accuracy("sbro", "moneyline",[2021],-1, -1, -1, -1, "succes.csv","fail.csv"))
