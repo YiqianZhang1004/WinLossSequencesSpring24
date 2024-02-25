@@ -9,12 +9,16 @@ moneyline_num = []
 poll_accuracy = []
 poll_num = []
 
+top25 = []
+for i in range(1,26):
+    top25.append(i)
+
 for season in range(2007, 2019):
     seasons.append(season)
 
-    elo_rate = accuracy_rates.get_accuracy("e", [season], [], [], [], [], "", "")
-    moneyline_rate = accuracy_rates.get_accuracy("m", [season], [], [], [], [], "", "")
-    poll_rate = accuracy_rates.get_accuracy("p", [season], [], [], [], [], "", "")
+    elo_rate = accuracy_rates.get_accuracy("e", [season], [], [], top25, top25, "", "")
+    moneyline_rate = accuracy_rates.get_accuracy("m", [season], [], [], top25, top25, "", "")
+    poll_rate = accuracy_rates.get_accuracy("p", [season], [], [], top25, top25, "", "")
 
     if elo_rate == (0, 0):
         elo_accuracy.append(None)
@@ -56,10 +60,10 @@ for i, _ in enumerate(poll_num):
 
 plt.xlabel('Season')
 plt.ylabel('Accuracy')
-plt.title('Elo, Moneyline, and Poll Accuracy of All Teams (2007 - 2019)')
+plt.title('Elo, Moneyline, and Poll Accuracy of Top 25 Teams (2007 - 2019)')
 plt.legend()
 plt.legend(handles=[elo_line, moneyline_line, poll_line])
 plt.grid(True)
 
-plt.savefig('data/accuracy_rates/visualizations/empFull.png')
+plt.savefig('data/accuracy_rates/visualizations/emp25.png')
 plt.show()
