@@ -37,5 +37,5 @@ plt.title('Elo and Poll Accuracy of Top 25 Teams (1980 - 2019, Grouped)')
 plt.legend()
 plt.grid(True)
 
-plt.savefig('data/accuracy_rates/visualizations/ep25.png')
+plt.savefig('data/accuracy_rates/visualizations/ep25Grouped.png')
 plt.show()
