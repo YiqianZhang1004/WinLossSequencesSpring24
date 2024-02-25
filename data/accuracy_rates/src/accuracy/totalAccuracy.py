@@ -11,7 +11,7 @@ poll_accuracy = accuracy_rates.get_accuracy("p", seasons, [], [], [], [], "", ""
 categories = ["elo", "moneyline", "poll"]
 values = [elo_accuracy, moneyline_accuracy, poll_accuracy]
 
-plt.bar(categories, values, color='skyblue')
+plt.bar(categories, values, color='blue')
 
 plt.ylabel('Total Accuracy Rate')
 plt.title('Elo, Moneyline, and Poll Total Accuracy Rates of All Teams (2007 - 2019)')
