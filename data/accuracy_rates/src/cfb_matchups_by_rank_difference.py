@@ -70,15 +70,17 @@ def matchups_by_rank_difference(hrl,hru,lwl,lru):
     df = pd.merge(df1_2rows,df2_2rows,on="rankDiff")
     df.to_csv("data/accuracy_rates/processed_data/by_rank_difference_combined" + str(hrl) + "-" + str(hru) + ".csv")
 
-#matchups_by_rank_difference(1,5,1,25)
-#matchups_by_rank_difference(6,10,1,25)
-#matchups_by_rank_difference(11,15,1,25)
-#matchups_by_rank_difference(1,10,1,25)
-#matchups_by_rank_difference(11,20,1,25)
+matchups_by_rank_difference(1,5,1,25)
+matchups_by_rank_difference(6,10,1,25)
+matchups_by_rank_difference(11,15,1,25)
+matchups_by_rank_difference(1,10,1,25)
+matchups_by_rank_difference(11,20,1,25)
 matchups_by_rank_difference(15,20,1,25)
 
 #graphics:
-# top ten teams vs teams ranked x teams below them
-# 11-25 teams vs teams ranked x teams below them
-
-# Combine rows of data frames by rankDiff, for example rankDiff of 3 and 4 in one category
+# top ten teams vs teams ranked x teams below them, 1 < x < 10
+# 11-20 teams vs teams ranked x teams below them, 1 < x <10
+# top 5 teams vs teams ranked x teams below them, 1 < x < 10
+# 6-10 teams vs teams ranked x  teams below them, 1 < x < 10
+# 11-15 teams vs teams ranked x teams below them, 1 < x < 10
+# 15-20 teams vs teams ranked x teams below them, 1 < x < 10
