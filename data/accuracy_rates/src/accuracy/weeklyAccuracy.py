@@ -28,5 +28,5 @@ plt.title('Elo and Moneyline Accuracy By Week')
 plt.legend()
 plt.grid(True)
 
-plt.savefig('data/accuracy_rates/visualizations/emWeek.png')
+plt.savefig('data/accuracy_rates/visualizations/weeklyAccuracies.png')
 plt.show()
