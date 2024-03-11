@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 seasons = list(range(2007, 2020))
 
 
-elo_accuracy = accuracy_rates.getAccuracy("e", seasons, [], [], [], [], -1, -1, -1, -1, "", "")[0]
-moneyline_accuracy = accuracy_rates.getAccuracy("m", seasons, [], [], [], [], -1, -1, -1, -1, "", "")[0]
-poll_accuracy = accuracy_rates.getAccuracy("p", seasons, [], [], [], [], -1, -1, -1, -1, "", "")[0]
+elo_accuracy = accuracy_rates.getAccuracy("e", seasons, [],[], [], [], [], -1, -1, -1, -1, "", "")[0]
+moneyline_accuracy = accuracy_rates.getAccuracy("m", seasons, [],[], [], [], [], -1, -1, -1, -1, "", "")[0]
+poll_accuracy = accuracy_rates.getAccuracy("p", seasons, [],[], [], [], [], -1, -1, -1, -1, "", "")[0]
 
 categories = ["Moneyline","Elo" ,"Poll"]
 values = [moneyline_accuracy, elo_accuracy, poll_accuracy]

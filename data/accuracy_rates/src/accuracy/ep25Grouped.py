@@ -12,8 +12,8 @@ grouped_seasons = [seasons[i:i+5] for i in range(0, len(seasons), 5)]
 top25 = [i for i in range(1, 26)]
 
 for groupedList in grouped_seasons:    
-    elo_rate = accuracy_rates.getAccuracy("e", groupedList, [], [], top25, top25,-1, -1, -1, -1,  "", "")
-    poll_rate = accuracy_rates.getAccuracy("p", groupedList, [], [], top25, top25,-1, -1, -1, -1,  "", "")
+    elo_rate = accuracy_rates.getAccuracy("e", groupedList, [],[], [], top25, top25,-1, -1, -1, -1,  "", "")
+    poll_rate = accuracy_rates.getAccuracy("p", groupedList,[], [], [], top25, top25,-1, -1, -1, -1,  "", "")
 
     if elo_rate == (0, 0, 0, 0):
         elo_accuracy.append(None)
