@@ -15,7 +15,10 @@ with open("data/team_dictionary/processed_data/cfb_polls_standardized.csv", "r")
 with open("data/team_dictionary/processed_data/sbro_to_cfbd_id.json", "r") as file:
     team_to_id = json.load(file)
 
-final_data = [["date", "season", "neutral", "homeTeam", "homeTeamId", "awayTeam", "awayTeamId",
+with open("data/sportsbookreviewsonline/ncaaf/processsed_data/dateToWeek.json", "r") as file:
+    dateToWeek = json.load(file)
+
+final_data = [["date", "season", "week", "neutral", "homeTeam", "homeTeamId", "awayTeam", "awayTeamId",
                "homeScore","awayScore", "result",
                "spreadOpen", "spreadClose","spreadH2", 
                "overUnderOpen","overUnderClose", "overUnderH2", 
@@ -23,7 +26,7 @@ final_data = [["date", "season", "neutral", "homeTeam", "homeTeamId", "awayTeam"
                "homeTeamRank", "homeTeamPoints",
                "awayTeamRank", "awayTeamPoints"]]
 
-final_data_close_only = [["date", "season", "neutral", "homeTeam", "homeTeamId","awayTeam","awayTeamId",
+final_data_close_only = [["date", "season", "week", "neutral", "homeTeam", "homeTeamId","awayTeam","awayTeamId",
                "homeScore","awayScore", "result",
                "spreadClose","overUnderClose",
                "homeMoneyline", "awayMoneyline",
@@ -85,31 +88,36 @@ for i in range(1, len(sbro_data)):
             last_week = week_date
             break
 
-    if last_week!=null:
-        week_as_string = str(date.year)
-        if last_week.month == 2 and last_week.day == 1:
-            week_as_string = week_as_string + " Final"
-        elif last_week.month == 8 and last_week.day == 1:
-            week_as_string = week_as_string + " Preseason"
-        else:
-            week_as_string = last_week.strftime("%Y-%m-%d")
+    week_number = dateToWeek[last_week.strftime('%Y-%m-%d')]
+    print(week_number)
 
-        for j in range(1,(len(rank_data))):
-            try:
-                if int(rank_data[j][5]) == team1Id and week_as_string == rank_data[j][1]:
-                    game_data[-4] = int(rank_data[j][2])
-                    game_data[-3] = float(rank_data[j][6])
-                    game_data_close_only[-4] = int(rank_data[j][2])
-                    game_data_close_only[-3] = float(rank_data[j][6])
-                elif int(rank_data[j][5]) == team2Id and week_as_string == rank_data[j][1]:
-                    game_data[-2] = int(rank_data[j][2])
-                    game_data[-1] = float(rank_data[j][6])
-                    game_data_close_only[-2] = int(rank_data[j][2])
-                    game_data_close_only[-1] = float(rank_data[j][6])
-                elif int(week_as_string.split(" ")[0].split("-")[0]) < int(rank_data[j][1].split(" ")[0].split("-")[0]):
-                    break
-            except:
-                pass
+    week_as_string = str(date.year)
+    if last_week.month == 2 and last_week.day == 1:
+        week_as_string = week_as_string + " Final"
+    elif last_week.month == 8 and last_week.day == 1:
+        week_as_string = week_as_string + " Preseason"
+    else:
+        week_as_string = last_week.strftime("%Y-%m-%d")
+
+    for j in range(1,(len(rank_data))):
+        try:
+            if int(rank_data[j][5]) == team1Id and week_as_string == rank_data[j][1]:
+                game_data[-4] = int(rank_data[j][2])
+                game_data[-3] = float(rank_data[j][6])
+                game_data_close_only[-4] = int(rank_data[j][2])
+                game_data_close_only[-3] = float(rank_data[j][6])
+            elif int(rank_data[j][5]) == team2Id and week_as_string == rank_data[j][1]:
+                game_data[-2] = int(rank_data[j][2])
+                game_data[-1] = float(rank_data[j][6])
+                game_data_close_only[-2] = int(rank_data[j][2])
+                game_data_close_only[-1] = float(rank_data[j][6])
+            elif int(week_as_string.split(" ")[0].split("-")[0]) < int(rank_data[j][1].split(" ")[0].split("-")[0]):
+                break
+        except:
+            pass
+
+    game_data.insert(2, week_number)
+    game_data_close_only.insert(2, week_number)
     
     final_data.append(game_data)
     final_data_close_only.append(game_data_close_only)

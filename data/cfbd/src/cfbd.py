@@ -1,12 +1,14 @@
 import csv
+import json
+from datetime import datetime
 
-final_data = [["gameID", "date", "season", "regular", "team1", "team1ID", "team2", "team2ID", 
+final_data = [["gameID", "date", "season", "week", "regular", "team1", "team1ID", "team2", "team2ID", 
                "score1", "score2","result", "homePostWinProb", "awayPostWinProb","homePreElo",
                "homePostElo","awayPreElo","awayPostElo", "overUnder", "spread", "openingOverUnder", 
                "openingSpread", "homeMoneyline", "awayMoneyline", "homeRank", "homeFirstPlaceVotes", 
                "homePollPoints", "awayRank", "awayFirstPlaceVotes","awayPollPoints"]]
 
-final_data_only_close =[["gameID", "date", "season", "regular", "team1", "team1ID", "team2", "team2ID", 
+final_data_only_close =[["gameID", "date", "season", "week", "regular", "team1", "team1ID", "team2", "team2ID", 
                "score1", "score2","result", "homePostWinProb", "awayPostWinProb","homePreElo",
                "homePostElo","awayPreElo","awayPostElo", "overUnder", "spread",  
                "homeMoneyline", "awayMoneyline", "homeRank", "homeFirstPlaceVotes", 
@@ -189,8 +191,23 @@ for season in seasons:
                 awayMoneyline = average_bets[5]
 
                 homeRanking, homeVotes, homePoints, awayRanking, awayVotes, awayPoints = get_polling_data(polls, int(games[row_index][2]))
+
+                with open("data/sportsbookreviewsonline/ncaaf/processsed_data/dateToWeek.json", "r") as file:
+                    dateDictionary = json.load(file)
+                dateList  = []
+                for key in dateDictionary.keys():
+                    dateList.append(datetime.strptime(key, '%Y-%m-%d'))
+                
+                latest = dateList[0]
+                for dt in dateList:
+                    if dt <= datetime.strptime(date, '%Y-%m-%d'):
+                        latest = dt
+                    else:
+                        break
+                
+                week_number = dateDictionary[latest.strftime('%Y-%m-%d')]
             
-                game_data = [game_id, date, season, regular, 
+                game_data = [game_id, date, season, week_number, regular, 
                              home_team, home_id, away_team, away_id, 
                              home_score, away_score, determine_winner(home_score, away_score),
                              home_post_win_prob, away_post_win_prob, home_pre_elo, home_post_elo,
@@ -198,7 +215,7 @@ for season in seasons:
                              openingSpread, homeMoneyline, awayMoneyline, homeRanking, homeVotes, 
                              homePoints, awayRanking, awayVotes, awayPoints]
                 
-                game_data_only_close = [game_id, date, season, regular, 
+                game_data_only_close = [game_id, date, season, week_number,  regular, 
                              home_team, home_id, away_team, away_id, 
                              home_score, away_score, determine_winner(home_score, away_score),
                              home_post_win_prob, away_post_win_prob, home_pre_elo, home_post_elo,
@@ -210,7 +227,7 @@ for season in seasons:
                 final_data.append(game_data)
                 final_data_only_close.append(game_data_only_close)
 
-            except:   
+            except:
                 error_row =[games[row_index][ID_index], games[row_index][date_index], games[row_index][season_index],
                             games[row_index][regular_index], games[row_index][home_name_index], games[row_index][home_ID_index],
                             games[row_index][away_name_index], games[row_index][away_ID_index],

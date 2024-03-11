@@ -5,21 +5,23 @@ with open("data/combined_football/processed/combined.csv", "r") as file:
 
 # column ids
 SEASON = 2
-ID1 = 4
-ID2 = 6
-RESULT = 9
-ELO1 = 16
-ELO2 = 17
-MONEY1 = 12
-MONEY2 = 13
-RANK1 = 14
-RANK2 = 15
-
+WEEK = 3
+ID1 = 5
+ID2 = 7
+RESULT = 10
+ELO1 = 17
+ELO2 = 18
+MONEY1 = 13
+MONEY2 = 14
+RANK1 = 15
+RANK2 = 16
 
 
 # checks if game fit criteria
-def perform_checks(season, seasons, team1, argTeam1, team2, argTeam2, rank1, argRank1, rank2, argRank2):
-    if season not in seasons:
+def performChecks(season, seasons,week, weeks, team1, argTeam1, team2, argTeam2, rank1, argRank1, rank2, argRank2, minMoneylineDiff, maxMoneylineDiff, money1, money2, minEloDiff, maxEloDiff, elo1, elo2):
+    if len(seasons) != 0 and season not in seasons:
+        return False
+    if len(weeks) != 0 and week not in weeks:
         return False
     if len(argTeam1) != 0:
         if team1 not in argTeam1:
@@ -37,33 +39,48 @@ def perform_checks(season, seasons, team1, argTeam1, team2, argTeam2, rank1, arg
             return False
         if int(rank2) not in argRank2:
             return False
+    if maxMoneylineDiff != -1 and minMoneylineDiff!= -1:
+        if money1 == "NaN" and money2 == "NaN":
+            return False
+        elif money1 == "NaN":
+            diff = abs(2 * float(money2))
+            if diff < minMoneylineDiff or diff > maxMoneylineDiff:
+                return False
+        elif money2 == "NaN":
+            diff = abs(2*float(money1))
+            if diff < minMoneylineDiff or diff > maxMoneylineDiff:
+                return False
+        else:
+            diff = abs(float(money1)-float(money2))
+            if diff < minMoneylineDiff or diff > maxMoneylineDiff:
+                return False
+    if minEloDiff != -1 and maxEloDiff != -1:
+        if elo1== "NaN" or elo2 == "NaN":
+            return False
+        else:
+            diff = abs(float(elo1) - float(elo2))
+            if diff < minEloDiff or diff > maxEloDiff:
+                return False
+                
     return True
 
 # checks if data is unfound
-def check_null(method, stat1, stat2):
+def checkNull(method, stat1, stat2):
     if method == "m":
         return stat1 == "NaN" and stat2 == "NaN"
+    
     return stat1 == "NaN" or stat2 == "NaN"
 
-# checks if prediction was right
-def check_prediction(method, stat1, stat2, result):
+# returns if team 1 was predicted to win   
+def getPrediction(method, stat1, stat2):
     if method == "e":
-        if float(stat1) > float(stat2):
-            return result == 1
-        else:
-            return result == 0
+        return float(stat1) > float(stat2)
     elif method == "m":
         if stat1 == "NaN":
-            if float(stat2) > 0:
-                return result == 1
-            return result == 0
-        if float(stat1) < 0 :
-            return result == 1
-        return result == 0
+            return float(stat2) > 0
+        return float(stat1) < 0
     elif method == "p":
-        if float(stat1) < float(stat2):
-            return result == 1
-        return result == 0
+        return float(stat1) < float(stat2)
     
 
 # write predicted and unpredicted data to files
@@ -79,10 +96,12 @@ def write(predicted, success_file, unpredicted, failure_file):
 
 
 # main accuracy function
-def get_accuracy(method, seasons, argTeam1, argTeam2, argRank1, argRank2, successFile, failureFile):
+def getAccuracy(method,seasons,weeks, argTeam1, argTeam2, argRank1, argRank2, minMoneylineDiff, maxMoneylineDiff, minEloDiff, maxEloDiff, successFile, failureFile):
     # games predicted and unpredicted
     predicted =[]
-    unpredicted =[]
+    unpredicted = []
+    underPredicted =[]
+    overPredicted = []
 
     # get method and stat column indices based on method
     stat1_col = -1
@@ -102,6 +121,8 @@ def get_accuracy(method, seasons, argTeam1, argTeam2, argRank1, argRank2, succes
 
     total_count = 0
     total_predicted = 0
+    total_over = 0
+    total_under = 0
     
     # looping through each game
     for i in range(1, len(games)):
@@ -109,34 +130,46 @@ def get_accuracy(method, seasons, argTeam1, argTeam2, argRank1, argRank2, succes
 
 
         # if the game passes checks and data wasn't null, then the game is accounted for
-        if perform_checks(int(game[SEASON]), seasons, 
+        if performChecks(int(game[SEASON]), seasons, int(game[WEEK]), weeks, 
                           int(game[ID1]), argTeam1, 
                           int(game[ID2]), argTeam2, 
                           game[RANK1], argRank1, 
-                          game[RANK2], argRank2,) and not check_null(method, game[stat1_col], game[stat2_col]):
+                          game[RANK2], argRank2,
+                          minMoneylineDiff, maxMoneylineDiff,
+                          game[MONEY1], game[MONEY2],
+                          minEloDiff, maxEloDiff,
+                          game[ELO1], game[ELO2]) and not checkNull(method, game[stat1_col], game[stat2_col]):
 
             total_count = total_count + 1
-            # if the game was predicted correctly
-            if check_prediction(method, game[stat1_col], game[stat2_col], float(game[RESULT])):
+
+            prediction = getPrediction(method, game[stat1_col], game[stat2_col])
+            result = float(game[RESULT])
+            if (prediction and result == 1) or (not prediction and result == 0):
                 predicted.append(game)
-                total_predicted = total_predicted + 1
+                total_predicted = total_predicted + 1            
 
             # if the game was predicted incorrectly
             else:
                 unpredicted.append(game)
-
+                if prediction:
+                    overPredicted.append(game)
+                    total_over = total_over + 1
+                else:
+                    underPredicted.append(game)
+                    total_under = total_under + 1
 
     write(predicted, successFile, unpredicted, failureFile)
             
 
     if total_count == 0:
         print("no games")
-        return (0,0)
+        return (0,0, 0, 0)
     else:
         accuracy = round(100* total_predicted / total_count, 4)
-        print(f"Prediction of accuracy of {accuracy:.4f}% with {total_count} games")
-        return (accuracy, total_count)
+        
+        print((accuracy, total_count, total_over, total_under))
+        return (accuracy, total_count, total_over, total_under)
 
     
 # testing
-get_accuracy("p",[1985],[],[],[],[], "succes.csv","fail.csv")
+#getAccuracy("e",[],[2],[],[],[],[], -1,  -1, -1, -1, "succes.csv","fail.csv")

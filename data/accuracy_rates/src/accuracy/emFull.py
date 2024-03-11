@@ -8,15 +8,15 @@ moneyline_accuracy = []
 for season in range(2007, 2019):
     seasons.append(season)
 
-    elo_rate = accuracy_rates.get_accuracy("e", [season], [], [], [], [], "", "")
-    moneyline_rate = accuracy_rates.get_accuracy("m", [season], [], [], [], [], "", "")
+    elo_rate = accuracy_rates.getAccuracy("e", [season], [], [], [], [],-1, -1, -1, -1,  "", "")
+    moneyline_rate = accuracy_rates.getAccuracy("m", [season], [], [], [], [], -1, -1, -1, -1, "", "")
 
-    if elo_rate == (0, 0):
+    if elo_rate == (0, 0, 0, 0):
         elo_accuracy.append(None)
     else:
         elo_accuracy.append(float(elo_rate[0]))
 
-    if moneyline_rate == (0, 0):
+    if moneyline_rate == (0, 0, 0, 0):
         moneyline_accuracy.append(None)
     else:
         moneyline_accuracy.append(float(moneyline_rate[0]))
