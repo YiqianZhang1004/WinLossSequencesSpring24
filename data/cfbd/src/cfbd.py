@@ -60,7 +60,7 @@ def getPollingData(polls, week, home, away):
 
 for season in seasons:
 
-    with open("data/cfbd/rawData/games/" + str(season)+"_games.csv", 'r') as gamesFile:
+    with open("data/cfbd/raw_data/games/" + str(season)+"_games.csv", 'r') as gamesFile:
         games = csv.DictReader(gamesFile)
             
         for game in games:
@@ -91,7 +91,7 @@ for season in seasons:
 
                 
                 if season>=2013:
-                    with open("data/cfbd/rawData/lines/"+str(season)+"_lines.csv","r") as bets_file:
+                    with open("data/cfbd/raw_data/lines/"+str(season)+"_lines.csv","r") as bets_file:
                         bets = csv.DictReader(bets_file)
 
                         foundFirst = False
@@ -116,7 +116,7 @@ for season in seasons:
                 homeMoneyline = averageBets[4]
                 awayMoneyline = averageBets[5]
 
-                with open("data/cfbd/rawData/polls/" + str(season) + "_polls.csv", "r") as polls_file:
+                with open("data/cfbd/raw_data/polls/" + str(season) + "_polls.csv", "r") as polls_file:
                     polls = csv.DictReader(polls_file)
 
                     homeRanking, homeVotes, homePoints, awayRanking, awayVotes, awayPoints = getPollingData(polls, week, homeTeam, awayTeam)
@@ -144,11 +144,11 @@ for season in seasons:
                 
                 errors.append(errorGame)
     
-with open("data/cfbd/processedData/cfbd.csv", 'w', newline='') as processed:
+with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as processed:
     csv_writer = csv.writer(processed)
     csv_writer.writerows(finalData)
 
-with open("data/cfbd/processedData/cfbdMissing.csv", "w", newline='') as errorFile:
+with open("data/cfbd/processed_data/cfbdMissing.csv", "w", newline='') as errorFile:
     csv_writer = csv.writer(errorFile)
     csv_writer.writerows(errors)
 
