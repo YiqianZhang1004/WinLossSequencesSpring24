@@ -1,252 +1,154 @@
 import csv
-import json
-from datetime import datetime
 
-final_data = [["gameID", "date", "season", "week", "regular", "team1", "team1ID", "team2", "team2ID", 
-               "score1", "score2","result", "homePostWinProb", "awayPostWinProb","homePreElo",
+finalData = [["gameID", "date", "season", "week", "regular", "homeTeam", "homeID", "awayTeam", "awayID", 
+               "homeScore", "awayScore","result", "homePostWinProb", "awayPostWinProb","homePreElo",
                "homePostElo","awayPreElo","awayPostElo", "overUnder", "spread", "openingOverUnder", 
                "openingSpread", "homeMoneyline", "awayMoneyline", "homeRank", "homeFirstPlaceVotes", 
                "homePollPoints", "awayRank", "awayFirstPlaceVotes","awayPollPoints"]]
 
-final_data_only_close =[["gameID", "date", "season", "week", "regular", "team1", "team1ID", "team2", "team2ID", 
-               "score1", "score2","result", "homePostWinProb", "awayPostWinProb","homePreElo",
-               "homePostElo","awayPreElo","awayPostElo", "overUnder", "spread",  
-               "homeMoneyline", "awayMoneyline", "homeRank", "homeFirstPlaceVotes", 
-               "homePollPoints", "awayRank", "awayFirstPlaceVotes","awayPollPoints"]]
-
-errors = [["gameID","date","season","regular","team1","team1ID","team2","team2ID","score1","score2"]]
+errors = [["gameID", "date", "season", "week", "regular", "homeTeam" ,"homeID", "awayTeam", "awayID"]]
 
 seasons = []
 for i in range(1980, 2024):
     seasons.append(i)
 
-# column indices change based on year
-def get_indices(season):
-    if season == 2009:
-        return [0, 4, 1, 3, 13, 12, 26, 25, 16, 29, 22, 35, 23, 24, 36, 37]
-    elif season == 2023 or season <= 2001:
-        return [0, 4, 1, 3, 13, 12, 22, 21, 16, 25, 18, 27, 19, 20, 28, 29]
-    else:
-        return [0, 4, 1, 3, 13, 12, 25, 24, 16, 28, 21, 33, 22, 23, 34, 35]
-
-# determine winner based on their scores
-def determine_winner(score1, score2):
-    if score1 > score2:
-        return 1
-    elif score1 == score2:
-        return 0.5
-    return 0
-
-# returns the proper representation of betting data
-def get_betting_data(data):
-    try: 
-        return round(float(data), 3)
+def floatData(data):
+    try:
+        return round(float(data),3)
     except:
-        return "NaN"
+        return "NaN" 
 
-# finds averages of betting data
-def find_averages(raw_betting):
-    averages=["NaN","NaN","NaN","NaN","NaN","NaN"]
-    for i in range(len(raw_betting)):
+def getAverage(rawBetting): 
+    averages = ["NaN", "NaN", "NaN", "NaN", "NaN", "NaN"]
+    for i in range(len(rawBetting)):
         total = 0.0
         num = 0
-        for j in range(len(raw_betting[i])):
-            if raw_betting[i][j] != "NaN":
-                total = total + raw_betting[i][j]
+        for j in range(len(rawBetting[i])):
+            if rawBetting[i][j] != "NaN":
+                total = total + rawBetting[i][j]
                 num = num + 1
         if num != 0:
             averages[i] = round(float(total/num), 3)
     return averages
 
-# returns proper representation of polling data
-def get_individual_polls(data):
+def intData(data):
     try:
         return int(data)
     except:
         return "NaN"
 
-# iterates through an entire season of polls to find correct poll data
-def get_polling_data(polls, week):
+def getPollingData(polls, week, home, away):
     homeRanking = homeVotes = homePoints = awayRanking = awayVotes = awayPoints = "NaN"
-    # searching for home team
-    for row_index in range(1,len(polls)):
-        # checks to see if the poll is for the correct week and from the right source
-        poll_week = int(polls[row_index][2])
-        poll_source = str(polls[row_index][3]).lower()
-        poll_team = str(polls[row_index][5])
-        if poll_team == home_team and poll_week == week and poll_source == "ap top 25":
-            # ranking
-            homeRanking = get_individual_polls(polls[row_index][4])
-            # number of first place votes
-            homeVotes = get_individual_polls(polls[row_index][7])
-            # points
-            homePoints = get_individual_polls(polls[row_index][8])
+ 
+    for poll in polls:
+        if poll["School"] == home and int(poll["Week"]) == week and poll["Poll"] == "AP Top 25":
+            homeRanking = intData(poll["Rank"])
+            homeVotes = intData(poll["FirstPlaceVotes"])
+            homePoints = intData(poll["Points"])
             break
 
-    # searching for away team
-    for row_index in range(1, len(polls)):
-        poll_week = int(polls[row_index][2])
-        poll_source = str(polls[row_index][3]).lower()
-        poll_team = str(polls[row_index][5])
-        if poll_team == away_team and poll_week == week and poll_source == "ap top 25":
-            # ranking
-            awayRanking = get_individual_polls(polls[row_index][4])
-            # number of first place votes
-            awayVotes = get_individual_polls(polls[row_index][7])
-            # points
-            awayPoints = get_individual_polls(polls[row_index][8])
+    for poll in polls:
+        if poll["School"] == away and int(poll["Week"]) == week and poll["Poll"] == "AP Top 25":
+            awayRanking = intData(poll["Rank"])
+            awayVotes = intData(poll["FirstPlaceVotes"])
+            awayPoints = intData(poll["Points"])
             break
+
     return [homeRanking, homeVotes, homePoints, awayRanking, awayVotes, awayPoints]
 
+    
+
 for season in seasons:
-    # only have betting data starting in 2013
-    if season>=2013:
-        with open("data/cfbd/raw_data/sorted_lines/sorted_"+str(season)+"_lines.csv","r") as bets_file:
-            bets = list(csv.reader(bets_file))
-    with open("data/cfbd/raw_data/polls/" + str(season) + "_polls.csv", "r") as polls_file:
-        polls = list(csv.reader(polls_file))
-    with open("data/cfbd/raw_data/sorted_games/sorted_"+str(season)+"_games.csv", 'r') as games_file:
-        games = list(csv.reader(games_file))
 
-        (ID_index, date_index, season_index, regular_index, 
-         home_name_index, home_ID_index, away_name_index, 
-         away_ID_index, home_score_index, away_score_index, 
-         home_post_win_prob_index, away_post_win_prob_index, 
-         home_pre_elo_index, home_post_elo_index, 
-         away_pre_elo_index, away_post_elo_index) = get_indices(season)
-
-        row_index = 1
-        lastIndex=1
-        while row_index < len(games):
-            try:
-                game_id = int(games[row_index][ID_index])
-                date = str(games[row_index][date_index])[0:10]
-                regular = str(games[row_index][regular_index])=="regular"
-                home_team = str(games[row_index][home_name_index])
-                home_id = int(games[row_index][home_ID_index])
-                away_team = str(games[row_index][away_name_index])
-                away_id = int(games[row_index][away_ID_index])
-                home_score = int(float(games[row_index][home_score_index]))
-                away_score = int(float(games[row_index][away_score_index]))
-                
-                # the below data is non essential data
-                home_post_win_prob = get_betting_data(games[row_index][home_post_win_prob_index])
-                away_post_win_prob = get_betting_data(games[row_index][away_post_win_prob_index])
-                home_pre_elo = get_betting_data(games[row_index][home_pre_elo_index])
-                home_post_elo = get_betting_data(games[row_index][home_post_elo_index])
-                away_pre_elo = get_betting_data(games[row_index][away_pre_elo_index])
-                away_post_elo = get_betting_data(games[row_index][away_post_elo_index])
-               
-                raw_betting = [[],[],[],[],[],[]]
-                
-                # only have betting data starting in 2013
-                if season >= 2013:
-                    # algorithm accounts for multiple sources for the same game
-                    # also accounts for games that have no betting data
-                    # also accounts for potential missing games in both the betting and the game data
-                    # uses sorted datasets so its a lot faster
-                    foundFirst=False
-                    foundAll = False
-                    incrementor = 0
-                    
-                    while lastIndex+incrementor< len(bets) and not foundAll:
-                        if int(bets[lastIndex+incrementor][0]) == int(games[row_index][0]):
-                            foundFirst=True
-                            # over under
-                            raw_betting[0].append(get_betting_data(bets[lastIndex+incrementor][6]))
-                            
-                            # spread
-                            raw_betting[1].append(get_betting_data(bets[lastIndex+incrementor][7]))
-                           
-                            # opening over under
-                            raw_betting[2].append(get_betting_data(bets[lastIndex+incrementor][10]))
-
-                            # opening spread
-                            raw_betting[3].append(get_betting_data(bets[lastIndex+incrementor][9]))
-
-                            # home moneyline
-                            raw_betting[4].append(get_betting_data(bets[lastIndex+incrementor][11]))
-
-                            # away moneyline
-                            raw_betting[5].append(get_betting_data(bets[lastIndex+incrementor][12]))
-
-                        elif foundFirst:
-                            foundAll = True
-
-                        else:
-                            incrementor=incrementor+1
-
-                        if incrementor>0 and not foundAll:
-                            incrementor = incrementor+1
-
-                        elif foundFirst and not foundAll:
-                            lastIndex=lastIndex+1
-                
-                average_bets = find_averages(raw_betting)
-                overUnder = average_bets[0]
-                spread = average_bets[1]
-                openingOverUnder = average_bets[2]
-                openingSpread = average_bets[3]
-                homeMoneyline = average_bets[4]
-                awayMoneyline = average_bets[5]
-
-                homeRanking, homeVotes, homePoints, awayRanking, awayVotes, awayPoints = get_polling_data(polls, int(games[row_index][2]))
-
-                with open("data/sportsbookreviewsonline/ncaaf/processsed_data/dateToWeek.json", "r") as file:
-                    dateDictionary = json.load(file)
-                dateList  = []
-                for key in dateDictionary.keys():
-                    dateList.append(datetime.strptime(key, '%Y-%m-%d'))
-                
-                latest = dateList[0]
-                for dt in dateList:
-                    if dt <= datetime.strptime(date, '%Y-%m-%d'):
-                        latest = dt
-                    else:
-                        break
-                
-                week_number = dateDictionary[latest.strftime('%Y-%m-%d')]
+    with open("data/cfbd/rawData/games/" + str(season)+"_games.csv", 'r') as gamesFile:
+        games = csv.DictReader(gamesFile)
             
-                game_data = [game_id, date, season, week_number, regular, 
-                             home_team, home_id, away_team, away_id, 
-                             home_score, away_score, determine_winner(home_score, away_score),
-                             home_post_win_prob, away_post_win_prob, home_pre_elo, home_post_elo,
-                             away_pre_elo, away_post_elo, overUnder, spread, openingOverUnder,
-                             openingSpread, homeMoneyline, awayMoneyline, homeRanking, homeVotes, 
-                             homePoints, awayRanking, awayVotes, awayPoints]
+        for game in games:
+            try:
+                gameID = int(game['\ufeff"Id"'])
+                date = str(game["Start Date"])[0:10]
+                week = int(game["Week"])
+                regular = str(game["Season Type"]) == "regular"
+                homeTeam = str(game["Home Team"])
+                homeID = int(game["Home Id"])
+                awayTeam = str(game["Away Team"])
+                awayID = int(game["Away Id"])
+                homeScore = int(float(game["Home Points"]))
+                awayScore = int(float(game["Away Points"]))
+
+                result = 0
+                if homeScore >= awayScore:
+                    result = 1
+
+                homePostWinProb = floatData(game["Home Post Win Prob"])
+                awayPostWinProb = floatData(game["Away Post Win Prob"])
+                homePregameElo = floatData(game["Home Pregame Elo"])
+                homePostgameElo = floatData(game["Home Postgame Elo"])
+                awayPregameElo = floatData(game["Away Pregame Elo"])
+                awayPostgameElo = floatData(game["Away Postgame Elo"])
+
+                rawBetting = [[],[],[],[],[],[]]
+
                 
-                game_data_only_close = [game_id, date, season, week_number,  regular, 
-                             home_team, home_id, away_team, away_id, 
-                             home_score, away_score, determine_winner(home_score, away_score),
-                             home_post_win_prob, away_post_win_prob, home_pre_elo, home_post_elo,
-                             away_pre_elo, away_post_elo, overUnder, spread,
-                             homeMoneyline, awayMoneyline, homeRanking, homeVotes, 
-                             homePoints, awayRanking, awayVotes, awayPoints]
+                if season>=2013:
+                    with open("data/cfbd/rawData/lines/"+str(season)+"_lines.csv","r") as bets_file:
+                        bets = csv.DictReader(bets_file)
 
+                        foundFirst = False
+                        foundAll = False
+                        incrementor = 0
 
-                final_data.append(game_data)
-                final_data_only_close.append(game_data_only_close)
-
-            except:
-                error_row =[games[row_index][ID_index], games[row_index][date_index], games[row_index][season_index],
-                            games[row_index][regular_index], games[row_index][home_name_index], games[row_index][home_ID_index],
-                            games[row_index][away_name_index], games[row_index][away_ID_index],
-                            games[row_index][home_score_index], games[row_index][away_score_index]]
+                        for bet in bets:
+                            if int(bet['\ufeff"Id"']) == int(game['\ufeff"Id"']):
+                                rawBetting[0].append(floatData(bet["OverUnder"]))
+                                rawBetting[1].append(floatData(bet["Spread"]))
+                                rawBetting[2].append(floatData(bet["OpeningOverUnder"]))
+                                rawBetting[3].append(floatData(bet["OpeningSpread"]))
+                                rawBetting[4].append(floatData(bet["HomeMoneyline"]))
+                                rawBetting[5].append(floatData(bet["AwayMoneyline"]))
                 
+                
+                averageBets = getAverage(rawBetting)
+                overUnder = averageBets[0]
+                spread = averageBets[1]
+                openingOverUnder = averageBets[2]
+                openingSpread = averageBets[3]
+                homeMoneyline = averageBets[4]
+                awayMoneyline = averageBets[5]
 
-                errors.append(error_row)
+                with open("data/cfbd/rawData/polls/" + str(season) + "_polls.csv", "r") as polls_file:
+                    polls = csv.DictReader(polls_file)
 
-            row_index = row_index + 1
+                    homeRanking, homeVotes, homePoints, awayRanking, awayVotes, awayPoints = getPollingData(polls, week, homeTeam, awayTeam)
 
+                game_data = [gameID, date, season, week, regular, 
+                            homeTeam, homeID, awayTeam, awayID,
+                            homeScore, awayScore, result,
+                            homePostWinProb, awayPostWinProb,
+                            homePregameElo, homePostgameElo,
+                            awayPregameElo, awayPostgameElo,
+                            overUnder, spread, 
+                            openingOverUnder, openingSpread,
+                            homeMoneyline, awayMoneyline,
+                            homeRanking, homeVotes, homePoints,
+                            awayRanking, awayVotes, awayPoints]
+                
+                finalData.append(game_data)
 
-with open("data/cfbd/processed_data/cfbd.csv", 'w', newline='') as processed_file:
-    csv_writer = csv.writer(processed_file)
-    csv_writer.writerows(final_data)
+            except Exception as e:
+                print(e)
+                errorGame = [game['\ufeff"Id"'], game["Start Date"], game["Season"],
+                            game["Week"], game["Season Type"], 
+                            game["Home Team"], game["Home Id"],
+                            game["Away Team"], game["Away Id"]]
+                
+                errors.append(errorGame)
+    
+with open("data/cfbd/processedData/cfbd.csv", 'w', newline='') as processed:
+    csv_writer = csv.writer(processed)
+    csv_writer.writerows(finalData)
 
-with open("data/cfbd/processed_data/cfbd_close_only.csv", 'w', newline='') as processed_file:
-    csv_writer = csv.writer(processed_file)
-    csv_writer.writerows(final_data_only_close)
-
-with open("data/cfbd/processed_data/cfbd_missing.csv", "w", newline='') as error_file:
-    csv_writer = csv.writer(error_file)
+with open("data/cfbd/processedData/cfbdMissing.csv", "w", newline='') as errorFile:
+    csv_writer = csv.writer(errorFile)
     csv_writer.writerows(errors)
+
