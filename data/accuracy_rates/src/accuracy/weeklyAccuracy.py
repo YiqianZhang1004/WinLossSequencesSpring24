@@ -1,13 +1,19 @@
 import accuracy_rates
 import matplotlib.pyplot as plt
+import csv
 
 weeks = []
 m=[]
 e=[]
-for i in range(1,21):
+
+outList = [["method", "week", "accuracy", "total", "over", "under"]]
+
+for i in range(1,19):
     weeks.append(i)
     mr = accuracy_rates.getAccuracy("m",[],[i],[],[],[],[],-1,-1,-1,-1)
     er = accuracy_rates.getAccuracy("e",[],[i],[],[],[],[],-1,-1,-1,-1)
+    outList.append(["e", i] + list(er))
+    outList.append(["m",i] + list(mr))
 
     if mr == (0,0,0,0):
         m.append(None)
@@ -30,3 +36,9 @@ plt.grid(True)
 
 plt.savefig('data/accuracy_rates/visualizations/weeklyAccuracies.png')
 plt.show()
+
+
+with open("data/accuracy_rates/visualization_data/weeklyAccuracy.csv", 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(outList)
+

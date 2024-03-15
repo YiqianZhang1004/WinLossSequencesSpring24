@@ -1,5 +1,6 @@
 import accuracy_rates
 import matplotlib.pyplot as plt
+import csv
 
 seasons = []
 eloOver = []
@@ -9,16 +10,22 @@ eloUnder = []
 moneylineUnder = []
 pollUnder = []
 
+outList = [["method", "season", "accuracy", "total", "over", "under"]]
+
 top25 = []
 for i in range(1,26):
     top25.append(i)
 
-for season in range(2007, 2019):
+for season in range(2007, 2020):
     seasons.append(season)
 
     elo_rate = accuracy_rates.getAccuracy("e", [season], [],[], [], top25, top25, -1, -1, -1, -1)
     moneyline_rate = accuracy_rates.getAccuracy("m", [season],[], [], [], top25, top25, -1, -1, -1, -1)
     poll_rate = accuracy_rates.getAccuracy("p", [season],[], [], [], top25, top25, -1, -1, -1, -1)
+
+    outList.append(["e", season] + list(elo_rate))
+    outList.append(["m", season]  + list(moneyline_rate))
+    outList.append(["p", season] + list(poll_rate))
 
     if elo_rate == (0, 0,0,0):
         eloOver.append(None)
@@ -57,3 +64,9 @@ plt.legend()
 
 plt.savefig('data/accuracy_rates/visualizations/OUemp25.png')
 plt.show()
+
+
+with open("data/accuracy_rates/visualization_data/OUpredictionVisualization.csv", 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(outList)
+

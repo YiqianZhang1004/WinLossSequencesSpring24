@@ -1,14 +1,20 @@
 import accuracy_rates
 import matplotlib.pyplot as plt
-
+import csv
 
 seasons = list(range(2007, 2020))
 
 accuracies = []
 
-for i in range(2, 10):
+outList = [["bucket", "accuracy", "total", "over", "under"]]
 
-    accuracies.append(accuracy_rates.getAccuracy("m", seasons,[], [],[],[],[],i*100, (i+1)*100 - 1, -1,-1)[0])
+
+for i in range(2, 10):
+    tup = accuracy_rates.getAccuracy("m", seasons,[], [],[],[],[],i*100, (i+1)*100 - 1, -1,-1)
+    accuracies.append(tup[0])
+
+    outList.append([str(i*100) + "-" + str((i+1)*100 - 1)] + list(tup))
+
 
 accuracies.append(accuracy_rates.getAccuracy("m", seasons, [],[],[],[],[],1000,1000000, -1, -1)[0])
 
@@ -24,4 +30,9 @@ plt.tight_layout()
 
 plt.savefig('data/accuracy_rates/visualizations/moneylineBuckets.png')
 plt.show()
+
+
+with open("data/accuracy_rates/visualization_data/moneylineBuckets.csv", 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(outList)
 

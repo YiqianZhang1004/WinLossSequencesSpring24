@@ -1,5 +1,6 @@
 import accuracy_rates
 import matplotlib.pyplot as plt
+import csv
 
 seasons = []
 elo_accuracy = []
@@ -9,11 +10,15 @@ top25 = []
 for i in range(1,26):
     top25.append(i)
 
-for season in range(1980, 2024):
+outList = [["method", "season", "accuracy", "total", "over", "under"]]
+
+for season in range(1980, 2020):
     seasons.append(season)
 
     elo_rate = accuracy_rates.getAccuracy("e", [season],[], [], [], top25, top25,-1, -1, -1, -1)
     poll_rate = accuracy_rates.getAccuracy("p", [season],[], [], [], top25, top25, -1, -1, -1, -1)
+    outList.append(["e", season] + list(elo_rate))
+    outList.append(["m", season] + list(poll_rate))
 
     if elo_rate == (0, 0, 0, 0):
         elo_accuracy.append(None)
@@ -37,3 +42,9 @@ plt.grid(True)
 
 plt.savefig('data/accuracy_rates/visualizations/ep25.png')
 plt.show()
+
+
+with open("data/accuracy_rates/visualization_data/ep25.csv", 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(outList)
+
