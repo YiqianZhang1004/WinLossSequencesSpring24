@@ -50,7 +50,7 @@ plt.plot(seasons, moneylineUnder, color="yellow", label = "ML-")
 plt.plot(seasons, pollUnder, color="magenta", label = "Poll-")
 
 plt.xlabel('Season')
-plt.ylabel('Accuracy')
+plt.ylabel('Number of Games')
 plt.title('Elo, ML, and Poll Over/Under (+/-) Predictions Top 25 Teams (2007 - 2019)')
 plt.grid(True)
 plt.legend()
