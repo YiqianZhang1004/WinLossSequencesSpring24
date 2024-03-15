@@ -9,9 +9,9 @@ poll_accuracy = []
 for season in range(2007, 2019):
     seasons.append(season)
 
-    elo_rate = accuracy_rates.getAccuracy("e", [season], [],[], [], [], [], -1, -1, -1, -1, "", "")
-    moneyline_rate = accuracy_rates.getAccuracy("m", [season],[], [], [], [], [],-1, -1, -1, -1,  "", "")
-    poll_rate = accuracy_rates.getAccuracy("p", [season], [],[], [], [], [],-1, -1, -1, -1,  "", "")
+    elo_rate = accuracy_rates.getAccuracy("e", [season], [],[], [], [], [], -1, -1, -1, -1)
+    moneyline_rate = accuracy_rates.getAccuracy("m", [season],[], [], [], [], [],-1, -1, -1, -1)
+    poll_rate = accuracy_rates.getAccuracy("p", [season], [],[], [], [], [],-1, -1, -1, -1)
 
     if elo_rate == (0, 0, 0,0):
         elo_accuracy.append(None)

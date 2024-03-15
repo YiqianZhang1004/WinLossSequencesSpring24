@@ -81,22 +81,11 @@ def getPrediction(method, stat1, stat2):
         return float(stat1) < 0
     elif method == "p":
         return float(stat1) < float(stat2)
-    
-
-# write predicted and unpredicted data to files
-def write(predicted, success_file, unpredicted, failure_file):
-    if success_file != "":
-        with open("data/accuracy_rates/processed_data/" + success_file, "w", newline='') as sfile:
-            csv_writer = csv.writer(sfile)
-            csv_writer.writerows(predicted)
-    if failure_file != "":
-        with open("data/accuracy_rates/processed_data/" + failure_file, "w", newline='') as ffile:
-            csv_writer = csv.writer(ffile)
-            csv_writer.writerows(unpredicted)
+        
 
 
 # main accuracy function
-def getAccuracy(method,seasons,weeks, argTeam1, argTeam2, argRank1, argRank2, minMoneylineDiff, maxMoneylineDiff, minEloDiff, maxEloDiff, successFile, failureFile):
+def getAccuracy(method,seasons,weeks, argTeam1, argTeam2, argRank1, argRank2, minMoneylineDiff, maxMoneylineDiff, minEloDiff, maxEloDiff):
     # games predicted and unpredicted
     predicted =[]
     unpredicted = []
@@ -157,19 +146,14 @@ def getAccuracy(method,seasons,weeks, argTeam1, argTeam2, argRank1, argRank2, mi
                 else:
                     underPredicted.append(game)
                     total_under = total_under + 1
-
-    write(predicted, successFile, unpredicted, failureFile)
-            
-
     if total_count == 0:
         print("no games")
         return (0,0, 0, 0)
     else:
         accuracy = round(100* total_predicted / total_count, 4)
-        
         print((accuracy, total_count, total_over, total_under))
         return (accuracy, total_count, total_over, total_under)
 
     
 # testing
-#getAccuracy("e",[],[2],[],[],[],[], -1,  -1, -1, -1, "succes.csv","fail.csv")
+#getAccuracy("e",[],[2],[],[],[],[], -1,  -1, -1, -1)

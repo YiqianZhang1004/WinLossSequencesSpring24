@@ -6,8 +6,8 @@ m=[]
 e=[]
 for i in range(1,21):
     weeks.append(i)
-    mr = accuracy_rates.getAccuracy("m",[],[i],[],[],[],[],-1,-1,-1,-1,"","")
-    er = accuracy_rates.getAccuracy("e",[],[i],[],[],[],[],-1,-1,-1,-1,"","")
+    mr = accuracy_rates.getAccuracy("m",[],[i],[],[],[],[],-1,-1,-1,-1)
+    er = accuracy_rates.getAccuracy("e",[],[i],[],[],[],[],-1,-1,-1,-1)
 
     if mr == (0,0,0,0):
         m.append(None)

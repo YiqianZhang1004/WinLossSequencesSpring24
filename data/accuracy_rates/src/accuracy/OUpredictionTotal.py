@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 
 seasons = list(range(2007, 2020))
 
-e = accuracy_rates.getAccuracy("e", seasons, [], [], [], [], [], -1, -1, -1, -1, "", "")
-m = accuracy_rates.getAccuracy("m", seasons, [], [], [], [], [], -1, -1, -1, -1, "", "")
-p = accuracy_rates.getAccuracy("p", seasons, [], [], [], [], [], -1, -1, -1, -1, "", "")
+e = accuracy_rates.getAccuracy("e", seasons, [], [], [], [], [], -1, -1, -1, -1)
+m = accuracy_rates.getAccuracy("m", seasons, [], [], [], [], [], -1, -1, -1, -1)
+p = accuracy_rates.getAccuracy("p", seasons, [], [], [], [], [], -1, -1, -1, -1)
 
 eloOver = e[2]
 eloUnder = e[3]

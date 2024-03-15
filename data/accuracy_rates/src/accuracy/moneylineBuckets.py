@@ -8,9 +8,9 @@ accuracies = []
 
 for i in range(2, 10):
 
-    accuracies.append(accuracy_rates.getAccuracy("m", seasons,[], [],[],[],[],i*100, (i+1)*100 - 1, -1,-1,"","")[0])
+    accuracies.append(accuracy_rates.getAccuracy("m", seasons,[], [],[],[],[],i*100, (i+1)*100 - 1, -1,-1)[0])
 
-accuracies.append(accuracy_rates.getAccuracy("m", seasons, [],[],[],[],[],1000,1000000, -1, -1, "", "")[0])
+accuracies.append(accuracy_rates.getAccuracy("m", seasons, [],[],[],[],[],1000,1000000, -1, -1)[0])
 
 bin_labels = [f'{i*100}-{(i+1)*100-1}' for i in range(2, 10)]
 bin_labels.append('>1000')
