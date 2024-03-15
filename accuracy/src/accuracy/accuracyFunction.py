@@ -56,9 +56,8 @@ def checkEloDiff(min, max, home, away):
 
 def checkNull(method, stat1, stat2):
     if method == "m":
-        return stat1 == "NaN" and stat2 == "NaN"
-    return stat1 == "NaN" or stat2 == "NaN"
-
+        return stat1 != "NaN" or stat2 != "NaN"
+    return stat1 != "NaN" and stat2 != "NaN"
 
 def performChecks(season, seasons, week, weeks,
                    homeTeam, homeTeams, awayTeam, awayTeams, 
@@ -68,8 +67,9 @@ def performChecks(season, seasons, week, weeks,
     contain = all(checkContain(item, items) for item, items in [(season, seasons), (week, weeks), (homeTeam, homeTeams), (awayTeam, awayTeams), (homeRank, homeRanks), (awayRank, awayRanks), ])
     moneylineDiff = checkMoneylineDiff(minMoneylineDiff, maxMoneylineDiff, homeMoneyline, awayMoneyline)
     eloDiff = checkEloDiff(minEloDiff, maxEloDiff, homeElo, awayElo)
-    null = checkNull(method, stat1, stat2)
-    return contain and moneylineDiff and eloDiff and not null
+    notNull = checkNull(method, stat1, stat2)
+
+    return contain and moneylineDiff and eloDiff and notNull
 
 
 def getPrediction(method, stat1, stat2):
@@ -148,4 +148,4 @@ def getAccuracy(method,seasons,weeks, homeTeams, awayTeams, homeRanks, awayRanks
             return (accuracy, total, totalOver, totalUnder)
 
 
-getAccuracy("e",[],[],[],[],[],[],"","","","")
+getAccuracy("p",[],[],[],[],[],[],"","","","")

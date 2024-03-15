@@ -25,7 +25,7 @@ with open("team_dictionary/processed_data/cfb_polls_standardized.csv", "r") as f
         dates.append(datetime.strptime(date, "%Y-%m-%d"))
         teams.append(int(rank["TeamID"]))
         try:
-            ranks.append(int(rank["Rank"]))
+            ranks.append(int(float(rank["Rank"])))
         except:
             ranks.append("NaN")
         try:
@@ -63,6 +63,7 @@ with open("cfbd/processed_data/cfbdPre.csv", "r") as file:
 
         indices = getPrevious(date)
 
+ 
         for i in range(indices[0],indices[1]):
             if teams[i] == homeTeamID:
                 gameData[-4] = ranks[i]
@@ -70,13 +71,11 @@ with open("cfbd/processed_data/cfbdPre.csv", "r") as file:
             elif teams[i] == awayTeamID:
                 gameData[-2] = ranks[i]
                 gameData[-1] = points[i]
-
+   
         finalData.append(gameData)
 
     with open("cfbd/processed_data/cfbd.csv", 'w', newline='') as outFile:
         csv_writer = csv.writer(outFile)
         csv_writer.writerows(finalData)
         
-
-
 
