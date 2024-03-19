@@ -3,14 +3,14 @@ import matplotlib.pyplot as plt
 import csv
 
 s = ["80 - 84", "85 - 89", "90 - 94", "95 - 99", "00 - 04",
-     "05 - 09", "10 - 14", "15 - 19"]
+     "05 - 09", "10 - 14", "15 - 19", "20 - 24"]
 
 elo_accuracy = []
 poll_accuracy = []
 
 outList = [["method", "seasons", "accuracy", "total", "over", "under"]]
 
-seasons = list(range(1980, 2020))
+seasons = list(range(1980, 2024))
 grouped_seasons = [seasons[i:i+5] for i in range(0, len(seasons), 5)]
 top25 = [i for i in range(1, 26)]
 

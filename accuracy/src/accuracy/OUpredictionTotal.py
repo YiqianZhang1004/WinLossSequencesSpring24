@@ -2,7 +2,7 @@ import accuracyFunction
 import matplotlib.pyplot as plt
 import csv
 
-seasons = list(range(2007, 2020))
+seasons = list(range(2007, 2024))
 
 outList = [["method", "accuracy", "total", "over", "under"]]
 

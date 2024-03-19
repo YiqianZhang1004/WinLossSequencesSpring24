@@ -23,7 +23,10 @@ with open("team_dictionary/processed_data/cfb_polls_standardized.csv", "r") as f
             date = str(year) + "-02-01"
 
         dates.append(datetime.strptime(date, "%Y-%m-%d"))
-        teams.append(int(rank["TeamID"]))
+        try:
+            teams.append(int(rank["StandardID"]))
+        except:
+            teams.append(0)
         try:
             ranks.append(int(float(rank["Rank"])))
         except:

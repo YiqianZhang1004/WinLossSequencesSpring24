@@ -9,7 +9,7 @@ poll_accuracy = []
 
 outList = [["method", "season", "accuracy", "total", "over", "under"]]
 
-for season in range(2007, 2020):
+for season in range(2007, 2024):
     seasons.append(season)
 
     elo_rate = accuracyFunction.getAccuracy("e", [season], [],[], [], [], [], "","","","")

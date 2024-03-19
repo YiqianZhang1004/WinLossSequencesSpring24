@@ -16,7 +16,7 @@ top25 = []
 for i in range(1,26):
     top25.append(i)
 
-for season in range(2007, 2020):
+for season in range(2007, 2024):
     seasons.append(season)
 
     elo_rate = accuracyFunction.getAccuracy("e", [season], [],[], [], top25, top25, '','','','')
