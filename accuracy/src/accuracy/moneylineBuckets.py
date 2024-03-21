@@ -1,6 +1,7 @@
 import accuracyFunction
 import matplotlib.pyplot as plt
 import csv
+import numpy as np
 
 seasons = list(range(2007, 2024))
 
@@ -31,8 +32,24 @@ plt.tight_layout()
 plt.savefig('accuracy/visualizations/moneylineBuckets.png')
 plt.show()
 
-
 with open("accuracy/visualization_data/moneylineBuckets.csv", 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(outList)
+
+
+plt.close()
+labels = [200,300,400,500,600,700,800,900,1000]
+plt.scatter(labels, accuracies)
+plt.xlabel("Bucket Thresholds")
+plt.ylabel("Accuracy Rate")
+plt.title("Accuracy Rates Across Moneyline Difference Buckets")
+
+slope, intercept = np.polyfit(labels, accuracies, 1)
+plt.plot(labels, np.polyval([slope, intercept], labels), color='red', label='Linear Regression')
+
+equation_text = f'y = {slope:.2f}x + {intercept:.2f}'
+plt.annotate(equation_text, xy=(labels[0], accuracies[0]), xytext=(labels[0]+0.5, max(accuracies)), verticalalignment='top')
+plt.show()
+
+plt.savefig('accuracy/visualizations/moneylineRegression.png')
 
