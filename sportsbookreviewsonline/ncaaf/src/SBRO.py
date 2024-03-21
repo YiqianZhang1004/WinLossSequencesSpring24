@@ -37,15 +37,11 @@ def floatData(field):
     
 def organizeData(moneyline1, moneyline2, open1, open2, close1, close2, half1, half2):
     if moneyline1 == "NaN" or moneyline2 == "NaN":
-        return ["NaN", "NaN", "NaN", "NaN", "NaN", "NaN"]
-    if moneyline1 < 0:
-        return [open1, close1, half1, open2, close2, half2]
-    if moneyline2 < 0:
-        return [open2, close2, half2, open1, close1, half1]
+        return ["NaN", "NaN", "NaN", "NaN", "NaN", "NaN", "NaN", "NaN"]
     if abs(moneyline1) > abs(moneyline2):
-        return [open1, close1, half1, open2, close2, half2]
+        return [open1, close1, half1, open2, close2, half2, -abs(moneyline1), abs(moneyline2)]
     else:
-        return [open2, close2, half2, open1, close1, half1]
+        return [open2, close2, half2, open1, close1, half1, abs(moneyline1), -abs(moneyline2)]
 
 
 
@@ -95,7 +91,8 @@ for season in seasons:
             half2 = floatData(row2[HALF_INDEX].text)
 
             (spreadOpen, spreadClose, spreadHalf,
-            overUnderOpen, overUnderClose, overUnderHalf) = organizeData(moneyline1, moneyline2, open1, open2, close1, close2, half1, half2)
+            overUnderOpen, overUnderClose, overUnderHalf,
+            moneylin1, moneyline2) = organizeData(moneyline1, moneyline2, open1, open2, close1, close2, half1, half2)
             
             homeTeam = team1
             awayTeam = team2
