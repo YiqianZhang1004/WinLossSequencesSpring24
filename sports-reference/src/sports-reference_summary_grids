@@ -1,0 +1,17 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+import time
+import pandas as pd
+driver = webdriver.Chrome(options= Options())
+
+for i in range (1950,2025):
+    driver.get("view-source:https://www.sports-reference.com/cbb/seasons/men/"+str(i)+"-top25-matchups.html")
+    time.sleep(0.5)
+    table_container = driver.find_element(By.ID, "div_top-25-matchups")
+    table = table_container.find_element(By.ID, "top-25-matchups")
+    rows = table.find_elements(By.CSS_SELECTOR, "tr")
+    rowall = rows[26].find_elements(By.CSS_SELECTOR,"td")
+    seasondata = []
+    for j in range(len(rowall)):
+        seasondata.append(rowall[i].text)
