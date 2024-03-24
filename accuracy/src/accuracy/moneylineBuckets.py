@@ -49,7 +49,9 @@ plt.plot(labels, np.polyval([slope, intercept], labels), color='red', label='Lin
 
 equation_text = f'y = {slope:.2f}x + {intercept:.2f}'
 plt.annotate(equation_text, xy=(labels[0], accuracies[0]), xytext=(labels[0]+0.5, max(accuracies)), verticalalignment='top')
-plt.show()
 
 plt.savefig('accuracy/visualizations/moneylineRegression.png')
+
+plt.show()
+
 
