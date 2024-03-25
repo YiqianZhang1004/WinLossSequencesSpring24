@@ -1,2 +1,2 @@
-date,season,regular,homeTeam,awayTeam,homeScore,awayScore,open1,close1,open2,close2,half1,half2,moneyline1,moneyline2
+date,season,regular,team1,team2,score1,score2,open1,close1,open2,close2,half1,half2,moneyline1,moneyline2
 1023,2021,True,Stetson,Drake, , ,37.5,12.5,NL,NL,NL,NL,NL,NL

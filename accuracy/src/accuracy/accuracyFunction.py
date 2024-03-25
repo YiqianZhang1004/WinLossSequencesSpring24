@@ -12,10 +12,10 @@ def checkMoneylineDiff(min, max, home, away):
         if home == "NaN" and away == "NaN":
             return False
         if home == "NaN":
-            return abs(float(away)*2) <= float(max)
+            return abs(float(away)*2) < float(max)
         if away == "NaN":
-            return abs(float(home)*2) <= float(max)
-        return abs(float(home)-float(away)) <= float(max)
+            return abs(float(home)*2) < float(max)
+        return abs(float(home)-float(away)) < float(max)
     if max == "":
         if home == "NaN" and away == "NaN":
             return False
@@ -29,12 +29,12 @@ def checkMoneylineDiff(min, max, home, away):
             return False
         if home == "NaN":
             diff = abs(float(away)*2)
-            return diff >= float(min) and diff <= float(max)
+            return diff >= float(min) and diff < float(max)
         if away == "NaN":
             diff = abs(float(home)*2)
-            return diff >= float(min) and diff <= float(max)
+            return diff >= float(min) and diff < float(max)
         diff = abs(float(home)-float(away))
-        return diff >= float(min) and diff <= float(max)
+        return diff >= float(min) and diff < float(max)
     
 def checkEloDiff(min, max, home, away):
     if min == "" and max == "":
@@ -42,7 +42,7 @@ def checkEloDiff(min, max, home, away):
     if min == "":
         if home == "NaN" or away == "NaN":
             return False
-        return abs(float(home)-float(away)) <= float(max)
+        return abs(float(home)-float(away)) < float(max)
     if max == "":
         if home == "NaN" or away == "NaN":
             return False
@@ -51,7 +51,7 @@ def checkEloDiff(min, max, home, away):
         if home == "NaN" or away == "NaN":
             return False
         diff = abs(float(home)-float(away))
-        return diff >= float(min) and diff <= float(max)
+        return diff >= float(min) and diff < float(max)
 
 
 def checkNull(method, stat1, stat2):

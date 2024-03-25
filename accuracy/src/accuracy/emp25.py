@@ -47,7 +47,7 @@ plt.plot(seasons, poll_accuracy, color="red", label = "Poll")
 
 plt.xlabel('Season')
 plt.ylabel('Accuracy')
-plt.title('Elo, Moneyline, and Poll Accuracy of Top 25 Teams (2007 - 2019)')
+plt.title('Elo, Moneyline, and Poll Accuracy of Top 25 Teams (2007 - 2024)')
 plt.legend()
 plt.grid(True)
 

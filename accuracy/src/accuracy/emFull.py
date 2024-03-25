@@ -32,7 +32,7 @@ plt.plot(seasons, moneyline_accuracy, color="green", label = "Moneyline")
 
 plt.xlabel('Season')
 plt.ylabel('Accuracy')
-plt.title('Elo and Moneyline Accuracy of All Teams (2007 - 2019)')
+plt.title('Elo and Moneyline Accuracy of All Teams (2007 - 2024)')
 plt.legend()
 plt.grid(True)
 

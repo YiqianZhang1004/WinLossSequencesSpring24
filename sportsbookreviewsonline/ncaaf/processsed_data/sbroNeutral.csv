@@ -58,7 +58,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2008-12-30,2008,False,WesternMichigan,Rice,14,38,0,3.0,2.5,32.5,72.0,74.0,1.0,120.0,-140.0
 2008-12-30,2008,False,Oregon,OklahomaState,42,31,1,77.0,1.0,3.0,3.5,75.0,36.0,-115.0,105.0
 2008-12-31,2008,False,AirForce,HoustonU,28,34,0,3.0,5.5,3.0,64.0,65.5,31.5,175.0,-210.0
-2008-12-31,2008,False,PittsburghU,OregonState,0,3,0,3.0,0.0,0.0,53.5,51.0,22.5,-110.0,-110.0
+2008-12-31,2008,False,PittsburghU,OregonState,0,3,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2008-12-31,2008,False,BostonCollege,Vanderbilt,14,16,0,4.0,4.5,3.0,41.0,40.0,20.0,-200.0,170.0
 2008-12-31,2008,False,MinnesotaU,Kansas,21,42,0,10.0,9.0,3.0,57.0,58.5,30.0,300.0,-360.0
 2008-12-31,2008,False,LSU,GeorgiaTech,38,3,1,4.0,4.0,5.0,49.0,53.5,24.5,160.0,-180.0
@@ -80,7 +80,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2009-11-15,2009,False,EastCarolina,Tulsa,44,17,1,6.0,4.0,5.0,52.0,50.5,25.0,165.0,-195.0
 2009-11-24,2009,False,BallState,WesternMichigan,22,17,1,9.5,10.5,7.0,51.5,54.5,27.0,320.0,-400.0
 2009-12-05,2009,False,Florida,Alabama,13,32,0,4.0,4.5,4.0,42.5,41.0,21.0,-200.0,170.0
-2009-12-05,2009,False,GeorgiaTech,Clemson,39,34,1,0.0,1.0,0.5,57.5,56.5,28.0,-102.0,-118.0
+2009-12-05,2009,False,GeorgiaTech,Clemson,39,34,1,0.0,1.0,0.5,57.5,56.5,28.0,102.0,-118.0
 2009-12-05,2009,False,Texas,Nebraska,13,12,1,13.0,14.0,7.5,46.5,46.0,22.5,-680.0,515.0
 2009-12-19,2009,False,Wyoming,FresnoState,35,28,1,10.0,10.0,7.5,55.5,54.5,27.0,330.0,-420.0
 2009-12-19,2009,False,CentralFlorida,Rutgers,24,45,0,45.0,3.0,0.0,1.0,45.0,23.5,120.0,-140.0
@@ -89,13 +89,13 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2009-12-23,2009,False,Utah,California,37,27,1,3.0,2.5,2.5,54.5,52.0,26.0,120.0,-140.0
 2009-12-24,2009,False,SMU,Nevada,45,10,1,12.0,11.0,6.0,73.0,69.5,29.5,350.0,-440.0
 2009-12-26,2009,False,Ohio,Marshall,17,21,0,4.5,3.0,1.5,50.5,49.0,24.0,-145.0,125.0
-2009-12-26,2009,False,NorthCarolina,PittsburghU,17,19,0,3.0,0.0,0.0,44.5,45.5,23.0,-105.0,-115.0
+2009-12-26,2009,False,NorthCarolina,PittsburghU,17,19,0,3.0,0.0,0.0,44.5,45.5,23.0,105.0,-115.0
 2009-12-26,2009,False,BostonCollege,USC,13,24,0,8.0,7.5,3.5,46.5,45.0,23.5,250.0,-300.0
 2009-12-27,2009,False,Kentucky,Clemson,13,21,0,7.5,6.5,3.0,53.0,53.0,25.5,200.0,-250.0
 2009-12-28,2009,False,TexasA&M,Georgia,20,44,0,6.0,6.5,0.5,64.0,65.5,30.0,205.0,-245.0
 2009-12-29,2009,False,UCLA,Temple,30,21,1,4.5,4.0,4.0,47.0,44.0,22.0,-190.0,165.0
 2009-12-29,2009,False,Wisconsin,MiamiFlorida,20,14,1,1.5,3.5,1.0,56.5,55.0,27.0,150.0,-170.0
-2009-12-30,2009,False,BowlingGreen,Idaho,42,43,0,1.0,1.0,34.5,68.5,69.5,0.0,-105.0,-115.0
+2009-12-30,2009,False,BowlingGreen,Idaho,42,43,0,1.0,1.0,34.5,68.5,69.5,0.0,105.0,-115.0
 2009-12-30,2009,False,Nebraska,ArizonaU,33,0,1,2.0,2.0,0.0,41.0,41.5,19.5,-135.0,115.0
 2009-12-31,2009,False,Navy,Missouri,35,13,1,6.5,6.5,4.0,52.5,54.5,27.0,215.0,-255.0
 2009-12-31,2009,False,AirForce,HoustonU,47,20,1,5.0,4.0,6.0,62.0,65.0,33.5,158.0,-180.0
@@ -212,7 +212,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2012-12-27,2012,False,CincinnatiU,Duke,48,34,1,7.5,8.5,6.5,58.0,62.5,32.0,-330.0,270.0
 2012-12-27,2012,False,Baylor,UCLA,49,26,1,2.0,3.0,3.0,78.0,81.0,39.5,125.0,-145.0
 2012-12-28,2012,False,Ohio,ULMonroe,45,14,1,6.5,7.0,6.0,61.0,59.0,29.0,220.0,-260.0
-2012-12-28,2012,False,Rutgers,VirginiaTech,10,13,0,2.0,0.0,0.5,41.5,42.0,20.0,-110.0,-110.0
+2012-12-28,2012,False,Rutgers,VirginiaTech,10,13,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2012-12-28,2012,False,MinnesotaU,TexasTech,31,34,0,12.5,13.0,6.5,57.0,55.0,28.5,395.0,-500.0
 2012-12-29,2012,False,Navy,ArizonaState,28,62,0,60.5,61.0,28.5,0.0,0.0,0.5,-115.0,105.0
 2012-12-29,2012,False,WestVirginia,Syracuse,14,38,0,14.5,13.0,6.5,56.0,54.5,27.5,400.0,-500.0
@@ -277,11 +277,11 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2014-12-20,2014,False,Utah,ColoradoState,45,10,1,4.5,3.0,2.5,58.5,57.5,28.5,-160.0,140.0
 2014-12-20,2014,False,WesternMichigan,AirForce,24,38,0,2.0,2.0,3.0,56.5,59.0,28.0,-130.0,110.0
 2014-12-20,2014,False,SouthAlabama,BowlingGreen,28,33,0,1.5,4.0,3.5,54.0,55.0,27.5,-190.0,165.0
-2014-12-22,2014,False,BYU,Memphis,48,55,0,0.0,1.0,0.5,57.5,56.0,31.0,-101.0,-119.0
+2014-12-22,2014,False,BYU,Memphis,48,55,0,0.0,1.0,0.5,57.5,56.0,31.0,101.0,-119.0
 2014-12-23,2014,False,NoIllinois,Marshall,23,52,0,10.5,8.5,3.5,64.5,67.5,34.5,265.0,-320.0
 2014-12-23,2014,False,Navy,SanDiegoState,17,16,1,3.0,3.0,2.0,54.5,52.0,23.5,135.0,-160.0
 2014-12-24,2014,False,CentralMichigan,WesternKentucky,48,49,0,2.5,3.5,0.5,65.0,67.0,35.5,145.0,-170.0
-2014-12-24,2014,False,FresnoState,Rice,6,30,0,59.0,58.5,27.5,1.5,0.0,1.0,-109.0,-111.0
+2014-12-24,2014,False,FresnoState,Rice,6,30,0,59.0,58.5,27.5,1.5,0.0,1.0,109.0,-111.0
 2014-12-26,2014,False,Illinois,LouisianaTech,18,35,0,5.0,7.0,0.0,62.0,54.5,27.0,230.0,-275.0
 2014-12-26,2014,False,Rutgers,NorthCarolina,40,21,1,3.5,3.5,4.0,65.5,72.0,35.5,145.0,-170.0
 2014-12-26,2014,False,NCState,CentralFlorida,34,27,1,1.0,2.0,0.5,50.0,48.0,24.5,110.0,-130.0
@@ -409,7 +409,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2016-12-31,2016,False,LSU,Louisville,29,9,1,2.5,3.0,0.5,59.5,59.5,27.0,-145.0,125.0
 2016-12-31,2016,False,Kentucky,GeorgiaTech,18,33,0,4.5,3.0,28.0,60.0,62.0,0.5,140.0,-160.0
 2016-12-31,2016,False,WashingtonU,Alabama,7,24,0,14.5,13.0,7.0,58.0,50.5,24.0,400.0,-500.0
-2016-12-31,2016,False,OhioState,Clemson,0,31,0,61.5,1.0,27.0,3.5,56.5,0.5,-105.0,-115.0
+2016-12-31,2016,False,OhioState,Clemson,0,31,0,61.5,1.0,27.0,3.5,56.5,0.5,105.0,-115.0
 2016-01-02,2016,False,Iowa,Florida,3,30,0,2.0,1.5,20.0,40.5,40.5,0.5,105.0,-125.0
 2016-01-02,2016,False,WesternMichigan,Wisconsin,16,24,0,7.5,8.0,4.0,54.0,54.0,25.5,240.0,-280.0
 2016-01-02,2016,False,USC,PennState,52,49,1,6.5,7.0,3.0,60.0,59.5,31.5,-280.0,240.0
@@ -462,7 +462,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2017-01-01,2017,False,Georgia,Oklahoma,54,48,1,59.0,2.5,3.0,1.0,62.5,34.0,-140.0,120.0
 2017-01-01,2017,False,Alabama,Clemson,24,6,1,47.0,3.5,2.5,1.0,47.0,21.0,-180.0,150.0
 2017-01-08,2017,False,Alabama,Georgia,26,23,1,4.5,3.5,6.0,45.0,45.0,22.5,-180.0,155.0
-2018-09-01,2018,False,Washington,Auburn,16,21,0,2.5,1.5,1.0,54.0,50.5,NaN,-101.0,-119.0
+2018-09-01,2018,False,Washington,Auburn,16,21,0,2.5,1.5,1.0,54.0,50.5,NaN,101.0,-119.0
 2018-09-01,2018,False,Louisville,Alabama,14,51,0,25.5,22.5,10.0,53.5,60.0,24.0,1041.0,-2000.0
 2018-11-30,2018,False,NoIllinois,BuffaloU,30,29,1,4.0,3.0,0.0,49.0,51.5,26.5,140.0,-160.0
 2018-11-30,2018,False,Utah,Washington,3,10,0,4.0,4.5,1.5,44.5,45.0,20.5,170.0,-200.0
@@ -567,7 +567,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2021-12-04,2021,False,Iowa,Michigan,3,42,0,10.5,12.0,4.0,44.5,44.0,20.5,400.0,-500.0
 2021-12-17,2021,False,Toledo,MiddleTennSt,24,31,0,7.0,10.5,3.5,54.5,50.0,24.5,-380.0,320.0
 2021-12-17,2021,False,CoastalCarolina,NoIllinois,47,41,1,7.5,12.5,7.5,65.0,63.5,34.5,-450.0,375.0
-2021-12-18,2021,False,AppalachianSt,WesternKentucky,38,59,0,66.0,1.0,37.0,3.0,68.5,1.5,-110.0,-110.0
+2021-12-18,2021,False,AppalachianSt,WesternKentucky,38,59,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2021-12-18,2021,False,SoCarolinaSt,JacksonSt,31,10,1,12.5,10.5,6.0,40.5,42.5,19.5,340.0,-410.0
 2021-12-18,2021,False,UTEP,FresnoState,24,31,0,17.5,13.5,4.0,51.5,54.5,27.5,425.0,-550.0
 2021-12-18,2021,False,UAB,BYU,31,28,1,8.5,5.5,4.0,55.5,54.5,27.5,200.0,-240.0
@@ -582,7 +582,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2021-12-25,2021,False,BallState,GeorgiaState,20,51,0,1.5,6.5,1.5,48.5,53.0,24.0,190.0,-220.0
 2021-12-27,2021,False,WesternMichigan,Nevada,52,24,1,65.5,6.5,4.0,7.5,57.5,24.5,-250.0,210.0
 2021-12-28,2021,False,Houston,Auburn,17,13,1,51.5,1.0,22.5,2.5,49.5,0.5,-125.0,105.0
-2021-12-28,2021,False,Louisville,AirForce,28,31,0,0.0,1.5,27.5,55.5,54.5,0.5,-105.0,-115.0
+2021-12-28,2021,False,Louisville,AirForce,28,31,0,0.0,1.5,27.5,55.5,54.5,0.5,105.0,-115.0
 2021-12-28,2021,False,TexasTech,MississippiState,34,7,1,9.5,10.0,7.0,59.5,58.0,28.0,290.0,-350.0
 2021-12-28,2021,False,WestVirginia,MinnesotaU,6,18,0,7.0,6.0,4.5,44.5,45.0,21.5,200.0,-240.0
 2021-12-29,2021,False,Maryland,VirginiaTech,54,10,1,53.5,4.5,1.5,2.5,55.5,27.0,-190.0,170.0
@@ -592,7 +592,7 @@ date,season,regular,homeTeam,awayTeam,homeScore,awayScore,result,openingSpread,c
 2021-12-30,2021,False,Purdue,TennesseeU,48,45,1,59.0,7.5,5.0,3.0,67.0,35.5,235.0,-275.0
 2021-12-30,2021,False,PittsburghU,MichiganState,21,31,0,63.0,3.5,4.0,4.5,55.0,24.0,135.0,-155.0
 2021-12-30,2021,False,ArizonaState,Wisconsin,13,20,0,7.0,8.0,5.5,43.0,42.5,20.0,265.0,-320.0
-2021-12-31,2021,False,Rutgers,WakeForest,10,38,0,11.5,16.5,4.5,61.5,63.0,28.5,-110.0,-110.0
+2021-12-31,2021,False,Rutgers,WakeForest,10,38,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 2021-12-31,2021,False,CentralMichigan,WashingtonState,24,21,1,54.5,56.0,23.0,4.5,5.5,3.0,-320.0,265.0
 2021-12-31,2021,False,Georgia,Michigan,34,11,1,59.0,7.5,2.5,13.5,46.0,20.5,-250.0,210.0
 2021-12-31,2021,False,CincinnatiU,Alabama,6,27,0,43.5,13.0,5.0,7.0,57.0,24.5,600.0,-900.0

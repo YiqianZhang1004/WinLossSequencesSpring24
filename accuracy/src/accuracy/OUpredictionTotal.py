@@ -29,7 +29,7 @@ colors = ['blue','cyan','green','yellow','red','magenta']
 plt.bar(categories, values, color=colors)
 
 plt.ylabel('Number of Games')
-plt.title('Elo, Moneyline, and Poll Over/Under (+/-) Predictions (2007 - 2019)')
+plt.title('Elo, Moneyline, and Poll Over/Under (+/-) Predictions (2007 - 2024)')
 
 plt.savefig('accuracy/visualizations/OUempTotal.png')
 

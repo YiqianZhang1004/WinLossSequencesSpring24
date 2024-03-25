@@ -58,7 +58,7 @@ plt.plot(seasons, pollUnder, color="magenta", label = "Poll-")
 
 plt.xlabel('Season')
 plt.ylabel('Number of Games')
-plt.title('Elo, ML, and Poll Over/Under (+/-) Predictions Top 25 Teams (2007 - 2019)')
+plt.title('Elo, ML, and Poll Over/Under (+/-) Predictions Top 25 Teams (2007 - 2024)')
 plt.grid(True)
 plt.legend()
 

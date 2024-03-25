@@ -17,20 +17,6 @@ def floatData(data):
     except:
         return "NaN" 
 
-def getAverage(rawBetting): 
-    averages = ["NaN", "NaN", "NaN", "NaN", "NaN", "NaN"]
-    for i in range(len(rawBetting)):
-        total = 0.0
-        num = 0
-        for j in range(len(rawBetting[i])):
-            if rawBetting[i][j] != "NaN":
-                total = total + rawBetting[i][j]
-                num = num + 1
-        if num != 0:
-            averages[i] = round(float(total/num), 3)
-    return averages
-
-    
 
 for season in seasons:
 
@@ -40,6 +26,7 @@ for season in seasons:
         for game in games:
             try:
                 gameID = int(game['\ufeff"Id"'])
+
                 date = str(game["Start Date"])[0:10]
                 week = int(game["Week"])
                 homeTeam = str(game["Home Team"])
@@ -60,34 +47,28 @@ for season in seasons:
                 awayPregameElo = floatData(game["Away Pregame Elo"])
                 awayPostgameElo = floatData(game["Away Postgame Elo"])
 
-                rawBetting = [[],[],[],[],[],[]]
 
-                
+
+                overUnder = "NaN"
+                spread = "NaN"
+                openingOverUnder = "NaN"
+                openingSpread = "NaN"
+                homeMoneyline = "NaN"
+                awayMoneyline = "NaN"
+
                 if season>=2013:
                     with open("cfbd/raw_data/lines/"+str(season)+"_lines.csv","r") as bets_file:
                         bets = csv.DictReader(bets_file)
-
-                        foundFirst = False
-                        foundAll = False
-                        incrementor = 0
-
                         for bet in bets:
-                            if int(bet['\ufeff"Id"']) == int(game['\ufeff"Id"']):
-                                rawBetting[0].append(floatData(bet["OverUnder"]))
-                                rawBetting[1].append(floatData(bet["Spread"]))
-                                rawBetting[2].append(floatData(bet["OpeningOverUnder"]))
-                                rawBetting[3].append(floatData(bet["OpeningSpread"]))
-                                rawBetting[4].append(floatData(bet["HomeMoneyline"]))
-                                rawBetting[5].append(floatData(bet["AwayMoneyline"]))
+                            if int(bet['\ufeff"Id"']) == int(game['\ufeff"Id"']) and bet["LineProvider"] == "William Hill (New Jersey)":
+                                overUnder = floatData(bet["OverUnder"])
+                                spread = floatData(bet["Spread"])
+                                openingOverUnder = floatData(bet["OpeningOverUnder"])
+                                openingSpread = floatData(bet["OpeningSpread"])
+                                homeMoneyline = floatData(bet["HomeMoneyline"])
+                                awayMoneyline = floatData(bet["AwayMoneyline"])
                 
                 
-                averageBets = getAverage(rawBetting)
-                overUnder = averageBets[0]
-                spread = averageBets[1]
-                openingOverUnder = averageBets[2]
-                openingSpread = averageBets[3]
-                homeMoneyline = averageBets[4]
-                awayMoneyline = averageBets[5]
 
                 game_data = [gameID, date, season, week, 
                             homeTeam, homeID, awayTeam, awayID,
