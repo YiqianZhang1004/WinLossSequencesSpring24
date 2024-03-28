@@ -1,26 +1,24 @@
 import adjustedEloAccuracyFunction
 import accuracyFunction
 import matplotlib.pyplot as plt
-import csv
 
 seasons = []
 elo_accuracy = []
 moneyline_accuracy = []
 adjusted_elo_accuracy = []
 closest_accuracy = []
+evenest_accuracy = []
 
-outList = [["method", "season", "accuracy", "total", "over", "under"]]
 
 for season in range(2007, 2024):
     seasons.append(season)
 
     adjusted_elo_rate = adjustedEloAccuracyFunction.getAccuracy([season], [], [], [], [], [],"","","","",73)
     closest_rate = adjustedEloAccuracyFunction.getAccuracy([season], [], [], [], [], [],"","","","",88)
+    evenest_rate = adjustedEloAccuracyFunction.getAccuracy([season], [],[],[],[],[], '','','','',43)
     elo_rate = accuracyFunction.getAccuracy("e", [season], [], [], [], [], [], "","","","")
     moneyline_rate = accuracyFunction.getAccuracy("m", [season], [], [], [], [], [], "","","","")
 
-    outList.append(["e", season] + list(adjusted_elo_rate))
-    outList.append(["m", season] + list(moneyline_rate))
 
     if elo_rate == (0, 0, 0, 0):
         elo_accuracy.append(None)
@@ -41,6 +39,11 @@ for season in range(2007, 2024):
         closest_accuracy.append(None)
     else:
         closest_accuracy.append(float(closest_rate[0]))
+
+    if evenest_rate == (0,0,0,0):
+        evenest_accuracy.append(None)
+    else:
+        evenest_accuracy.append(float(evenest_rate[0]))
     
         
 
@@ -48,6 +51,7 @@ plt.plot(seasons, elo_accuracy, color="blue", label = "Elo")
 plt.plot(seasons, moneyline_accuracy, color="green", label = "Moneyline")
 plt.plot(seasons, adjusted_elo_accuracy, color = "black", label = "Highest Avg (+73)")
 plt.plot(seasons, closest_accuracy, color = "purple", label = "Closest to ML (+88)")
+plt.plot(seasons, evenest_accuracy, color = 'darkorange', label = "Evenest (+43)")
 
 
 
@@ -59,9 +63,3 @@ plt.grid(True)
 
 plt.savefig('accuracy/visualizations/emAdjustedFull.png')
 plt.show()
-
-
-with open("accuracy/visualization_data/emAdjustedFull.csv", 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerows(outList)
-

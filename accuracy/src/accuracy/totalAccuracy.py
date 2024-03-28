@@ -26,7 +26,7 @@ colors = ['green', 'blue', 'red']
 plt.bar(categories, values, color=colors)
 
 plt.ylabel('Total Accuracy Rate')
-plt.title('Elo, Moneyline, and Poll Total Accuracy Rates of All Teams (2007 - 2019)')
+plt.title('Elo, Moneyline, and Poll Total Accuracy Rates of All Teams (2007 - 2024)')
 
 plt.ylim(50, 80)
 

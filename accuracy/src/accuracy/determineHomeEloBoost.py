@@ -53,7 +53,29 @@ for i in range(0, 500):
         maxBoost = i
 
 
+def getOverUnderDiff(boost):
+    seasons = list(range(2007, 2024))
+    e = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','', boost)
+    overPercentage = float(e[2])/float(e[1])
+    underPercentage = float(e[3])/float(e[1])
+
+    return abs(overPercentage - underPercentage)
+
+minDiff = getOverUnderDiff(500)
+mostEven = 500
+
+for i in range(0, 500):
+    diff = getOverUnderDiff(i)
+    if diff < minDiff:
+        minDiff = diff
+        mostEven = i
+
+
+# closest to ML
 print(minBoost)
+
+# highest accuracy
 print(maxBoost)
 
-
+# most even over under predictions
+print(mostEven)
