@@ -78,16 +78,19 @@ combinedpvals = []
 for i in range(len(df)):
     k = winsList[i]
     n = gamesList[i]
-    pval = binom.cdf(k=k,n=n,p=0.5)
-    if pval > 0.5:
-        pval = 1-pval
+    if (k < n/2):
+        pval = binom.cdf(k=k,n=n,p=0.5)
+    else:
+        pval = 1-binom.cdf(k=k-1,n=n,p=0.5)
     pvals.append(pval)
 for i in range(len(df2)):
     k = combinedWinsList[i]
     n = combinedGamesList[i]
-    pval = binom.cdf(k=k,n=n,p=0.5)
-    if pval > 0.5:
-        pval = 1-pval
+    pval = binom.cdf(k=k-1,n=n,p=0.5)
+    if (k < n/2):
+        pval = binom.cdf(k=k,n=n,p=0.5)
+    else:
+        pval = 1-binom.cdf(k=k-1,n=n,p=0.5)
     combinedpvals.append(pval)
 df.iloc[:,6] = pd.Series(pvals)
 df2.iloc[:,6] = pd.Series(combinedpvals)
