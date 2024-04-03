@@ -26,7 +26,7 @@ colors = ['green', 'blue', "navy", 'steelblue', 'royalblue', 'skyblue', 'cornflo
 plt.bar(categories, values, color=colors)
 
 plt.ylabel('Total Accuracy Rate')
-plt.title('Elo, ML, Adjusted Elo, Adjusted ML, and Poll Total Accuracy Rates (2007 - 2024)')
+plt.title('Elo, ML, Adjusted Elo, and Poll Total Accuracy Rates (2007 - 2024)')
 
 plt.ylim(60, 80)
 

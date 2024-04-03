@@ -14,18 +14,16 @@ with open("combined/processed/combinedF.csv", "r") as file:
             diff = abs(float(elo1) - float(elo2))
             eloDiffs.append(diff)
 
-            
-
 eloDiffs = sorted(eloDiffs)
 
 
 percentiles = [0]
 
 for i in range(1, 20):
-    index = int(i/200 *len(eloDiffs))
+    index = int(i/20 *len(eloDiffs))
     percentiles.append(eloDiffs[index])
 
-percentiles.append(eloDiffs[-1])
+percentiles.append(eloDiffs[-1] + 1)
 
 
 seasons = list(range(2007, 2024))
@@ -50,7 +48,7 @@ for i in range(0, len(percentiles)-1):
 plt.bar(binLabels, accuracies, color="blue")
 plt.xlabel('Buckets')
 plt.ylabel('Accuracy Rates')
-plt.title('Accuracy Rates Across Elo Difference Buckets (10% each)')
+plt.title('Accuracy Rates Across Elo Difference Buckets (5% each)')
 plt.xticks(rotation=45, ha='right')  
 plt.tight_layout() 
 
