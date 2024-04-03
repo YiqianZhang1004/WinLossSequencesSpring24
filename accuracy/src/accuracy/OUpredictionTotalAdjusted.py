@@ -44,12 +44,6 @@ plt.bar(categories, values, color=colors)
 plt.ylabel('Percentage of Games')
 plt.title('Elo, Adjusted Elo, ML, and Poll Over/Under (+/-) Predictions (2007 - 2024)')
 
-plt.savefig('accuracy/visualizations/OUempTotal.png')
+plt.savefig('accuracy/visualizations/OUempTotalAdjusted.png')
 
 plt.show()
-
-
-with open("accuracy/visualization_data/OUpredictionTotalAdjusted.csv", 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerows(outList)
-
