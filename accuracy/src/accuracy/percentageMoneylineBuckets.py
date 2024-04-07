@@ -28,7 +28,6 @@ with open("combined/processed/combinedF.csv", "r") as file:
 
 moneylineDiffs = sorted(moneylineDiffs)
 
-
 percentiles = [0]
 
 for i in range(1, 5):

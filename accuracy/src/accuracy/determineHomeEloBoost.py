@@ -1,7 +1,7 @@
 import adjustedEloAccuracyFunction
 import accuracyFunction
 
-def getDiff(boost):
+def diff(boost):
     moneyline_accuracy = []
     adjusted_elo_accuracy = []
     for season in range(2007, 2024):
@@ -24,36 +24,12 @@ def getDiff(boost):
     
     return totalDiff
 
+def acc(boost):
+    seasons = list(range(2007, 2024))
+    e = float(adjustedEloAccuracyFunction.getAccuracy(seasons, [], [], [], [], [],"","","","", boost)[0])
+    return e
 
-min = getDiff(500)
-minBoost = 500
-
-for i in range(0, 500):
-    diff = getDiff(i)
-    if diff < min:
-        min = diff
-        minBoost = i
-
-
-def getAverage(boost):
-    adjusted_elo_accuracy = []
-    for season in range(2007, 2024):
-        e = float(adjustedEloAccuracyFunction.getAccuracy([season], [], [], [], [], [],"","","","", boost)[0])
-        adjusted_elo_accuracy.append(e)
-
-    return sum(adjusted_elo_accuracy)/len(adjusted_elo_accuracy)
-
-max = 0
-maxBoost = 0
-
-for i in range(0, 500):
-    avg = getAverage(i)
-    if avg > max:
-        max = avg
-        maxBoost = i
-
-
-def getOverUnderDiff(boost):
+def overUnderPredictions(boost):
     seasons = list(range(2007, 2024))
     e = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','', boost)
     overPercentage = float(e[2])/float(e[1])
@@ -61,21 +37,28 @@ def getOverUnderDiff(boost):
 
     return abs(overPercentage - underPercentage)
 
-minDiff = getOverUnderDiff(500)
-mostEven = 500
+diffBoost = 100
+difference = diff(100)
+accBoost = 100
+accuracy = acc(100)
+ouBoost = 100
+oup = overUnderPredictions(100)
 
-for i in range(0, 500):
-    diff = getOverUnderDiff(i)
-    if diff < minDiff:
-        minDiff = diff
-        mostEven = i
+for boost in range(1, 100):
+    d = diff(boost)
+    if d < difference:
+        difference = d
+        diffBoost = boost
+    a = acc(boost)
+    if a > accuracy:
+        accuracy = a
+        accBoost = boost
+    ou = overUnderPredictions(boost)
+    if ou < oup:
+        oup = ou
+        ouBoost = boost
 
+print(diffBoost)
+print(accBoost)
+print(ouBoost)
 
-# closest to ML
-print(minBoost)
-
-# highest accuracy
-print(maxBoost)
-
-# most even over under predictions
-print(mostEven)

@@ -1,5 +1,6 @@
 import accuracyFunction
 import adjustedEloAccuracyFunction
+import adjustedMoneylineAccuracyFunction
 import matplotlib.pyplot as plt
 
 seasons = []
@@ -17,6 +18,11 @@ ae73Under = []
 ae88Over = []
 ae88Under = []
 
+am125Over = []
+am125Under = []
+am140Over = []
+am140Under = []
+
 top25 = list(range(1,26))
 
 for season in range(2007, 2024):
@@ -29,6 +35,9 @@ for season in range(2007, 2024):
     ae43 = adjustedEloAccuracyFunction.getAccuracy([season],[],[],[],[],[],'','','','',43)
     ae73 = adjustedEloAccuracyFunction.getAccuracy([season],[],[],[],[],[],'','','','',73)
     ae88 = adjustedEloAccuracyFunction.getAccuracy([season],[],[],[],[],[],'','','','',88)
+
+    am125 = adjustedMoneylineAccuracyFunction.getAccuracy([season],[],[],[],[],[],'','','','',-125)
+    am140 = adjustedMoneylineAccuracyFunction.getAccuracy([season],[],[],[],[],[],'','','','',-140)
 
     if elo_rate == (0, 0,0,0):
         eloOver.append(None)
@@ -73,6 +82,20 @@ for season in range(2007, 2024):
         ae88Over.append(float(ae88[2])/float(ae88[1]))
         ae88Under.append(float(ae88[3])/float(ae88[1]))
 
+    if am125 == (0, 0,0,0):
+        am125Over.append(None)
+        am125Under.append(None)
+    else:
+        am125Over.append(float(am125[2])/float(am125[1]))
+        am125Under.append(float(am125[3])/float(am125[1]))
+
+    if am140 == (0, 0,0,0):
+        am140Over.append(None)
+        am140Under.append(None)
+    else:
+        am140Over.append(float(am140[2])/float(am140[1]))
+        am140Under.append(float(am140[3])/float(am140[1]))
+
 
 
 plt.plot(seasons, eloOver, color="blue", label = "Elo+")
@@ -90,12 +113,17 @@ plt.plot(seasons, ae73Under, color = 'skyblue', label = 'AE73-')
 plt.plot(seasons, ae88Over, color = 'midnightblue', label = 'AE88+')
 plt.plot(seasons, ae88Under, color = 'cornflowerblue', label = 'AE88-')
 
+plt.plot(seasons, am125Over, color = 'forestgreen', label = 'AM125+')
+plt.plot(seasons, am125Under, color = 'seagreen', label = 'AM125-')
+plt.plot(seasons, am140Over, color = 'darkgreen', label = 'AM140+')
+plt.plot(seasons, am140Under, color = 'lightgreen', label = 'AM140-')
+
 
 plt.xlabel('Season')
 plt.ylabel('Percentage of Games')
-plt.title('Elo, Adjusted Elo, ML, and Poll Over/Under (+/-) Predictions Top 25 Teams (2007 - 2024)')
+plt.title('Elo, Adjusted Elo, ML, Adjusted ML, and Poll Over/Under (+/-) Predictions Top 25 Teams')
 plt.grid(True)
-plt.legend()
+plt.legend(loc = 'upper right')
 
 plt.savefig('accuracy/visualizations/OUemp25Adjusted.png')
 plt.show()

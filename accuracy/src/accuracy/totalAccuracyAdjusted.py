@@ -1,32 +1,31 @@
 import accuracyFunction
 import adjustedEloAccuracyFunction
+import adjustedMoneylineAccuracyFunction
 import matplotlib.pyplot as plt
 
 seasons = list(range(2007, 2024))
 
-e = accuracyFunction.getAccuracy("e", seasons, [],[], [], [], [], '','','','')
-m = accuracyFunction.getAccuracy("m", seasons, [],[], [], [], [], '','','','')
-p = accuracyFunction.getAccuracy("p", seasons, [],[], [], [], [], '','','','')
+e = accuracyFunction.getAccuracy("e", seasons, [],[], [], [], [], '','','','')[0]
+m = accuracyFunction.getAccuracy("m", seasons, [],[], [], [], [], '','','','')[0]
+p = accuracyFunction.getAccuracy("p", seasons, [],[], [], [], [], '','','','')[0]
 
-elo_accuracy = e[0]
-moneyline_accuracy = m[0]
-poll_accuracy = p[0]
 
-e25 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',25)[0]
 e43 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',43)[0]
 e73 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',73)[0]
 e88 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',88)[0]
-e150 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',150)[0]
+
+m125 = adjustedMoneylineAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',-125)[0]
+m140 = adjustedMoneylineAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',-140)[0]
 
 
-categories = ["ML","Elo", "AE25", "AE43", "AE73", "AE88", "AE150", "Poll"]
-values = [moneyline_accuracy, elo_accuracy, e25, e43, e73, e88, e150, poll_accuracy]
-colors = ['green', 'blue', "navy", 'steelblue', 'royalblue', 'skyblue', 'cornflowerblue','red']
+categories = ["ML", 'ML-125', 'ML-140',"Elo", "AE43", "AE73", "AE88", "Poll"]
+values = [m,m125, m140, e, e43, e73, e88, p]
+colors = ['green', 'lightgreen', 'seagreen', 'blue', "steelblue", 'royalblue', 'cornflowerblue','red']
 
 plt.bar(categories, values, color=colors)
 
 plt.ylabel('Total Accuracy Rate')
-plt.title('Elo, ML, Adjusted Elo, and Poll Total Accuracy Rates (2007 - 2024)')
+plt.title('ML, Adjusted ML, Elo, Adjusted Elo, and Poll Total Accuracy Rates')
 
 plt.ylim(60, 80)
 
