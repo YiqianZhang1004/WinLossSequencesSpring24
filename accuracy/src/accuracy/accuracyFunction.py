@@ -148,4 +148,4 @@ def getAccuracy(method,seasons,weeks, homeTeams, awayTeams, homeRanks, awayRanks
             return (accuracy, total, totalOver, totalUnder)
 
 
-getAccuracy("p",[],[],[],[],[],[],"","","","")
+getAccuracy("m",[],[],[],[],[],[],"","","","")
