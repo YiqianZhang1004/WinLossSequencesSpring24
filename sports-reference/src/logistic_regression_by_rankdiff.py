@@ -1,6 +1,6 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
+import matplotlib.pyplot as plt
 
 df = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
 
@@ -52,3 +52,15 @@ num_events = df["games"].to_list()
 # MAKE DATAFRAME
 table4 = pd.DataFrame({"rankdiff":numbers,"pred":pred,"act":act,"num_events":num_events})
 table4.to_csv("sports-reference/processed_data/table4.csv")
+
+#########################################
+# PLOT
+plt.plot(table4["rankdiff"].to_list(),table4["pred"].to_list(),color="gold",label="pred")
+plt.scatter(table4["rankdiff"].to_list(),table4["act"].to_list(),color="magenta",label="act")
+plt.xlabel("Rank Difference")
+plt.ylabel("Win Pct")
+plt.title("Logistic Regression Probabilistic Predictions by Rank Difference")
+plt.legend()
+plt.grid(True)
+plt.show()
+#plt.savefig("sports-reference/processed_data/table4.png")
