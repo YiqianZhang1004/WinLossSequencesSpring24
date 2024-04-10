@@ -15,14 +15,14 @@ e100 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','',
 e125 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',125)[0]
 
 
-categories = ["ML","Elo", 'AE25', 'AE50', 'AE73', 'AE100', 'AE125', "Poll"]
+categories = ["ML","Elo", 'AE25', 'AE50', 'AE73', 'AE100', 'AE125', "Rank"]
 values = [m,e, e25, e50, e73, e100, e125, p]
 colors = ['green','blue', 'lightblue', 'skyblue', 'steelblue','darkblue','navy', 'red']
 
 plt.bar(categories, values, color=colors)
 
 plt.ylabel('Total Accuracy Rate')
-plt.title('ML, Elo, Adjusted Elo, and Poll Total Accuracy Rates')
+plt.title('ML, Elo, Adjusted Elo, and Rank Total Accuracy Rates')
 
 plt.ylim(60, 80)
 
