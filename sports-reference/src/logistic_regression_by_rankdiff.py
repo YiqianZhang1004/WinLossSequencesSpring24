@@ -1,6 +1,6 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
+import matplotlib.pyplot as plt
 
 df = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
 
@@ -25,13 +25,14 @@ def ignorelocation(df):
     return pd.DataFrame({"rankdiff":rankdiff2,"result":result2})
 
 df2 = ignorelocation(df)
+df2 = df2[df2.rankdiff <= 20]
 X = pd.DataFrame(df2["rankdiff"])
 y = df2["result"]
 
 ###########################################
 # PREDICTED WIN PCT USING LOGISTIC REGRESSION
 log_reg = LogisticRegression(random_state=0,fit_intercept=True).fit(X,y)
-numbers = list(range(1,25))
+numbers = list(range(1,21))
 pred = [sublist[1] for sublist in log_reg.predict_proba(pd.DataFrame(numbers)).tolist()]
 print(pred)
 
@@ -52,3 +53,15 @@ num_events = df["games"].to_list()
 # MAKE DATAFRAME
 table4 = pd.DataFrame({"rankdiff":numbers,"pred":pred,"act":act,"num_events":num_events})
 table4.to_csv("sports-reference/processed_data/table4.csv")
+
+#########################################
+# PLOT
+plt.plot(table4["rankdiff"].to_list(),table4["pred"].to_list(),color="gold",label="pred")
+plt.scatter(table4["rankdiff"].to_list(),table4["act"].to_list(),color="magenta",label="act")
+plt.xlabel("Rank Difference")
+plt.ylabel("Win Pct")
+plt.title("Logistic Regression Probabilistic Predictions by Rank Difference")
+plt.legend()
+plt.grid(True)
+plt.show()
+plt.savefig("sports-reference/processed_data/table4.png")
