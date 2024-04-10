@@ -15,7 +15,7 @@ for i in range(1, 11):
     labels.append(label)
     result = accuracyFunctionPositiveMoneylines.getAccuracy(seasons, lower, upper)
     accuracies.append(result[0])
-    expected.append(100 * 100/(label+100))
+    expected.append(1 - (100 * 100/(label+100)))
 
 
 plt.plot(labels, accuracies, color='green', label='Actual Accuracy')
