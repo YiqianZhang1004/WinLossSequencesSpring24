@@ -25,13 +25,14 @@ def ignorelocation(df):
     return pd.DataFrame({"rankdiff":rankdiff2,"result":result2})
 
 df2 = ignorelocation(df)
+df2 = df2[df2.rankdiff <= 20]
 X = pd.DataFrame(df2["rankdiff"])
 y = df2["result"]
 
 ###########################################
 # PREDICTED WIN PCT USING LOGISTIC REGRESSION
 log_reg = LogisticRegression(random_state=0,fit_intercept=True).fit(X,y)
-numbers = list(range(1,25))
+numbers = list(range(1,21))
 pred = [sublist[1] for sublist in log_reg.predict_proba(pd.DataFrame(numbers)).tolist()]
 print(pred)
 
