@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
+import numpy as np
 
 df = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
 
@@ -61,7 +62,7 @@ plt.scatter(table4["rankdiff"].to_list(),table4["act"].to_list(),color="magenta"
 plt.xlabel("Rank Difference")
 plt.ylabel("Win Pct")
 plt.title("Logistic Regression Probabilistic Predictions by Rank Difference")
+plt.xticks(np.arange(1, 21), [str(i) for i in range(1, 21)])
 plt.legend()
-plt.grid(True)
 plt.show()
 plt.savefig("sports-reference/processed_data/table4.png")
