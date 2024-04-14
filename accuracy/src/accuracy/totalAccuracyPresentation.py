@@ -26,7 +26,7 @@ plt.title('ML, Elo, Adjusted Elo, and Rank Total Accuracy Rates')
 
 plt.ylim(60, 80)
 
-plt.savefig('accuracy/visualizations/display/totalWithAdjustedDisplay.png')
+plt.savefig('accuracy/visualizations/presentation/totalWithAdjustedPresentation.png')
 
 plt.show()
 

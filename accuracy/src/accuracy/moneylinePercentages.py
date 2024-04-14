@@ -26,7 +26,7 @@ plt.ylabel("Accuracy Percentage")
 plt.title("Expected Moneyline Win Percentage vs Actual Accuracy Rate")
 plt.legend()
 plt.savefig('accuracy/visualizations/moneylinePercentages.png')
-plt.savefig('accuracy/visualizations/display/moneylinePercentagesDisplay.png')
+plt.savefig('accuracy/visualizations/presentation/moneylinePercentagesPresentation.png')
 
 plt.show()
 

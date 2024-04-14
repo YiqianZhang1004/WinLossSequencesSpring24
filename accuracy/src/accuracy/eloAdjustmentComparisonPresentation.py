@@ -18,5 +18,5 @@ plt.xlabel("Home Adjustment")
 plt.ylabel("Accuracy")
 plt.title("Accuracies of Different Home Team Adjustments")
 
-plt.savefig("accuracy/visualizations/display/eloAdjustmentComparisonDisplay.png")
+plt.savefig("accuracy/visualizations/presentation/eloAdjustmentComparisonPresentation.png")
 plt.show()

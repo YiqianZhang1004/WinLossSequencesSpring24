@@ -51,7 +51,7 @@ equation_text = f'y = {slope:.2f}x + {intercept:.2f}'
 plt.annotate(equation_text, xy=(labels[0], accuracies[0]), xytext=(labels[0]+0.5, max(accuracies)), verticalalignment='top')
 
 plt.savefig('accuracy/visualizations/moneylineRegression.png')
-plt.savefig('accuracy/visualizations/display/moneylineRegressionDisplay.png')
+plt.savefig('accuracy/visualizations/presentation/moneylineRegressionPresentation.png')
 
 
 plt.show()

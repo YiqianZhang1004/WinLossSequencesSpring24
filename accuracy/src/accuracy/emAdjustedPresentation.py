@@ -43,8 +43,8 @@ for season in range(2007, 2024):
 
 plt.plot(seasons, elo_accuracy, color="blue", label = "Elo")
 plt.plot(seasons, moneyline_accuracy, color="green", label = "Moneyline")
-plt.plot(seasons, adjusted_elo_accuracy, color = "black", label = "Highest Avg (+73)")
-plt.plot(seasons, adjusted_m, color = "purple", label = "Highest Avg (-125)")
+plt.plot(seasons, adjusted_elo_accuracy, color = "black", label = "Adjusted Elo (+73)")
+plt.plot(seasons, adjusted_m, color = "purple", label = "Adjusted ML (-125)")
 
 plt.xlabel('Season')
 plt.ylabel('Accuracy')
@@ -52,5 +52,5 @@ plt.title('Elo, Adjusted Elo, ML, and Adjusted ML Accuracy of All Teams')
 plt.legend()
 plt.grid(True)
 
-plt.savefig('accuracy/visualizations/display/emAdjustedDisplay.png')
+plt.savefig('accuracy/visualizations/presentation/emAdjustedPresentation.png')
 plt.show()

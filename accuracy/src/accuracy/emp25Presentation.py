@@ -50,6 +50,6 @@ plt.title('Elo, Moneyline, and Rank Accuracy of Top 25 Teams (2007 - 2019)')
 plt.legend()
 plt.grid(True)
 
-plt.savefig('accuracy/visualizations/display/emp25Display.png')
+plt.savefig('accuracy/visualizations/presentation/emp25Presentation.png')
 plt.show()
 

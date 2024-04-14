@@ -18,14 +18,14 @@ m125 = adjustedMoneylineAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'',
 m140 = adjustedMoneylineAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',-140)[0]
 
 
-categories = ["ML", 'ML-125', 'ML-140',"Elo", "AE43", "AE73", "AE88", "Poll"]
+categories = ["ML", 'ML-125', 'ML-140',"Elo", "AE43", "AE73", "AE88", "Rank"]
 values = [m,m125, m140, e, e43, e73, e88, p]
 colors = ['green', 'lightgreen', 'seagreen', 'blue', "steelblue", 'royalblue', 'cornflowerblue','red']
 
 plt.bar(categories, values, color=colors)
 
 plt.ylabel('Total Accuracy Rate')
-plt.title('ML, Adjusted ML, Elo, Adjusted Elo, and Poll Total Accuracy Rates')
+plt.title('ML, Adjusted ML, Elo, Adjusted Elo, and Rank Total Accuracy Rates')
 
 plt.ylim(60, 80)
 
