@@ -15,15 +15,15 @@ for i in range(1, 11):
     labels.append(label)
     result = accuracyFunctionPositiveMoneylines.getAccuracy(seasons, lower, upper)
     accuracies.append(result[0])
-    expected.append(100 - (100 * 100/(label+100)))
+    expected.append(100 * 100/(label+100))
 
 
-plt.plot(labels, accuracies, color='green', label='Actual Accuracy')
-plt.plot(labels, expected, color='red', label='Expected Win Percentage')
+plt.plot(labels, accuracies, color='green', label='Actual Win Rate')
+plt.plot(labels, expected, color='red', label='Expected Win Rate')
 
 plt.xlabel("Positive Moneyline Score")
-plt.ylabel("Accuracy Percentage")
-plt.title("Expected Moneyline Win Percentage vs Actual Accuracy Rate")
+plt.ylabel("Win Rate")
+plt.title("Expected vs Actual Win Rate of Positive Moneyline Teams")
 plt.legend()
 plt.savefig('accuracy/visualizations/moneylinePercentages.png')
 plt.savefig('accuracy/visualizations/presentation/moneylinePercentagesPresentation.png')

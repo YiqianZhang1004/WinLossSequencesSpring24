@@ -54,10 +54,12 @@ def performChecks(season, seasons,
     return contain and moneyline and notNull
 
 
-def getPrediction(homeMoneyline, awayMoneyline):
-    if homeMoneyline == "NaN":
-        return float(awayMoneyline) > 0
-    return float(homeMoneyline) < 0
+def getPrediction(homeMoneyline):
+    if float(homeMoneyline) > 0:
+        return 1
+    else:
+        return 0
+    
     
 
 
@@ -67,8 +69,7 @@ def getAccuracy(seasons, minMoneyline, maxMoneyline):
 
         predicted = 0
         total = 0
-        totalOver = 0
-        totalUnder = 0
+
 
         for game in games:
             season = int(game["season"])
@@ -81,23 +82,18 @@ def getAccuracy(seasons, minMoneyline, maxMoneyline):
                              minMoneyline, maxMoneyline, homeMoneyline, awayMoneyline):
                 total = total + 1
 
-                prediction = getPrediction(homeMoneyline, awayMoneyline)
+                prediction = getPrediction(homeMoneyline)
                 result = float(game["result"])
-                if (prediction and result == 1) or (not prediction and result == 0):
-                    predicted = predicted + 1            
-
-                else:
-                    if prediction:
-                        totalOver = totalOver + 1
-                    else:
-                        totalUnder = totalUnder + 1
+                if prediction == result:
+                    predicted =predicted + 1 
+                
         if total == 0:
             print("no games")
-            return (0,0, 0, 0)
+            return (0,0)
         else:
             accuracy = round(100* predicted / total, 4)
-            print((accuracy, total, totalOver, totalUnder))
-            return (accuracy, total, totalOver, totalUnder)
+            print((accuracy, total))
+            return (accuracy, total)
 
 
 getAccuracy([],"","")
