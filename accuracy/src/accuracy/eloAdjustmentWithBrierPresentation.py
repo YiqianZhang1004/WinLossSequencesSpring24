@@ -23,18 +23,16 @@ fig, ax1 = plt.subplots()
 color = 'tab:blue'
 ax1.set_xlabel('Home Adjustment')
 ax1.set_ylabel('Accuracy', color=color)
-ax1.plot(labels, accuracies, color=color)
+ax1.plot(labels, accuracies, color=color, marker='o', label='Accuracy')
 ax1.tick_params(axis='y', labelcolor=color)
 
 ax2 = ax1.twinx()  
 color = 'tab:red'
 ax2.set_ylabel('Brier Score', color=color)  
-ax2.plot(labels, brier_scores, color=color)
+ax2.plot(labels, brier_scores, color=color, marker='s', label='Brier Score')
 ax2.tick_params(axis='y', labelcolor=color)
 
 fig.tight_layout()  
 plt.title("Accuracies and Brier Scores of Different Home Team Adjustments")
-
-plt.savefig("accuracy/visualizations/presentation/eloAdjustmentWithBrierPresentation.png")
+plt.legend(loc='upper left')
 plt.show()
-
