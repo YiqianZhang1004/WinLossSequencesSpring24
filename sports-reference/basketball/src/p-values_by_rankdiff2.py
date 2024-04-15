@@ -1,11 +1,16 @@
 import pandas as pd
 from scipy.stats import binom
+import math
 
-data = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
+data = pd.read_csv("sports-reference/basketball/raw_data/matchup_selector.csv")
 
 #######################################
 # Group everything by rank difference
 data["RankDiff"] = data["AwayRank"] - data["HomeRank"]
+RankDiff = data["RankDiff"].to_list()
+def div(x):
+    return math.ceil(x/2)
+data["RankDiff"] = pd.Series(map(div,RankDiff))
 wins = data.groupby("RankDiff").agg("sum").reset_index()
 games = data.groupby("RankDiff").agg("count").reset_index()
 wins["wins"] = wins["Result"]
@@ -30,6 +35,10 @@ for i in range(len(df)):
     pvals.append(pval)
 df.iloc[:,4] = pd.Series(pvals)
 
+RankDiff2 = df["RankDiff"].to_list()
+def undiv(x):
+    return str(x*2-1) + "-" + str(x*2)
+df["Real RankDiff"] = pd.Series(map(undiv,RankDiff2))
 
 
-df.to_csv("sports-reference/processed_data/p-values_by_rankdiff.csv")
+df.to_csv("sports-reference/basketball/processed_data/p-values_by_rankdiff2.csv")

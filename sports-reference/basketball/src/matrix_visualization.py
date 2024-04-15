@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
+df = pd.read_csv("sports-reference/basketball/raw_data/matchup_selector.csv")
 data = []
 for i in range(1,14):
     dftemp = df[(df.AwayRank == 2*i-1) | (df.AwayRank == 2*i)]
@@ -13,4 +13,4 @@ for i in range(1,14):
         iwinpct.append(winPct)
     data.append(iwinpct)
 df2 = pd.DataFrame(data)
-df2.to_csv("sports-reference/processed_data/matrix_visualization.csv")
+df2.to_csv("sports-reference/basketball/processed_data/matrix_visualization.csv")

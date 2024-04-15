@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 
-df = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
+df = pd.read_csv("sports-reference/basketball/raw_data/matchup_selector.csv")
 
 yearstrs = df["Year"].to_list()
 yearints = []
@@ -57,4 +57,4 @@ for i in range(1949,2024):
                                "Baserate Brier Scores":brier(baserate,present)})
     
 recursive_accuracy_df = pd.DataFrame(recursive_accuracy)
-recursive_accuracy_df.to_csv("sports-reference/processed_data/recursive_probit_brier_scores.csv")
+recursive_accuracy_df.to_csv("sports-reference/basketball/processed_data/recursive_probit_brier_scores.csv")

@@ -2,7 +2,7 @@ import pandas as pd
 from scipy.stats import binom
 import math
 
-data = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
+data = pd.read_csv("sports-reference/basketball/raw_data/matchup_selector.csv")
 
 #MAKE MATCHUP PAIRS
 homeRanks = data["HomeRank"].to_list()
@@ -105,5 +105,5 @@ df2.iloc[:,4] = pd.Series(realHomeLabels)
 df2.iloc[:,5] = pd.Series(realAwayLabels)
 
 
-df.to_csv("sports-reference/processed_data/p-values.csv")
-df2.to_csv("sports-reference/processed_data/combined-p-values.csv")
+df.to_csv("sports-reference/basketball/processed_data/p-values.csv")
+df2.to_csv("sports-reference/basketball/processed_data/combined-p-values.csv")

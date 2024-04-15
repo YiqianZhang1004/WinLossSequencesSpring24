@@ -36,4 +36,4 @@ for i in range(1,26):
         except:
             continue
 df = pd.DataFrame(data)
-df.to_csv("sports-reference/raw_data/matchup_selector.csv")
+df.to_csv("sports-reference/basketball/raw_data/matchup_selector.csv")

@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 
-df = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
+df = pd.read_csv("sports-reference/basketball/raw_data/matchup_selector.csv")
 
 #########################
 # BRIER
@@ -40,7 +40,7 @@ act = df2["WinPct"].to_list()
 # BOOST HOME RANK AND FIND BRIER SCORE
 brierscores = []
 for i in range(14):
-    dftemp = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
+    dftemp = pd.read_csv("sports-reference/basketball/raw_data/matchup_selector.csv")
     dftemp["HomeRank"] = dftemp["HomeRank"] - i
     dftemp["rankdiff"] = dftemp["AwayRank"] - dftemp["HomeRank"]
     X = pd.DataFrame(dftemp["rankdiff"])

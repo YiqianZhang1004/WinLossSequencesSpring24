@@ -2,8 +2,9 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
 import numpy as np
+import math
 
-df = pd.read_csv("sports-reference/raw_data/matchup_selector.csv")
+df = pd.read_csv("sports-reference/basketball/raw_data/matchup_selector.csv")
 
 def ignorelocation(df):
     df["rankdiff"] = df["AwayRank"] - df["HomeRank"]
@@ -37,6 +38,15 @@ numbers = list(range(1,21))
 pred = [sublist[1] for sublist in log_reg.predict_proba(pd.DataFrame(numbers)).tolist()]
 print(pred)
 
+# CURVE
+print(log_reg.coef_)
+print(log_reg.intercept_)
+x = np.linspace(0,20,100)
+
+def equation(number):
+    return 1/(1+math.exp(-0.04863526*number+0.01395222))
+y = [equation(number) for number in x]
+
 #############################################
 # ACTUAL WIN PCT BY RANK DIFF
 wins = df2.groupby("rankdiff").agg("sum").reset_index()
@@ -53,16 +63,15 @@ num_events = df["games"].to_list()
 ############################################
 # MAKE DATAFRAME
 table4 = pd.DataFrame({"rankdiff":numbers,"pred":pred,"act":act,"num_events":num_events})
-table4.to_csv("sports-reference/processed_data/table4.csv")
+table4.to_csv("sports-reference/basketball/processed_data/table4.csv")
 
 #########################################
 # PLOT
-plt.plot(table4["rankdiff"].to_list(),table4["pred"].to_list(),color="gold",label="pred")
-plt.scatter(table4["rankdiff"].to_list(),table4["act"].to_list(),color="magenta",label="act")
-plt.xlabel("Rank Difference")
+#plt.plot(table4["rankdiff"].to_list(),table4["pred"].to_list(),color="red",label="pred")
+plt.plot(x,y,color="dodgerblue",label="pred")
+plt.scatter(table4["rankdiff"].to_list(),table4["act"].to_list(),color="orange",label="act")
+plt.xlabel("Difference in Poll Ranking")
 plt.ylabel("Win Pct")
-plt.title("Logistic Regression Probabilistic Predictions by Rank Difference")
-plt.xticks(np.arange(1, 21), [str(i) for i in range(1, 21)])
+plt.xticks([0,4,8,12,16,20])
 plt.legend()
 plt.show()
-plt.savefig("sports-reference/processed_data/table4.png")
