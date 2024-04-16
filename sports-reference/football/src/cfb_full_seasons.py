@@ -33,4 +33,4 @@ for i in range(1872,2024):
         print("except")
         continue
 df = pd.DataFrame(data)
-df.to_csv("sports-reference/basketball/raw_data/cfb_seasons.csv")
+df.to_csv("sports-reference/football/raw_data/cfb_seasons.csv")
