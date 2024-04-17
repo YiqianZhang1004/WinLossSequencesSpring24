@@ -40,13 +40,13 @@ for season in range(2007, 2019):
     else:
         poll_accuracy.append(float(poll_rate[0]))
 
-plt.plot(seasons, elo_accuracy, color="blue", label = "Elo")
-plt.plot(seasons, moneyline_accuracy, color="green", label = "Moneyline")
-plt.plot(seasons, poll_accuracy, color="red", label = "Rank")
+plt.plot(seasons, moneyline_accuracy, color="green", label = "Betting Market")
+plt.plot(seasons, poll_accuracy, color="red", label = "Poll Ranking")
+plt.plot(seasons, elo_accuracy, color="blue", label = "Elo Rating")
+
 
 plt.xlabel('Season')
 plt.ylabel('Accuracy')
-plt.title('Elo, Moneyline, and Rank Accuracy of Top 25 Teams (2007 - 2019)')
 plt.legend()
 plt.grid(True)
 

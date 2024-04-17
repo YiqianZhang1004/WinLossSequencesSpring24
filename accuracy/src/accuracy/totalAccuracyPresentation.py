@@ -14,20 +14,19 @@ e73 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','
 e100 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',100)[0]
 e125 = adjustedEloAccuracyFunction.getAccuracy(seasons, [],[],[],[],[],'','','','',125)[0]
 
-
-categories = ["ML","Elo", 'AE25', 'AE50', 'AE73', 'AE100', 'AE125', "Rank"]
-values = [m,e, e25, e50, e73, e100, e125, p]
-colors = ['green','blue', 'lightblue', 'skyblue', 'steelblue','darkblue','navy', 'red']
+categories = ["Betting Market", "Poll Ranking", "Elo Rating", 'Adjusted Elo Rating (+25)', 'Adjusted Elo Rating (+50)', 'Adjusted Elo Rating (+73)', 'Adjusted Elo Rating (+100)', 'Adjusted Elo Rating (+125)']
+values = [m, p,e, e25, e50, e73, e100, e125]
+colors = ['green', 'red', 'blue', 'lightblue', 'skyblue', 'steelblue','darkblue','navy']
 
 plt.bar(categories, values, color=colors)
 
-plt.ylabel('Total Accuracy Rate')
-plt.title('ML, Elo, Adjusted Elo, and Rank Total Accuracy Rates')
+plt.ylabel('Total Accuracy Rate (%)')
 
 plt.ylim(60, 80)
+
+# Rotating x-labels by 45 degrees
+plt.xticks(rotation=45)
 
 plt.savefig('accuracy/visualizations/presentation/totalWithAdjustedPresentation.png')
 
 plt.show()
-
-

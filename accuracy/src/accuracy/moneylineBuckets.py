@@ -41,8 +41,7 @@ plt.close()
 labels = [200,300,400,500,600,700,800,900,1000]
 plt.scatter(labels, accuracies)
 plt.xlabel("Bucket Thresholds")
-plt.ylabel("Accuracy Rate")
-plt.title("Accuracy Rates Across Moneyline Difference Buckets")
+plt.ylabel("Accuracy Rate (%)")
 
 slope, intercept = np.polyfit(labels, accuracies, 1)
 plt.plot(labels, np.polyval([slope, intercept], labels), color='red', label='Linear Regression')

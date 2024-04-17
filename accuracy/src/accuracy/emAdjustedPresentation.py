@@ -40,15 +40,13 @@ for season in range(2007, 2024):
         adjusted_m.append(float(adjusted_m_rate[0]))
 
         
-
-plt.plot(seasons, elo_accuracy, color="blue", label = "Elo")
-plt.plot(seasons, moneyline_accuracy, color="green", label = "Moneyline")
-plt.plot(seasons, adjusted_elo_accuracy, color = "black", label = "Adjusted Elo (+73)")
-plt.plot(seasons, adjusted_m, color = "purple", label = "Adjusted ML (-125)")
+plt.plot(seasons, moneyline_accuracy, color="green", label = "Betting Market")
+plt.plot(seasons, elo_accuracy, color="blue", label = "Elo Rating")
+plt.plot(seasons, adjusted_m, color = "purple", label = "Adjusted Betting Market (-125)")
+plt.plot(seasons, adjusted_elo_accuracy, color = "black", label = "Adjusted Elo Rating (+73)")
 
 plt.xlabel('Season')
 plt.ylabel('Accuracy')
-plt.title('Elo, Adjusted Elo, ML, and Adjusted ML Accuracy of All Teams')
 plt.legend()
 plt.grid(True)
 

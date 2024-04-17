@@ -33,6 +33,7 @@ ax2.plot(labels, brier_scores, color=color, marker='s', label='Brier Score')
 ax2.tick_params(axis='y', labelcolor=color)
 
 fig.tight_layout()  
-plt.title("Accuracies and Brier Scores of Different Home Team Adjustments")
 plt.legend(loc='upper left')
+
+plt.savefig("accuracy/visualizations/presentation/eloAdjustmentWithBrierPresentation.png")
 plt.show()
