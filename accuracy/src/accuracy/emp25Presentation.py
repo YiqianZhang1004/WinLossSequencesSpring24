@@ -46,7 +46,7 @@ plt.plot(seasons, elo_accuracy, color="blue", label = "Elo Rating")
 
 
 plt.xlabel('Season')
-plt.ylabel('Accuracy')
+plt.ylabel('Percentage of Correct Predictions')
 plt.legend()
 plt.grid(True)
 

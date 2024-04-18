@@ -24,7 +24,6 @@ plt.ylabel('Total Accuracy Rate (%)')
 
 plt.ylim(60, 80)
 
-# Rotating x-labels by 45 degrees
 plt.xticks(rotation=45)
 
 plt.savefig('accuracy/visualizations/presentation/totalWithAdjustedPresentation.png')

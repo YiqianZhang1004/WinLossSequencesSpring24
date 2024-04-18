@@ -32,7 +32,7 @@ for attribute, measurement in data.items():
     rects = ax.bar(x + offset, measurement, width, label=attribute, color=colors[attribute])
     multiplier += 1
 
-ax.set_ylabel('Accuracy (%)')
+ax.set_ylabel('Percentage of Correct Predictions')
 
 red_bar_center_football = x[0] + width
 red_bar_center_basketball = x[1] + width

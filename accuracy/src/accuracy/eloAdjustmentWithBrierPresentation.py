@@ -18,7 +18,7 @@ brier_scores = [
     0.19382268249617998, 0.19601076642426465
 ]
 
-fig, ax1 = plt.subplots()
+fig, ax1 = plt.subplots(figsize=(8, 4))  # Adjust the figure size as needed
 
 color = 'tab:blue'
 ax1.set_xlabel('Home Adjustment')
