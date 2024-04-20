@@ -5,12 +5,14 @@ import basketball_accuracy_function
 
 top25 = list(range(1, 26))
 
-football_e = accuracyFunction.getAccuracy("e", [], [],[], [], top25, top25,"","","","")[0]
-football_m = accuracyFunction.getAccuracy("m", [], [],[], [], top25, top25, "","","","")[0]
-football_p = accuracyFunction.getAccuracy("p", [], [],[], [], top25, top25, "","","","")[0]
+seasons = list(range(2007, 2019))
 
-basketball_m = basketball_accuracy_function.getAccuracy("m",[],top25, top25,'','')[0]
-basketball_p = basketball_accuracy_function.getAccuracy("p", [], top25, top25, '','')[0]
+football_e = accuracyFunction.getAccuracy("e", seasons, [],[], [], top25, top25,"","","","")[0]
+football_m = accuracyFunction.getAccuracy("m", seasons, [],[], [], top25, top25, "","","","")[0]
+football_p = accuracyFunction.getAccuracy("p", seasons, [],[], [], top25, top25, "","","","")[0]
+
+basketball_m = basketball_accuracy_function.getAccuracy("m",seasons,top25, top25,'','')[0]
+basketball_p = basketball_accuracy_function.getAccuracy("p", seasons, top25, top25, '','')[0]
 
 sports = ("Football", "Basketball")
 data = {
