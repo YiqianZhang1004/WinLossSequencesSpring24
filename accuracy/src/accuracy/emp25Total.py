@@ -4,7 +4,6 @@ import numpy as np
 import basketball_accuracy_function
 
 top25 = list(range(1, 26))
-
 seasons = list(range(2007, 2019))
 
 football_e = accuracyFunction.getAccuracy("e", seasons, [],[], [], top25, top25,"","","","")[0]
@@ -25,7 +24,7 @@ x = np.arange(len(sports))
 width = 0.25  
 multiplier = 0
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(20,10))
 
 colors = {'Betting Market': 'green', 'Poll Ranking': 'red', 'Elo Rating': 'blue'}
 
@@ -34,18 +33,16 @@ for attribute, measurement in data.items():
     rects = ax.bar(x + offset, measurement, width, label=attribute, color=colors[attribute])
     multiplier += 1
 
-ax.set_ylabel('Percentage of Correct Predictions')
+ax.set_ylabel('Percentage of Correct Predictions', fontsize=30)
 
 red_bar_center_football = x[0] + width
 red_bar_center_basketball = x[1] + width
 
 ax.set_xticks([red_bar_center_football, red_bar_center_basketball]) 
-ax.set_xticklabels(sports)
-ax.legend(loc='upper left', ncol=3)
+ax.set_xticklabels(sports, fontsize=40)
+ax.legend(loc='upper left', ncol=3, fontsize=33)
 ax.set_ylim(50, 75)
-
-ax.tick_params(axis='x', which='major', pad=15)
-
+ax.tick_params(axis='x', which='major', labelsize=55, pad=15)
 
 plt.savefig("accuracy/visualizations/presentation/emp25TotalPresentation.png")
 plt.show()

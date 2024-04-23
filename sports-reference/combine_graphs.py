@@ -16,12 +16,15 @@ def cfbcurve(number):
     return 1/(1+math.exp(-0.06235689*number-0.06171751))
 y_cfb = [cfbcurve(number) for number in x]
 
-plt.scatter(cfb["rankdiff"].to_list(),cfb["act"].to_list(),color="red",label="Actual Win Probability (Football)")
-plt.plot(x,y_cfb,color="red",label="Probit Regression Line (Football)")
-plt.scatter(cbb["rankdiff"].to_list(),cbb["act"].to_list(),color="blue",label="Actual Win Probability (Basketball)")
-plt.plot(x,y_cbb,color="blue",label="Probit Regression Line (Basketball)")
-plt.xlabel("Difference in Poll Ranking")
-plt.ylabel("Win Probability")
+plt.figure(figsize=(16,8))
+
+plt.scatter(cfb["rankdiff"].to_list(),cfb["act"].to_list(),color="red",label="Actual Win Probability (Football)", s=100)
+plt.plot(x,y_cfb,color="red",label="Probit Regression Line (Football)", linewidth=5)
+plt.scatter(cbb["rankdiff"].to_list(),cbb["act"].to_list(),color="blue",label="Actual Win Probability (Basketball)",s=100)
+plt.plot(x,y_cbb,color="blue",label="Probit Regression Line (Basketball)", linewidth=5)
+plt.xlabel("Difference in Poll Ranking", fontsize=40)
+plt.ylabel("Win Probability", fontsize=40)
 plt.xticks([0,4,8,12,16,20])
-plt.legend()
+plt.legend(fontsize=20, loc='lower right')
+plt.savefig("sports-reference/combinedGraph.png")
 plt.show()

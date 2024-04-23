@@ -40,16 +40,18 @@ for season in range(2007, 2019):
     else:
         poll_accuracy.append(float(poll_rate[0]))
 
-plt.plot(seasons, moneyline_accuracy, color="green", label = "Betting Market")
-plt.plot(seasons, poll_accuracy, color="red", label = "Poll Ranking")
-plt.plot(seasons, elo_accuracy, color="blue", label = "Elo Rating")
+plt.figure(figsize=(20, 10))
 
 
-plt.xlabel('Season')
-plt.ylabel('Percentage of Correct Predictions')
-plt.legend()
+plt.plot(seasons, moneyline_accuracy, color="green", label = "Betting Market", linewidth=5)
+plt.plot(seasons, poll_accuracy, color="red", label = "Poll Ranking", linewidth=5)
+plt.plot(seasons, elo_accuracy, color="blue", label = "Elo Rating", linewidth=5)
+
+
+plt.xlabel('Season', fontsize=40)
+plt.ylabel('Percentage of Correct Predictions', fontsize=30)
+plt.legend(fontsize=25,loc='upper left')
 plt.grid(True)
-
 plt.savefig('accuracy/visualizations/presentation/emp25Presentation.png')
 plt.show()
 
