@@ -26,7 +26,7 @@ plt.scatter(cfb["rankdiff"].to_list(),cfb["act"].to_list(),color="red",label="Ac
 plt.plot(x,y_cfb,color="red",label="Probit Regression Line (Football)", linewidth=5)
 plt.scatter(cbb["rankdiff"].to_list(),cbb["act"].to_list(),color="blue",label="Actual Win Probability (Basketball)",s=100)
 plt.plot(x,y_cbb,color="blue",label="Probit Regression Line (Basketball)", linewidth=5)
-plt.plot(x,y_coinflip,color="black",linewidth=4)
+plt.plot(x,y_coinflip,color="black",label="0.5 Probability (Coin Flip Model)",linewidth=4)
 plt.xlabel("Difference in Poll Ranking", fontsize=40)
 plt.ylabel("Win Probability", fontsize=40)
 plt.xticks([0,4,8,12,16,20])
