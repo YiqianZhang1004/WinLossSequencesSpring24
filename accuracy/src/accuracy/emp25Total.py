@@ -33,7 +33,7 @@ for attribute, measurement in data.items():
     rects = ax.bar(x + offset, measurement, width, label=attribute, color=colors[attribute])
     multiplier += 1
 
-ax.set_ylabel('Percentage of Correct Predictions', fontsize=30)
+ax.set_ylabel('Percentage of Correct Predictions', fontsize=33)
 
 red_bar_center_football = x[0] + width
 red_bar_center_basketball = x[1] + width
@@ -43,6 +43,8 @@ ax.set_xticklabels(sports, fontsize=40)
 ax.legend(loc='upper left', ncol=3, fontsize=33)
 ax.set_ylim(50, 75)
 ax.tick_params(axis='x', which='major', labelsize=55, pad=15)
+ax.tick_params(axis='y', which='major', labelsize=30, pad=15)
+
 
 plt.savefig("accuracy/visualizations/presentation/emp25TotalPresentation.png")
 plt.show()

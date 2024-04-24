@@ -50,6 +50,7 @@ plt.plot(seasons, elo_accuracy, color="blue", label = "Elo Rating", linewidth=5)
 
 plt.xlabel('Season', fontsize=40)
 plt.ylabel('Percentage of Correct Predictions', fontsize=30)
+plt.yticks(fontsize=30)
 plt.legend(fontsize=25,loc='upper left')
 plt.grid(True)
 plt.savefig('accuracy/visualizations/presentation/emp25Presentation.png')
