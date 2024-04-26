@@ -21,16 +21,18 @@ brier_scores = [
 fig, ax1 = plt.subplots(figsize=(15, 7.5))
 
 color = 'tab:blue'
-ax1.set_xlabel('Home Adjustment', fontsize=40) 
-ax1.set_ylabel('Accuracy', color=color, fontsize=40)
+ax1.set_xlabel('Home Adjustment', fontsize=50) 
+ax1.set_ylabel('Accuracy', color=color, fontsize=50)
 ax1.plot(labels, accuracies, color=color, marker='o', label='Accuracy', linewidth=5, markersize=10)
-ax1.tick_params(axis='y', labelcolor=color, labelsize=20)
+ax1.tick_params(axis='y', labelcolor=color, labelsize=30)
 
 ax2 = ax1.twinx()  
 color = 'tab:red'
-ax2.set_ylabel('Brier Score', color=color, fontsize=40)
+ax2.set_ylabel('Brier Score', color=color, fontsize=50)
 ax2.plot(labels, brier_scores, color=color, marker='s', label='Brier Score', linewidth=5, markersize=10)
-ax2.tick_params(axis='y', labelcolor=color, labelsize=20)
+ax2.tick_params(axis='y', labelcolor=color, labelsize=30)
+
+ax1.tick_params(axis='x', labelsize=30)
 
 fig.tight_layout()  
 
